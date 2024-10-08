@@ -1,0 +1,359 @@
+[
+  {
+    "lesson": "mina29",
+    "index": "1",
+    "hiragana": "あきます",
+    "kanji": "開きます",
+    "vietnamese": "mở (cửa)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "2",
+    "hiragana": "しまります",
+    "kanji": "閉まります",
+    "vietnamese": "đóng(cửa)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "3",
+    "hiragana": "つきます",
+    "kanji": "つきます",
+    "vietnamese": "bật,thắp sáng(đèn)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "4",
+    "hiragana": "きえます",
+    "kanji": "消えます",
+    "vietnamese": "tắt(đèn)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "5",
+    "hiragana": "こみます",
+    "kanji": "込みます",
+    "vietnamese": "đông(đường)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "6",
+    "hiragana": "すきます",
+    "kanji": "すきます",
+    "vietnamese": "vắng(đường)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "7",
+    "hiragana": "こわれます",
+    "kanji": "壊れます",
+    "vietnamese": "hỏng(ghế)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "8",
+    "hiragana": "われます",
+    "kanji": "割れます",
+    "vietnamese": "có thể nghe thấy"
+  },
+  {
+    "lesson": "mina29",
+    "index": "9",
+    "hiragana": "おれます",
+    "kanji": " 折れます",
+    "vietnamese": "gãy(cây)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "10",
+    "hiragana": "やぶれます",
+    "kanji": "開きます",
+    "vietnamese": "rách(giấy)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "11",
+    "hiragana": "よごれます",
+    "kanji": "汚れます",
+    "vietnamese": "dơ,bẩn(tay)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "12",
+    "hiragana": "つきます",
+    "kanji": "付きます",
+    "vietnamese": "dính, đính (có túi)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "13",
+    "hiragana": "はずれます",
+    "kanji": "外れます",
+    "vietnamese": "tuột,bung,rời ra(sút nút)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "14",
+    "hiragana": "とまります",
+    "kanji": "止まります",
+    "vietnamese": "dừng"
+  },
+  {
+    "lesson": "mina29",
+    "index": "15",
+    "hiragana": "まちがえます",
+    "kanji": "まちがえます",
+    "vietnamese": "nhầm lẫn,sai"
+  },
+  {
+    "lesson": "mina29",
+    "index": "16",
+    "hiragana": "おとします",
+    "kanji": "落とします",
+    "vietnamese": "làm rơi,rớt"
+  },
+  {
+    "lesson": "mina29",
+    "index": "17",
+    "hiragana": "かかります",
+    "kanji": "掛かります",
+    "vietnamese": "khóa"
+  },
+  {
+    "lesson": "mina29",
+    "index": "18",
+    "hiragana": "ふきます",
+    "kanji": "ふきます",
+    "vietnamese": "lau(cửa)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "19",
+    "hiragana": "とりかえます",
+    "kanji": "とりかえます",
+    "vietnamese": "thay(pin)"
+  },
+  {
+    "lesson": "mina29",
+    "index": "20",
+    "hiragana": "かたづけます",
+    "kanji": "片付けます",
+    "vietnamese": "dọn dẹp"
+  },
+  {
+    "lesson": "mina29",
+    "index": "21",
+    "hiragana": "さら　（おさら）",
+    "kanji": "皿",
+    "vietnamese": "đĩa"
+  },
+  {
+    "lesson": "mina29",
+    "index": "22",
+    "hiragana": "ちゃわん　（おちゃわん）",
+    "kanji": "茶碗",
+    "vietnamese": "bát,chén"
+  },
+  {
+    "lesson": "mina29",
+    "index": "23",
+    "hiragana": "コップ",
+    "kanji": "コップ",
+    "vietnamese": "cốc"
+  },
+  {
+    "lesson": "mina29",
+    "index": "24",
+    "hiragana": "ガラス",
+    "kanji": "ガラス",
+    "vietnamese": "ly"
+  },
+  {
+    "lesson": "mina29",
+    "index": "25",
+    "hiragana": "ふくろ",
+    "kanji": "袋",
+    "vietnamese": "túi"
+  },
+  {
+    "lesson": "mina29",
+    "index": "26",
+    "hiragana": "しょるい",
+    "kanji": "書類",
+    "vietnamese": "giấy tờ"
+  },
+  {
+    "lesson": "mina29",
+    "index": "27",
+    "hiragana": "えだ",
+    "kanji": "枝",
+    "vietnamese": "cành cây"
+  },
+  {
+    "lesson": "mina29",
+    "index": "28",
+    "hiragana": "えきいん",
+    "kanji": "駅員",
+    "vietnamese": "nhân viên nhà ga"
+  },
+  {
+    "lesson": "mina29",
+    "index": "29",
+    "hiragana": "こうばん",
+    "kanji": "交番",
+    "vietnamese": "đồn cảnh sát,bốt cảnh sát"
+  },
+  {
+    "lesson": "mina29",
+    "index": "30",
+    "hiragana": "スピーチ",
+    "kanji": "スピーチ",
+    "vietnamese": "diễn văn"
+  },
+  {
+    "lesson": "mina29",
+    "index": "31",
+    "hiragana": "へんじ",
+    "kanji": "返事",
+    "vietnamese": "trả lời"
+  },
+  {
+    "lesson": "mina29",
+    "index": "32",
+    "hiragana": "おさきにどうぞ",
+    "kanji": "お先にどうぞ",
+    "vietnamese": "mời anh/chị cứ về trước"
+  },
+  {
+    "lesson": "mina29",
+    "index": "33",
+    "hiragana": "げんじものがたり",
+    "kanji": "源氏物語",
+    "vietnamese": "tiểu thuyết được viết thời heian"
+  },
+  {
+    "lesson": "mina29",
+    "index": "34",
+    "hiragana": "いまのでんしゃ",
+    "kanji": "今の電車",
+    "vietnamese": "tàu điện vừa chạy"
+  },
+  {
+    "lesson": "mina29",
+    "index": "35",
+    "hiragana": "わすれもの",
+    "kanji": "忘れ物",
+    "vietnamese": "đồ bỏ quên"
+  },
+  {
+    "lesson": "mina29",
+    "index": "36",
+    "hiragana": "このくらい",
+    "kanji": "このくらい",
+    "vietnamese": "cỡ tầm này,cỡ chừng này"
+  },
+  {
+    "lesson": "mina29",
+    "index": "37",
+    "hiragana": "がわ",
+    "kanji": "側",
+    "vietnamese": "phía…"
+  },
+  {
+    "lesson": "mina29",
+    "index": "38",
+    "hiragana": "ポケット",
+    "kanji": "ポケット",
+    "vietnamese": "túi"
+  },
+  {
+    "lesson": "mina29",
+    "index": "39",
+    "hiragana": "へん",
+    "kanji": "辺",
+    "vietnamese": "chỗ,vùng…"
+  },
+  {
+    "lesson": "mina29",
+    "index": "40",
+    "hiragana": "おぼえていません",
+    "kanji": "覚えていません",
+    "vietnamese": "tôi không nhớ"
+  },
+  {
+    "lesson": "mina29",
+    "index": "41",
+    "hiragana": "あみだな",
+    "kanji": "網棚",
+    "vietnamese": "giá để hành lý"
+  },
+  {
+    "lesson": "mina29",
+    "index": "42",
+    "hiragana": "たしか",
+    "kanji": "確か",
+    "vietnamese": "chắc là"
+  },
+  {
+    "lesson": "mina29",
+    "index": "43",
+    "hiragana": "ああ、よかった",
+    "kanji": "ああ、よかった",
+    "vietnamese": "ôi, may quá"
+  },
+  {
+    "lesson": "mina29",
+    "index": "44",
+    "hiragana": "じしん",
+    "kanji": "地震",
+    "vietnamese": "động đất"
+  },
+  {
+    "lesson": "mina29",
+    "index": "45",
+    "hiragana": "かべ",
+    "kanji": "壁",
+    "vietnamese": "bức tường"
+  },
+  {
+    "lesson": "mina29",
+    "index": "46",
+    "hiragana": "はり",
+    "kanji": "針",
+    "vietnamese": "kim đồng hồ"
+  },
+  {
+    "lesson": "mina29",
+    "index": "47",
+    "hiragana": "さします",
+    "kanji": "付けます",
+    "vietnamese": "chỉ"
+  },
+  {
+    "lesson": "mina29",
+    "index": "48",
+    "hiragana": "えきまえ",
+    "kanji": "駅前",
+    "vietnamese": "trước ga"
+  },
+  {
+    "lesson": "mina29",
+    "index": "49",
+    "hiragana": "たおれます",
+    "kanji": "倒れます",
+    "vietnamese": "đổ"
+  },
+  {
+    "lesson": "mina29",
+    "index": "50",
+    "hiragana": "にしのほう",
+    "kanji": "西の方",
+    "vietnamese": "phía tây"
+  },
+  {
+    "lesson": "mina29",
+    "index": "51",
+    "hiragana": "もえます",
+    "kanji": "燃えます",
+    "vietnamese": "cháy"
+  }
+]

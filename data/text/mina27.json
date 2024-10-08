@@ -1,0 +1,359 @@
+[
+  {
+    "lesson": "mina27",
+    "index": "1",
+    "hiragana": "かいます",
+    "kanji": "飼います",
+    "vietnamese": "nuôi,chăn nuôi"
+  },
+  {
+    "lesson": "mina27",
+    "index": "2",
+    "hiragana": "たてます",
+    "kanji": "建てます",
+    "vietnamese": "xây dựng"
+  },
+  {
+    "lesson": "mina27",
+    "index": "3",
+    "hiragana": "はしります",
+    "kanji": "走ります",
+    "vietnamese": "chạy"
+  },
+  {
+    "lesson": "mina27",
+    "index": "4",
+    "hiragana": "とります",
+    "kanji": "取ります",
+    "vietnamese": "xin(nghỉ)"
+  },
+  {
+    "lesson": "mina27",
+    "index": "5",
+    "hiragana": "みえます",
+    "kanji": "見えます",
+    "vietnamese": "có thể nhìn thấy"
+  },
+  {
+    "lesson": "mina27",
+    "index": "6",
+    "hiragana": "きこえます",
+    "kanji": "聞こえます",
+    "vietnamese": "có thể nghe thấy"
+  },
+  {
+    "lesson": "mina27",
+    "index": "7",
+    "hiragana": "できます",
+    "kanji": "できます",
+    "vietnamese": "được hoàn thành,được làm"
+  },
+  {
+    "lesson": "mina27",
+    "index": "8",
+    "hiragana": "ひらきます",
+    "kanji": "開きます",
+    "vietnamese": "mở,tổ chức (lớp)"
+  },
+  {
+    "lesson": "mina27",
+    "index": "9",
+    "hiragana": "ペット",
+    "kanji": "ペット",
+    "vietnamese": "thú cưng,động vật nuôi"
+  },
+  {
+    "lesson": "mina27",
+    "index": "10",
+    "hiragana": "とり",
+    "kanji": "鳥",
+    "vietnamese": "chim"
+  },
+  {
+    "lesson": "mina27",
+    "index": "11",
+    "hiragana": "こえ",
+    "kanji": "こえ",
+    "vietnamese": "tiếng,giọng nói"
+  },
+  {
+    "lesson": "mina27",
+    "index": "12",
+    "hiragana": "なみ",
+    "kanji": "波",
+    "vietnamese": "sóng"
+  },
+  {
+    "lesson": "mina27",
+    "index": "13",
+    "hiragana": "はなび",
+    "kanji": "花火",
+    "vietnamese": "pháo hoa"
+  },
+  {
+    "lesson": "mina27",
+    "index": "14",
+    "hiragana": "けしき",
+    "kanji": "景色",
+    "vietnamese": "phong cảnh"
+  },
+  {
+    "lesson": "mina27",
+    "index": "15",
+    "hiragana": "ひるま",
+    "kanji": "昼間",
+    "vietnamese": "ban ngày"
+  },
+  {
+    "lesson": "mina27",
+    "index": "16",
+    "hiragana": "むかし",
+    "kanji": "昔",
+    "vietnamese": "ngày xưa"
+  },
+  {
+    "lesson": "mina27",
+    "index": "17",
+    "hiragana": "どうぐ",
+    "kanji": "道具",
+    "vietnamese": "dụng cụ"
+  },
+  {
+    "lesson": "mina27",
+    "index": "18",
+    "hiragana": "じどうはんばいき",
+    "kanji": "自動販売機",
+    "vietnamese": "máy bán hàng tự động"
+  },
+  {
+    "lesson": "mina27",
+    "index": "19",
+    "hiragana": "つうしんはんばい",
+    "kanji": "通信販売",
+    "vietnamese": "thương mại viễn thông"
+  },
+  {
+    "lesson": "mina27",
+    "index": "20",
+    "hiragana": "クリーニング",
+    "kanji": "クリーニング",
+    "vietnamese": "giặt ủi"
+  },
+  {
+    "lesson": "mina27",
+    "index": "21",
+    "hiragana": "マンション",
+    "kanji": "マンション",
+    "vietnamese": "chung cư"
+  },
+  {
+    "lesson": "mina27",
+    "index": "22",
+    "hiragana": "だいどころ",
+    "kanji": "台所",
+    "vietnamese": "nhà bếp"
+  },
+  {
+    "lesson": "mina27",
+    "index": "23",
+    "hiragana": "～後",
+    "kanji": "～ご",
+    "vietnamese": "sau…"
+  },
+  {
+    "lesson": "mina27",
+    "index": "24",
+    "hiragana": "～しか",
+    "kanji": "～しか",
+    "vietnamese": "chỉ"
+  },
+  {
+    "lesson": "mina27",
+    "index": "25",
+    "hiragana": "～きょうしつ",
+    "kanji": "～教室",
+    "vietnamese": "lớp học"
+  },
+  {
+    "lesson": "mina27",
+    "index": "26",
+    "hiragana": "パーティールーム",
+    "kanji": "パーティールーム",
+    "vietnamese": "phòng tiệc"
+  },
+  {
+    "lesson": "mina27",
+    "index": "27",
+    "hiragana": "かんさいくうこう",
+    "kanji": "関西空港",
+    "vietnamese": "sân bay Kansai"
+  },
+  {
+    "lesson": "mina27",
+    "index": "28",
+    "hiragana": "あきはばら",
+    "kanji": "秋葉原",
+    "vietnamese": "khu bán đồ điện tử nổi tiếng ở Tokyo"
+  },
+  {
+    "lesson": "mina27",
+    "index": "29",
+    "hiragana": "いず",
+    "kanji": "伊豆",
+    "vietnamese": "một đảo thuộc tỉnh Shizuoka"
+  },
+  {
+    "lesson": "mina27",
+    "index": "30",
+    "hiragana": "にちようびだいく",
+    "kanji": "日曜日大工",
+    "vietnamese": "thợ mộc chủ nhật"
+  },
+  {
+    "lesson": "mina27",
+    "index": "31",
+    "hiragana": "ほんだな",
+    "kanji": "本棚",
+    "vietnamese": "kệ sách,giá sách"
+  },
+  {
+    "lesson": "mina27",
+    "index": "32",
+    "hiragana": "いつか",
+    "kanji": "いつか",
+    "vietnamese": "một ngày nào đó"
+  },
+  {
+    "lesson": "mina27",
+    "index": "33",
+    "hiragana": "ゆめ",
+    "kanji": "夢",
+    "vietnamese": "mơ"
+  },
+  {
+    "lesson": "mina27",
+    "index": "34",
+    "hiragana": "いえ",
+    "kanji": "家",
+    "vietnamese": "nhà"
+  },
+  {
+    "lesson": "mina27",
+    "index": "35",
+    "hiragana": "すばらしい",
+    "kanji": "開きます素晴らしい",
+    "vietnamese": "tuyệt vời"
+  },
+  {
+    "lesson": "mina27",
+    "index": "36",
+    "hiragana": "こどもたち",
+    "kanji": "子どもたち",
+    "vietnamese": "bọn trẻ"
+  },
+  {
+    "lesson": "mina27",
+    "index": "37",
+    "hiragana": "だいすき",
+    "kanji": "大好き",
+    "vietnamese": "rất thích"
+  },
+  {
+    "lesson": "mina27",
+    "index": "38",
+    "hiragana": "まんが",
+    "kanji": "漫画",
+    "vietnamese": "truyện tranh"
+  },
+  {
+    "lesson": "mina27",
+    "index": "39",
+    "hiragana": "しゅじんこう",
+    "kanji": "主人公",
+    "vietnamese": "nhân vật chính"
+  },
+  {
+    "lesson": "mina27",
+    "index": "40",
+    "hiragana": "かたち",
+    "kanji": "形",
+    "vietnamese": "hình dạng"
+  },
+  {
+    "lesson": "mina27",
+    "index": "41",
+    "hiragana": "ロボット",
+    "kanji": "景色",
+    "vietnamese": "người máy"
+  },
+  {
+    "lesson": "mina27",
+    "index": "42",
+    "hiragana": "ふしぎな",
+    "kanji": "不思議な",
+    "vietnamese": "kì lạ, thần bí"
+  },
+  {
+    "lesson": "mina27",
+    "index": "43",
+    "hiragana": "ポケット",
+    "kanji": "ポケット",
+    "vietnamese": "túi"
+  },
+  {
+    "lesson": "mina27",
+    "index": "44",
+    "hiragana": "たとえば",
+    "kanji": "例えば",
+    "vietnamese": "ví dụ"
+  },
+  {
+    "lesson": "mina27",
+    "index": "45",
+    "hiragana": "つけます",
+    "kanji": "付けます",
+    "vietnamese": "lắp ghép"
+  },
+  {
+    "lesson": "mina27",
+    "index": "46",
+    "hiragana": "じゆうに",
+    "kanji": "自由に",
+    "vietnamese": "tự do"
+  },
+  {
+    "lesson": "mina27",
+    "index": "47",
+    "hiragana": "そら",
+    "kanji": "空",
+    "vietnamese": "bầu trời"
+  },
+  {
+    "lesson": "mina27",
+    "index": "48",
+    "hiragana": "とびます",
+    "kanji": "飛びます",
+    "vietnamese": "bay"
+  },
+  {
+    "lesson": "mina27",
+    "index": "49",
+    "hiragana": "じぶん",
+    "kanji": "自分",
+    "vietnamese": "tự mình"
+  },
+  {
+    "lesson": "mina27",
+    "index": "50",
+    "hiragana": "しょうらい",
+    "kanji": "将来",
+    "vietnamese": "tương lai"
+  },
+  {
+    "lesson": "mina27",
+    "index": "51",
+    "hiragana": "ドラえもん",
+    "kanji": "ドラえもん",
+    "vietnamese": "đô-rê-mon"
+  }
+]

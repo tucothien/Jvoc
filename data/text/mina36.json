@@ -1,0 +1,324 @@
+[
+  {
+    "lesson": "mina36",
+    "index": "1",
+    "hiragana": "とどきます",
+    "kanji": "届きます",
+    "vietnamese": "được gửi đến, được chuyển đến"
+  },
+  {
+    "lesson": "mina36",
+    "index": "2",
+    "hiragana": "でます",
+    "kanji": "出ます",
+    "vietnamese": "tham gia, tham dự"
+  },
+  {
+    "lesson": "mina36",
+    "index": "3",
+    "hiragana": "うちます",
+    "kanji": "打ちます",
+    "vietnamese": "đánh"
+  },
+  {
+    "lesson": "mina36",
+    "index": "4",
+    "hiragana": "ちょきんします",
+    "kanji": "彫金ます",
+    "vietnamese": "tiết kiệm tiền, để dành tiền"
+  },
+  {
+    "lesson": "mina36",
+    "index": "5",
+    "hiragana": "ふとります",
+    "kanji": "太ります",
+    "vietnamese": "béo lên, tăng cân"
+  },
+  {
+    "lesson": "mina36",
+    "index": "6",
+    "hiragana": "やせます",
+    "kanji": "やせます",
+    "vietnamese": "gầy đi, giảm cân"
+  },
+  {
+    "lesson": "mina36",
+    "index": "7",
+    "hiragana": "すぎます",
+    "kanji": "過ぎます",
+    "vietnamese": "quá"
+  },
+  {
+    "lesson": "mina36",
+    "index": "8",
+    "hiragana": "なれます",
+    "kanji": "なれます",
+    "vietnamese": "làm quen, quen"
+  },
+  {
+    "lesson": "mina36",
+    "index": "9",
+    "hiragana": "かたい",
+    "kanji": "固い",
+    "vietnamese": "cứng"
+  },
+  {
+    "lesson": "mina36",
+    "index": "10",
+    "hiragana": "やわらかい",
+    "kanji": "軟らかい",
+    "vietnamese": "mềm"
+  },
+  {
+    "lesson": "mina36",
+    "index": "11",
+    "hiragana": "でんしー",
+    "kanji": "電子ー",
+    "vietnamese": "– điện tử"
+  },
+  {
+    "lesson": "mina36",
+    "index": "12",
+    "hiragana": "けいたいー",
+    "kanji": "携帯ー",
+    "vietnamese": "– cầm tay"
+  },
+  {
+    "lesson": "mina36",
+    "index": "13",
+    "hiragana": "こうじょう",
+    "kanji": "工場",
+    "vietnamese": "nhà máy, phân xưởng"
+  },
+  {
+    "lesson": "mina36",
+    "index": "14",
+    "hiragana": "けんこう",
+    "kanji": "健康",
+    "vietnamese": "sức khỏe"
+  },
+  {
+    "lesson": "mina36",
+    "index": "15",
+    "hiragana": "けんどう",
+    "kanji": "剣道",
+    "vietnamese": "kiếm đạo"
+  },
+  {
+    "lesson": "mina36",
+    "index": "16",
+    "hiragana": "まいしゅう",
+    "kanji": "毎週",
+    "vietnamese": "hàng tuần"
+  },
+  {
+    "lesson": "mina36",
+    "index": "17",
+    "hiragana": "まいつき",
+    "kanji": "毎月",
+    "vietnamese": "hàng tháng"
+  },
+  {
+    "lesson": "mina36",
+    "index": "18",
+    "hiragana": "まいとし",
+    "kanji": "毎年",
+    "vietnamese": "hàng năm"
+  },
+  {
+    "lesson": "mina36",
+    "index": "19",
+    "hiragana": "やっと",
+    "kanji": "やっと",
+    "vietnamese": "cuối cùng thì"
+  },
+  {
+    "lesson": "mina36",
+    "index": "20",
+    "hiragana": "かなり",
+    "kanji": "かなり",
+    "vietnamese": "khá, tương đối"
+  },
+  {
+    "lesson": "mina36",
+    "index": "21",
+    "hiragana": "かならず",
+    "kanji": "必ず",
+    "vietnamese": "nhất định"
+  },
+  {
+    "lesson": "mina36",
+    "index": "22",
+    "hiragana": "ぜったいに",
+    "kanji": "絶対に",
+    "vietnamese": "tuyệt đối"
+  },
+  {
+    "lesson": "mina36",
+    "index": "23",
+    "hiragana": "じょうずに",
+    "kanji": "星上手に",
+    "vietnamese": "giỏi, khéo"
+  },
+  {
+    "lesson": "mina36",
+    "index": "24",
+    "hiragana": "できるだけ",
+    "kanji": "できるだけ",
+    "vietnamese": "cố gắng"
+  },
+  {
+    "lesson": "mina36",
+    "index": "25",
+    "hiragana": "このごろ",
+    "kanji": "このごろ",
+    "vietnamese": "gần đây, dạo này"
+  },
+  {
+    "lesson": "mina36",
+    "index": "26",
+    "hiragana": "そのほうがー",
+    "kanji": "そのほうがー",
+    "vietnamese": "cái đó–hơn"
+  },
+  {
+    "lesson": "mina36",
+    "index": "27",
+    "hiragana": "おきゃくさま",
+    "kanji": "お客様",
+    "vietnamese": "khách hàng"
+  },
+  {
+    "lesson": "mina36",
+    "index": "28",
+    "hiragana": "とくべつ（な）",
+    "kanji": "特別（な）",
+    "vietnamese": "đặc biệt"
+  },
+  {
+    "lesson": "mina36",
+    "index": "29",
+    "hiragana": "していらっしゃいます",
+    "kanji": "東",
+    "vietnamese": "đang làm (tôn kính ngữ của しています）"
+  },
+  {
+    "lesson": "mina36",
+    "index": "30",
+    "hiragana": "すいえい",
+    "kanji": "水泳",
+    "vietnamese": "môn bơi lội"
+  },
+  {
+    "lesson": "mina36",
+    "index": "31",
+    "hiragana": "～とか、～とか",
+    "kanji": "～とか、～とか",
+    "vietnamese": "vâng vâng"
+  },
+  {
+    "lesson": "mina36",
+    "index": "32",
+    "hiragana": "タンゴ",
+    "kanji": "タンゴ",
+    "vietnamese": "tango"
+  },
+  {
+    "lesson": "mina36",
+    "index": "33",
+    "hiragana": "チャレンジします",
+    "kanji": "今夜",
+    "vietnamese": "thách thức, thử thách"
+  },
+  {
+    "lesson": "mina36",
+    "index": "34",
+    "hiragana": "きもち",
+    "kanji": "気持ち",
+    "vietnamese": "cảm giác, tâm trạng, tinh thần"
+  },
+  {
+    "lesson": "mina36",
+    "index": "35",
+    "hiragana": "のりもの",
+    "kanji": "乗り物",
+    "vietnamese": "phương tiện đi lại"
+  },
+  {
+    "lesson": "mina36",
+    "index": "36",
+    "hiragana": "れきし",
+    "kanji": "歴史く",
+    "vietnamese": "lịch sử"
+  },
+  {
+    "lesson": "mina36",
+    "index": "37",
+    "hiragana": "ーせいき",
+    "kanji": "ー世紀",
+    "vietnamese": "thế kỉ-"
+  },
+  {
+    "lesson": "mina36",
+    "index": "38",
+    "hiragana": "とおく",
+    "kanji": "とおく",
+    "vietnamese": "xa, ở xa"
+  },
+  {
+    "lesson": "mina36",
+    "index": "39",
+    "hiragana": "きしゃ",
+    "kanji": "汽車",
+    "vietnamese": "tàu hỏa chạy bằng hơi nước"
+  },
+  {
+    "lesson": "mina36",
+    "index": "40",
+    "hiragana": "きせん",
+    "kanji": "汽船",
+    "vietnamese": "thuyền chạy bằng hơi nước"
+  },
+  {
+    "lesson": "mina36",
+    "index": "41",
+    "hiragana": "おおぜいの（ひと）",
+    "kanji": "大勢の（人）",
+    "vietnamese": "nhiều(người)"
+  },
+  {
+    "lesson": "mina36",
+    "index": "42",
+    "hiragana": "はこびます",
+    "kanji": "運びます",
+    "vietnamese": "vận chuyển"
+  },
+  {
+    "lesson": "mina36",
+    "index": "43",
+    "hiragana": "あんぜん（な）",
+    "kanji": "あんぜん（な）",
+    "vietnamese": "an toàn"
+  },
+  {
+    "lesson": "mina36",
+    "index": "44",
+    "hiragana": "とびます",
+    "kanji": "飛びます",
+    "vietnamese": "bay"
+  },
+  {
+    "lesson": "mina36",
+    "index": "45",
+    "hiragana": "うちゅう",
+    "kanji": "宇宙",
+    "vietnamese": "vũ trụ"
+  },
+  {
+    "lesson": "mina36",
+    "index": "46",
+    "hiragana": "ちきゅう",
+    "kanji": "地球",
+    "vietnamese": "trái đất"
+  }
+]

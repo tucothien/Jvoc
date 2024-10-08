@@ -1,0 +1,352 @@
+[
+  {
+    "lesson": "mina9",
+    "index": "1",
+    "hiragana": "わかります",
+    "kanji": "分かります",
+    "vietnamese": "hiểu, nắm được"
+  },
+  {
+    "lesson": "mina9",
+    "index": "2",
+    "hiragana": "あります",
+    "kanji": "あります",
+    "vietnamese": "có (sở hữu)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "3",
+    "hiragana": "すき[な]",
+    "kanji": "好き[な]",
+    "vietnamese": "thích"
+  },
+  {
+    "lesson": "mina9",
+    "index": "4",
+    "hiragana": "きらい[な]",
+    "kanji": "嫌い[な] )",
+    "vietnamese": "ghét, không thích"
+  },
+  {
+    "lesson": "mina9",
+    "index": "5",
+    "hiragana": "じょうず[な]",
+    "kanji": "上手[な]",
+    "vietnamese": "giỏi, khéo"
+  },
+  {
+    "lesson": "mina9",
+    "index": "6",
+    "hiragana": "へた[な]",
+    "kanji": "下手[な]",
+    "vietnamese": "kém"
+  },
+  {
+    "lesson": "mina9",
+    "index": "7",
+    "hiragana": "りょうり",
+    "kanji": "料理",
+    "vietnamese": "món ăn, việc nấu ăn"
+  },
+  {
+    "lesson": "mina9",
+    "index": "8",
+    "hiragana": "のみもの",
+    "kanji": "飲み物",
+    "vietnamese": "đồ uống"
+  },
+  {
+    "lesson": "mina9",
+    "index": "9",
+    "hiragana": "スポーツ",
+    "kanji": "スポーツ",
+    "vietnamese": "thể thao (～をします：chơi thể thao)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "10",
+    "hiragana": "やきゅう",
+    "kanji": "野球",
+    "vietnamese": "bóng chày (～をします：chơi bóng chày)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "11",
+    "hiragana": "ダンス",
+    "kanji": "ダンス",
+    "vietnamese": "nhảy, khiêu vũ (～をします：nhảy, khiêu vũ)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "12",
+    "hiragana": "おんがく",
+    "kanji": "音楽",
+    "vietnamese": "âm nhạc"
+  },
+  {
+    "lesson": "mina9",
+    "index": "13",
+    "hiragana": "うた",
+    "kanji": "歌",
+    "vietnamese": "bài hát"
+  },
+  {
+    "lesson": "mina9",
+    "index": "14",
+    "hiragana": "クラシック",
+    "kanji": "クラシック",
+    "vietnamese": "nhạc cổ điển"
+  },
+  {
+    "lesson": "mina9",
+    "index": "15",
+    "hiragana": "ジャズ",
+    "kanji": "ジャズ",
+    "vietnamese": "nhạc jazz"
+  },
+  {
+    "lesson": "mina9",
+    "index": "16",
+    "hiragana": "コンサート",
+    "kanji": "コンサート",
+    "vietnamese": "buổi hòa nhạc"
+  },
+  {
+    "lesson": "mina9",
+    "index": "17",
+    "hiragana": "カラオケ",
+    "kanji": "カラオケ",
+    "vietnamese": "karaoke"
+  },
+  {
+    "lesson": "mina9",
+    "index": "18",
+    "hiragana": "かぶき",
+    "kanji": "歌舞伎",
+    "vietnamese": "Kabuki (một loại ca kịch truyền thống của Nhật)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "19",
+    "hiragana": "え",
+    "kanji": "絵",
+    "vietnamese": "Tranh, hội họa"
+  },
+  {
+    "lesson": "mina9",
+    "index": "20",
+    "hiragana": "じ",
+    "kanji": "字",
+    "vietnamese": "chữ"
+  },
+  {
+    "lesson": "mina9",
+    "index": "21",
+    "hiragana": "かんじ",
+    "kanji": "漢字",
+    "vietnamese": "chữ hán"
+  },
+  {
+    "lesson": "mina9",
+    "index": "22",
+    "hiragana": "ひらがな",
+    "kanji": "ひらがな",
+    "vietnamese": "chữ Hiragana"
+  },
+  {
+    "lesson": "mina9",
+    "index": "23",
+    "hiragana": "かたかな",
+    "kanji": "かたかな",
+    "vietnamese": "Chữ Katakana"
+  },
+  {
+    "lesson": "mina9",
+    "index": "24",
+    "hiragana": "ローマじ",
+    "kanji": "ローマ字",
+    "vietnamese": "chữ La Mã"
+  },
+  {
+    "lesson": "mina9",
+    "index": "25",
+    "hiragana": "こまかいおかね",
+    "kanji": "細かいお金",
+    "vietnamese": "tiền lẻ"
+  },
+  {
+    "lesson": "mina9",
+    "index": "26",
+    "hiragana": "チケット",
+    "kanji": "チケット",
+    "vietnamese": "vé (xem hòa nhạc, xem phim)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "27",
+    "hiragana": "じかん",
+    "kanji": "時間",
+    "vietnamese": "thời gian"
+  },
+  {
+    "lesson": "mina9",
+    "index": "28",
+    "hiragana": "ようじ",
+    "kanji": "用事",
+    "vietnamese": "việc bận, công chuyện"
+  },
+  {
+    "lesson": "mina9",
+    "index": "29",
+    "hiragana": "やくそく",
+    "kanji": "約束",
+    "vietnamese": "cuộc hẹn, lời hứa"
+  },
+  {
+    "lesson": "mina9",
+    "index": "30",
+    "hiragana": "ごしゅじん",
+    "kanji": "ご囚人",
+    "vietnamese": "chồng (dùng khi nói về chồng người khác)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "31",
+    "hiragana": "おっと/しゅじん",
+    "kanji": "夫/主人",
+    "vietnamese": "chồng (dùng khi nói về chồng mình)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "32",
+    "hiragana": "おくさん",
+    "kanji": "奥さん",
+    "vietnamese": "vợ (dùng khi nói về vợ người khác)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "33",
+    "hiragana": "つま/かない",
+    "kanji": "妻/家内",
+    "vietnamese": "vợ (dùng khi nói về vợ mình)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "34",
+    "hiragana": "こども",
+    "kanji": "子ども",
+    "vietnamese": "con cái"
+  },
+  {
+    "lesson": "mina9",
+    "index": "35",
+    "hiragana": "よく",
+    "kanji": "よく",
+    "vietnamese": "tốt, rõ (chỉ mức độ)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "36",
+    "hiragana": "だいたい",
+    "kanji": "だいたい",
+    "vietnamese": "đại khái, đại thể"
+  },
+  {
+    "lesson": "mina9",
+    "index": "37",
+    "hiragana": "たくさん",
+    "kanji": "たくさん",
+    "vietnamese": "nhiều"
+  },
+  {
+    "lesson": "mina9",
+    "index": "38",
+    "hiragana": "すこし",
+    "kanji": "少し",
+    "vietnamese": "ít, một ít"
+  },
+  {
+    "lesson": "mina9",
+    "index": "39",
+    "hiragana": "ぜんぜん",
+    "kanji": "全然",
+    "vietnamese": "hoàn toàn ~ không"
+  },
+  {
+    "lesson": "mina9",
+    "index": "40",
+    "hiragana": "はやく",
+    "kanji": "早く、速く",
+    "vietnamese": "sớm, nhanh"
+  },
+  {
+    "lesson": "mina9",
+    "index": "41",
+    "hiragana": "～から",
+    "kanji": "～から",
+    "vietnamese": "vì ~"
+  },
+  {
+    "lesson": "mina9",
+    "index": "42",
+    "hiragana": "どうして",
+    "kanji": "どうして",
+    "vietnamese": "tại sao"
+  },
+  {
+    "lesson": "mina9",
+    "index": "43",
+    "hiragana": "ざんねんです[ね]",
+    "kanji": "残念です[ね]",
+    "vietnamese": "Thật đáng tiếc nhỉ/ buồn nhỉ"
+  },
+  {
+    "lesson": "mina9",
+    "index": "44",
+    "hiragana": "すみません",
+    "kanji": "すみません",
+    "vietnamese": "Xin lỗi"
+  },
+  {
+    "lesson": "mina9",
+    "index": "45",
+    "hiragana": "もしもし",
+    "kanji": "もしもし",
+    "vietnamese": "a-lô"
+  },
+  {
+    "lesson": "mina9",
+    "index": "46",
+    "hiragana": "ああ",
+    "kanji": "ああ",
+    "vietnamese": "a (cách nói khi đã gặp được đúng người trên điện thoại)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "47",
+    "hiragana": "いっしょにいかがですか",
+    "kanji": "いっしょにいかがですか",
+    "vietnamese": "Anh/chị cùng ~ (làm cái gì đó) với chúng tôi được không?"
+  },
+  {
+    "lesson": "mina9",
+    "index": "48",
+    "hiragana": "[～は]ちょっと….",
+    "kanji": "[～は]ちょっと….",
+    "vietnamese": "[~ thì] có lẽ không được rồi. (cách từ chối khéo khi nhận được một lời mời nào đó)"
+  },
+  {
+    "lesson": "mina9",
+    "index": "49",
+    "hiragana": "だめですか。",
+    "kanji": "だめですか。",
+    "vietnamese": "Không được à?"
+  },
+  {
+    "lesson": "mina9",
+    "index": "50",
+    "hiragana": "またこんどおねがいします",
+    "kanji": "またこんどおねがいします",
+    "vietnamese": "hẹn lần sau"
+  }
+]

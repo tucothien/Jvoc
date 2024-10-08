@@ -1,0 +1,310 @@
+[
+  {
+    "lesson": "mina39",
+    "index": "1",
+    "hiragana": "こたえます",
+    "kanji": "答えます",
+    "vietnamese": "trả lời"
+  },
+  {
+    "lesson": "mina39",
+    "index": "2",
+    "hiragana": "たおれます",
+    "kanji": "倒れます",
+    "vietnamese": "đổ"
+  },
+  {
+    "lesson": "mina39",
+    "index": "3",
+    "hiragana": "やけます",
+    "kanji": "焼け舞う",
+    "vietnamese": "cháy"
+  },
+  {
+    "lesson": "mina39",
+    "index": "4",
+    "hiragana": "やけます（パン/にくが～）",
+    "kanji": "入院します（パン/肉が～）",
+    "vietnamese": "nướng"
+  },
+  {
+    "lesson": "mina39",
+    "index": "5",
+    "hiragana": "とおります",
+    "kanji": "通ります",
+    "vietnamese": "đi qua"
+  },
+  {
+    "lesson": "mina39",
+    "index": "6",
+    "hiragana": "しにます",
+    "kanji": "死にます",
+    "vietnamese": "chết"
+  },
+  {
+    "lesson": "mina39",
+    "index": "7",
+    "hiragana": "びっくりします",
+    "kanji": "びっくりします",
+    "vietnamese": "ngạc nhiên, giật mình"
+  },
+  {
+    "lesson": "mina39",
+    "index": "8",
+    "hiragana": "がっかりします",
+    "kanji": "がっかりします",
+    "vietnamese": "thất vọng"
+  },
+  {
+    "lesson": "mina39",
+    "index": "9",
+    "hiragana": "あんしんします",
+    "kanji": "安心します",
+    "vietnamese": "yên tâm"
+  },
+  {
+    "lesson": "mina39",
+    "index": "10",
+    "hiragana": "ちこくします",
+    "kanji": "遅刻します",
+    "vietnamese": "đến chậm , đến muộn"
+  },
+  {
+    "lesson": "mina39",
+    "index": "11",
+    "hiragana": "そうたいします",
+    "kanji": "早退します",
+    "vietnamese": "về sớm, ra sớm"
+  },
+  {
+    "lesson": "mina39",
+    "index": "12",
+    "hiragana": "けんかします",
+    "kanji": "けんかします",
+    "vietnamese": "cãi nhau"
+  },
+  {
+    "lesson": "mina39",
+    "index": "13",
+    "hiragana": "りこんします",
+    "kanji": "離婚します",
+    "vietnamese": "ly dị, ly hôn"
+  },
+  {
+    "lesson": "mina39",
+    "index": "14",
+    "hiragana": "ふくざつ（な）",
+    "kanji": "複雑（な）",
+    "vietnamese": "phức tạp"
+  },
+  {
+    "lesson": "mina39",
+    "index": "15",
+    "hiragana": "じゃま（な）",
+    "kanji": "邪魔（な）",
+    "vietnamese": "cản trở, chiếm diện tích"
+  },
+  {
+    "lesson": "mina39",
+    "index": "16",
+    "hiragana": "きたない",
+    "kanji": "汚い",
+    "vietnamese": "bẩn"
+  },
+  {
+    "lesson": "mina39",
+    "index": "17",
+    "hiragana": "うれしい",
+    "kanji": "うれしい",
+    "vietnamese": "vui mừng"
+  },
+  {
+    "lesson": "mina39",
+    "index": "18",
+    "hiragana": "かなしい",
+    "kanji": "悲しい",
+    "vietnamese": "buồn, đau thương"
+  },
+  {
+    "lesson": "mina39",
+    "index": "19",
+    "hiragana": "はずかしい",
+    "kanji": "恥ずかしい",
+    "vietnamese": "xấu hổ, thẹn, hổ thẹn"
+  },
+  {
+    "lesson": "mina39",
+    "index": "20",
+    "hiragana": "じしん",
+    "kanji": "地震",
+    "vietnamese": "động đất"
+  },
+  {
+    "lesson": "mina39",
+    "index": "21",
+    "hiragana": "たいふう",
+    "kanji": "台風",
+    "vietnamese": "bão"
+  },
+  {
+    "lesson": "mina39",
+    "index": "22",
+    "hiragana": "かじ",
+    "kanji": "火事",
+    "vietnamese": "hỏa hoạn"
+  },
+  {
+    "lesson": "mina39",
+    "index": "23",
+    "hiragana": "じこ",
+    "kanji": "事故",
+    "vietnamese": "tai nạn, sự cố"
+  },
+  {
+    "lesson": "mina39",
+    "index": "24",
+    "hiragana": "みあい",
+    "kanji": "見合い",
+    "vietnamese": "nam nữ làm quen qua giới thiệu, làm mối"
+  },
+  {
+    "lesson": "mina39",
+    "index": "25",
+    "hiragana": "でんわだい",
+    "kanji": "電話代",
+    "vietnamese": "tiền điện thoại, phí điện thoại"
+  },
+  {
+    "lesson": "mina39",
+    "index": "26",
+    "hiragana": "ーだい",
+    "kanji": "ー代",
+    "vietnamese": "Nghiêm chỉnh, hẳn hoi, đứng đắn"
+  },
+  {
+    "lesson": "mina39",
+    "index": "27",
+    "hiragana": "フロント",
+    "kanji": "フロント",
+    "vietnamese": "bộ phận tiếp tân"
+  },
+  {
+    "lesson": "mina39",
+    "index": "28",
+    "hiragana": "―ごうしつ",
+    "kanji": "ー号室",
+    "vietnamese": "phòng số–"
+  },
+  {
+    "lesson": "mina39",
+    "index": "28",
+    "hiragana": "あせ",
+    "kanji": "汗",
+    "vietnamese": "mồ hôi"
+  },
+  {
+    "lesson": "mina39",
+    "index": "30",
+    "hiragana": "タオル",
+    "kanji": "タオル",
+    "vietnamese": "khăn lau, khăn tắm"
+  },
+  {
+    "lesson": "mina39",
+    "index": "31",
+    "hiragana": "せっけん",
+    "kanji": "せっけん",
+    "vietnamese": "xà phòng"
+  },
+  {
+    "lesson": "mina39",
+    "index": "32",
+    "hiragana": "おおぜい",
+    "kanji": "大勢",
+    "vietnamese": "nhiều người"
+  },
+  {
+    "lesson": "mina39",
+    "index": "33",
+    "hiragana": "おつかれさまでした",
+    "kanji": "お疲れさまでした",
+    "vietnamese": "chắc anh/chị đã mệt vì làm việc tôi đến thăm"
+  },
+  {
+    "lesson": "mina39",
+    "index": "34",
+    "hiragana": "うかがいます",
+    "kanji": "伺います",
+    "vietnamese": "tôi đến thăm"
+  },
+  {
+    "lesson": "mina39",
+    "index": "35",
+    "hiragana": "とちゅうで",
+    "kanji": "途中で",
+    "vietnamese": "giữa đường, giữa chừng"
+  },
+  {
+    "lesson": "mina39",
+    "index": "36",
+    "hiragana": "トラック",
+    "kanji": "トラック",
+    "vietnamese": "xe tải"
+  },
+  {
+    "lesson": "mina39",
+    "index": "37",
+    "hiragana": "ぶつかります",
+    "kanji": "ぶつかります",
+    "vietnamese": "đâm , va chạm"
+  },
+  {
+    "lesson": "mina39",
+    "index": "38",
+    "hiragana": "ならびます",
+    "kanji": "並びます",
+    "vietnamese": "xếp hàng"
+  },
+  {
+    "lesson": "mina39",
+    "index": "39",
+    "hiragana": "おとな",
+    "kanji": "大人",
+    "vietnamese": "người lớn"
+  },
+  {
+    "lesson": "mina39",
+    "index": "40",
+    "hiragana": "ようふく",
+    "kanji": "洋服",
+    "vietnamese": "quần áo kiểu tây âu"
+  },
+  {
+    "lesson": "mina39",
+    "index": "41",
+    "hiragana": "せいようかします",
+    "kanji": "西洋化します",
+    "vietnamese": "tây âu hóa"
+  },
+  {
+    "lesson": "mina39",
+    "index": "42",
+    "hiragana": "あいます",
+    "kanji": "会います",
+    "vietnamese": "vừa, hợp"
+  },
+  {
+    "lesson": "mina39",
+    "index": "43",
+    "hiragana": "いまでは",
+    "kanji": "今では",
+    "vietnamese": "bây giờ(thì)"
+  },
+  {
+    "lesson": "mina39",
+    "index": "44",
+    "hiragana": "せいじんしき",
+    "kanji": "成人式",
+    "vietnamese": "lễ trưởng thành, lễ thành nhân"
+  }
+]

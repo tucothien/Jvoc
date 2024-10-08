@@ -1,0 +1,380 @@
+[
+  {
+    "lesson": "mina41",
+    "index": "1",
+    "hiragana": "いただきます",
+    "kanji": "数えます",
+    "vietnamese": "nhận(kính ngữ của もらいます）"
+  },
+  {
+    "lesson": "mina41",
+    "index": "2",
+    "hiragana": "くださいます",
+    "kanji": "測ります/量ります",
+    "vietnamese": "cho, tặng(kính ngữ của くれます）"
+  },
+  {
+    "lesson": "mina41",
+    "index": "3",
+    "hiragana": "やります",
+    "kanji": "確かめます",
+    "vietnamese": "cho（hạ bối hoặc cây cỏ, động vật）"
+  },
+  {
+    "lesson": "mina41",
+    "index": "4",
+    "hiragana": "よびます",
+    "kanji": "呼びます",
+    "vietnamese": "mời"
+  },
+  {
+    "lesson": "mina41",
+    "index": "5",
+    "hiragana": "とりかえます",
+    "kanji": "取り替えます",
+    "vietnamese": "đổi, thay"
+  },
+  {
+    "lesson": "mina41",
+    "index": "6",
+    "hiragana": "しんせつに します",
+    "kanji": "親切に します",
+    "vietnamese": "giúp đợm đối xử thân thiện"
+  },
+  {
+    "lesson": "mina41",
+    "index": "7",
+    "hiragana": "かわいい",
+    "kanji": "dễ thương",
+    "vietnamese": "xinh, đáng yêu"
+  },
+  {
+    "lesson": "mina41",
+    "index": "8",
+    "hiragana": "おいわい（をします）",
+    "kanji": "お祝い",
+    "vietnamese": "quà; quà mừng"
+  },
+  {
+    "lesson": "mina41",
+    "index": "9",
+    "hiragana": "おとしだま",
+    "kanji": "お年玉",
+    "vietnamese": "tiền mừng tuổi"
+  },
+  {
+    "lesson": "mina41",
+    "index": "10",
+    "hiragana": "［お］みまい",
+    "kanji": "［お］見舞い",
+    "vietnamese": "thăm người ốm"
+  },
+  {
+    "lesson": "mina41",
+    "index": "11",
+    "hiragana": "きょうみ",
+    "kanji": "興味",
+    "vietnamese": "quan tâm"
+  },
+  {
+    "lesson": "mina41",
+    "index": "12",
+    "hiragana": "じょうほう",
+    "kanji": "情報",
+    "vietnamese": "thông tin"
+  },
+  {
+    "lesson": "mina41",
+    "index": "13",
+    "hiragana": "ぶんぽう",
+    "kanji": "文法",
+    "vietnamese": "ngữ pháp"
+  },
+  {
+    "lesson": "mina41",
+    "index": "14",
+    "hiragana": "はつおん",
+    "kanji": "発音",
+    "vietnamese": "phát âm"
+  },
+  {
+    "lesson": "mina41",
+    "index": "15",
+    "hiragana": "さる",
+    "kanji": "猿",
+    "vietnamese": "con khỉ"
+  },
+  {
+    "lesson": "mina41",
+    "index": "16",
+    "hiragana": "えさ",
+    "kanji": "えさ",
+    "vietnamese": "mồi; thức ăn"
+  },
+  {
+    "lesson": "mina41",
+    "index": "17",
+    "hiragana": "おもちゃ",
+    "kanji": "おもちゃ",
+    "vietnamese": "đồ chơi"
+  },
+  {
+    "lesson": "mina41",
+    "index": "18",
+    "hiragana": "えほん",
+    "kanji": "絵本",
+    "vietnamese": "truyện tranh"
+  },
+  {
+    "lesson": "mina41",
+    "index": "19",
+    "hiragana": "えはがき",
+    "kanji": "絵はがき",
+    "vietnamese": "bưu ảnh"
+  },
+  {
+    "lesson": "mina41",
+    "index": "20",
+    "hiragana": "ドライバー",
+    "kanji": "ドライバー",
+    "vietnamese": "đồ vặn ốc; tua-vít"
+  },
+  {
+    "lesson": "mina41",
+    "index": "21",
+    "hiragana": "ハンカチ",
+    "kanji": "ハンカチ",
+    "vietnamese": "khăn tay"
+  },
+  {
+    "lesson": "mina41",
+    "index": "22",
+    "hiragana": "くつした",
+    "kanji": "靴下",
+    "vietnamese": "vớ"
+  },
+  {
+    "lesson": "mina41",
+    "index": "23",
+    "hiragana": "てぶくろ",
+    "kanji": "手袋",
+    "vietnamese": "găng tay"
+  },
+  {
+    "lesson": "mina41",
+    "index": "24",
+    "hiragana": "ゆびわ",
+    "kanji": "指輪",
+    "vietnamese": "nhẫn"
+  },
+  {
+    "lesson": "mina41",
+    "index": "25",
+    "hiragana": "バッグ",
+    "kanji": "バッグ",
+    "vietnamese": "túi xách"
+  },
+  {
+    "lesson": "mina41",
+    "index": "26",
+    "hiragana": "そふ",
+    "kanji": "祖父",
+    "vietnamese": "ông (của mình)"
+  },
+  {
+    "lesson": "mina41",
+    "index": "27",
+    "hiragana": "そぼ",
+    "kanji": " 祖母",
+    "vietnamese": "bà (của mình)"
+  },
+  {
+    "lesson": "mina41",
+    "index": "28",
+    "hiragana": "まご",
+    "kanji": "孫",
+    "vietnamese": "cháu"
+  },
+  {
+    "lesson": "mina41",
+    "index": "28",
+    "hiragana": "おじ",
+    "kanji": "おじ",
+    "vietnamese": "chú, bác, cậu (của mình)"
+  },
+  {
+    "lesson": "mina41",
+    "index": "30",
+    "hiragana": "おじさん",
+    "kanji": "おじさん",
+    "vietnamese": "chú, bác, cậu (của ngta)"
+  },
+  {
+    "lesson": "mina41",
+    "index": "31",
+    "hiragana": "おば",
+    "kanji": "おば",
+    "vietnamese": "cô, dì (của mình)"
+  },
+  {
+    "lesson": "mina41",
+    "index": "32",
+    "hiragana": "おばさん",
+    "kanji": "おばさん",
+    "vietnamese": "cô, dì (của ngta)"
+  },
+  {
+    "lesson": "mina41",
+    "index": "33",
+    "hiragana": "おととし",
+    "kanji": "おととし",
+    "vietnamese": "năm ngoái"
+  },
+  {
+    "lesson": "mina41",
+    "index": "34",
+    "hiragana": "はあ",
+    "kanji": "はあ",
+    "vietnamese": "vâng, tôi hiểu rồi"
+  },
+  {
+    "lesson": "mina41",
+    "index": "35",
+    "hiragana": "もうしわけ ありません",
+    "kanji": "申し訳 ありません",
+    "vietnamese": "Xin lỗi"
+  },
+  {
+    "lesson": "mina41",
+    "index": "36",
+    "hiragana": "あずかります",
+    "kanji": "預かります",
+    "vietnamese": "bảo quản; thu nhận; giữ giùm"
+  },
+  {
+    "lesson": "mina41",
+    "index": "37",
+    "hiragana": "せんじつ",
+    "kanji": "先日",
+    "vietnamese": "ngày kia"
+  },
+  {
+    "lesson": "mina41",
+    "index": "38",
+    "hiragana": "たすかります",
+    "kanji": "助かります",
+    "vietnamese": "giúp đỡ"
+  },
+  {
+    "lesson": "mina41",
+    "index": "39",
+    "hiragana": "むかしばなし",
+    "kanji": "昔話",
+    "vietnamese": "truyền thuyết; cổ tích"
+  },
+  {
+    "lesson": "mina41",
+    "index": "40",
+    "hiragana": "ある~",
+    "kanji": "ある~",
+    "vietnamese": "có một~"
+  },
+  {
+    "lesson": "mina41",
+    "index": "41",
+    "hiragana": "おとこ",
+    "kanji": "男",
+    "vietnamese": "con trai; đàn ông"
+  },
+  {
+    "lesson": "mina41",
+    "index": "42",
+    "hiragana": "こどもたち",
+    "kanji": "子どもたち",
+    "vietnamese": "con nít; con cái"
+  },
+  {
+    "lesson": "mina41",
+    "index": "43",
+    "hiragana": "いじめます",
+    "kanji": "いじめます",
+    "vietnamese": "chọc ghẹo; chọc phá"
+  },
+  {
+    "lesson": "mina41",
+    "index": "44",
+    "hiragana": "かめ",
+    "kanji": "烏龜",
+    "vietnamese": "con rùa"
+  },
+  {
+    "lesson": "mina41",
+    "index": "45",
+    "hiragana": "たすけます",
+    "kanji": "助けます",
+    "vietnamese": "cứu; giúp"
+  },
+  {
+    "lesson": "mina41",
+    "index": "46",
+    "hiragana": "［お］しろ",
+    "kanji": "[お］城",
+    "vietnamese": "lâu đài; thành"
+  },
+  {
+    "lesson": "mina41",
+    "index": "47",
+    "hiragana": "おひめさま",
+    "kanji": "お姫様",
+    "vietnamese": "công chúa"
+  },
+  {
+    "lesson": "mina41",
+    "index": "48",
+    "hiragana": "たのしく",
+    "kanji": "楽しく",
+    "vietnamese": "vui sướng"
+  },
+  {
+    "lesson": "mina41",
+    "index": "49",
+    "hiragana": "くらします",
+    "kanji": "暮らします",
+    "vietnamese": "sống"
+  },
+  {
+    "lesson": "mina41",
+    "index": "50",
+    "hiragana": "りく",
+    "kanji": "陸",
+    "vietnamese": "lục địa"
+  },
+  {
+    "lesson": "mina41",
+    "index": "51",
+    "hiragana": "すると",
+    "kanji": "すると",
+    "vietnamese": "rồi thì"
+  },
+  {
+    "lesson": "mina41",
+    "index": "52",
+    "hiragana": "けむり",
+    "kanji": "煙",
+    "vietnamese": "khói"
+  },
+  {
+    "lesson": "mina41",
+    "index": "53",
+    "hiragana": "まっしろ［な］",
+    "kanji": "真っ白［な］",
+    "vietnamese": "trắng xoá"
+  },
+  {
+    "lesson": "mina41",
+    "index": "54",
+    "hiragana": "なかみ",
+    "kanji": "中身",
+    "vietnamese": "nội dung; bên trong"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "lesson": "mina46",
+    "index": "1",
+    "hiragana": "やきます",
+    "kanji": "焼きます",
+    "vietnamese": "nướng"
+  },
+  {
+    "lesson": "mina46",
+    "index": "2",
+    "hiragana": "わたします",
+    "kanji": "渡します",
+    "vietnamese": "trao"
+  },
+  {
+    "lesson": "mina46",
+    "index": "3",
+    "hiragana": "かえってきます",
+    "kanji": "帰ってきます",
+    "vietnamese": "quay về"
+  },
+  {
+    "lesson": "mina46",
+    "index": "4",
+    "hiragana": "でます [バスがー]",
+    "kanji": "出ます「バスが」",
+    "vietnamese": "xuất phát, rời trạm [ xe bus ~ ]"
+  },
+  {
+    "lesson": "mina46",
+    "index": "5",
+    "hiragana": "るす",
+    "kanji": "留守",
+    "vietnamese": "vắng nhà"
+  },
+  {
+    "lesson": "mina46",
+    "index": "6",
+    "hiragana": "たくはいびん",
+    "kanji": "宅配便",
+    "vietnamese": "dịch vụ trao tận nhà"
+  },
+  {
+    "lesson": "mina46",
+    "index": "7",
+    "hiragana": "げんいん",
+    "kanji": "原因",
+    "vietnamese": "nguyên nhân"
+  },
+  {
+    "lesson": "mina46",
+    "index": "8",
+    "hiragana": "ちゅうしゃ",
+    "kanji": "注射",
+    "vietnamese": "tiêm"
+  },
+  {
+    "lesson": "mina46",
+    "index": "9",
+    "hiragana": "しょくよく",
+    "kanji": "食欲",
+    "vietnamese": "sự thèm ăn"
+  },
+  {
+    "lesson": "mina46",
+    "index": "10",
+    "hiragana": "バンフレット",
+    "kanji": "間違い電話",
+    "vietnamese": "tờ bướm quảng cáo"
+  },
+  {
+    "lesson": "mina46",
+    "index": "11",
+    "hiragana": "ステレオ",
+    "kanji": "ステレオ",
+    "vietnamese": "âm thanh nổi"
+  },
+  {
+    "lesson": "mina46",
+    "index": "12",
+    "hiragana": "こちら",
+    "kanji": "こちら",
+    "vietnamese": "chỗ (chúng tôi), phía (chúng tôi)"
+  },
+  {
+    "lesson": "mina46",
+    "index": "13",
+    "hiragana": "~のところ",
+    "kanji": "～の所",
+    "vietnamese": "quanh vùng ~"
+  },
+  {
+    "lesson": "mina46",
+    "index": "14",
+    "hiragana": "ちょうど",
+    "kanji": "ちょうど",
+    "vietnamese": "vừa đúng"
+  },
+  {
+    "lesson": "mina46",
+    "index": "15",
+    "hiragana": "たったいま",
+    "kanji": " たった今",
+    "vietnamese": "mới hồi nãy"
+  },
+  {
+    "lesson": "mina46",
+    "index": "16",
+    "hiragana": "いまいいでしょうか",
+    "kanji": "今いいでしょうか",
+    "vietnamese": "bây giờ (tôi) có thể làm phiền anh/chị được không?"
+  },
+  {
+    "lesson": "mina46",
+    "index": "17",
+    "hiragana": "ガスサービスセンター",
+    "kanji": "ガスサービスセンター",
+    "vietnamese": "trung tâm dịch vụ gas"
+  },
+  {
+    "lesson": "mina46",
+    "index": "18",
+    "hiragana": "ガスコンロ",
+    "kanji": "ガスコンロ",
+    "vietnamese": "bếp ga"
+  },
+  {
+    "lesson": "mina46",
+    "index": "19",
+    "hiragana": "ぐあい",
+    "kanji": "具合",
+    "vietnamese": "trạng thái, tình trạng"
+  },
+  {
+    "lesson": "mina46",
+    "index": "20",
+    "hiragana": "どちらさまでしょうか",
+    "kanji": "どちら様でしょうか",
+    "vietnamese": "vị nào đấy ạ ?"
+  },
+  {
+    "lesson": "mina46",
+    "index": "21",
+    "hiragana": "むかいます",
+    "kanji": "向かいます",
+    "vietnamese": "hướng về"
+  },
+  {
+    "lesson": "mina46",
+    "index": "22",
+    "hiragana": "おまたせしました。",
+    "kanji": " お待たせしました",
+    "vietnamese": "xin lỗi đã để quý vị chờ lâu"
+  },
+  {
+    "lesson": "mina46",
+    "index": "23",
+    "hiragana": "ちしき",
+    "kanji": " 知識",
+    "vietnamese": "tri thức, kiến thức"
+  },
+  {
+    "lesson": "mina46",
+    "index": "24",
+    "hiragana": "ほうこ",
+    "kanji": "宝庫",
+    "vietnamese": "kho hàng"
+  },
+  {
+    "lesson": "mina46",
+    "index": "25",
+    "hiragana": "なやみ",
+    "kanji": "なやみ",
+    "vietnamese": "điều lo nghĩ, trăn trở, phiền muộn"
+  },
+  {
+    "lesson": "mina46",
+    "index": "26",
+    "hiragana": "てにはいります[じょうほうが~]",
+    "kanji": "手に入ります「情報が～）",
+    "vietnamese": "có,được [thông tin]"
+  },
+  {
+    "lesson": "mina46",
+    "index": "27",
+    "hiragana": "システム",
+    "kanji": "システム",
+    "vietnamese": "hệ thống"
+  },
+  {
+    "lesson": "mina46",
+    "index": "28",
+    "hiragana": "キーワード",
+    "kanji": "キーワード",
+    "vietnamese": "từ khóa, điểm then chốt"
+  },
+  {
+    "lesson": "mina46",
+    "index": "28",
+    "hiragana": "いちぶぶん",
+    "kanji": "一部分",
+    "vietnamese": "một bộ phận"
+  },
+  {
+    "lesson": "mina46",
+    "index": "30",
+    "hiragana": "にゅうりょくします",
+    "kanji": "入力します",
+    "vietnamese": "nhập vào"
+  },
+  {
+    "lesson": "mina46",
+    "index": "31",
+    "hiragana": "びょう",
+    "kanji": " 秒",
+    "vietnamese": "giây"
+  },
+  {
+    "lesson": "mina46",
+    "index": "32",
+    "hiragana": "でます[ほんが~]",
+    "kanji": " 出ます「本が～」",
+    "vietnamese": "[sách] được xuất bản"
+  }
+]

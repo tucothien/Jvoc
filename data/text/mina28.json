@@ -1,0 +1,338 @@
+[
+  {
+    "lesson": "mina28",
+    "index": "1",
+    "hiragana": "うれます",
+    "kanji": "売れます",
+    "vietnamese": "bán"
+  },
+  {
+    "lesson": "mina28",
+    "index": "2",
+    "hiragana": "おどります",
+    "kanji": "踊ります",
+    "vietnamese": " nhảy"
+  },
+  {
+    "lesson": "mina28",
+    "index": "3",
+    "hiragana": "かみます",
+    "kanji": "かみます",
+    "vietnamese": "nhai,cắn"
+  },
+  {
+    "lesson": "mina28",
+    "index": "4",
+    "hiragana": "えらびます",
+    "kanji": "選びます",
+    "vietnamese": "lựa,lựa chọn"
+  },
+  {
+    "lesson": "mina28",
+    "index": "5",
+    "hiragana": "かよいます",
+    "kanji": "通います",
+    "vietnamese": "đi học(đại học)"
+  },
+  {
+    "lesson": "mina28",
+    "index": "6",
+    "hiragana": "メモします",
+    "kanji": "メモします",
+    "vietnamese": "ghi chép lại,ghi lại"
+  },
+  {
+    "lesson": "mina28",
+    "index": "7",
+    "hiragana": "まじめ",
+    "kanji": "真面目",
+    "vietnamese": "nghiêm túc,đàng hoàng"
+  },
+  {
+    "lesson": "mina28",
+    "index": "8",
+    "hiragana": "ねっしん",
+    "kanji": "熱心",
+    "vietnamese": "nhiệt tình"
+  },
+  {
+    "lesson": "mina28",
+    "index": "9",
+    "hiragana": "えらい",
+    "kanji": "偉い",
+    "vietnamese": "vĩ đại, kính trọng"
+  },
+  {
+    "lesson": "mina28",
+    "index": "10",
+    "hiragana": "ちょうどいい",
+    "kanji": "丁度いい",
+    "vietnamese": "vừa đúng,vừa vặn"
+  },
+  {
+    "lesson": "mina28",
+    "index": "11",
+    "hiragana": "やさしい",
+    "kanji": "優しい",
+    "vietnamese": "phong cảnh"
+  },
+  {
+    "lesson": "mina28",
+    "index": "12",
+    "hiragana": "しゅうかん",
+    "kanji": "習慣",
+    "vietnamese": "tập quán"
+  },
+  {
+    "lesson": "mina28",
+    "index": "13",
+    "hiragana": "けいけん",
+    "kanji": "経験",
+    "vietnamese": "kinh nghiệm"
+  },
+  {
+    "lesson": "mina28",
+    "index": "14",
+    "hiragana": "ちから",
+    "kanji": "力",
+    "vietnamese": "sức mạnh"
+  },
+  {
+    "lesson": "mina28",
+    "index": "15",
+    "hiragana": "にんき",
+    "kanji": "人気",
+    "vietnamese": "hâm mộ"
+  },
+  {
+    "lesson": "mina28",
+    "index": "16",
+    "hiragana": "かたち",
+    "kanji": "形",
+    "vietnamese": "hình dáng"
+  },
+  {
+    "lesson": "mina28",
+    "index": "17",
+    "hiragana": "いろ",
+    "kanji": "色",
+    "vietnamese": "màu"
+  },
+  {
+    "lesson": "mina28",
+    "index": "18",
+    "hiragana": "あじ",
+    "kanji": "味",
+    "vietnamese": "vị"
+  },
+  {
+    "lesson": "mina28",
+    "index": "19",
+    "hiragana": "ガム",
+    "kanji": "ガム",
+    "vietnamese": "kẹo cao su"
+  },
+  {
+    "lesson": "mina28",
+    "index": "20",
+    "hiragana": "しなもの",
+    "kanji": "品物",
+    "vietnamese": "hàng hóa"
+  },
+  {
+    "lesson": "mina28",
+    "index": "21",
+    "hiragana": "ねだん",
+    "kanji": "値段",
+    "vietnamese": "giá cả"
+  },
+  {
+    "lesson": "mina28",
+    "index": "22",
+    "hiragana": "きゅうりょう",
+    "kanji": "給料",
+    "vietnamese": "lương"
+  },
+  {
+    "lesson": "mina28",
+    "index": "23",
+    "hiragana": "ボーナス",
+    "kanji": "～ご",
+    "vietnamese": "thưởng"
+  },
+  {
+    "lesson": "mina28",
+    "index": "24",
+    "hiragana": "ばんぐみ",
+    "kanji": "番組",
+    "vietnamese": "chương trình(truyền hình,phát thanh,..)"
+  },
+  {
+    "lesson": "mina28",
+    "index": "25",
+    "hiragana": "ドラマ",
+    "kanji": "ドラマ",
+    "vietnamese": "kịch,phim truyền hình"
+  },
+  {
+    "lesson": "mina28",
+    "index": "26",
+    "hiragana": "しょうせつ",
+    "kanji": "小説",
+    "vietnamese": "tiểu thuyết"
+  },
+  {
+    "lesson": "mina28",
+    "index": "27",
+    "hiragana": "しょうせつか",
+    "kanji": "小説家",
+    "vietnamese": "tiểu thuyết gia"
+  },
+  {
+    "lesson": "mina28",
+    "index": "28",
+    "hiragana": "かしゅ",
+    "kanji": "歌手",
+    "vietnamese": "ca sĩ"
+  },
+  {
+    "lesson": "mina28",
+    "index": "29",
+    "hiragana": "かんりにん",
+    "kanji": "管理人",
+    "vietnamese": "người quản lí"
+  },
+  {
+    "lesson": "mina28",
+    "index": "30",
+    "hiragana": "むすこ",
+    "kanji": "息子",
+    "vietnamese": "con trai(dùng cho mình)"
+  },
+  {
+    "lesson": "mina28",
+    "index": "31",
+    "hiragana": "むすこさん",
+    "kanji": "息子さん",
+    "vietnamese": "con trai(dùng cho người khác)"
+  },
+  {
+    "lesson": "mina28",
+    "index": "32",
+    "hiragana": "むすめ",
+    "kanji": "娘",
+    "vietnamese": "con gái(dùng cho mình)"
+  },
+  {
+    "lesson": "mina28",
+    "index": "33",
+    "hiragana": "むすめさん",
+    "kanji": "娘さん",
+    "vietnamese": "con gái(dùng cho người khác)"
+  },
+  {
+    "lesson": "mina28",
+    "index": "34",
+    "hiragana": "じぶん",
+    "kanji": "自分",
+    "vietnamese": "bản thân"
+  },
+  {
+    "lesson": "mina28",
+    "index": "35",
+    "hiragana": "しょうらい",
+    "kanji": "将来",
+    "vietnamese": "tương lai"
+  },
+  {
+    "lesson": "mina28",
+    "index": "36",
+    "hiragana": "しばらく",
+    "kanji": "しばらく",
+    "vietnamese": "một khoảng thời gian ngắn, một chút, một lát"
+  },
+  {
+    "lesson": "mina28",
+    "index": "37",
+    "hiragana": "たいてい",
+    "kanji": "たいてい",
+    "vietnamese": "thường, thông thường"
+  },
+  {
+    "lesson": "mina28",
+    "index": "38",
+    "hiragana": "それに",
+    "kanji": "それに",
+    "vietnamese": "ngoài ra"
+  },
+  {
+    "lesson": "mina28",
+    "index": "39",
+    "hiragana": "それで",
+    "kanji": "それで",
+    "vietnamese": "do đó"
+  },
+  {
+    "lesson": "mina28",
+    "index": "40",
+    "hiragana": "「ちょっと」おねがいがあるんですが",
+    "kanji": "「ちょっと」お願いがあるんですが",
+    "vietnamese": "tôi có chút việc muốn nhờ anh chị"
+  },
+  {
+    "lesson": "mina28",
+    "index": "41",
+    "hiragana": "ホームステイ",
+    "kanji": "ホームステイ",
+    "vietnamese": "homestay"
+  },
+  {
+    "lesson": "mina28",
+    "index": "42",
+    "hiragana": "かいわ",
+    "kanji": "会話",
+    "vietnamese": "hội thoại"
+  },
+  {
+    "lesson": "mina28",
+    "index": "43",
+    "hiragana": "おしゃべりします",
+    "kanji": "おしゃべりします",
+    "vietnamese": "trò chuyện"
+  },
+  {
+    "lesson": "mina28",
+    "index": "44",
+    "hiragana": "おしらせ",
+    "kanji": "お知らせ",
+    "vietnamese": "thông báo"
+  },
+  {
+    "lesson": "mina28",
+    "index": "45",
+    "hiragana": "ひにち",
+    "kanji": "日にち",
+    "vietnamese": "ngày"
+  },
+  {
+    "lesson": "mina28",
+    "index": "46",
+    "hiragana": "ど",
+    "kanji": "土",
+    "vietnamese": "thứ 7"
+  },
+  {
+    "lesson": "mina28",
+    "index": "47",
+    "hiragana": "たいいくかｎ",
+    "kanji": "体育館",
+    "vietnamese": "phòng thể dục"
+  },
+  {
+    "lesson": "mina28",
+    "index": "48",
+    "hiragana": "むりょう",
+    "kanji": "無料",
+    "vietnamese": "miễn phí"
+  }
+]

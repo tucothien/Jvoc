@@ -1,0 +1,331 @@
+[
+  {
+    "lesson": "mina2",
+    "index": "1",
+    "hiragana": "これ",
+    "kanji": "これ",
+    "vietnamese": "đây"
+  },
+  {
+    "lesson": "mina2",
+    "index": "2",
+    "hiragana": "あれ",
+    "kanji": "あれ",
+    "vietnamese": "kia"
+  },
+  {
+    "lesson": "mina2",
+    "index": "3",
+    "hiragana": "それ",
+    "kanji": "それ",
+    "vietnamese": "đó"
+  },
+  {
+    "lesson": "mina2",
+    "index": "4",
+    "hiragana": "この",
+    "kanji": "この",
+    "vietnamese": "~này"
+  },
+  {
+    "lesson": "mina2",
+    "index": "5",
+    "hiragana": "その",
+    "kanji": "その",
+    "vietnamese": "~đó"
+  },
+  {
+    "lesson": "mina2",
+    "index": "6",
+    "hiragana": "あの",
+    "kanji": "あの",
+    "vietnamese": "~kia"
+  },
+  {
+    "lesson": "mina2",
+    "index": "7",
+    "hiragana": "ほん",
+    "kanji": "本",
+    "vietnamese": "Sách"
+  },
+  {
+    "lesson": "mina2",
+    "index": "8",
+    "hiragana": "じしょ",
+    "kanji": "辞書",
+    "vietnamese": "Từ điển"
+  },
+  {
+    "lesson": "mina2",
+    "index": "9",
+    "hiragana": "ざっし",
+    "kanji": "雑誌",
+    "vietnamese": "tạp chí"
+  },
+  {
+    "lesson": "mina2",
+    "index": "10",
+    "hiragana": "しんぶん",
+    "kanji": "新聞",
+    "vietnamese": "báo"
+  },
+  {
+    "lesson": "mina2",
+    "index": "11",
+    "hiragana": "ノート",
+    "kanji": "ノート",
+    "vietnamese": "tập"
+  },
+  {
+    "lesson": "mina2",
+    "index": "12",
+    "hiragana": "てちょう",
+    "kanji": "手帳",
+    "vietnamese": "sổ tay"
+  },
+  {
+    "lesson": "mina2",
+    "index": "13",
+    "hiragana": "めいし",
+    "kanji": "名刺",
+    "vietnamese": "danh thiếp"
+  },
+  {
+    "lesson": "mina2",
+    "index": "14",
+    "hiragana": "カード",
+    "kanji": "カード",
+    "vietnamese": "card"
+  },
+  {
+    "lesson": "mina2",
+    "index": "15",
+    "hiragana": "テレホンカード",
+    "kanji": "テレホンカード",
+    "vietnamese": "card điện thoại"
+  },
+  {
+    "lesson": "mina2",
+    "index": "16",
+    "hiragana": "えんびつ",
+    "kanji": "鉛筆",
+    "vietnamese": "viết chì"
+  },
+  {
+    "lesson": "mina2",
+    "index": "17",
+    "hiragana": "ポールペン",
+    "kanji": "ポールペン",
+    "vietnamese": "Viết bi"
+  },
+  {
+    "lesson": "mina2",
+    "index": "18",
+    "hiragana": "シャープペンシル",
+    "kanji": "シャープペンシル",
+    "vietnamese": "viết chì bấm"
+  },
+  {
+    "lesson": "mina2",
+    "index": "19",
+    "hiragana": "かぎ",
+    "kanji": "かぎ",
+    "vietnamese": "chì khoá"
+  },
+  {
+    "lesson": "mina2",
+    "index": "20",
+    "hiragana": "とけい",
+    "kanji": "時計",
+    "vietnamese": "đồng hồ"
+  },
+  {
+    "lesson": "mina2",
+    "index": "21",
+    "hiragana": "かさ",
+    "kanji": "傘",
+    "vietnamese": "Cái dù"
+  },
+  {
+    "lesson": "mina2",
+    "index": "22",
+    "hiragana": "かばん",
+    "kanji": "かばん",
+    "vietnamese": "cái cặp"
+  },
+  {
+    "lesson": "mina2",
+    "index": "23",
+    "hiragana": "カセット＞テープ",
+    "kanji": "カセット＞テープ",
+    "vietnamese": "băng ( casset)"
+  },
+  {
+    "lesson": "mina2",
+    "index": "24",
+    "hiragana": "テープレコーダー",
+    "kanji": "テープレコーダー",
+    "vietnamese": "máy casset"
+  },
+  {
+    "lesson": "mina2",
+    "index": "25",
+    "hiragana": "テレビ",
+    "kanji": "テレビ",
+    "vietnamese": "cái TV"
+  },
+  {
+    "lesson": "mina2",
+    "index": "26",
+    "hiragana": "ラジオ",
+    "kanji": "ラジオ",
+    "vietnamese": "cái radio"
+  },
+  {
+    "lesson": "mina2",
+    "index": "27",
+    "hiragana": "カメラ",
+    "kanji": "カメラ",
+    "vietnamese": "cái máy chụp hình"
+  },
+  {
+    "lesson": "mina2",
+    "index": "28",
+    "hiragana": "コンピューター",
+    "kanji": "コンピューター",
+    "vietnamese": "máy vi tính"
+  },
+  {
+    "lesson": "mina2",
+    "index": "29",
+    "hiragana": "じどうしゃ",
+    "kanji": "自動車",
+    "vietnamese": "xe hơi"
+  },
+  {
+    "lesson": "mina2",
+    "index": "30",
+    "hiragana": "つくえ",
+    "kanji": "つくえ",
+    "vietnamese": "cái bàn"
+  },
+  {
+    "lesson": "mina2",
+    "index": "31",
+    "hiragana": "いす",
+    "kanji": "いす",
+    "vietnamese": "cái ghế"
+  },
+  {
+    "lesson": "mina2",
+    "index": "32",
+    "hiragana": "チョコレート",
+    "kanji": "チョコレート",
+    "vietnamese": "kẹo sôcôla"
+  },
+  {
+    "lesson": "mina2",
+    "index": "33",
+    "hiragana": "コーヒー",
+    "kanji": "コーヒー",
+    "vietnamese": "cà phê"
+  },
+  {
+    "lesson": "mina2",
+    "index": "34",
+    "hiragana": "えいご",
+    "kanji": "英語",
+    "vietnamese": "tiếng Anh"
+  },
+  {
+    "lesson": "mina2",
+    "index": "35",
+    "hiragana": "にほんご",
+    "kanji": "日本語",
+    "vietnamese": "tiếng Nhật"
+  },
+  {
+    "lesson": "mina2",
+    "index": "36",
+    "hiragana": "～ご",
+    "kanji": "～語",
+    "vietnamese": "tiếng ~"
+  },
+  {
+    "lesson": "mina2",
+    "index": "37",
+    "hiragana": "なん",
+    "kanji": "何",
+    "vietnamese": "cái gì"
+  },
+  {
+    "lesson": "mina2",
+    "index": "38",
+    "hiragana": "そう",
+    "kanji": "そう",
+    "vietnamese": "thế nào"
+  },
+  {
+    "lesson": "mina2",
+    "index": "39",
+    "hiragana": "ちがいます",
+    "kanji": "違います",
+    "vietnamese": "không phải, sai rồi"
+  },
+  {
+    "lesson": "mina2",
+    "index": "40",
+    "hiragana": "そですか",
+    "kanji": "そですか",
+    "vietnamese": "thế à?"
+  },
+  {
+    "lesson": "mina2",
+    "index": "41",
+    "hiragana": "あのう",
+    "kanji": "あのう",
+    "vietnamese": "à…..ờ ( ngập ngừng khi đề nghị hoặc suy nghĩ 1 vấn đề)"
+  },
+  {
+    "lesson": "mina2",
+    "index": "42",
+    "hiragana": "ほんのきもちです",
+    "kanji": "ほんの気持ちです",
+    "vietnamese": "đây là chút lòng thành"
+  },
+  {
+    "lesson": "mina2",
+    "index": "43",
+    "hiragana": "どうぞ",
+    "kanji": "どうぞ",
+    "vietnamese": "xin mời"
+  },
+  {
+    "lesson": "mina2",
+    "index": "44",
+    "hiragana": "どうも",
+    "kanji": "どうも",
+    "vietnamese": "cám ơn"
+  },
+  {
+    "lesson": "mina2",
+    "index": "45",
+    "hiragana": "どうも＞ありがとう＜ございます",
+    "kanji": "どうも＞ありがとう＜ございます",
+    "vietnamese": "Xin chân thành cảm ơn"
+  },
+  {
+    "lesson": "mina2",
+    "index": "46",
+    "hiragana": "これからおせわになります",
+    "kanji": "これからお世話になります",
+    "vietnamese": "Từ nay mong được giúp đỡ"
+  },
+  {
+    "lesson": "mina2",
+    "index": "47",
+    "hiragana": "こちらこそよろしく",
+    "kanji": "こちらこそよろしく",
+    "vietnamese": "chính tôi mới là người mong được giúp đỡ"
+  }
+]

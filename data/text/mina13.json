@@ -1,0 +1,282 @@
+[
+  {
+    "lesson": "mina13",
+    "index": "1",
+    "hiragana": "あそびます",
+    "kanji": "遊びます",
+    "vietnamese": "chơi"
+  },
+  {
+    "lesson": "mina13",
+    "index": "2",
+    "hiragana": "およぎます",
+    "kanji": "泳ぎます",
+    "vietnamese": "bơi"
+  },
+  {
+    "lesson": "mina13",
+    "index": "3",
+    "hiragana": "むかえます",
+    "kanji": "迎えます",
+    "vietnamese": "đón"
+  },
+  {
+    "lesson": "mina13",
+    "index": "4",
+    "hiragana": "つかれます",
+    "kanji": "疲れます",
+    "vietnamese": "mệt"
+  },
+  {
+    "lesson": "mina13",
+    "index": "5",
+    "hiragana": "だします [てがみを～]",
+    "kanji": "出します [手紙を～]",
+    "vietnamese": "gửi[thư]"
+  },
+  {
+    "lesson": "mina13",
+    "index": "6",
+    "hiragana": "はいります [きっさてんに～]",
+    "kanji": "入ります [喫茶店に～]",
+    "vietnamese": "vào [quán giải khát]"
+  },
+  {
+    "lesson": "mina13",
+    "index": "7",
+    "hiragana": "でます [きっさてんを～]",
+    "kanji": "出ます [喫茶店を～]",
+    "vietnamese": "ra, ra khỏi [quán giải khát]"
+  },
+  {
+    "lesson": "mina13",
+    "index": "8",
+    "hiragana": "けっこんします",
+    "kanji": "結婚します",
+    "vietnamese": "kết hôn, lập gia đình, cưới"
+  },
+  {
+    "lesson": "mina13",
+    "index": "9",
+    "hiragana": "かいものします",
+    "kanji": "買い物します",
+    "vietnamese": "mua hàng"
+  },
+  {
+    "lesson": "mina13",
+    "index": "10",
+    "hiragana": "しょくじします",
+    "kanji": "食事します",
+    "vietnamese": "ăn cơm"
+  },
+  {
+    "lesson": "mina13",
+    "index": "11",
+    "hiragana": "さんぽします [こうえんを～]",
+    "kanji": "散歩します [公園を～]",
+    "vietnamese": "đi dạo [ở công viên]"
+  },
+  {
+    "lesson": "mina13",
+    "index": "12",
+    "hiragana": "たいへん「な」",
+    "kanji": "大変「な」",
+    "vietnamese": "vất vả, khó khăn, khổ"
+  },
+  {
+    "lesson": "mina13",
+    "index": "13",
+    "hiragana": "ほしい",
+    "kanji": "欲しい",
+    "vietnamese": "muốn có"
+  },
+  {
+    "lesson": "mina13",
+    "index": "14",
+    "hiragana": "さびしい",
+    "kanji": "寂しい",
+    "vietnamese": "buồn, cô đơn"
+  },
+  {
+    "lesson": "mina13",
+    "index": "15",
+    "hiragana": "ひろい",
+    "kanji": "広い",
+    "vietnamese": "rộng"
+  },
+  {
+    "lesson": "mina13",
+    "index": "16",
+    "hiragana": "せまい",
+    "kanji": "狭い",
+    "vietnamese": "chật, hẹp"
+  },
+  {
+    "lesson": "mina13",
+    "index": "17",
+    "hiragana": "しやくしょ",
+    "kanji": "市役所",
+    "vietnamese": "văn phòng hành chính quận, thành phố"
+  },
+  {
+    "lesson": "mina13",
+    "index": "18",
+    "hiragana": "プール",
+    "kanji": "プール",
+    "vietnamese": "bể bơi"
+  },
+  {
+    "lesson": "mina13",
+    "index": "19",
+    "hiragana": "かわ",
+    "kanji": "川",
+    "vietnamese": "sông"
+  },
+  {
+    "lesson": "mina13",
+    "index": "20",
+    "hiragana": "けいざい",
+    "kanji": "経済",
+    "vietnamese": "kinh tế"
+  },
+  {
+    "lesson": "mina13",
+    "index": "21",
+    "hiragana": "びじゅつ",
+    "kanji": "美術",
+    "vietnamese": "mỹ thuật"
+  },
+  {
+    "lesson": "mina13",
+    "index": "22",
+    "hiragana": "つり",
+    "kanji": "釣り",
+    "vietnamese": "việc câu cá (~をします：câu cá)"
+  },
+  {
+    "lesson": "mina13",
+    "index": "23",
+    "hiragana": "スキー",
+    "kanji": "スキー",
+    "vietnamese": "việc trượt tuyết (~をします： trượt tuyết)"
+  },
+  {
+    "lesson": "mina13",
+    "index": "24",
+    "hiragana": "かいぎ",
+    "kanji": "会議",
+    "vietnamese": "họp, cuộc họp (~をします: họp, tổ chức cuộc họp)"
+  },
+  {
+    "lesson": "mina13",
+    "index": "25",
+    "hiragana": "とうろく",
+    "kanji": "登録",
+    "vietnamese": "việc đăng ký (~をします：đăng ký)"
+  },
+  {
+    "lesson": "mina13",
+    "index": "26",
+    "hiragana": "しゅうまつ",
+    "kanji": "週末",
+    "vietnamese": "cuối tuần"
+  },
+  {
+    "lesson": "mina13",
+    "index": "27",
+    "hiragana": "～ごろ",
+    "kanji": "～ごろ",
+    "vietnamese": "Khoảng ~ (dùng cho thời gian)"
+  },
+  {
+    "lesson": "mina13",
+    "index": "28",
+    "hiragana": "なにか",
+    "kanji": "何か",
+    "vietnamese": "cái gì đó"
+  },
+  {
+    "lesson": "mina13",
+    "index": "29",
+    "hiragana": "どこか",
+    "kanji": "どこか",
+    "vietnamese": "đâu đó, chỗ nào đó"
+  },
+  {
+    "lesson": "mina13",
+    "index": "30",
+    "hiragana": "おなかが すきました。",
+    "kanji": "おなかが すきました。",
+    "vietnamese": "(tôi) đói rồi."
+  },
+  {
+    "lesson": "mina13",
+    "index": "31",
+    "hiragana": "おなかが いっぱいです。",
+    "kanji": "おなかが いっぱいです。",
+    "vietnamese": "(tôi) no rồi."
+  },
+  {
+    "lesson": "mina13",
+    "index": "32",
+    "hiragana": "のどが かわきました。",
+    "kanji": "のどが かわきました。",
+    "vietnamese": "(tôi) khát."
+  },
+  {
+    "lesson": "mina13",
+    "index": "33",
+    "hiragana": "そうですね。",
+    "kanji": "そうですね。",
+    "vietnamese": "Đúng thế. (câu nói khi muốn tỏ thái độ tán thành với người cùng nói chuyện)"
+  },
+  {
+    "lesson": "mina13",
+    "index": "34",
+    "hiragana": "ロシア",
+    "kanji": "ロシア",
+    "vietnamese": "Nga"
+  },
+  {
+    "lesson": "mina13",
+    "index": "35",
+    "hiragana": "そうしましょう。",
+    "kanji": "そうしましょう。",
+    "vietnamese": "Nhất trí./ Chúng ta thống nhất như thế."
+  },
+  {
+    "lesson": "mina13",
+    "index": "36",
+    "hiragana": "ていしょく",
+    "kanji": "ていしょく",
+    "vietnamese": "Cơm suất, cơm phần"
+  },
+  {
+    "lesson": "mina13",
+    "index": "37",
+    "hiragana": "ごちゅうもんは",
+    "kanji": "ご注文は",
+    "vietnamese": "Mời anh/chị gọi món"
+  },
+  {
+    "lesson": "mina13",
+    "index": "38",
+    "hiragana": "ぎゅうどん",
+    "kanji": "牛どん",
+    "vietnamese": "món cơm thịt bò"
+  },
+  {
+    "lesson": "mina13",
+    "index": "39",
+    "hiragana": "しょうしょう　おまちください",
+    "kanji": "少々お待ちください。",
+    "vietnamese": "xin vui lòng đợi một chút"
+  },
+  {
+    "lesson": "mina13",
+    "index": "40",
+    "hiragana": "べつべつに",
+    "kanji": "別々に",
+    "vietnamese": "để riêng ra"
+  }
+]

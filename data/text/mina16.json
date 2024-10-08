@@ -1,0 +1,366 @@
+[
+  {
+    "lesson": "mina16",
+    "index": "1",
+    "hiragana": "のります [でんしゃに～]",
+    "kanji": "乗ります [電車に～]",
+    "vietnamese": "đi, lên [tàu]"
+  },
+  {
+    "lesson": "mina16",
+    "index": "2",
+    "hiragana": "おります [でんしゃに～]",
+    "kanji": "降ります [電車に～]",
+    "vietnamese": "xuống [tàu]"
+  },
+  {
+    "lesson": "mina16",
+    "index": "3",
+    "hiragana": "のりかえます",
+    "kanji": "乗り換えます",
+    "vietnamese": "chuyển, đổi (tàu)"
+  },
+  {
+    "lesson": "mina16",
+    "index": "4",
+    "hiragana": "あびます [シャワーを～]",
+    "kanji": "浴びます",
+    "vietnamese": "tắm [vòi hoa sen]"
+  },
+  {
+    "lesson": "mina16",
+    "index": "5",
+    "hiragana": "いれます",
+    "kanji": "入れます",
+    "vietnamese": "cho vào, bỏ vào"
+  },
+  {
+    "lesson": "mina16",
+    "index": "6",
+    "hiragana": "だします",
+    "kanji": "出します",
+    "vietnamese": "lấy ra, rút (tiền)"
+  },
+  {
+    "lesson": "mina16",
+    "index": "7",
+    "hiragana": "はいります [だいがくに～]",
+    "kanji": "入ります [大学に～]",
+    "vietnamese": "vào, nhập học [đại học]"
+  },
+  {
+    "lesson": "mina16",
+    "index": "8",
+    "hiragana": "でます [だいがくを～]",
+    "kanji": "出ます [大学を～]",
+    "vietnamese": "ra, tốt nghiệp [đại học]"
+  },
+  {
+    "lesson": "mina16",
+    "index": "9",
+    "hiragana": "やめます [かいしゃを～]",
+    "kanji": "やめます [会社を～]",
+    "vietnamese": "bỏ, thôi [việc công ty]"
+  },
+  {
+    "lesson": "mina16",
+    "index": "10",
+    "hiragana": "おします",
+    "kanji": "押します",
+    "vietnamese": "bấm, ấn (nút)"
+  },
+  {
+    "lesson": "mina16",
+    "index": "11",
+    "hiragana": "わかい",
+    "kanji": "若い",
+    "vietnamese": "trẻ"
+  },
+  {
+    "lesson": "mina16",
+    "index": "12",
+    "hiragana": "ながい",
+    "kanji": "長い",
+    "vietnamese": "dài"
+  },
+  {
+    "lesson": "mina16",
+    "index": "13",
+    "hiragana": "みじかい",
+    "kanji": "短い",
+    "vietnamese": "ngắn"
+  },
+  {
+    "lesson": "mina16",
+    "index": "14",
+    "hiragana": "あかるい",
+    "kanji": "明るい",
+    "vietnamese": "sáng"
+  },
+  {
+    "lesson": "mina16",
+    "index": "15",
+    "hiragana": "くらい",
+    "kanji": "暗い",
+    "vietnamese": "tối"
+  },
+  {
+    "lesson": "mina16",
+    "index": "16",
+    "hiragana": "せが たかい",
+    "kanji": "背が 高い",
+    "vietnamese": "cao (dùng cho người)"
+  },
+  {
+    "lesson": "mina16",
+    "index": "17",
+    "hiragana": "あたまが いい",
+    "kanji": "頭が いい",
+    "vietnamese": "thông minh"
+  },
+  {
+    "lesson": "mina16",
+    "index": "18",
+    "hiragana": "からだ",
+    "kanji": "体",
+    "vietnamese": "người, cơ thể"
+  },
+  {
+    "lesson": "mina16",
+    "index": "19",
+    "hiragana": "あたま",
+    "kanji": "頭",
+    "vietnamese": "đầu"
+  },
+  {
+    "lesson": "mina16",
+    "index": "20",
+    "hiragana": "かみ",
+    "kanji": "髪",
+    "vietnamese": "tóc"
+  },
+  {
+    "lesson": "mina16",
+    "index": "21",
+    "hiragana": "なまえ",
+    "kanji": "名前",
+    "vietnamese": "tên"
+  },
+  {
+    "lesson": "mina16",
+    "index": "22",
+    "hiragana": "かお",
+    "kanji": "顔",
+    "vietnamese": "mặt"
+  },
+  {
+    "lesson": "mina16",
+    "index": "23",
+    "hiragana": "め",
+    "kanji": "目",
+    "vietnamese": "mắt"
+  },
+  {
+    "lesson": "mina16",
+    "index": "24",
+    "hiragana": "みみ",
+    "kanji": "耳",
+    "vietnamese": "tai"
+  },
+  {
+    "lesson": "mina16",
+    "index": "25",
+    "hiragana": "は",
+    "kanji": "歯",
+    "vietnamese": "răng"
+  },
+  {
+    "lesson": "mina16",
+    "index": "26",
+    "hiragana": "おなか",
+    "kanji": "おなか",
+    "vietnamese": "bụng"
+  },
+  {
+    "lesson": "mina16",
+    "index": "27",
+    "hiragana": "あし",
+    "kanji": "足",
+    "vietnamese": "chân"
+  },
+  {
+    "lesson": "mina16",
+    "index": "28",
+    "hiragana": "サービス",
+    "kanji": "サービス",
+    "vietnamese": "dịch vụ"
+  },
+  {
+    "lesson": "mina16",
+    "index": "29",
+    "hiragana": "ジョギング",
+    "kanji": "ジョギング",
+    "vietnamese": "việc chạy bộ (~をします: chạy bộ)"
+  },
+  {
+    "lesson": "mina16",
+    "index": "30",
+    "hiragana": "シャワー",
+    "kanji": "シャワー",
+    "vietnamese": "vòi hoa sen"
+  },
+  {
+    "lesson": "mina16",
+    "index": "31",
+    "hiragana": "みどり",
+    "kanji": "緑",
+    "vietnamese": "màu xanh lá cây"
+  },
+  {
+    "lesson": "mina16",
+    "index": "32",
+    "hiragana": "[お]てら",
+    "kanji": "[お]寺",
+    "vietnamese": "chùa"
+  },
+  {
+    "lesson": "mina16",
+    "index": "33",
+    "hiragana": "じんじゃ",
+    "kanji": "神社",
+    "vietnamese": "đền thờ đạo thần"
+  },
+  {
+    "lesson": "mina16",
+    "index": "34",
+    "hiragana": "りゅうがくせい",
+    "kanji": "りゅうがくせい",
+    "vietnamese": "lưu học sinh, du học sinh"
+  },
+  {
+    "lesson": "mina16",
+    "index": "35",
+    "hiragana": "一ばん",
+    "kanji": "一番",
+    "vietnamese": "số―"
+  },
+  {
+    "lesson": "mina16",
+    "index": "36",
+    "hiragana": "どうやって",
+    "kanji": "どうやって",
+    "vietnamese": "làm thế nào~"
+  },
+  {
+    "lesson": "mina16",
+    "index": "37",
+    "hiragana": "どの～",
+    "kanji": "どの～",
+    "vietnamese": "cái nào~ (dùng với trường hợp từ ba thứ trở lên)"
+  },
+  {
+    "lesson": "mina16",
+    "index": "38",
+    "hiragana": "[いいえ、]まだまだです。",
+    "kanji": "[いいえ、]まだまだです。",
+    "vietnamese": "[không,] tôi còn kém lắm. (cách nói khiêm nhường khi ai đó khen)"
+  },
+  {
+    "lesson": "mina16",
+    "index": "39",
+    "hiragana": "まず",
+    "kanji": "まず",
+    "vietnamese": "trước hết, đầu tiên"
+  },
+  {
+    "lesson": "mina16",
+    "index": "40",
+    "hiragana": "キャッシュカード",
+    "kanji": "キャッシュカード",
+    "vietnamese": "thẻ ngân hàng, thẻ ATM"
+  },
+  {
+    "lesson": "mina16",
+    "index": "41",
+    "hiragana": "あんしょうばんごう",
+    "kanji": "暗証番号",
+    "vietnamese": "mã số bí mật (mật khẩu)"
+  },
+  {
+    "lesson": "mina16",
+    "index": "42",
+    "hiragana": "つぎ に",
+    "kanji": "次に",
+    "vietnamese": "tiếp theo"
+  },
+  {
+    "lesson": "mina16",
+    "index": "43",
+    "hiragana": "かくにん",
+    "kanji": "確認",
+    "vietnamese": "sự xác nhận, sự kiểm tra (~します：xác nhận)"
+  },
+  {
+    "lesson": "mina16",
+    "index": "44",
+    "hiragana": "きんがく",
+    "kanji": "金額",
+    "vietnamese": "số tiền, khoản tiền"
+  },
+  {
+    "lesson": "mina16",
+    "index": "45",
+    "hiragana": "ボタン",
+    "kanji": "[",
+    "vietnamese": "nút"
+  },
+  {
+    "lesson": "mina16",
+    "index": "46",
+    "hiragana": "アジア",
+    "kanji": "神社",
+    "vietnamese": "đền thờ đạo thần"
+  },
+  {
+    "lesson": "mina16",
+    "index": "47",
+    "hiragana": "りゅうがくせい",
+    "kanji": "りゅうがくせい",
+    "vietnamese": "lưu học sinh, du học sinh"
+  },
+  {
+    "lesson": "mina16",
+    "index": "48",
+    "hiragana": "一ばん",
+    "kanji": "一ばん",
+    "vietnamese": "châu Á"
+  },
+  {
+    "lesson": "mina16",
+    "index": "49",
+    "hiragana": "ベトナム",
+    "kanji": "ベトナム",
+    "vietnamese": "làm thế nào~"
+  },
+  {
+    "lesson": "mina16",
+    "index": "50",
+    "hiragana": "どの～",
+    "kanji": "どの～",
+    "vietnamese": "cái nào~ (dùng với trường hợp từ ba thứ trở lên)"
+  },
+  {
+    "lesson": "mina16",
+    "index": "51",
+    "hiragana": "[いいえ、]まだまだです。",
+    "kanji": "[いいえ、]まだまだです。",
+    "vietnamese": "[không,] tôi còn kém lắm. (cách nói khiêm nhường khi ai đó khen)"
+  },
+  {
+    "lesson": "mina16",
+    "index": "52",
+    "hiragana": "まず",
+    "kanji": "まず",
+    "vietnamese": "trước hết, đầu tiên"
+  }
+]

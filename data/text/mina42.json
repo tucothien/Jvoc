@@ -1,0 +1,380 @@
+[
+  {
+    "lesson": "mina42",
+    "index": "1",
+    "hiragana": "つつみます Ⅰ",
+    "kanji": "包みます",
+    "vietnamese": "bọc; gói"
+  },
+  {
+    "lesson": "mina42",
+    "index": "2",
+    "hiragana": "わかします Ⅰ",
+    "kanji": "沸かします",
+    "vietnamese": "đun sôi"
+  },
+  {
+    "lesson": "mina42",
+    "index": "3",
+    "hiragana": "まぜます Ⅱ",
+    "kanji": "混ぜます",
+    "vietnamese": "trộn; khuấy"
+  },
+  {
+    "lesson": "mina42",
+    "index": "4",
+    "hiragana": "けいさんします Ⅲ",
+    "kanji": "計算します",
+    "vietnamese": "tính toán"
+  },
+  {
+    "lesson": "mina42",
+    "index": "5",
+    "hiragana": "あつい",
+    "kanji": "厚い",
+    "vietnamese": "dầy"
+  },
+  {
+    "lesson": "mina42",
+    "index": "6",
+    "hiragana": "うすい",
+    "kanji": "薄い",
+    "vietnamese": "mỏng"
+  },
+  {
+    "lesson": "mina42",
+    "index": "7",
+    "hiragana": "べんごし",
+    "kanji": "弁護士",
+    "vietnamese": "luật sư"
+  },
+  {
+    "lesson": "mina42",
+    "index": "8",
+    "hiragana": "おんがくか",
+    "kanji": "音楽家",
+    "vietnamese": "nhạc sĩ"
+  },
+  {
+    "lesson": "mina42",
+    "index": "9",
+    "hiragana": "こどもたち",
+    "kanji": "子どもたち",
+    "vietnamese": "trẻ em"
+  },
+  {
+    "lesson": "mina42",
+    "index": "10",
+    "hiragana": "ふたり",
+    "kanji": "二人",
+    "vietnamese": "hai người"
+  },
+  {
+    "lesson": "mina42",
+    "index": "11",
+    "hiragana": "きょういく",
+    "kanji": "教育",
+    "vietnamese": "giáo dục"
+  },
+  {
+    "lesson": "mina42",
+    "index": "12",
+    "hiragana": "れきし",
+    "kanji": "歴史",
+    "vietnamese": "lịch sử"
+  },
+  {
+    "lesson": "mina42",
+    "index": "13",
+    "hiragana": "ぶんか",
+    "kanji": "文化",
+    "vietnamese": "văn hoá"
+  },
+  {
+    "lesson": "mina42",
+    "index": "14",
+    "hiragana": "しゃかい",
+    "kanji": "社会",
+    "vietnamese": "xã hội"
+  },
+  {
+    "lesson": "mina42",
+    "index": "15",
+    "hiragana": "ほうりつ",
+    "kanji": "法律",
+    "vietnamese": "pháp luật"
+  },
+  {
+    "lesson": "mina42",
+    "index": "16",
+    "hiragana": "せんそう",
+    "kanji": "戦争",
+    "vietnamese": "chiến tranh"
+  },
+  {
+    "lesson": "mina42",
+    "index": "17",
+    "hiragana": "へいわ",
+    "kanji": "平和",
+    "vietnamese": "hoà bình"
+  },
+  {
+    "lesson": "mina42",
+    "index": "18",
+    "hiragana": "もくてき",
+    "kanji": "目的",
+    "vietnamese": "mục đích"
+  },
+  {
+    "lesson": "mina42",
+    "index": "19",
+    "hiragana": "あんぜん",
+    "kanji": "安全",
+    "vietnamese": "an toàn"
+  },
+  {
+    "lesson": "mina42",
+    "index": "20",
+    "hiragana": "ろんぶん",
+    "kanji": "論文",
+    "vietnamese": "luận văn"
+  },
+  {
+    "lesson": "mina42",
+    "index": "21",
+    "hiragana": "かんけい",
+    "kanji": "関係",
+    "vietnamese": "quan hệ"
+  },
+  {
+    "lesson": "mina42",
+    "index": "22",
+    "hiragana": "ミキサ",
+    "kanji": "ミキサ",
+    "vietnamese": "máy trộn; máy xay"
+  },
+  {
+    "lesson": "mina42",
+    "index": "23",
+    "hiragana": "やかん",
+    "kanji": "やかん",
+    "vietnamese": "ấm đun nước"
+  },
+  {
+    "lesson": "mina42",
+    "index": "24",
+    "hiragana": "せんぬき",
+    "kanji": "栓抜き",
+    "vietnamese": "cái mở nút chai"
+  },
+  {
+    "lesson": "mina42",
+    "index": "25",
+    "hiragana": "かんきり",
+    "kanji": "缶切り",
+    "vietnamese": "đồ mở đồ hộp"
+  },
+  {
+    "lesson": "mina42",
+    "index": "26",
+    "hiragana": "かんづめ",
+    "kanji": "缶詰",
+    "vietnamese": "đồ hộp"
+  },
+  {
+    "lesson": "mina42",
+    "index": "27",
+    "hiragana": "ふろしき",
+    "kanji": "ふろしき",
+    "vietnamese": "khăn gói"
+  },
+  {
+    "lesson": "mina42",
+    "index": "28",
+    "hiragana": "そろばん",
+    "kanji": "そろばん",
+    "vietnamese": "bàn tính"
+  },
+  {
+    "lesson": "mina42",
+    "index": "28",
+    "hiragana": "たいおんけい",
+    "kanji": "体温計",
+    "vietnamese": "cặp nhiệt độ"
+  },
+  {
+    "lesson": "mina42",
+    "index": "30",
+    "hiragana": "ざいりょう",
+    "kanji": "材料",
+    "vietnamese": "vật liệu"
+  },
+  {
+    "lesson": "mina42",
+    "index": "31",
+    "hiragana": "いし",
+    "kanji": "石",
+    "vietnamese": "đá; sỏi"
+  },
+  {
+    "lesson": "mina42",
+    "index": "32",
+    "hiragana": "ピラミッド",
+    "kanji": "ピラミッド",
+    "vietnamese": "kim tự tháp"
+  },
+  {
+    "lesson": "mina42",
+    "index": "33",
+    "hiragana": "データ",
+    "kanji": "データ",
+    "vietnamese": "dữ liệu"
+  },
+  {
+    "lesson": "mina42",
+    "index": "34",
+    "hiragana": "ファイル",
+    "kanji": "ファイル",
+    "vietnamese": "tập tin"
+  },
+  {
+    "lesson": "mina42",
+    "index": "35",
+    "hiragana": "ある～",
+    "kanji": "ある～",
+    "vietnamese": "nọ"
+  },
+  {
+    "lesson": "mina42",
+    "index": "36",
+    "hiragana": "いっしょうけんめい",
+    "kanji": "生懸命",
+    "vietnamese": "cố gắng"
+  },
+  {
+    "lesson": "mina42",
+    "index": "37",
+    "hiragana": "なぜ",
+    "kanji": "なぜ",
+    "vietnamese": "tại sao"
+  },
+  {
+    "lesson": "mina42",
+    "index": "38",
+    "hiragana": "こくれん",
+    "kanji": "国連",
+    "vietnamese": "liên hiệp quốc"
+  },
+  {
+    "lesson": "mina42",
+    "index": "39",
+    "hiragana": "こくさいれんごう",
+    "kanji": "国際連合",
+    "vietnamese": "liên hiệp quốc"
+  },
+  {
+    "lesson": "mina42",
+    "index": "40",
+    "hiragana": "ポーランド",
+    "kanji": "ポーランド",
+    "vietnamese": "Phần Lan"
+  },
+  {
+    "lesson": "mina42",
+    "index": "41",
+    "hiragana": "ローン",
+    "kanji": "ローン",
+    "vietnamese": "tiền vay; trả góp"
+  },
+  {
+    "lesson": "mina42",
+    "index": "42",
+    "hiragana": "セット",
+    "kanji": "セット",
+    "vietnamese": "bộ"
+  },
+  {
+    "lesson": "mina42",
+    "index": "43",
+    "hiragana": "あとは",
+    "kanji": "あとは",
+    "vietnamese": "còn lại"
+  },
+  {
+    "lesson": "mina42",
+    "index": "44",
+    "hiragana": "カップラーメン",
+    "kanji": "カップラーメン",
+    "vietnamese": "mì ăn liền"
+  },
+  {
+    "lesson": "mina42",
+    "index": "45",
+    "hiragana": "インスタントラーメン",
+    "kanji": "インスタントラーメン",
+    "vietnamese": "mì ăn liền"
+  },
+  {
+    "lesson": "mina42",
+    "index": "46",
+    "hiragana": "なべ",
+    "kanji": "なべ",
+    "vietnamese": "nồi"
+  },
+  {
+    "lesson": "mina42",
+    "index": "47",
+    "hiragana": "どんぶり",
+    "kanji": "どんぶり",
+    "vietnamese": "tô to"
+  },
+  {
+    "lesson": "mina42",
+    "index": "48",
+    "hiragana": "しょくひん",
+    "kanji": "食品",
+    "vietnamese": "thực phẩm"
+  },
+  {
+    "lesson": "mina42",
+    "index": "49",
+    "hiragana": "ちょうさ",
+    "kanji": "調査",
+    "vietnamese": "điều tra"
+  },
+  {
+    "lesson": "mina42",
+    "index": "50",
+    "hiragana": "カップ",
+    "kanji": "カップ",
+    "vietnamese": "tách; chén"
+  },
+  {
+    "lesson": "mina42",
+    "index": "51",
+    "hiragana": "また",
+    "kanji": "また",
+    "vietnamese": "lại nữa; ngoài ra"
+  },
+  {
+    "lesson": "mina42",
+    "index": "52",
+    "hiragana": "～のかわりに",
+    "kanji": "～の代わりに",
+    "vietnamese": "thay cho"
+  },
+  {
+    "lesson": "mina42",
+    "index": "53",
+    "hiragana": "どこででも",
+    "kanji": "どこででも",
+    "vietnamese": "bất cứ nơi nào"
+  },
+  {
+    "lesson": "mina42",
+    "index": "54",
+    "hiragana": "いまでは",
+    "kanji": "今では",
+    "vietnamese": "bây giờ; hiện nay"
+  }
+]

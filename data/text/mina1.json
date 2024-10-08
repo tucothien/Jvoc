@@ -1,0 +1,338 @@
+[
+  {
+    "lesson": "mina1",
+    "index": "1",
+    "hiragana": "わたし",
+    "kanji": "わたし",
+    "vietnamese": "tôi"
+  },
+  {
+    "lesson": "mina1",
+    "index": "2",
+    "hiragana": "わたしたち",
+    "kanji": "わたしたち",
+    "vietnamese": "chúng ta, chúng tôi"
+  },
+  {
+    "lesson": "mina1",
+    "index": "3",
+    "hiragana": "あなた",
+    "kanji": "あなた",
+    "vietnamese": "bạn"
+  },
+  {
+    "lesson": "mina1",
+    "index": "4",
+    "hiragana": "あのひと",
+    "kanji": "あの人",
+    "vietnamese": "người kia"
+  },
+  {
+    "lesson": "mina1",
+    "index": "5",
+    "hiragana": "あのかた",
+    "kanji": "あの方",
+    "vietnamese": "vị kia"
+  },
+  {
+    "lesson": "mina1",
+    "index": "6",
+    "hiragana": "みなさん",
+    "kanji": "皆さん",
+    "vietnamese": "các bạn, các anh, các chị, mọi người"
+  },
+  {
+    "lesson": "mina1",
+    "index": "7",
+    "hiragana": "ふじだいがく",
+    "kanji": "富士大学",
+    "vietnamese": "Trường ĐH Fuji"
+  },
+  {
+    "lesson": "mina1",
+    "index": "8",
+    "hiragana": "～さん",
+    "kanji": "～さん",
+    "vietnamese": "anh ～, chị ～"
+  },
+  {
+    "lesson": "mina1",
+    "index": "9",
+    "hiragana": "～ちゃん",
+    "kanji": "～ちゃん",
+    "vietnamese": "bé ( dùng cho nữ) hoặc gọi thân mật cho trẻ con ( cả nam lẫn nữ)"
+  },
+  {
+    "lesson": "mina1",
+    "index": "10",
+    "hiragana": "～くん",
+    "kanji": "～君",
+    "vietnamese": "bé (dùng cho nam) hoặc gọi thân mật"
+  },
+  {
+    "lesson": "mina1",
+    "index": "11",
+    "hiragana": "～じん",
+    "kanji": "～人",
+    "vietnamese": "người nước ～"
+  },
+  {
+    "lesson": "mina1",
+    "index": "12",
+    "hiragana": "せんせい",
+    "kanji": "先生",
+    "vietnamese": "giáo viên"
+  },
+  {
+    "lesson": "mina1",
+    "index": "13",
+    "hiragana": "きょうし",
+    "kanji": "教師",
+    "vietnamese": "giáo viên ( dùng để nói đến nghề nghiệp)"
+  },
+  {
+    "lesson": "mina1",
+    "index": "14",
+    "hiragana": "がくせい",
+    "kanji": "学生",
+    "vietnamese": "học sinh, sinh viên"
+  },
+  {
+    "lesson": "mina1",
+    "index": "15",
+    "hiragana": "かいしゃいん",
+    "kanji": "会社員",
+    "vietnamese": "nhân viên công ty"
+  },
+  {
+    "lesson": "mina1",
+    "index": "16",
+    "hiragana": "～しゃいん",
+    "kanji": "社員",
+    "vietnamese": "nhân viên công ty ～"
+  },
+  {
+    "lesson": "mina1",
+    "index": "17",
+    "hiragana": "ぎんこういん",
+    "kanji": "銀行員",
+    "vietnamese": "nhân viên ngân hàng"
+  },
+  {
+    "lesson": "mina1",
+    "index": "18",
+    "hiragana": "いしゃ",
+    "kanji": "医者",
+    "vietnamese": "bác sĩ"
+  },
+  {
+    "lesson": "mina1",
+    "index": "19",
+    "hiragana": "けんきゅうしゃ",
+    "kanji": "研究者",
+    "vietnamese": "nghiên cứu sinh"
+  },
+  {
+    "lesson": "mina1",
+    "index": "20",
+    "hiragana": "エンジニア",
+    "kanji": "エンジニア",
+    "vietnamese": "kỹ sư"
+  },
+  {
+    "lesson": "mina1",
+    "index": "21",
+    "hiragana": "だいがく",
+    "kanji": "大学",
+    "vietnamese": "trường đại học"
+  },
+  {
+    "lesson": "mina1",
+    "index": "22",
+    "hiragana": "びょういん",
+    "kanji": "病院",
+    "vietnamese": "bệnh viện"
+  },
+  {
+    "lesson": "mina1",
+    "index": "23",
+    "hiragana": "でんき",
+    "kanji": "電気",
+    "vietnamese": "điện"
+  },
+  {
+    "lesson": "mina1",
+    "index": "24",
+    "hiragana": "だれ",
+    "kanji": "だれ",
+    "vietnamese": "ai (hỏi người nào đó)"
+  },
+  {
+    "lesson": "mina1",
+    "index": "25",
+    "hiragana": "どなた",
+    "kanji": "どなた",
+    "vietnamese": "ngài nào, vị nào (cùng nghĩa trên nhưng lịch sự hơn)"
+  },
+  {
+    "lesson": "mina1",
+    "index": "26",
+    "hiragana": "～さい",
+    "kanji": "－歳",
+    "vietnamese": "～tuổi"
+  },
+  {
+    "lesson": "mina1",
+    "index": "27",
+    "hiragana": "なんさい",
+    "kanji": "何歳",
+    "vietnamese": "mấy tuổi"
+  },
+  {
+    "lesson": "mina1",
+    "index": "28",
+    "hiragana": "おいくつ",
+    "kanji": "おいくつ",
+    "vietnamese": "mấy tuổi (Dùng lịch sự hơn)"
+  },
+  {
+    "lesson": "mina1",
+    "index": "29",
+    "hiragana": "はい",
+    "kanji": "はい",
+    "vietnamese": "vâng"
+  },
+  {
+    "lesson": "mina1",
+    "index": "30",
+    "hiragana": "いいえ",
+    "kanji": "いいえ",
+    "vietnamese": "không"
+  },
+  {
+    "lesson": "mina1",
+    "index": "31",
+    "hiragana": "しつれいですが",
+    "kanji": "失礼ですが",
+    "vietnamese": "xin lỗi ( khi muốn nhờ ai việc gì đó)"
+  },
+  {
+    "lesson": "mina1",
+    "index": "32",
+    "hiragana": "おなまえは？",
+    "kanji": "お名前は？",
+    "vietnamese": "bạn tên gì?"
+  },
+  {
+    "lesson": "mina1",
+    "index": "33",
+    "hiragana": "はじめまして",
+    "kanji": "初めまして。",
+    "vietnamese": "chào lần đầu gặp nhau"
+  },
+  {
+    "lesson": "mina1",
+    "index": "34",
+    "hiragana": "どうぞよろしくおねがいします",
+    "kanji": "どうぞよろしく[お願いします]。",
+    "vietnamese": "rất hân hạnh được làm quen"
+  },
+  {
+    "lesson": "mina1",
+    "index": "35",
+    "hiragana": "こちらは～さんです",
+    "kanji": "こちらは～さんです",
+    "vietnamese": "đây là ngài ～"
+  },
+  {
+    "lesson": "mina1",
+    "index": "36",
+    "hiragana": "～からきました",
+    "kanji": "～からきました",
+    "vietnamese": "đến từ ～"
+  },
+  {
+    "lesson": "mina1",
+    "index": "37",
+    "hiragana": "アメリカ",
+    "kanji": "アメリカ",
+    "vietnamese": "Mỹ"
+  },
+  {
+    "lesson": "mina1",
+    "index": "38",
+    "hiragana": "イギリス",
+    "kanji": "イギリス",
+    "vietnamese": "Anh"
+  },
+  {
+    "lesson": "mina1",
+    "index": "39",
+    "hiragana": "インド",
+    "kanji": "インド",
+    "vietnamese": "Ấn Độ"
+  },
+  {
+    "lesson": "mina1",
+    "index": "40",
+    "hiragana": "インドネシア",
+    "kanji": "インドネシア",
+    "vietnamese": "Indonesia"
+  },
+  {
+    "lesson": "mina1",
+    "index": "41",
+    "hiragana": "かんこく",
+    "kanji": "韓国",
+    "vietnamese": "Hàn quốc"
+  },
+  {
+    "lesson": "mina1",
+    "index": "42",
+    "hiragana": "タイ",
+    "kanji": "タイ",
+    "vietnamese": "Thái Lan"
+  },
+  {
+    "lesson": "mina1",
+    "index": "43",
+    "hiragana": "ちゅうごく",
+    "kanji": "中国",
+    "vietnamese": "Trung Quốc"
+  },
+  {
+    "lesson": "mina1",
+    "index": "44",
+    "hiragana": "ドイツ",
+    "kanji": "ドイツ",
+    "vietnamese": "Đức"
+  },
+  {
+    "lesson": "mina1",
+    "index": "45",
+    "hiragana": "にほん",
+    "kanji": "日本",
+    "vietnamese": "Nhật"
+  },
+  {
+    "lesson": "mina1",
+    "index": "46",
+    "hiragana": "フランス",
+    "kanji": "フランス",
+    "vietnamese": "Pháp"
+  },
+  {
+    "lesson": "mina1",
+    "index": "47",
+    "hiragana": "ブラジル",
+    "kanji": "ブラジル",
+    "vietnamese": "Brazil"
+  },
+  {
+    "lesson": "mina1",
+    "index": "48",
+    "hiragana": "さくらだいがく",
+    "kanji": "さくら大学",
+    "vietnamese": "Trường đại học Sakura"
+  }
+]

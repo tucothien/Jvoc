@@ -1,0 +1,436 @@
+[
+  {
+    "lesson": "mina11",
+    "index": "1",
+    "hiragana": "います",
+    "kanji": "います",
+    "vietnamese": "có (động vật)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "2",
+    "hiragana": "かかります",
+    "kanji": "かかります",
+    "vietnamese": "mất, tốn"
+  },
+  {
+    "lesson": "mina11",
+    "index": "3",
+    "hiragana": "やすみます",
+    "kanji": "休みます",
+    "vietnamese": "nghỉ ngơi"
+  },
+  {
+    "lesson": "mina11",
+    "index": "4",
+    "hiragana": "ひとつ",
+    "kanji": "ひとつ",
+    "vietnamese": "1 cái (đồ vật)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "5",
+    "hiragana": "ふたつ",
+    "kanji": "ふたつ",
+    "vietnamese": "2 cái"
+  },
+  {
+    "lesson": "mina11",
+    "index": "6",
+    "hiragana": "みっつ",
+    "kanji": "みっつ",
+    "vietnamese": "3 cái"
+  },
+  {
+    "lesson": "mina11",
+    "index": "7",
+    "hiragana": "よっつ",
+    "kanji": "よっつ",
+    "vietnamese": "4 cái"
+  },
+  {
+    "lesson": "mina11",
+    "index": "8",
+    "hiragana": "いつつ",
+    "kanji": "いつつ",
+    "vietnamese": "5 cái"
+  },
+  {
+    "lesson": "mina11",
+    "index": "9",
+    "hiragana": "むっつ",
+    "kanji": "むっつ",
+    "vietnamese": "6 cái"
+  },
+  {
+    "lesson": "mina11",
+    "index": "10",
+    "hiragana": "ななつ",
+    "kanji": "ななつ",
+    "vietnamese": "7 cái"
+  },
+  {
+    "lesson": "mina11",
+    "index": "11",
+    "hiragana": "やっつ",
+    "kanji": "やっつ",
+    "vietnamese": "8 cái"
+  },
+  {
+    "lesson": "mina11",
+    "index": "12",
+    "hiragana": "ここのつ",
+    "kanji": "ここのつ",
+    "vietnamese": "9 cái"
+  },
+  {
+    "lesson": "mina11",
+    "index": "13",
+    "hiragana": "とお",
+    "kanji": "とお",
+    "vietnamese": "10 cái"
+  },
+  {
+    "lesson": "mina11",
+    "index": "14",
+    "hiragana": "いくつ",
+    "kanji": "いくつ",
+    "vietnamese": "bao nhiêu cái"
+  },
+  {
+    "lesson": "mina11",
+    "index": "15",
+    "hiragana": "ひとり",
+    "kanji": "一人",
+    "vietnamese": "1 người"
+  },
+  {
+    "lesson": "mina11",
+    "index": "16",
+    "hiragana": "ふたり",
+    "kanji": "二人",
+    "vietnamese": "2 người"
+  },
+  {
+    "lesson": "mina11",
+    "index": "17",
+    "hiragana": "～にん",
+    "kanji": "～人",
+    "vietnamese": "～người"
+  },
+  {
+    "lesson": "mina11",
+    "index": "18",
+    "hiragana": "～だい",
+    "kanji": "～だい",
+    "vietnamese": "～cái, chiếc (máy móc)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "19",
+    "hiragana": "～まい",
+    "kanji": "～まい",
+    "vietnamese": "～tờ, (những vật mỏng như áo, giấy…)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "20",
+    "hiragana": "～かい",
+    "kanji": "～かい",
+    "vietnamese": "～lần, tầng lầu"
+  },
+  {
+    "lesson": "mina11",
+    "index": "21",
+    "hiragana": "りんご",
+    "kanji": "りんご",
+    "vietnamese": "quả táo"
+  },
+  {
+    "lesson": "mina11",
+    "index": "22",
+    "hiragana": "みかん",
+    "kanji": "みかん",
+    "vietnamese": "quýt"
+  },
+  {
+    "lesson": "mina11",
+    "index": "23",
+    "hiragana": "サンドイッチ",
+    "kanji": "サンドイッチ",
+    "vietnamese": "sandwich"
+  },
+  {
+    "lesson": "mina11",
+    "index": "24",
+    "hiragana": "カレー(ライス)",
+    "kanji": "カレー(ライス)",
+    "vietnamese": "(cơm) cà ri"
+  },
+  {
+    "lesson": "mina11",
+    "index": "25",
+    "hiragana": "アイスクリーム",
+    "kanji": "アイスクリーム",
+    "vietnamese": "kem"
+  },
+  {
+    "lesson": "mina11",
+    "index": "26",
+    "hiragana": "きって",
+    "kanji": "切手",
+    "vietnamese": "tem"
+  },
+  {
+    "lesson": "mina11",
+    "index": "27",
+    "hiragana": "はがき",
+    "kanji": "葉書",
+    "vietnamese": "bưu thiếp"
+  },
+  {
+    "lesson": "mina11",
+    "index": "28",
+    "hiragana": "ふうとう",
+    "kanji": "封筒",
+    "vietnamese": "phong bì"
+  },
+  {
+    "lesson": "mina11",
+    "index": "29",
+    "hiragana": "そくたつ",
+    "kanji": "速達",
+    "vietnamese": "chuyển phát nhanh"
+  },
+  {
+    "lesson": "mina11",
+    "index": "30",
+    "hiragana": "かきとめ",
+    "kanji": " 書留",
+    "vietnamese": " gửi bảo đảm"
+  },
+  {
+    "lesson": "mina11",
+    "index": "31",
+    "hiragana": "エアメール",
+    "kanji": "エアメール",
+    "vietnamese": "(gửi bằng) đường hàng không"
+  },
+  {
+    "lesson": "mina11",
+    "index": "32",
+    "hiragana": "ふなびん",
+    "kanji": "船便",
+    "vietnamese": "gửi bằng đường tàu"
+  },
+  {
+    "lesson": "mina11",
+    "index": "33",
+    "hiragana": "りょうしん",
+    "kanji": "両親",
+    "vietnamese": "bố mẹ"
+  },
+  {
+    "lesson": "mina11",
+    "index": "34",
+    "hiragana": "きょうだい",
+    "kanji": "兄弟",
+    "vietnamese": "anh em"
+  },
+  {
+    "lesson": "mina11",
+    "index": "35",
+    "hiragana": "あに",
+    "kanji": "兄",
+    "vietnamese": "anh trai (tôi)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "36",
+    "hiragana": "おにいさん",
+    "kanji": "お兄いさん",
+    "vietnamese": "anh trai (bạn)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "37",
+    "hiragana": "あね",
+    "kanji": "姉",
+    "vietnamese": "chị gái (tôi)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "38",
+    "hiragana": "おねえさん",
+    "kanji": "お姐さん",
+    "vietnamese": "chị gái (bạn)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "39",
+    "hiragana": "おとうと",
+    "kanji": "弟",
+    "vietnamese": "em trai (tôi)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "40",
+    "hiragana": "おとうとさん",
+    "kanji": "弟さん",
+    "vietnamese": "em trai (bạn)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "41",
+    "hiragana": "いもうと",
+    "kanji": "妹",
+    "vietnamese": "em gái (tôi)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "42",
+    "hiragana": "いもうとさん",
+    "kanji": "妹さん",
+    "vietnamese": "em gái (bạn）"
+  },
+  {
+    "lesson": "mina11",
+    "index": "43",
+    "hiragana": "がいこく",
+    "kanji": "外国",
+    "vietnamese": "nước ngoài"
+  },
+  {
+    "lesson": "mina11",
+    "index": "44",
+    "hiragana": "～じかん",
+    "kanji": "～時間",
+    "vietnamese": "～tiếng, ～giờ đồng hồ"
+  },
+  {
+    "lesson": "mina11",
+    "index": "45",
+    "hiragana": "～しゅうかん",
+    "kanji": "～週間",
+    "vietnamese": "～tuần"
+  },
+  {
+    "lesson": "mina11",
+    "index": "46",
+    "hiragana": "～かげつ",
+    "kanji": "～かげつ",
+    "vietnamese": "～tháng"
+  },
+  {
+    "lesson": "mina11",
+    "index": "47",
+    "hiragana": "～ねん",
+    "kanji": "～年",
+    "vietnamese": "～năm"
+  },
+  {
+    "lesson": "mina11",
+    "index": "48",
+    "hiragana": "～ぐらい",
+    "kanji": "～ぐらい",
+    "vietnamese": "khoảng～"
+  },
+  {
+    "lesson": "mina11",
+    "index": "49",
+    "hiragana": "どのくらい",
+    "kanji": "どのくらい",
+    "vietnamese": "bao lâu"
+  },
+  {
+    "lesson": "mina11",
+    "index": "50",
+    "hiragana": "ぜんぶで",
+    "kanji": "全部で",
+    "vietnamese": "tất cả, toàn bộ"
+  },
+  {
+    "lesson": "mina11",
+    "index": "51",
+    "hiragana": "みんな",
+    "kanji": "みんな",
+    "vietnamese": "mọi người"
+  },
+  {
+    "lesson": "mina11",
+    "index": "52",
+    "hiragana": "～だけ",
+    "kanji": "～だけ",
+    "vietnamese": "～chỉ"
+  },
+  {
+    "lesson": "mina11",
+    "index": "53",
+    "hiragana": "いらっしゃいませ",
+    "kanji": "いらっしゃいませ",
+    "vietnamese": "xin mời qúy khách"
+  },
+  {
+    "lesson": "mina11",
+    "index": "54",
+    "hiragana": "いい (お)てんきですね",
+    "kanji": "いい（お）天気ですね",
+    "vietnamese": "trời đẹp quá nhỉ !"
+  },
+  {
+    "lesson": "mina11",
+    "index": "55",
+    "hiragana": "おでかけですか",
+    "kanji": "お出かけますか",
+    "vietnamese": "đi ra ngoài đấy hả ?"
+  },
+  {
+    "lesson": "mina11",
+    "index": "56",
+    "hiragana": "ちょっと ～まで",
+    "kanji": "ちょっと ～まで",
+    "vietnamese": "đến～một chút"
+  },
+  {
+    "lesson": "mina11",
+    "index": "57",
+    "hiragana": "いって いらっしゃい",
+    "kanji": "いって いらっしゃい",
+    "vietnamese": "(anh) đi nhé (lịch sự hơn)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "58",
+    "hiragana": "いってらっしゃい",
+    "kanji": "いってらっしゃい",
+    "vietnamese": "(anh) đi nhé"
+  },
+  {
+    "lesson": "mina11",
+    "index": "59",
+    "hiragana": "いって まいります",
+    "kanji": "いって まいります",
+    "vietnamese": "(tôi) đi đây (lịch sự hơn)"
+  },
+  {
+    "lesson": "mina11",
+    "index": "60",
+    "hiragana": "いってきます",
+    "kanji": "いってきます",
+    "vietnamese": "(tôi) đi đây"
+  },
+  {
+    "lesson": "mina11",
+    "index": "61",
+    "hiragana": "それから",
+    "kanji": "それから",
+    "vietnamese": "sau đó"
+  },
+  {
+    "lesson": "mina11",
+    "index": "62",
+    "hiragana": "オーストラリア",
+    "kanji": "オーストラリア",
+    "vietnamese": "nước Úc"
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "lesson": "mina17",
+    "index": "1",
+    "hiragana": "おぼえます",
+    "kanji": "覚えます",
+    "vietnamese": "nhớ"
+  },
+  {
+    "lesson": "mina17",
+    "index": "2",
+    "hiragana": "わすれます",
+    "kanji": "忘れます",
+    "vietnamese": "quên"
+  },
+  {
+    "lesson": "mina17",
+    "index": "3",
+    "hiragana": "なくします",
+    "kanji": "なくします",
+    "vietnamese": "mất, đánh mất"
+  },
+  {
+    "lesson": "mina17",
+    "index": "4",
+    "hiragana": "[レポートを] だします",
+    "kanji": "出します",
+    "vietnamese": "nộp(báo cáo)"
+  },
+  {
+    "lesson": "mina17",
+    "index": "5",
+    "hiragana": "はらいます",
+    "kanji": "払います",
+    "vietnamese": "trả tiền"
+  },
+  {
+    "lesson": "mina17",
+    "index": "6",
+    "hiragana": "かえします",
+    "kanji": "返します",
+    "vietnamese": "trả lại"
+  },
+  {
+    "lesson": "mina17",
+    "index": "7",
+    "hiragana": "でかけます",
+    "kanji": "出かけます",
+    "vietnamese": "ra ngoài"
+  },
+  {
+    "lesson": "mina17",
+    "index": "8",
+    "hiragana": "ぬぎます",
+    "kanji": "脱ぎます",
+    "vietnamese": "cởi(quần áo, giầy)"
+  },
+  {
+    "lesson": "mina17",
+    "index": "9",
+    "hiragana": "もっていきます",
+    "kanji": "持って行きます",
+    "vietnamese": "mang đi"
+  },
+  {
+    "lesson": "mina17",
+    "index": "10",
+    "hiragana": "もってきます",
+    "kanji": "持って来ます",
+    "vietnamese": "mang đến"
+  },
+  {
+    "lesson": "mina17",
+    "index": "11",
+    "hiragana": "しんぱいします",
+    "kanji": "心配します",
+    "vietnamese": "lo lắng"
+  },
+  {
+    "lesson": "mina17",
+    "index": "12",
+    "hiragana": "ざんぎょうします",
+    "kanji": "残業します",
+    "vietnamese": "làm thêm giờ"
+  },
+  {
+    "lesson": "mina17",
+    "index": "13",
+    "hiragana": "しゅっちょうします",
+    "kanji": "出張します",
+    "vietnamese": "đi công tác"
+  },
+  {
+    "lesson": "mina17",
+    "index": "14",
+    "hiragana": "[くすりを] のみます",
+    "kanji": "「薬を」飲みます",
+    "vietnamese": "uống thuốc"
+  },
+  {
+    "lesson": "mina17",
+    "index": "15",
+    "hiragana": "[おふろに] はいります",
+    "kanji": "「あふろに」入ります",
+    "vietnamese": "tắm bồn"
+  },
+  {
+    "lesson": "mina17",
+    "index": "16",
+    "hiragana": "たいせつ[な]",
+    "kanji": "大切「な」",
+    "vietnamese": "quan trọng"
+  },
+  {
+    "lesson": "mina17",
+    "index": "17",
+    "hiragana": "だいじょうぶ[な]",
+    "kanji": "大丈夫「な」",
+    "vietnamese": "không sao, không có vấn đề gì"
+  },
+  {
+    "lesson": "mina17",
+    "index": "18",
+    "hiragana": "あぶない",
+    "kanji": "危ない",
+    "vietnamese": "nguy hiểm"
+  },
+  {
+    "lesson": "mina17",
+    "index": "19",
+    "hiragana": "もんだい",
+    "kanji": "問題",
+    "vietnamese": "vấn đề"
+  },
+  {
+    "lesson": "mina17",
+    "index": "20",
+    "hiragana": "こたえ",
+    "kanji": "答え",
+    "vietnamese": "câu trả lời"
+  },
+  {
+    "lesson": "mina17",
+    "index": "21",
+    "hiragana": "きんえん",
+    "kanji": "禁煙",
+    "vietnamese": "cấm hút thuốc"
+  },
+  {
+    "lesson": "mina17",
+    "index": "22",
+    "hiragana": "[けんこう] ほけんしょう",
+    "kanji": "健康保険証",
+    "vietnamese": "thẻ bảo hiềm(y tế)"
+  },
+  {
+    "lesson": "mina17",
+    "index": "23",
+    "hiragana": "かぜ",
+    "kanji": "風",
+    "vietnamese": "cảm, cúm"
+  },
+  {
+    "lesson": "mina17",
+    "index": "24",
+    "hiragana": "ねつ",
+    "kanji": "熱",
+    "vietnamese": "sốt"
+  },
+  {
+    "lesson": "mina17",
+    "index": "25",
+    "hiragana": "びょうき",
+    "kanji": "病気",
+    "vietnamese": "ốm, bệnh"
+  },
+  {
+    "lesson": "mina17",
+    "index": "26",
+    "hiragana": "くすり",
+    "kanji": "薬",
+    "vietnamese": "thuốc"
+  },
+  {
+    "lesson": "mina17",
+    "index": "27",
+    "hiragana": "[お]ふろ",
+    "kanji": "[お]ふろ",
+    "vietnamese": "bồn tắm"
+  },
+  {
+    "lesson": "mina17",
+    "index": "28",
+    "hiragana": "うわぎ",
+    "kanji": "上着",
+    "vietnamese": "áo khoác"
+  },
+  {
+    "lesson": "mina17",
+    "index": "29",
+    "hiragana": "したぎ",
+    "kanji": "下着",
+    "vietnamese": "quần áo lót"
+  },
+  {
+    "lesson": "mina17",
+    "index": "30",
+    "hiragana": "せんせい",
+    "kanji": "先生",
+    "vietnamese": "bác sĩ"
+  },
+  {
+    "lesson": "mina17",
+    "index": "31",
+    "hiragana": "２、３にち",
+    "kanji": "２、３日",
+    "vietnamese": "vài ngày"
+  },
+  {
+    "lesson": "mina17",
+    "index": "32",
+    "hiragana": "２、３～",
+    "kanji": "２、３～",
+    "vietnamese": "vài ~ – ~"
+  },
+  {
+    "lesson": "mina17",
+    "index": "33",
+    "hiragana": "～までに",
+    "kanji": "～までに",
+    "vietnamese": "trước ~ (chỉ thời gian)"
+  },
+  {
+    "lesson": "mina17",
+    "index": "34",
+    "hiragana": "ですから",
+    "kanji": "ですから",
+    "vietnamese": "vì thế, vì vậy, do đó"
+  },
+  {
+    "lesson": "mina17",
+    "index": "35",
+    "hiragana": "どうしましたか",
+    "kanji": "どうしましたか",
+    "vietnamese": "Có vần đề gì?/Anh/ Chị bị làm sao?"
+  },
+  {
+    "lesson": "mina17",
+    "index": "36",
+    "hiragana": "[～が] いたいです",
+    "kanji": "[～が] いたいです",
+    "vietnamese": "Tôi bị đau～"
+  },
+  {
+    "lesson": "mina17",
+    "index": "37",
+    "hiragana": "のど",
+    "kanji": "のど",
+    "vietnamese": "họng"
+  },
+  {
+    "lesson": "mina17",
+    "index": "38",
+    "hiragana": "おだいじに",
+    "kanji": "おだいじに",
+    "vietnamese": "Anh/ chị nhớ giữ gìn sức khỏe.(nói vs người bị ốm)"
+  }
+]
