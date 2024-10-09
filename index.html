@@ -51,7 +51,7 @@
 		currentVocList = shuffleArray(structuredClone(selectedVocList))
 		currentWord = -1
 		current_mode = 'hiragana' // hiragana, kanji, vietnamese
-		modeList = ['hiragana', 'kanji', 'vietnamese', 'audio']
+		modeList = ['hiragana', 'kanji', 'vietnamese']
 		modeBtnList = ['#hiraB', '#kanjiB', '#vietB', '#audioB']
 		is_first_click = true; // first click will display the mode only, second click dislay all
 
@@ -92,7 +92,7 @@
 			if(current_mode=='audio'){
 				// currentWord=getRandomWord()
 				moveCurrentWord(isNext);
-				playAudio(currentVocList[currentWord])
+				// playAudio(currentVocList[currentWord])
 				showWords(currentVocList[currentWord], 'all')
 			} else {
 				if(is_first_click){
@@ -189,10 +189,10 @@
 
 		$('#nextB').click(function() {move(isNext=true);});
 		$('#backB').click(function() {move(isNext=false);});
-		$('#playB').click(function() {playAudio(currentVocList[currentWord])});
+		// $('#playB').click(function() {playAudio(currentVocList[currentWord])});
 		
 		$('#loopB').on('click', function() {
-			$('#audioB').click()
+			// $('#audioB').click()
 			if (!intervalId) {
 				move(isNext=true)
 				startLoop(currentInterval)
@@ -261,11 +261,11 @@
 	    });
 
 	    // Double click event handler
-	    $("#swipeArea").on('dblclick', function() {
-	        playAudio(currentVocList[currentWord])
-	        if(intervalId){startLoop(currentInterval)}
-	        clickCount = 0; // Reset click count after double click
-	    });
+	    // $("#swipeArea").on('dblclick', function() {
+	    //     playAudio(currentVocList[currentWord])
+	    //     if(intervalId){startLoop(currentInterval)}
+	    //     clickCount = 0; // Reset click count after double click
+	    // });
 
 	    $("#swipeArea").css({top: $("#textArea").offset().top});
 		$("#swipeArea").swipe({
