@@ -5057,7 +5057,7 @@ data = [
       {
         "index": "9",
         "hiragana": "やめます [かいしゃを～]",
-        "kanji": "やめます [会社を～]",
+        "kanji": "止めます [会社を～]",
         "vietnamese": "bỏ, thôi [việc công ty]",
         "audio": "data/audio/minna16_9.mp3"
       },
@@ -5176,7 +5176,7 @@ data = [
       {
         "index": "26",
         "hiragana": "おなか",
-        "kanji": "おなか",
+        "kanji": "お腹",
         "vietnamese": "bụng",
         "audio": "data/audio/minna16_26.mp3"
       },
@@ -5232,7 +5232,7 @@ data = [
       {
         "index": "34",
         "hiragana": "りゅうがくせい",
-        "kanji": "りゅうがくせい",
+        "kanji": "留学生",
         "vietnamese": "lưu học sinh, du học sinh",
         "audio": "data/audio/minna16_34.mp3"
       },
@@ -5258,25 +5258,11 @@ data = [
         "audio": "data/audio/minna16_37.mp3"
       },
       {
-        "index": "38",
-        "hiragana": "[いいえ、]まだまだです。",
-        "kanji": "[いいえ、]まだまだです。",
-        "vietnamese": "[không,] tôi còn kém lắm. (cách nói khiêm nhường khi ai đó khen)",
-        "audio": "data/audio/minna16_38.mp3"
-      },
-      {
         "index": "39",
         "hiragana": "まず",
-        "kanji": "まず",
+        "kanji": "先ず",
         "vietnamese": "trước hết, đầu tiên",
         "audio": "data/audio/minna16_39.mp3"
-      },
-      {
-        "index": "40",
-        "hiragana": "キャッシュカード",
-        "kanji": "キャッシュカード",
-        "vietnamese": "thẻ ngân hàng, thẻ ATM",
-        "audio": "data/audio/minna16_40.mp3"
       },
       {
         "index": "41",
@@ -5309,59 +5295,10 @@ data = [
       {
         "index": "45",
         "hiragana": "ボタン",
-        "kanji": "[",
-        "vietnamese": "nút",
+        "kanji": "ボタン",
+        "vietnamese": "nút áo",
         "audio": "data/audio/minna16_45.mp3"
       },
-      {
-        "index": "46",
-        "hiragana": "アジア",
-        "kanji": "神社",
-        "vietnamese": "đền thờ đạo thần",
-        "audio": "data/audio/minna16_46.mp3"
-      },
-      {
-        "index": "47",
-        "hiragana": "りゅうがくせい",
-        "kanji": "りゅうがくせい",
-        "vietnamese": "lưu học sinh, du học sinh",
-        "audio": "data/audio/minna16_47.mp3"
-      },
-      {
-        "index": "48",
-        "hiragana": "一ばん",
-        "kanji": "一ばん",
-        "vietnamese": "châu Á",
-        "audio": "data/audio/minna16_48.mp3"
-      },
-      {
-        "index": "49",
-        "hiragana": "ベトナム",
-        "kanji": "ベトナム",
-        "vietnamese": "làm thế nào~",
-        "audio": "data/audio/minna16_49.mp3"
-      },
-      {
-        "index": "50",
-        "hiragana": "どの～",
-        "kanji": "どの～",
-        "vietnamese": "cái nào~ (dùng với trường hợp từ ba thứ trở lên)",
-        "audio": "data/audio/minna16_50.mp3"
-      },
-      {
-        "index": "51",
-        "hiragana": "[いいえ、]まだまだです。",
-        "kanji": "[いいえ、]まだまだです。",
-        "vietnamese": "[không,] tôi còn kém lắm. (cách nói khiêm nhường khi ai đó khen)",
-        "audio": "data/audio/minna16_51.mp3"
-      },
-      {
-        "index": "52",
-        "hiragana": "まず",
-        "kanji": "まず",
-        "vietnamese": "trước hết, đầu tiên",
-        "audio": "data/audio/minna16_52.mp3"
-      }
     ]
   },
   {
