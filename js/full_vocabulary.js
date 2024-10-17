@@ -5321,7 +5321,7 @@ data = [
       {
         "index": "3",
         "hiragana": "なくします",
-        "kanji": "なくします",
+        "kanji": "無くします",
         "vietnamese": "mất, đánh mất",
         "audio": "data/audio/minna17_3.mp3"
       },
@@ -5405,7 +5405,7 @@ data = [
       {
         "index": "15",
         "hiragana": "[おふろに] はいります",
-        "kanji": "「あふろに」入ります",
+        "kanji": "「お風呂に」入ります",
         "vietnamese": "tắm bồn",
         "audio": "data/audio/minna17_15.mp3"
       },
@@ -5452,13 +5452,6 @@ data = [
         "audio": "data/audio/minna17_21.mp3"
       },
       {
-        "index": "22",
-        "hiragana": "[けんこう] ほけんしょう",
-        "kanji": "健康保険証",
-        "vietnamese": "thẻ bảo hiềm(y tế)",
-        "audio": "data/audio/minna17_22.mp3"
-      },
-      {
         "index": "23",
         "hiragana": "かぜ",
         "kanji": "風",
@@ -5489,7 +5482,7 @@ data = [
       {
         "index": "27",
         "hiragana": "[お]ふろ",
-        "kanji": "[お]ふろ",
+        "kanji": "[お]風呂",
         "vietnamese": "bồn tắm",
         "audio": "data/audio/minna17_27.mp3"
       },
@@ -5515,20 +5508,6 @@ data = [
         "audio": "data/audio/minna17_30.mp3"
       },
       {
-        "index": "31",
-        "hiragana": "２、３にち",
-        "kanji": "２、３日",
-        "vietnamese": "vài ngày",
-        "audio": "data/audio/minna17_31.mp3"
-      },
-      {
-        "index": "32",
-        "hiragana": "２、３～",
-        "kanji": "２、３～",
-        "vietnamese": "vài ~ – ~",
-        "audio": "data/audio/minna17_32.mp3"
-      },
-      {
         "index": "33",
         "hiragana": "～までに",
         "kanji": "～までに",
@@ -5543,13 +5522,6 @@ data = [
         "audio": "data/audio/minna17_34.mp3"
       },
       {
-        "index": "35",
-        "hiragana": "どうしましたか",
-        "kanji": "どうしましたか",
-        "vietnamese": "Có vần đề gì?/Anh/ Chị bị làm sao?",
-        "audio": "data/audio/minna17_35.mp3"
-      },
-      {
         "index": "36",
         "hiragana": "[～が] いたいです",
         "kanji": "[～が] いたいです",
@@ -5559,16 +5531,9 @@ data = [
       {
         "index": "37",
         "hiragana": "のど",
-        "kanji": "のど",
+        "kanji": "喉",
         "vietnamese": "họng",
         "audio": "data/audio/minna17_37.mp3"
-      },
-      {
-        "index": "38",
-        "hiragana": "おだいじに",
-        "kanji": "おだいじに",
-        "vietnamese": "Anh/ chị nhớ giữ gìn sức khỏe.(nói vs người bị ốm)",
-        "audio": "data/audio/minna17_38.mp3"
       }
     ]
   },
