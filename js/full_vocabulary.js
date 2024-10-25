@@ -5543,7 +5543,7 @@ data = [
       {
         "index": "1",
         "hiragana": "できます",
-        "kanji": "できます",
+        "kanji": "出来ます",
         "vietnamese": "có thể",
         "audio": "data/audio/minna18_1.mp3"
       },
