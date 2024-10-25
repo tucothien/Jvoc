@@ -5585,7 +5585,7 @@ data = [
       {
         "index": "7",
         "hiragana": "かえます",
-        "kanji": "かえます",
+        "kanji": "変えます",
         "vietnamese": "đổi",
         "audio": "data/audio/minna18_7.mp3"
       },
@@ -5681,32 +5681,11 @@ data = [
         "audio": "data/audio/minna18_20.mp3"
       },
       {
-        "index": "21",
-        "hiragana": "へえ",
-        "kanji": "へえ",
-        "vietnamese": "thế à",
-        "audio": "data/audio/minna18_21.mp3"
-      },
-      {
-        "index": "22",
-        "hiragana": "ピアノ",
-        "kanji": "ピアノ",
-        "vietnamese": "đàn piano",
-        "audio": "data/audio/minna18_22.mp3"
-      },
-      {
         "index": "23",
         "hiragana": "―メートル",
         "kanji": "―メートル",
         "vietnamese": "mét",
         "audio": "data/audio/minna18_23.mp3"
-      },
-      {
-        "index": "24",
-        "hiragana": "それはおもしろいですね",
-        "kanji": "それはおもしろいですね",
-        "vietnamese": "Hay nhỉ",
-        "audio": "data/audio/minna18_24.mp3"
       },
       {
         "index": "25",
@@ -5725,7 +5704,7 @@ data = [
       {
         "index": "27",
         "hiragana": "ぜひ",
-        "kanji": "ぜひ",
+        "kanji": "是非",
         "vietnamese": "nhất định",
         "audio": "data/audio/minna18_27.mp3"
       }
