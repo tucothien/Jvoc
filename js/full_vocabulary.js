@@ -5744,7 +5744,7 @@ data = [
       {
         "index": "5",
         "hiragana": "なります",
-        "kanji": "なります",
+        "kanji": "成ります",
         "vietnamese": "trở nên ,trở thành",
         "audio": "data/audio/minna19_5.mp3"
       },
@@ -5784,20 +5784,6 @@ data = [
         "audio": "data/audio/minna19_10.mp3"
       },
       {
-        "index": "11",
-        "hiragana": "ちょうしがわるい",
-        "kanji": "調子が悪い",
-        "vietnamese": "tình trạng xấu",
-        "audio": "data/audio/minna19_11.mp3"
-      },
-      {
-        "index": "12",
-        "hiragana": "ちょうしがいい",
-        "kanji": "調子がいい",
-        "vietnamese": "tình trạng tốt",
-        "audio": "data/audio/minna19_12.mp3"
-      },
-      {
         "index": "13",
         "hiragana": "おちゃ",
         "kanji": "お茶",
@@ -5812,25 +5798,11 @@ data = [
         "audio": "data/audio/minna19_14.mp3"
       },
       {
-        "index": "15",
-        "hiragana": "パチンコ",
-        "kanji": "パチンコ",
-        "vietnamese": "trò chơi pachinko",
-        "audio": "data/audio/minna19_15.mp3"
-      },
-      {
         "index": "16",
         "hiragana": "ゴルフ",
         "kanji": "ゴルフ",
         "vietnamese": "gôn",
         "audio": "data/audio/minna19_16.mp3"
-      },
-      {
-        "index": "17",
-        "hiragana": "ひ",
-        "kanji": "日",
-        "vietnamese": "ngày",
-        "audio": "data/audio/minna19_17.mp3"
       },
       {
         "index": "18",
@@ -5842,7 +5814,7 @@ data = [
       {
         "index": "19",
         "hiragana": "だんだん",
-        "kanji": "だんだん",
+        "kanji": "段々",
         "vietnamese": "dần dần",
         "audio": "data/audio/minna19_19.mp3"
       },
@@ -5859,13 +5831,6 @@ data = [
         "kanji": "一度も",
         "vietnamese": "chưa lần nào",
         "audio": "data/audio/minna19_21.mp3"
-      },
-      {
-        "index": "22",
-        "hiragana": "おかげさまで",
-        "kanji": "おかげさまで",
-        "vietnamese": "Cám ơn (khi nhận được sự giúp đỡ của ai đó)",
-        "audio": "data/audio/minna19_22.mp3"
       },
       {
         "index": "23",
@@ -5898,7 +5863,7 @@ data = [
       {
         "index": "27",
         "hiragana": "しかし",
-        "kanji": "しかし",
+        "kanji": "然し",
         "vietnamese": "tuy nhiên",
         "audio": "data/audio/minna19_27.mp3"
       },
@@ -5920,7 +5885,7 @@ data = [
         "index": "30",
         "hiragana": "ケーキ",
         "kanji": "ケーキ",
-        "vietnamese": " bánh ga-tô",
+        "vietnamese": "bánh ga-tô",
         "audio": "data/audio/minna19_30.mp3"
       }
     ]
