@@ -5922,13 +5922,6 @@ data = [
         "audio": "data/audio/minna20_4.mp3"
       },
       {
-        "index": "5",
-        "hiragana": "でんわします",
-        "kanji": "電話します",
-        "vietnamese": "gọi điện thoại",
-        "audio": "data/audio/minna20_5.mp3"
-      },
-      {
         "index": "6",
         "hiragana": "ぼく",
         "kanji": "僕",
@@ -5948,27 +5941,6 @@ data = [
         "kanji": "～君",
         "vietnamese": "(hậu tố theo sau tên của em trai)",
         "audio": "data/audio/minna20_8.mp3"
-      },
-      {
-        "index": "9",
-        "hiragana": "うん",
-        "kanji": "うん",
-        "vietnamese": "có(cách nói thân mật của “はい”)",
-        "audio": "data/audio/minna20_9.mp3"
-      },
-      {
-        "index": "10",
-        "hiragana": "ううん",
-        "kanji": "ううん",
-        "vietnamese": "không(cách nói thân mật của “いいえ”)",
-        "audio": "data/audio/minna20_10.mp3"
-      },
-      {
-        "index": "11",
-        "hiragana": "サラリーマン",
-        "kanji": "辛い",
-        "vietnamese": "người làm việc cho các công ty",
-        "audio": "data/audio/minna20_11.mp3"
       },
       {
         "index": "12",
@@ -5992,13 +5964,6 @@ data = [
         "audio": "data/audio/minna20_14.mp3"
       },
       {
-        "index": "15",
-        "hiragana": "ビザ",
-        "kanji": "季節",
-        "vietnamese": "visa",
-        "audio": "data/audio/minna20_15.mp3"
-      },
-      {
         "index": "16",
         "hiragana": "はじめ",
         "kanji": "始め",
@@ -6013,27 +5978,6 @@ data = [
         "audio": "data/audio/minna20_17.mp3"
       },
       {
-        "index": "18",
-        "hiragana": "こっち",
-        "kanji": "秋",
-        "vietnamese": "phía này",
-        "audio": "data/audio/minna20_18.mp3"
-      },
-      {
-        "index": "19",
-        "hiragana": "そっち",
-        "kanji": "冬",
-        "vietnamese": "phía đó",
-        "audio": "data/audio/minna20_19.mp3"
-      },
-      {
-        "index": "20",
-        "hiragana": "あっち",
-        "kanji": "天気",
-        "vietnamese": "phía kia",
-        "audio": "data/audio/minna20_20.mp3"
-      },
-      {
         "index": "21",
         "hiragana": "どっち",
         "kanji": "どっち",
@@ -6046,48 +5990,6 @@ data = [
         "kanji": "この間",
         "vietnamese": "hôm nọ",
         "audio": "data/audio/minna20_22.mp3"
-      },
-      {
-        "index": "23",
-        "hiragana": "みんなで",
-        "kanji": "みんなで",
-        "vietnamese": "mọi người",
-        "audio": "data/audio/minna20_23.mp3"
-      },
-      {
-        "index": "24",
-        "hiragana": "～けど",
-        "kanji": "～けど",
-        "vietnamese": "nhưng(cách nói thân mật của “が”)",
-        "audio": "data/audio/minna20_24.mp3"
-      },
-      {
-        "index": "25",
-        "hiragana": "くにへかえるの",
-        "kanji": "国へ帰るの",
-        "vietnamese": "Anh/chị có về nước không?",
-        "audio": "data/audio/minna20_25.mp3"
-      },
-      {
-        "index": "26",
-        "hiragana": "どうするの",
-        "kanji": "海",
-        "vietnamese": "Anh/chị tính sao?",
-        "audio": "data/audio/minna20_26.mp3"
-      },
-      {
-        "index": "27",
-        "hiragana": "どうしようかな",
-        "kanji": "どうしようかな",
-        "vietnamese": "Tính sao đây/để tôi xem",
-        "audio": "data/audio/minna20_27.mp3"
-      },
-      {
-        "index": "28",
-        "hiragana": "良かったら",
-        "kanji": "良かったら",
-        "vietnamese": "nếu anh/chị thích thì",
-        "audio": "data/audio/minna20_28.mp3"
       },
       {
         "index": "29",
