@@ -6055,7 +6055,7 @@ data = [
       {
         "index": "8",
         "hiragana": "むだ",
-        "kanji": "むだ",
+        "kanji": "無駄",
         "vietnamese": "vô ích",
         "audio": "data/audio/minna21_8.mp3"
       },
@@ -6072,13 +6072,6 @@ data = [
         "kanji": "同じ",
         "vietnamese": "giống",
         "audio": "data/audio/minna21_10.mp3"
-      },
-      {
-        "index": "11",
-        "hiragana": "すごい",
-        "kanji": "すごい",
-        "vietnamese": "giỏi",
-        "audio": "data/audio/minna21_11.mp3"
       },
       {
         "index": "12",
@@ -6144,32 +6137,11 @@ data = [
         "audio": "data/audio/minna21_20.mp3"
       },
       {
-        "index": "21",
-        "hiragana": "ユーモア",
-        "kanji": "ユーモア",
-        "vietnamese": "hài hước",
-        "audio": "data/audio/minna21_21.mp3"
-      },
-      {
-        "index": "22",
-        "hiragana": "デザイン",
-        "kanji": "デザイン",
-        "vietnamese": "thiết kế",
-        "audio": "data/audio/minna21_22.mp3"
-      },
-      {
         "index": "23",
         "hiragana": "こうつう",
         "kanji": "交通",
         "vietnamese": "giao thông",
         "audio": "data/audio/minna21_23.mp3"
-      },
-      {
-        "index": "24",
-        "hiragana": "ラッシュ",
-        "kanji": "ラッシュ",
-        "vietnamese": "giờ cao điểm",
-        "audio": "data/audio/minna21_24.mp3"
       },
       {
         "index": "25",
@@ -6181,7 +6153,7 @@ data = [
       {
         "index": "26",
         "hiragana": "たぶん",
-        "kanji": "たぶん",
+        "kanji": "多分",
         "vietnamese": "chắc, có thể",
         "audio": "data/audio/minna21_26.mp3"
       },
@@ -6193,20 +6165,6 @@ data = [
         "audio": "data/audio/minna21_27.mp3"
       },
       {
-        "index": "28",
-        "hiragana": "ほんとうに",
-        "kanji": "本当に",
-        "vietnamese": "thật sự",
-        "audio": "data/audio/minna21_28.mp3"
-      },
-      {
-        "index": "29",
-        "hiragana": "そんなに",
-        "kanji": "そんなに",
-        "vietnamese": "(không ) ~ lắm",
-        "audio": "data/audio/minna21_29.mp3"
-      },
-      {
         "index": "30",
         "hiragana": "～について",
         "kanji": "～について",
@@ -6214,46 +6172,11 @@ data = [
         "audio": "data/audio/minna21_30.mp3"
       },
       {
-        "index": "31",
-        "hiragana": "しかたがありません",
-        "kanji": "しかたがありません",
-        "vietnamese": "không còn cách nào khác",
-        "audio": "data/audio/minna21_31.mp3"
-      },
-      {
-        "index": "32",
-        "hiragana": "しばらくですね",
-        "kanji": "しばらくですね",
-        "vietnamese": "Lâu rồi không gặp",
-        "audio": "data/audio/minna21_32.mp3"
-      },
-      {
-        "index": "33",
-        "hiragana": "～でものみませんか",
-        "kanji": "～でも飲みませんか",
-        "vietnamese": "Anh/chị uống (cà phê, rượu hay cái gì đó) nhé",
-        "audio": "data/audio/minna21_33.mp3"
-      },
-      {
-        "index": "34",
-        "hiragana": "みないと。。。",
-        "kanji": "見ないと。。。",
-        "vietnamese": "phải xem…",
-        "audio": "data/audio/minna21_34.mp3"
-      },
-      {
         "index": "35",
         "hiragana": "もちろん",
         "kanji": "もちろん",
         "vietnamese": "tất nhiên",
         "audio": "data/audio/minna21_35.mp3"
-      },
-      {
-        "index": "36",
-        "hiragana": "カンガルー",
-        "kanji": "カンガルー",
-        "vietnamese": "căn-gu-ru",
-        "audio": "data/audio/minna21_36.mp3"
       }
     ]
   },
