@@ -6193,14 +6193,14 @@ data = [
       {
         "index": "2",
         "hiragana": "はきます「くつを～」",
-        "kanji": "はきます「くつを～」",
+        "kanji": "帯きます「くつを～」",
         "vietnamese": "mang (giày,…)",
         "audio": "data/audio/minna22_2.mp3"
       },
       {
         "index": "3",
         "hiragana": "かぶります「ぼうしを～」",
-        "kanji": "かぶります「ぼうしを～」",
+        "kanji": "被ります「ぼうしを～」",
         "vietnamese": "đội (nón,…)",
         "audio": "data/audio/minna22_3.mp3"
       },
@@ -6256,23 +6256,9 @@ data = [
       {
         "index": "11",
         "hiragana": "よく",
-        "kanji": "～人",
-        "vietnamese": "thường",
+        "kanji": "よく",
+        "vietnamese": "thường (xuyên)",
         "audio": "data/audio/minna22_11.mp3"
-      },
-      {
-        "index": "12",
-        "hiragana": "おめでとうございます",
-        "kanji": "おめでとうございます",
-        "vietnamese": "Chúc mừng",
-        "audio": "data/audio/minna22_12.mp3"
-      },
-      {
-        "index": "13",
-        "hiragana": "こちら",
-        "kanji": "こちら",
-        "vietnamese": "cái này (cách nói lịch sử của “これ”)",
-        "audio": "data/audio/minna22_13.mp3"
       },
       {
         "index": "14",
@@ -6282,23 +6268,9 @@ data = [
         "audio": "data/audio/minna22_14.mp3"
       },
       {
-        "index": "15",
-        "hiragana": "うーん。",
-        "kanji": "会社員",
-        "vietnamese": "để tôi xem/ừ/thế nào nhỉ",
-        "audio": "data/audio/minna22_15.mp3"
-      },
-      {
-        "index": "16",
-        "hiragana": "ダイニングキッチン",
-        "kanji": "ダイニングキッチン",
-        "vietnamese": "bếp kèm phòng ăn",
-        "audio": "data/audio/minna22_16.mp3"
-      },
-      {
         "index": "17",
         "hiragana": "わしつ",
-        "kanji": "わしつ",
+        "kanji": "和室",
         "vietnamese": "phòng ăn kiểu Nhật",
         "audio": "data/audio/minna22_17.mp3"
       },
@@ -6306,7 +6278,7 @@ data = [
         "index": "18",
         "hiragana": "おしいれ",
         "kanji": "押し入れ",
-        "vietnamese": "chỗ để chăn gối trong ăn phòng kiểu Nhật",
+        "vietnamese": "chỗ để chăn gối trong phòng kiểu Nhật",
         "audio": "data/audio/minna22_18.mp3"
       },
       {
@@ -6322,34 +6294,6 @@ data = [
         "kanji": "アパート",
         "vietnamese": "nhà chung cư",
         "audio": "data/audio/minna22_20.mp3"
-      },
-      {
-        "index": "21",
-        "hiragana": "パリ",
-        "kanji": "パリ",
-        "vietnamese": "Pa-ri",
-        "audio": "data/audio/minna22_21.mp3"
-      },
-      {
-        "index": "22",
-        "hiragana": "ばんりのちょうじょう",
-        "kanji": "万里の長城",
-        "vietnamese": "Vạn lý trường thành",
-        "audio": "data/audio/minna22_22.mp3"
-      },
-      {
-        "index": "23",
-        "hiragana": "よかかいはつセンター",
-        "kanji": "余暇開発センター",
-        "vietnamese": "Trung tâm phát triển hoat động giải trí cho người dân",
-        "audio": "data/audio/minna22_23.mp3"
-      },
-      {
-        "index": "24",
-        "hiragana": "レジャーはくしょ",
-        "kanji": "レジャー白書",
-        "vietnamese": "sách trắng về sử dụng thời gian rảnh rỗi",
-        "audio": "data/audio/minna22_24.mp3"
       }
     ]
   },
