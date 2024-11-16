@@ -6220,8 +6220,8 @@ data = [
       },
       {
         "index": "6",
-        "hiragana": "コートー",
-        "kanji": "コートー",
+        "hiragana": "コート",
+        "kanji": "コート",
         "vietnamese": "áo khoác",
         "audio": "data/audio/minna22_6.mp3"
       },
@@ -6305,6 +6305,7 @@ data = [
         "hiragana": "ききます「先生に」",
         "kanji": "聞きます",
         "vietnamese": "hỏi (giáo viên)",
+        "info": "tương tự 質問します",
         "audio": "data/audio/minna23_1.mp3"
       },
       {
@@ -6317,8 +6318,9 @@ data = [
       {
         "index": "3",
         "hiragana": "こうさてん",
-        "kanji": "操作店",
+        "kanji": "交差点",
         "vietnamese": "ngã tư",
+        "info": "交 (giao) 差 (sai)",
         "audio": "data/audio/minna23_3.mp3"
       },
       {
@@ -6326,76 +6328,81 @@ data = [
         "hiragana": "しんごう",
         "kanji": "信号",
         "vietnamese": "đèn tín hiệu",
+        "info": "信 (tín) 号 (hiệu, hào)",
         "audio": "data/audio/minna23_4.mp3"
       },
       {
         "index": "5",
         "hiragana": "ひっこしします",
-        "kanji": "引越しします",
+        "kanji": "引っ越し",
         "vietnamese": "chuyển nhà",
+        "info": "越 (Việt: vượt qua, Việt Nam)",
         "audio": "data/audio/minna23_5.mp3"
       },
       {
         "index": "6",
-        "hiragana": "まわします",
-        "kanji": "回します",
+        "hiragana": "まわします「ボタンを」",
+        "kanji": "回します「ボタンを」",
         "vietnamese": "vặn (nút)",
         "audio": "data/audio/minna23_6.mp3"
       },
       {
         "index": "7",
         "hiragana": "ひきます",
-        "kanji": "引きます",
-        "vietnamese": "kéo",
+        "kanji": "引きます「ドアを」",
+        "vietnamese": "kéo (cửa)",
         "audio": "data/audio/minna23_7.mp3"
       },
       {
         "index": "8",
         "hiragana": "かえます",
-        "kanji": "変えます",
-        "vietnamese": "đổi",
+        "kanji": "変えます「予定を」",
+        "vietnamese": "đổi (kế hoạch)",
         "audio": "data/audio/minna23_8.mp3"
       },
       {
         "index": "9",
         "hiragana": "さわります",
-        "kanji": "触ります",
-        "vietnamese": "sờ ,chạm vào",
+        "kanji": "触ります「机を」",
+        "vietnamese": "sờ, chạm vào (cái bàn)",
+        "info": "触(xúc) 角(giác) 虫(trùng) <br/>を intentionally, に un/intentionally",
         "audio": "data/audio/minna23_9.mp3"
       },
       {
         "index": "10",
         "hiragana": "でます",
-        "kanji": "出ます",
-        "vietnamese": "ra,đi ra",
+        "kanji": "出ます「駅を」",
+        "vietnamese": "ra, đi ra (khỏi ga)",
         "audio": "data/audio/minna23_10.mp3"
       },
       {
         "index": "11",
         "hiragana": "うごきます",
-        "kanji": "動きます。",
-        "vietnamese": "chuyển động ,chạy",
+        "kanji": "動きます「時計が」",
+        "vietnamese": "chuyển động, chạy (đồng hồ)",
         "audio": "data/audio/minna23_11.mp3"
       },
       {
         "index": "12",
         "hiragana": "あるきます",
-        "kanji": "歩きます",
-        "vietnamese": "đi bộ (trên đường)",
+        "kanji": "歩きます「公園を」",
+        "vietnamese": "đi bộ (trong công viên)",
+        "info": "歩 bộ",
         "audio": "data/audio/minna23_12.mp3"
       },
       {
         "index": "13",
         "hiragana": "わたります",
-        "kanji": "渡ります",
-        "vietnamese": "qua ,đi qua (cầu)",
+        "kanji": "渡ります「橋を」",
+        "vietnamese": "qua, đi qua (cầu)",
+        "info": "渡 (độ: qua)",
         "audio": "data/audio/minna23_13.mp3"
       },
       {
         "index": "14",
         "hiragana": "きをつけます",
         "kanji": "気を付けます",
-        "vietnamese": "chú ý,cẩn thận",
+        "vietnamese": "chú ý, cẩn thận",
         "audio": "data/audio/minna23_14.mp3"
       },
       {
@@ -6410,20 +6417,14 @@ data = [
         "hiragana": "こしょう",
         "kanji": "故障",
         "vietnamese": "hỏng",
+        "info": "故 (cố) 障(chướng) 章(chương (sách))",
         "audio": "data/audio/minna23_16.mp3"
-      },
-      {
-        "index": "17",
-        "hiragana": "―や",
-        "kanji": "ー屋",
-        "vietnamese": "cửa hàng–",
-        "audio": "data/audio/minna23_17.mp3"
       },
       {
         "index": "18",
         "hiragana": "サイズ",
         "kanji": "サイズ",
-        "vietnamese": "cỡ,kích thước",
+        "vietnamese": "cỡ, kích thước",
         "audio": "data/audio/minna23_18.mp3"
       },
       {
@@ -6438,6 +6439,7 @@ data = [
         "hiragana": "きかい",
         "kanji": "機械",
         "vietnamese": "máy móc",
+        "info": "機 (cơ) 幾何 (きか: hình học) <br/>械 (giới: khí giới) 戒 (giới: giới luật)",
         "audio": "data/audio/minna23_20.mp3"
       },
       {
@@ -6452,6 +6454,7 @@ data = [
         "hiragana": "かど",
         "kanji": "角",
         "vietnamese": "góc",
+        "info": "角 (giác)",
         "audio": "data/audio/minna23_22.mp3"
       },
       {
@@ -6459,6 +6462,7 @@ data = [
         "hiragana": "はし",
         "kanji": "橋",
         "vietnamese": "cầu",
+        "info": "橋 (kiều) 夭 (yểu)",
         "audio": "data/audio/minna23_23.mp3"
       },
       {
@@ -6474,13 +6478,6 @@ data = [
         "kanji": "お正月",
         "vietnamese": "tết dương lịch",
         "audio": "data/audio/minna23_25.mp3"
-      },
-      {
-        "index": "26",
-        "hiragana": "ごちそうさまでした",
-        "kanji": "ごちそうさまでした",
-        "vietnamese": "xin cảm ơn anh chị đã đãi tôi bữa cơm",
-        "audio": "data/audio/minna23_26.mp3"
       },
       {
         "index": "27",

@@ -150,6 +150,8 @@
 			switch (mode) {
 				case 'all':
 					displayText=word['kanji'] + '<br/>'+word['hiragana'] + '<br/>'+word['vietnamese']
+					if ('info' in word) {displayText+='<br/>'+word['info']}
+
 					break;
 				case 'kanji':
 				case 'vietnamese':
