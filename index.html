@@ -13,19 +13,18 @@
 		/*
 			data = [
 			  {
-				"lesson": "mina1",
+				"lesson": "minna 1",
 				"vocabulary": [
 				  {
-					"lesson": "mina1",
-					"index": "1",
 					"hiragana": "わたし",
 					"kanji": "わたし",
-					"vietnamese": "tôi"
+					"vietnamese": "tôi",
+					"info": "optional information"
 				  },
 				]
 			  },
 			  {
-				"lesson": "mina2",
+				"lesson": "minna 2",
 				"vocabulary": []
 			  },
 			  
@@ -50,10 +49,12 @@
 		}
 		currentVocList = shuffleArray(structuredClone(selectedVocList))
 		currentWord = -1
+		showAll = false; // first click will display the mode only, second click dislay all
+								// hot fix: this will be counterintuitive as showAll will be flipped in move func
 		current_mode = 'hiragana' // hiragana, kanji, vietnamese
-		modeList = ['hiragana', 'kanji', 'vietnamese', 'audio']
-		modeBtnList = ['#hiraB', '#kanjiB', '#vietB', '#audioB']
-		is_first_click = true; // first click will display the mode only, second click dislay all
+		modeList = ['hiragana', 'kanji', 'vietnamese']
+		modeBtnList = ['#hiraB', '#kanjiB', '#vietB']
+
 
 		$('#selLessonList').append('<option value="-1">All</option>');
 		for (i = 0; i < data.length ; i++) {
@@ -65,23 +66,13 @@
 		//============================================================
 		// Logic
 		//============================================================
-		// function getRandomWord() { // change currentVocList
-		// 	showMessage("");
-		// 	if (currentVocList.length === 0) {
-		// 		alert("LOOP");
-		// 		currentVocList = structuredClone(selectedVocList)
-		// 	}
-		// 	randomIndex = Math.floor(Math.random() * currentVocList.length);
-		// 	word = currentVocList.splice(randomIndex, 1);
-		// 	return word[0]
-		// }
 
 		function moveCurrentWord(isNext) {
 			currentWord = isNext ? currentWord+1 : currentWord -1
 			if (currentWord >= currentVocList.length || currentWord < 0) {
 				currentVocList = shuffleArray(structuredClone(selectedVocList))
 				currentWord = 0
-				showMessage('Shuffle vocabulary list: 1/' + selectedVocList.length.toString())
+				showMessage('-----------Shuffle vocabulary list: 1/' + selectedVocList.length.toString() + '----')
 			} else {
 				showMessage((currentWord+1).toString() + '/' + selectedVocList.length.toString());
 			}
@@ -89,22 +80,15 @@
 		}
 
 		function move(isNext) { // next move
-			if(current_mode=='audio'){
-				// currentWord=getRandomWord()
+			if (isNext ^ showAll) {
 				moveCurrentWord(isNext);
-				// playAudio(currentVocList[currentWord])
+			}
+			if(showAll){
 				showWords(currentVocList[currentWord], 'all')
 			} else {
-				if(is_first_click){
-					moveCurrentWord(isNext);
-					showWords(currentVocList[currentWord], current_mode)
-
-				} else {
-					showWords(currentVocList[currentWord], 'all')
-				}
-	    		
-				is_first_click = !is_first_click;
+				showWords(currentVocList[currentWord], current_mode)
 			}
+			showAll = !showAll;
 		}
 
 		function getVocList(selectedLessons=['-1']){
@@ -116,30 +100,7 @@
 			}
 			return voc_list
 		}
-		
-		
-		function playAudio(word) {
-			if (word===null) {
-				showMessage('Null audio object.');
-			} else{
-				try {
-					audio = new Audio(word['audio']);
-					audio.play();
-					return audio
-				}
-				catch(err) {
-					showMessage('Audio error.');
-				}
-			}
-		}
-		let intervalId=null;
-		let currentInterval = 6;
-		function setCurrentInterval(value){
-			currentInterval=value;
-			if(intervalId){startLoop(currentInterval)}
-		}
-		function startLoop(interval) {clearInterval(intervalId);intervalId = setInterval(function() {move(isNext=true)}, interval*1000);}
-		function stopLoop() {clearInterval(intervalId);intervalId = null;}
+
 		
 		//============================================================
 		// Display
@@ -178,8 +139,7 @@
 			selectedVocList = getVocList(selected_lessons)
 			currentVocList = shuffleArray(structuredClone(selectedVocList))
 			currentWord = -1
-			is_first_click = true
-			stopLoop()
+			showAll = false
 			clearWords()
 			if (selected_lessons.indexOf('-1') != -1) {
 				$('#selLessonList').val('-1');
@@ -191,41 +151,6 @@
 
 		$('#nextB').click(function() {move(isNext=true);});
 		$('#backB').click(function() {move(isNext=false);});
-		// $('#playB').click(function() {playAudio(currentVocList[currentWord])});
-		
-		$('#loopB').on('click', function() {
-			$('#audioB').click()
-			if (!intervalId) {
-				move(isNext=true)
-				startLoop(currentInterval)
-			}
-		});
-
-		$('#stopB').on('click', function() {stopLoop()});
-		$('#increaseTime').click(function() {
-			var currentValue = parseInt($('#interval').val());
-			if (currentValue < 24) {
-				$('#interval').val(currentValue + 1);
-				setCurrentInterval(currentValue + 1)
-			}
-		});
-
-		$('#decreaseTime').click(function() {
-			var currentValue = parseInt($('#interval').val());
-			if (currentValue > 1) {
-				$('#interval').val(currentValue - 1);
-				setCurrentInterval(currentValue - 1)
-			}
-		});
-		$('#interval').on('change', function() {
-			var value = $(this).val();
-				if (isNaN(value) || parseInt(value) != value || value < 1 || value > 24) {
-				showMessage('Please enter an integer time inteval between 1 and 24')
-				setCurrentInterval(6)
-				$(this).val('6');
-			}
-		});
-
 		
 		$("body").keypress(function(e){
 			switch (e.which) {
@@ -236,11 +161,10 @@
 			}
 		});
 		
-		$('#vietB, #kanjiB, #hiraB, #audioB').click(function() {
+		$('#vietB, #kanjiB, #hiraB').click(function() {
 			current_mode = $(this).attr('value')
 			showMessage("Change to "+current_mode+" mode");
-			is_first_click = true;
-			stopLoop()
+			showAll = false;
     	});
 		
 
@@ -262,13 +186,6 @@
 		    setTimeout(function() {isSwipe = false;}, 0);
 	    });
 
-	    // Double click event handler
-	    // $("#swipeArea").on('dblclick', function() {
-	    //     playAudio(currentVocList[currentWord])
-	    //     if(intervalId){startLoop(currentInterval)}
-	    //     clickCount = 0; // Reset click count after double click
-	    // });
-
 	    $("#swipeArea").css({top: $("#textArea").offset().top});
 		$("#swipeArea").swipe({
             swipe: function(event, direction, distance, duration, fingerCount, fingerData) {
@@ -276,11 +193,9 @@
 				switch (direction) {
 					case 'right': // space
 						move(isNext=false);
-						if(intervalId){startLoop(currentInterval)}
 						break;
 					case 'left': // space
 						move(isNext=true);
-						if(intervalId){startLoop(currentInterval)}
 						break;
 					case 'up':
 						curModeIdx = modeList.indexOf(current_mode)
@@ -324,24 +239,9 @@
 				<input type="radio" id="vietB" name="mode" value="vietnamese" />
 				<label for="vietnamese">Vietnamese</label>
 			</div>
-			<div>
-				<input type="radio" id="audioB" name="mode" value="audio" />
-				<label for="audio">Audio</label>
-			</div>
 		</fieldset>
 	</div>
-<!-- 	<div align="center" style="visibility: hidden">
-		<br/><br/>
-		
 
-		<button id = "loopB" class="myButton clickExclusive">Loop</button>
-		<button id = "stopB" class="myButton clickExclusive">Stop</button>
-
-		<label for="interval">Interval:</label>
-		<input type="number" id="interval" value="6" min="1" max="24">
-		<button id="increaseTime" class="myButton clickExclusive">Time up</button>
-		<button id="decreaseTime" class="myButton clickExclusive">Timme down</button>
-	</div> -->
 	<div align="center">
 		<br/><br/>
 		<button id = "backB" class="myButton clickExclusive">Back</button>
