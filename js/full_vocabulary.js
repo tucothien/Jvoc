@@ -5627,33 +5627,33 @@ data = [
       },
       {
         "hiragana": "せつめいします",
-        "kanji": "説明します",
-        "vietnamese": "giải thích, trình bày",
-        "info": ""
+        "kanji": "説明します「これを」",
+        "vietnamese": "giải thích, trình bày (cái này)",
+        "info": "説 (thuyết)"
       },
       {
         "hiragana": "いれます",
         "kanji": "いれます",
         "vietnamese": "pha(cà phê)",
-        "info": ""
+        "info": "淹 (yểm: ngâm nước) 电 (điện)"
       },
       {
-        "hiragana": "おじいさん / おじいちゃん",
-        "kanji": "おじいさん / おじいちゃん",
+        "hiragana": "おじいさん",
+        "kanji": "お祖父さん",
         "vietnamese": "ông nội,ông ngoại,ông",
-        "info": ""
+        "info": "祖 (tổ) 且 (thả)"
       },
       {
-        "hiragana": "おばあさん /　おばあちゃん",
-        "kanji": "おばあさん /　おばあちゃん",
+        "hiragana": "おばあさん",
+        "kanji": "お祖母さん",
         "vietnamese": "bà nội,bà ngoại,bà",
-        "info": ""
+        "info": "祖 (tổ) 且 (thả)"
       },
       {
         "hiragana": "じゅんび",
-        "kanji": "準備",
-        "vietnamese": "chuẩn bị",
-        "info": ""
+        "kanji": "準備「なにを」",
+        "vietnamese": "chuẩn bị (cái gì)",
+        "info": "準 (chuẩn) 淮 (hoài) 隹 (chuy)<br/>備 (bị)"
       },
       {
         "hiragana": "いみ",
@@ -5665,13 +5665,13 @@ data = [
         "hiragana": "おかし",
         "kanji": "お菓子",
         "vietnamese": "bánh kẹo",
-        "info": ""
+        "info": "菓 (quả)"
       },
       {
         "hiragana": "ぜんぶ",
         "kanji": "全部",
-        "vietnamese": "toàn bộ,tất cả",
-        "info": ""
+        "vietnamese": "toàn bộ, tất cả",
+        "info": "全 (toàn)"
       },
       {
         "hiragana": "じぶんで",
@@ -5683,19 +5683,13 @@ data = [
         "hiragana": "ほかに",
         "kanji": "他に",
         "vietnamese": "ngoài ra,bên cạnh đó",
-        "info": ""
+        "info": "他 (tha: khác) 也 (dã)"
       },
       {
         "hiragana": "おべんとう",
         "kanji": "お弁当",
         "vietnamese": "cơm hộp",
-        "info": ""
-      },
-      {
-        "hiragana": "ははのひ",
-        "kanji": "母の日",
-        "vietnamese": "ngày của mẹ",
-        "info": ""
+        "info": "弁 (biện: hộ) 当 (đương, đáng: thời, cáng)"
       }
     ]
   },
