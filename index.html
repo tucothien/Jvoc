@@ -51,9 +51,9 @@
 		currentWord = -1
 		showAll = false; // first click will display the mode only, second click dislay all
 								// hot fix: this will be counterintuitive as showAll will be flipped in move func
-		current_mode = 'hiragana' // hiragana, kanji, vietnamese
-		modeList = ['hiragana', 'kanji', 'vietnamese']
-		modeBtnList = ['#hiraB', '#kanjiB', '#vietB']
+		current_mode = 'vietnamese' // hiragana, kanji, vietnamese
+		modeList = ['vietnamese', 'hiragana', 'kanji']
+		modeBtnList = ['#vietB', '#hiraB', '#kanjiB']
 
 
 		$('#selLessonList').append('<option value="-1">All</option>');
@@ -164,7 +164,9 @@
 		$('#vietB, #kanjiB, #hiraB').click(function() {
 			current_mode = $(this).attr('value')
 			showMessage("Change to "+current_mode+" mode");
-			showAll = false;
+			if (showAll) {
+				showWords(currentVocList[currentWord], current_mode)
+			}
     	});
 		
 
@@ -224,9 +226,13 @@
 		Lesson  <select id="selLessonList" class="clickExclusive" multiple="multiple"></select>
 		<fieldset class="clickExclusive" style="width: 200px; height: 120px; box-sizing: border-box; padding: 10px;text-align: left;">
 			<legend>Mode:</legend>
+			<div>
+				<input type="radio" id="vietB" name="mode" value="vietnamese" checked/>
+				<label for="vietnamese">Vietnamese</label>
+			</div>
 
 			<div>
-				<input type="radio" id="hiraB" name="mode" value="hiragana" checked />
+				<input type="radio" id="hiraB" name="mode" value="hiragana" />
 				<label for="hiragana">Hiragana</label>
 			</div>
 
@@ -235,10 +241,7 @@
 				<label for="kanji">Kanji</label>
 			</div>
 
-			<div>
-				<input type="radio" id="vietB" name="mode" value="vietnamese" />
-				<label for="vietnamese">Vietnamese</label>
-			</div>
+			
 		</fieldset>
 	</div>
 
