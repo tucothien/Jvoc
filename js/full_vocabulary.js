@@ -5698,33 +5698,27 @@ data = [
     "vocabulary": [
       {
         "hiragana": "かんがえます",
-        "kanji": "考えます",
-        "vietnamese": "nghĩ,suy nghĩ",
-        "info": ""
+        "kanji": "考えます (予定を)",
+        "vietnamese": "nghĩ, suy nghĩ (về dự định)",
+        "info": "考 (khảo)"
       },
       {
-        "hiragana": "つきます（駅に～）",
-        "kanji": "着きます",
-        "vietnamese": "đến(ga)",
-        "info": ""
+        "hiragana": "つきます（えきに）",
+        "kanji": "着きます (駅に)",
+        "vietnamese": "đến (ga)",
+        "info": "着 (trước) 着く"
       },
       {
-        "hiragana": "りゅうがくします",
-        "kanji": "留学します",
-        "vietnamese": "du học",
-        "info": ""
-      },
-      {
-        "hiragana": "とります（年を～）",
-        "kanji": "取ります",
+        "hiragana": "とります（としを）",
+        "kanji": "取ります (年を)",
         "vietnamese": "thêm (tuổi)",
-        "info": ""
+        "info": "取 (thủ) 取る"
       },
       {
         "hiragana": "いなか",
         "kanji": "田舎",
-        "vietnamese": "quê,nông thôn",
-        "info": ""
+        "vietnamese": "quê, nông thôn",
+        "info": "舎 (xá: cư) 捨 (xả)"
       },
       {
         "hiragana": "たいしかん",
@@ -5735,7 +5729,7 @@ data = [
       {
         "hiragana": "グループ",
         "kanji": "グループ",
-        "vietnamese": "グループ",
+        "vietnamese": "nhóm",
         "info": ""
       },
       {
@@ -5748,55 +5742,25 @@ data = [
         "hiragana": "おく",
         "kanji": "億",
         "vietnamese": "một trăm triệu",
-        "info": ""
+        "info": "億 (ức)"
       },
       {
         "hiragana": "もし",
-        "kanji": "もし",
-        "vietnamese": "nếu",
-        "info": ""
-      },
-      {
-        "hiragana": "いくら",
-        "kanji": "いくら",
-        "vietnamese": "cho dù,thế nào",
-        "info": ""
+        "kanji": "若し",
+        "vietnamese": "nếu, giả sử",
+        "info": "若 (nhược)"
       },
       {
         "hiragana": "てんきん",
-        "kanji": "転勤",
-        "vietnamese": "てんきん",
-        "info": ""
-      },
-      {
-        "hiragana": "こと",
-        "kanji": "こと",
-        "vietnamese": "việc",
-        "info": ""
-      },
-      {
-        "hiragana": "いっぱいのみましょう",
-        "kanji": "一杯飲みます",
-        "vietnamese": "chúng ta cùng uống nhé",
-        "info": ""
-      },
-      {
-        "hiragana": "どうぞおげんきで",
-        "kanji": "どうぞ元気で",
-        "vietnamese": "chúc anh chị mạnh khỏe (câu nói trước khi chia tay với ai đó mà có lẽ lâu nữa mới gặp lại)",
-        "info": ""
-      },
-      {
-        "hiragana": "（いろいろ）おせわになりました",
-        "kanji": "（いろいろ）お世話になりました",
-        "vietnamese": "Anh/chị đã giúp tôi nhiều",
-        "info": ""
+        "kanji": "転勤 (する)",
+        "vietnamese": "chuyển việc",
+        "info": "転 (chuyển) 勤 (cần: ân)"
       },
       {
         "hiragana": "がんばります",
         "kanji": "頑張ります",
         "vietnamese": "cố gắng",
-        "info": ""
+        "info": "頑 (ngoan: cố, nguyên hiệt) <br/>張 (trương)"
       }
     ]
   },
