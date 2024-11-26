@@ -8,6 +8,7 @@
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script src="js/jquery.touchSwipe.min.js"></script>
 <script type="text/javascript" src="js/full_vocabulary.js"></script>
+<script type="text/javascript" src="js/full_kanji.js"></script>
 <script type="text/javascript">
 	$(function() {
 		/*
@@ -39,7 +40,6 @@
 		//============================================================
 		// Init
 		//============================================================
-		selectedVocList = getVocList() // the whole list
 		function shuffleArray(array) {
 		    for (let i = array.length - 1; i > 0; i--) {
 		        const j = Math.floor(Math.random() * (i + 1));
@@ -47,22 +47,32 @@
 		    }
 		    return array;
 		}
-		currentVocList = shuffleArray(structuredClone(selectedVocList))
-		currentWord = -1
-		showAll = false; // first click will display the mode only, second click dislay all
-								// hot fix: this will be counterintuitive as showAll will be flipped in move func
-		current_mode = 'vietnamese' // hiragana, kanji, vietnamese
+
+		function initialize(voctype='vocabulary') {
+			if (voctype === 'vocabulary') {
+				data = data_vocabulary
+			} else {
+				data = data_kanji
+			}
+			$('#selLessonList').empty();
+			$('#selLessonList').append('<option value="-1">All</option>');
+			for (i = 0; i < data.length ; i++) {
+					$('#selLessonList').append('<option value="' + i + '">' + data[i]['lesson'] + ' </option>');
+			}
+			$('#selLessonList').val('-1');
+
+			selectedVocList = getVocList() // the whole list
+			current_mode = 'vietnamese' // hiragana, kanji, vietnamese
+			currentVocList = shuffleArray(structuredClone(selectedVocList))
+			currentWord = -1
+			showAll = false; // first click will display the mode only, second click dislay all
+									// hot fix: this will be counterintuitive as showAll will be flipped in move func
+		} 
+		initialize('vocabulary')
+
 		modeList = ['vietnamese', 'hiragana', 'kanji']
 		modeBtnList = ['#vietB', '#hiraB', '#kanjiB']
 
-
-		$('#selLessonList').append('<option value="-1">All</option>');
-		for (i = 0; i < data.length ; i++) {
-				$('#selLessonList').append('<option value="' + i + '">' + data[i]['lesson'] + ' </option>');
-		}
-		$('#selLessonList').val('-1');
-		
-		
 		//============================================================
 		// Logic
 		//============================================================
@@ -110,9 +120,15 @@
 			if (word===null){$('#mainText').html(''); return}
 			switch (mode) {
 				case 'all':
-					displayText=word['kanji'] + '<br/>'+word['hiragana'] + '<br/>'+word['vietnamese']
+					displayText=word['kanji']
+					if ('hiragana' in word && word['hiragana'] !== "") {displayText+='<br/>'+word['hiragana']}
+					displayText += '<br/>'+word['vietnamese']
+					if ('examples' in word && Array.isArray(word['examples'])) {
+						displayText+='<br/>'+word['examples'].join('<br/>')
+					}
+					if ('onyomi' in word && word['onyomi'] !== "") {displayText+='<br/>On: '+word['onyomi']}
+					if ('kunyomi' in word && word['kunyomi'] !== "") {displayText+='<br/>Kun: '+word['kunyomi']}
 					if ('info' in word && word['info'] !== "") {displayText+='<br/>'+word['info']}
-
 					break;
 				case 'kanji':
 				case 'vietnamese':
@@ -147,6 +163,12 @@
 			} else {
 				showMessage('change to lesson ' + $('#selLessonList option:selected').text() +"(" + selectedVocList.length.toString() + " words)");
 			}
+		});
+
+		$('#voctype').change(function() {
+			// if select all => select all
+			selected_lessons = $(this).val();
+			initialize(voctype=selected_lessons)
 		});
 
 		$('#nextB').click(function() {move(isNext=true);});
@@ -223,6 +245,10 @@
 <body>
 	<div align="center" style="display: flex; align-items: center;justify-content: center;">
 		<br/><br/>
+		<select id="voctype">
+			<option value="vocabulary">vocabulary</option>
+			<option value="kanji">kanji</option>
+		</select>
 		Lesson  <select id="selLessonList" class="clickExclusive" multiple="multiple"></select>
 		<fieldset class="clickExclusive" style="width: 200px; height: 120px; box-sizing: border-box; padding: 10px;text-align: left;">
 			<legend>Mode:</legend>

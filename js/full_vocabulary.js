@@ -1,4 +1,4 @@
-data = [
+data_vocabulary = [
   {
     "lesson": "minna 1",
     "vocabulary": [
