@@ -5403,7 +5403,7 @@ data_vocabulary = [
         "hiragana": "ふとん",
         "kanji": "布団",
         "vietnamese": "chăn,đệm",
-        "info": ""
+        "info": "布 (bố) 団 (đoàn)"
       },
       {
         "hiragana": "アパート",
@@ -5769,105 +5769,87 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "みます",
-        "kanji": "見る",
-        "vietnamese": "xem,nhìn",
-        "info": ""
-      },
-      {
-        "hiragana": "みます",
         "kanji": "診る",
-        "vietnamese": "chẩn đoán,khám bệnh",
-        "info": ""
+        "vietnamese": "chẩn đoán, khám bệnh",
+        "info": "診 (chuẩn)"
       },
       {
         "hiragana": "さがします",
-        "kanji": "捜す",
-        "vietnamese": "tìm đồ vật bị mất",
-        "info": ""
+        "kanji": "捜す(無くしたを)",
+        "vietnamese": "tìm (đồ vật bị mất)",
+        "info": ["捜 (sưu) 申 (thân)", "由 (do) 甲 (giáp)"]
       },
       {
         "hiragana": "さがします",
-        "kanji": "探す",
-        "vietnamese": "tìm,tìm kiếm (cv,người…)",
-        "info": ""
+        "kanji": "探す (仕事を)",
+        "vietnamese": "tìm, tìm kiếm (cv,người…)",
+        "info": "探 (tham)"
       },
       {
         "hiragana": "おくれます",
-        "kanji": "時間に遅れる",
-        "vietnamese": "trễ giờ",
-        "info": ""
+        "kanji": "遅れる (時間に)",
+        "vietnamese": "trễ (giờ)",
+        "info": "遅 (trì) 羊 (dương) 尸 (thi)"
       },
       {
         "hiragana": "まにあいます",
-        "kanji": "会議に間に合う",
-        "vietnamese": "kịp giờ",
-        "info": ""
+        "kanji": "間に合う (会議に)",
+        "vietnamese": "kịp giờ (họp)",
+        "info": "合 (hợp)"
       },
       {
         "hiragana": "やります",
-        "kanji": "宿題をやる",
-        "vietnamese": "làm bài tập",
+        "kanji": "やる (宿題を)",
+        "vietnamese": "làm (bài tập)",
         "info": ""
       },
       {
         "hiragana": "ひろいます",
-        "kanji": "ごみを拾う",
-        "vietnamese": "nhặt rác",
-        "info": ""
+        "kanji": "拾う (ごみを)",
+        "vietnamese": "nhặt (rác)",
+        "info": "拾 (thập) 捨(xả)"
       },
       {
         "hiragana": "れんらくします",
-        "kanji": "学校に連絡する",
-        "vietnamese": "liên lạc",
-        "info": ""
+        "kanji": "連絡する (学校に)",
+        "vietnamese": "liên lạc (với trường)",
+        "info": ["連 (liên) 絡 (lạc)", "各 (các: vị)"]
       },
       {
-        "hiragana": "きぶんがいい",
-        "kanji": "気分がいい",
-        "vietnamese": "tâm trạng,thể trạng tốt",
-        "info": ""
-      },
-      {
-        "hiragana": "きぶんがわるい",
-        "kanji": "気分が悪い",
-        "vietnamese": "tâm trạng,thể trạng xấu",
-        "info": ""
+        "hiragana": "きぶん (がいい/わるい)",
+        "kanji": "気分 (がいい/悪い)",
+        "vietnamese": "tâm trạng, thể trạng (tốt/xấu)",
+        "info": "気分: tâm trạng"
       },
       {
         "hiragana": "うんどうかい",
         "kanji": "運動会",
         "vietnamese": "hội thi thể thao",
-        "info": ""
-      },
-      {
-        "hiragana": "ぼんおどり",
-        "kanji": "盆踊り",
-        "vietnamese": "lễ hội múa obon",
-        "info": ""
+        "info": ["運 (vận) 軍 (quân)","動 (động)"]
       },
       {
         "hiragana": "フリーマーケット",
         "kanji": "フリーマーケット",
-        "vietnamese": "chợ đồ cũ,chợ trời",
+        "vietnamese": "chợ đồ cũ, chợ trời",
         "info": ""
       },
       {
         "hiragana": "ばしょ",
         "kanji": "場所",
-        "vietnamese": "nơi chốn,địa điểm",
-        "info": ""
+        "vietnamese": "nơi chốn, địa điểm",
+        "info": "場 (trường) 所 (sở)"
       },
       {
         "hiragana": "ボランティア",
         "kanji": "ボランティア",
-        "vietnamese": "việc từ thiện,tình nguyện viên",
+        "vietnamese": "tình nguyện",
         "info": ""
       },
       {
         "hiragana": "さいふ",
         "kanji": "財布",
         "vietnamese": "ví",
-        "info": ""
+        "info": ["財 (tài: tiền) 才 (tài: thiên) 布 (bố)"]
       },
       {
         "hiragana": "ごみ",
@@ -5879,37 +5861,37 @@ data_vocabulary = [
         "hiragana": "こっかいぎじどう",
         "kanji": "国会議事堂",
         "vietnamese": "tòa nhà quốc hội",
-        "info": ""
+        "info": "quốc hội nghị vụ đường"
       },
       {
-        "hiragana": "へいじつ",
+        "hiragana": "へいじつ/しゅうまつ",
         "kanji": "平日/週末",
-        "vietnamese": "ngày thường",
-        "info": ""
+        "vietnamese": "ngày thường/cuối tuần",
+        "info": "平 (bình) 末 (mạt)"
       },
       {
-        "hiragana": "べん　（ほうげん）",
-        "kanji": "大阪弁(方言）",
-        "vietnamese": "tiếng osaka,tiếng địa phương",
-        "info": ""
+        "hiragana": "べん (ほうげん)",
+        "kanji": "大阪弁 (方言）",
+        "vietnamese": "tiếng osaka, tiếng địa phương",
+        "info": "弁 (biện)"
       },
       {
         "hiragana": "こんど",
         "kanji": "今度",
         "vietnamese": "lần tới",
-        "info": ""
+        "info": "度 (độ)"
       },
       {
         "hiragana": "ずいぶん",
-        "kanji": "ずいぶん",
-        "vietnamese": "khá ,tương đối",
-        "info": ""
+        "kanji": "随分",
+        "vietnamese": "khá, tương đối",
+        "info": "随 (tùy: ý)"
       },
       {
         "hiragana": "ちょくせつ",
         "kanji": "直接",
         "vietnamese": "trực tiếp",
-        "info": ""
+        "info": ["直 (trực) 接 (tiếp: liên)", "妾 (thiếp: thê)"]
       },
       {
         "hiragana": "いつでも",
@@ -5920,13 +5902,13 @@ data_vocabulary = [
       {
         "hiragana": "どこでも",
         "kanji": "どこでも",
-        "vietnamese": "ai cũng",
+        "vietnamese": "ở đâu cũng",
         "info": ""
       },
       {
         "hiragana": "だれでも",
         "kanji": "だれでも",
-        "vietnamese": "nhất định",
+        "vietnamese": "ai cũng",
         "info": ""
       },
       {
@@ -5939,13 +5921,13 @@ data_vocabulary = [
         "hiragana": "こんな…",
         "kanji": "こんな…",
         "vietnamese": "..như thế này",
-        "info": ""
+        "info": "such, this sort of"
       },
       {
         "hiragana": "そんな…",
         "kanji": "そんな…",
         "vietnamese": "…như thế đó",
-        "info": ""
+        "info": "such, that sort of"
       },
       {
         "hiragana": "あんな…",
@@ -5955,27 +5937,21 @@ data_vocabulary = [
       },
       {
         "hiragana": "かたづきます",
-        "kanji": "片付く",
-        "vietnamese": "sắp xếp,dọn dẹp",
-        "info": ""
-      },
-      {
-        "hiragana": "だします",
-        "kanji": "出す",
-        "vietnamese": "đổ,để (rác)",
-        "info": ""
+        "kanji": "片付く (部屋が)",
+        "vietnamese": "sắp xếp, dọn dẹp (phòng)",
+        "info": "片 (phiến) 付 (phó)"
       },
       {
         "hiragana": "もえるごみ",
         "kanji": "燃えるごみ",
         "vietnamese": "rác cháy được",
-        "info": ""
+        "info": "燃 (nhiên: đốt) 然 (nhiên: tự)"
       },
       {
         "hiragana": "おきば",
         "kanji": "置き場",
         "vietnamese": "chỗ để,chỗ đặt",
-        "info": ""
+        "info": "置 (trí) 直 (trực) 罒 (võng)"
       },
       {
         "hiragana": "よこ",
@@ -5987,61 +5963,49 @@ data_vocabulary = [
         "hiragana": "びん",
         "kanji": "瓶",
         "vietnamese": "cái chai",
-        "info": ""
+        "info": ["瓶 (bình) 并 (tịnh) 开 (khai)", "瓦 (ngõa: ngói)"]
       },
       {
         "hiragana": "かん",
         "kanji": "缶",
         "vietnamese": "cái lon,hộp kim loại",
-        "info": ""
-      },
-      {
-        "hiragana": "ガス",
-        "kanji": "ガス",
-        "vietnamese": "ga",
-        "info": ""
-      },
-      {
-        "hiragana": "がいしゃ",
-        "kanji": "ガス会社",
-        "vietnamese": "cty ga",
-        "info": ""
+        "info": "缶 (phữu: chum) 午 (ngọ)"
       },
       {
         "hiragana": "うちゅう",
         "kanji": "宇宙",
         "vietnamese": "vũ trụ",
-        "info": ""
+        "info": ["宇 (vũ) 于 (vu: đi, quy) 宀 (miên)", "宙 (trụ) 由 (do)"]
       },
       {
-        "hiragana": "さま",
-        "kanji": "田中様、お客様",
-        "vietnamese": "ngài,vị",
-        "info": ""
+        "hiragana": "さま (おきゃく)",
+        "kanji": "お客様",
+        "vietnamese": "ngài, vị",
+        "info": "様 (dạng) 客 (khách) 各 (các: vi)"
       },
       {
         "hiragana": "うちゅうせん",
         "kanji": "宇宙船",
         "vietnamese": "tàu vũ trụ",
-        "info": ""
+        "info": "船 (thuyền)"
       },
       {
         "hiragana": "こわい",
         "kanji": "怖い",
         "vietnamese": "sợ,đáng sợ",
-        "info": ""
+        "info": "怖 (bố: khủng) 忄(tâm) 布(bố: vải)"
       },
       {
         "hiragana": "ちがいます",
         "kanji": "違う",
         "vietnamese": "khác,không phải",
-        "info": ""
+        "info": "違 (vi: khác)"
       },
       {
         "hiragana": "うちゅうひこうし",
         "kanji": "宇宙飛行士",
         "vietnamese": "nhà du hành vũ trụ",
-        "info": ""
+        "info": "飛 (phi) 升 (thăng)"
       }
     ]
   },

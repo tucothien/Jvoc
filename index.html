@@ -128,7 +128,14 @@
 					}
 					if ('onyomi' in word && word['onyomi'] !== "") {displayText+='<br/>On: '+word['onyomi']}
 					if ('kunyomi' in word && word['kunyomi'] !== "") {displayText+='<br/>Kun: '+word['kunyomi']}
-					if ('info' in word && word['info'] !== "") {displayText+='<br/>'+word['info']}
+					
+					if ('info' in word) {
+						if (Array.isArray(word['info'])) {
+							displayText+='<br/>'+word['info'].join('<br/>')
+						} else {
+							displayText+='<br/>'+word['info']
+						}
+					}
 					break;
 				case 'kanji':
 				case 'vietnamese':
