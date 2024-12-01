@@ -5957,7 +5957,7 @@ data_vocabulary = [
         "hiragana": "よこ",
         "kanji": "横",
         "vietnamese": "bên cạnh",
-        "info": ""
+        "info": "横 (hoành) 黄 (hoàng: vàng)"
       },
       {
         "hiragana": "びん",
