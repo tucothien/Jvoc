@@ -6013,51 +6013,51 @@ data_vocabulary = [
     "lesson": "minna 27",
     "vocabulary": [
       {
-        "hiragana": "かいます",
-        "kanji": "飼います",
-        "vietnamese": "nuôi,chăn nuôi",
+        "hiragana": "かいます(いぬを)",
+        "kanji": "飼う (犬を)",
+        "vietnamese": "nuôi (chó)",
+        "info": "飼 (tự: nuôi) 司 (ti: sở) 飠(thực)"
+      },
+      {
+        "hiragana": "たてます(いえを)",
+        "kanji": "建てる(家を)",
+        "vietnamese": "xây dựng (nhà)",
+        "info": "建 (kiến)"
+      },
+      {
+        "hiragana": "はしります(こうえんを)",
+        "kanji": "走ります (公園を)",
+        "vietnamese": "chạy (ở công viên)",
+        "info": "走 (tẩu)"
+      },
+      {
+        "hiragana": "とります(やすみを)",
+        "kanji": "取る(休みを)",
+        "vietnamese": "xin (nghỉ)",
+        "info": "取 (thủ) 耳 (nhĩ) 又(hựu)"
+      },
+      {
+        "hiragana": "みえます (やまが)",
+        "kanji": "見える (山が)",
+        "vietnamese": "có thể nhìn thấy (núi)",
         "info": ""
       },
       {
-        "hiragana": "たてます",
-        "kanji": "建てます",
-        "vietnamese": "xây dựng",
-        "info": ""
-      },
-      {
-        "hiragana": "はしります",
-        "kanji": "走ります",
-        "vietnamese": "chạy",
-        "info": ""
-      },
-      {
-        "hiragana": "とります",
-        "kanji": "取ります",
-        "vietnamese": "xin(nghỉ)",
-        "info": ""
-      },
-      {
-        "hiragana": "みえます",
-        "kanji": "見えます",
-        "vietnamese": "có thể nhìn thấy",
-        "info": ""
-      },
-      {
-        "hiragana": "きこえます",
-        "kanji": "聞こえます",
-        "vietnamese": "có thể nghe thấy",
+        "hiragana": "きこえます (こえが)",
+        "kanji": "見える (声が)",
+        "vietnamese": "có thể nghe thấy (âm thanh)",
         "info": ""
       },
       {
         "hiragana": "できます",
-        "kanji": "できます",
+        "kanji": "できる",
         "vietnamese": "được hoàn thành,được làm",
         "info": ""
       },
       {
-        "hiragana": "ひらきます",
-        "kanji": "開きます",
-        "vietnamese": "mở,tổ chức (lớp)",
+        "hiragana": "ひらきます (みせを)",
+        "kanji": "開きく (店を)",
+        "vietnamese": "mở, tổ chức (cửa hàng)",
         "info": ""
       },
       {
@@ -6070,19 +6070,19 @@ data_vocabulary = [
         "hiragana": "とり",
         "kanji": "鳥",
         "vietnamese": "chim",
-        "info": ""
+        "info": ["鳥(điểu) 白 (bạch)", "丂 (khảo) 灬 (hỏa)"]
       },
       {
         "hiragana": "こえ",
-        "kanji": "こえ",
-        "vietnamese": "tiếng,giọng nói",
-        "info": ""
+        "kanji": "声",
+        "vietnamese": "tiếng, giọng nói",
+        "info": "声 (thanh)"
       },
       {
         "hiragana": "なみ",
         "kanji": "波",
         "vietnamese": "sóng",
-        "info": ""
+        "info": "波 (ba: phong) 皮 (bì) 氵(thủy)"
       },
       {
         "hiragana": "はなび",
@@ -6094,109 +6094,61 @@ data_vocabulary = [
         "hiragana": "けしき",
         "kanji": "景色",
         "vietnamese": "phong cảnh",
-        "info": ""
+        "info": ["景 (cảnh) 京 (kinh)", "色 (sắc)"]
       },
       {
         "hiragana": "ひるま",
         "kanji": "昼間",
         "vietnamese": "ban ngày",
-        "info": ""
+        "info": ["昼 (trú) 尺 (xích) 旦 (đán)", "間 (gian)"]
       },
       {
         "hiragana": "むかし",
         "kanji": "昔",
         "vietnamese": "ngày xưa",
-        "info": ""
+        "info": "昔 (tích)"
       },
       {
         "hiragana": "どうぐ",
         "kanji": "道具",
         "vietnamese": "dụng cụ",
-        "info": ""
+        "info": "道 (đạo) 具 (cụ)"
       },
       {
         "hiragana": "じどうはんばいき",
         "kanji": "自動販売機",
         "vietnamese": "máy bán hàng tự động",
-        "info": ""
+        "info": ["Tự động phiến mại cơ", "販 (phiến) 貝(bối) 反 (phản)"]
       },
       {
-        "hiragana": "つうしんはんばい",
-        "kanji": "通信販売",
-        "vietnamese": "thương mại viễn thông",
-        "info": ""
-      },
-      {
-        "hiragana": "クリーニング",
-        "kanji": "クリーニング",
-        "vietnamese": "giặt ủi",
-        "info": ""
-      },
-      {
-        "hiragana": "マンション",
-        "kanji": "マンション",
-        "vietnamese": "chung cư",
-        "info": ""
+        "hiragana": "つうしん",
+        "kanji": "通信",
+        "vietnamese": "viễn thông",
+        "info": ["thông tín", "通 (thông) 信(tín)"]
       },
       {
         "hiragana": "だいどころ",
         "kanji": "台所",
         "vietnamese": "nhà bếp",
+        "info": "台 (đài) 所 (sở)"
+      },
+      {
+        "hiragana": "～しか (みずしかのまない)",
+        "kanji": "～しか (水しか飲まない)",
+        "vietnamese": "chỉ (uống nước)",
         "info": ""
       },
       {
-        "hiragana": "～後",
-        "kanji": "～ご",
-        "vietnamese": "sau…",
-        "info": ""
-      },
-      {
-        "hiragana": "～しか",
-        "kanji": "～しか",
-        "vietnamese": "chỉ",
-        "info": ""
-      },
-      {
-        "hiragana": "～きょうしつ",
-        "kanji": "～教室",
-        "vietnamese": "lớp học",
-        "info": ""
-      },
-      {
-        "hiragana": "パーティールーム",
-        "kanji": "パーティールーム",
-        "vietnamese": "phòng tiệc",
-        "info": ""
-      },
-      {
-        "hiragana": "かんさいくうこう",
-        "kanji": "関西空港",
-        "vietnamese": "sân bay Kansai",
-        "info": ""
-      },
-      {
-        "hiragana": "あきはばら",
-        "kanji": "秋葉原",
-        "vietnamese": "khu bán đồ điện tử nổi tiếng ở Tokyo",
-        "info": ""
-      },
-      {
-        "hiragana": "いず",
-        "kanji": "伊豆",
-        "vietnamese": "một đảo thuộc tỉnh Shizuoka",
-        "info": ""
-      },
-      {
-        "hiragana": "にちようびだいく",
-        "kanji": "日曜日大工",
-        "vietnamese": "thợ mộc chủ nhật",
-        "info": ""
+        "hiragana": "くうこう",
+        "kanji": "空港",
+        "vietnamese": "sân bay",
+        "info": ["空 (không) 穴(huyệt)", "港 (cảng) 共(cộng) 己 (kỷ)"]
       },
       {
         "hiragana": "ほんだな",
         "kanji": "本棚",
         "vietnamese": "kệ sách,giá sách",
-        "info": ""
+        "info": "棚 (bằng: kệ) 朋 (bằng: hữu)"
       },
       {
         "hiragana": "いつか",
@@ -6208,19 +6160,13 @@ data_vocabulary = [
         "hiragana": "ゆめ",
         "kanji": "夢",
         "vietnamese": "mơ",
-        "info": ""
-      },
-      {
-        "hiragana": "いえ",
-        "kanji": "家",
-        "vietnamese": "nhà",
-        "info": ""
+        "info": ["夢 (mộng)", "艹 (thảo) 罒 (võng) 冖 (mịch) 夕 (tịch)"]
       },
       {
         "hiragana": "すばらしい",
-        "kanji": "開きます素晴らしい",
+        "kanji": "素晴らしい",
         "vietnamese": "tuyệt vời",
-        "info": ""
+        "info": ["素 (tố: trắng) 糸 (mịch)", "晴 (tình: nắng) 青 (thanh)"]
       },
       {
         "hiragana": "こどもたち",
@@ -6229,94 +6175,64 @@ data_vocabulary = [
         "info": ""
       },
       {
-        "hiragana": "だいすき",
-        "kanji": "大好き",
-        "vietnamese": "rất thích",
-        "info": ""
-      },
-      {
         "hiragana": "まんが",
         "kanji": "漫画",
         "vietnamese": "truyện tranh",
-        "info": ""
+        "info": "漫 (mạn: tràn) 画 (hoạch, họa)"
       },
       {
         "hiragana": "しゅじんこう",
         "kanji": "主人公",
-        "vietnamese": "nhân vật chính",
-        "info": ""
+        "vietnamese": "nhân vật chính (truyện)",
+        "info": "chủ nhân công"
       },
       {
         "hiragana": "かたち",
         "kanji": "形",
         "vietnamese": "hình dạng",
-        "info": ""
-      },
-      {
-        "hiragana": "ロボット",
-        "kanji": "景色",
-        "vietnamese": "người máy",
-        "info": ""
+        "info": "形 (hình) 开 (khai) 彡 (sam)"
       },
       {
         "hiragana": "ふしぎな",
         "kanji": "不思議な",
         "vietnamese": "kì lạ, thần bí",
-        "info": ""
-      },
-      {
-        "hiragana": "ポケット",
-        "kanji": "ポケット",
-        "vietnamese": "túi",
-        "info": ""
+        "info": ["不 (bất) 思 (tư) 議 (nghị)", "義 (nghĩa) 我 (ngã: ta)"]
       },
       {
         "hiragana": "たとえば",
         "kanji": "例えば",
         "vietnamese": "ví dụ",
-        "info": ""
+        "info": "例 (lệ: thể) 列 (liệt: hàng (kê))"
       },
       {
         "hiragana": "つけます",
-        "kanji": "付けます",
+        "kanji": "付ける",
         "vietnamese": "lắp ghép",
         "info": ""
       },
       {
-        "hiragana": "じゆうに",
-        "kanji": "自由に",
-        "vietnamese": "tự do",
-        "info": ""
+        "hiragana": "じゆうに (つかう)",
+        "kanji": "自由に (使う)",
+        "vietnamese": "tự do (sử dụng)",
+        "info": "自 (tự) 由 (do)"
       },
       {
         "hiragana": "そら",
         "kanji": "空",
         "vietnamese": "bầu trời",
-        "info": ""
+        "info": "空 (không) 穴(huyệt)"
       },
       {
         "hiragana": "とびます",
-        "kanji": "飛びます",
+        "kanji": "飛ぶ",
         "vietnamese": "bay",
-        "info": ""
-      },
-      {
-        "hiragana": "じぶん",
-        "kanji": "自分",
-        "vietnamese": "tự mình",
-        "info": ""
+        "info": "飛 (phi) 升(thăng)"
       },
       {
         "hiragana": "しょうらい",
         "kanji": "将来",
         "vietnamese": "tương lai",
-        "info": ""
-      },
-      {
-        "hiragana": "ドラえもん",
-        "kanji": "ドラえもん",
-        "vietnamese": "đô-rê-mon",
-        "info": ""
+        "info": ["将 (tương) 丬(phiến) 寸 (thốn)", " 来 (lai)"]
       }
     ]
   },
