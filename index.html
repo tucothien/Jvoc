@@ -133,7 +133,7 @@
 						if (Array.isArray(word['info'])) {
 							displayText+='<br/>'+word['info'].join('<br/>')
 						} else {
-							displayText+='<br/>'+word['info']
+							displayText+='<br/>'+word['info'].split('|').map(str => str.trim()).join('<br/>'); // split by |
 						}
 					}
 					break;
