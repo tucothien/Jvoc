@@ -6578,7 +6578,7 @@ data_vocabulary = [
         "hiragana": "ふきます (まどを)",
         "kanji": "拭く (窓を)",
         "vietnamese": "lau (cửa sổ)",
-        "info": ""
+        "info": "拭 (thức: lau) 式 (thức)"
       },
       {
         "hiragana": "とりかえます (でんちを)",
@@ -6666,9 +6666,9 @@ data_vocabulary = [
       },
       {
         "hiragana": "このくらい",
-        "kanji": "このくらい",
+        "kanji": "この位",
         "vietnamese": "cỡ tầm này, cỡ chừng này",
-        "info": ""
+        "info": "位 (vị: thứ, các vị)"
       },
       {
         "hiragana": "がわ",

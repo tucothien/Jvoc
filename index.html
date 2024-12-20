@@ -41,14 +41,16 @@
 		// Init
 		//============================================================
 		function shuffleArray(array) {
-		    for (let i = array.length - 1; i > 0; i--) {
-		        const j = Math.floor(Math.random() * (i + 1));
-		        [array[i], array[j]] = [array[j], array[i]]; // Swap elements
-		    }
-		    return array;
+			if (isShuffle) {
+				for (let i = array.length - 1; i > 0; i--) {
+			        const j = Math.floor(Math.random() * (i + 1));
+			        [array[i], array[j]] = [array[j], array[i]]; // Swap elements
+			    }
+			}
+			return array
 		}
 
-		function initialize(voctype='vocabulary') {
+		function initialize(voctype='vocabulary', isShuffle_=1) {
 			if (voctype === 'vocabulary') {
 				data = data_vocabulary
 			} else {
@@ -61,6 +63,7 @@
 			}
 			$('#selLessonList').val('-1');
 
+			isShuffle = isShuffle_
 			selectedVocList = getVocList() // the whole list
 			current_mode = 'vietnamese' // hiragana, kanji, vietnamese
 			currentVocList = shuffleArray(structuredClone(selectedVocList))
@@ -68,7 +71,7 @@
 			showAll = false; // first click will display the mode only, second click dislay all
 									// hot fix: this will be counterintuitive as showAll will be flipped in move func
 		} 
-		initialize('vocabulary')
+		initialize('vocabulary', 1)
 
 		modeList = ['vietnamese', 'hiragana', 'kanji']
 		modeBtnList = ['#vietB', '#hiraB', '#kanjiB']
@@ -82,7 +85,7 @@
 			if (currentWord >= currentVocList.length || currentWord < 0) {
 				currentVocList = shuffleArray(structuredClone(selectedVocList))
 				currentWord = 0
-				showMessage('-----------Shuffle vocabulary list: 1/' + selectedVocList.length.toString() + '----')
+				showMessage('-----------Reset vocabulary list: 1/' + selectedVocList.length.toString() + '----')
 			} else {
 				showMessage((currentWord+1).toString() + '/' + selectedVocList.length.toString());
 			}
@@ -172,10 +175,23 @@
 			}
 		});
 
-		$('#voctype').change(function() {
-			// if select all => select all
-			selected_lessons = $(this).val();
-			initialize(voctype=selected_lessons)
+		// $('#voctype').change(function() {
+		// 	// if select all => select all
+		// 	selected_lessons = $(this).val();
+		// 	initialize(voctype=selected_lessons)
+		// });
+		$('#shuffle').change(function() {
+			isShuffle = $(this).val() === 'shuffle' ? 1: 0
+			currentVocList = shuffleArray(structuredClone(selectedVocList))
+			currentWord = -1
+			showAll = false
+			clearWords()
+			if (isShuffle) {
+				showMessage("reset, shuffle");
+			} else {
+				showMessage('reset, no shuffle');
+			}
+			// console.log(isShuffle)
 		});
 
 		$('#nextB').click(function() {move(isNext=true);});
@@ -256,6 +272,10 @@
 			<option value="vocabulary">vocabulary</option>
 			<option value="kanji">kanji</option>
 		</select> -->
+		<select id="shuffle">
+			<option value='shuffle'>Shuffle</option>
+			<option value='noshuffle'>No Shuffle</option>
+		</select>
 		Lesson  <select id="selLessonList" class="clickExclusive" multiple="multiple"></select>
 		<fieldset class="clickExclusive" style="width: 200px; height: 120px; box-sizing: border-box; padding: 10px;text-align: left;">
 			<legend>Mode:</legend>
