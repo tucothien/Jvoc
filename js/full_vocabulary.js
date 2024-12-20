@@ -6474,135 +6474,135 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "あきます",
-        "kanji": "開きます",
+        "kanji": "開く",
         "vietnamese": "mở (cửa)",
-        "info": ""
+        "info": "開 (khai)"
       },
       {
-        "hiragana": "しまります",
-        "kanji": "閉まります",
-        "vietnamese": "đóng(cửa)",
-        "info": ""
+        "hiragana": "しまります (ドアが)",
+        "kanji": "閉まる (ドアが)",
+        "vietnamese": "đóng (cửa)",
+        "info": "閉 (bế)"
       },
       {
         "hiragana": "つきます",
-        "kanji": "つきます",
+        "kanji": "つく",
         "vietnamese": "bật,thắp sáng(đèn)",
         "info": ""
       },
       {
         "hiragana": "きえます",
-        "kanji": "消えます",
-        "vietnamese": "tắt(đèn)",
-        "info": ""
+        "kanji": "消える",
+        "vietnamese": "tắt (đèn)",
+        "info": "消 (tiêu)"
       },
       {
         "hiragana": "こみます",
-        "kanji": "込みます",
-        "vietnamese": "đông(đường)",
+        "kanji": "込む(電車が)",
+        "vietnamese": "đông (tàu)",
+        "info": "込 (vu: chen chúc)"
+      },
+      {
+        "hiragana": "すきます (みちが)",
+        "kanji": "空く(道が)",
+        "vietnamese": "vắng (đường)",
+        "info": "空 (không) 穴 (huyệt)"
+      },
+      {
+        "hiragana": "こわれます (いすが)",
+        "kanji": "壊れる (いすが)",
+        "vietnamese": "hỏng (ghế)",
+        "info": "壊 (hoại) 衣 (y) 罒 (võng)"
+      },
+      {
+        "hiragana": "われます (コップが)",
+        "kanji": "割れる (コップが)",
+        "vietnamese": "vỡ (cốc)",
+        "info": "割 (cát: cắt) 害 (hại: nguy)"
+      },
+      {
+        "hiragana": "おれます (きが)",
+        "kanji": "折れる (木が)",
+        "vietnamese": "gãy (cây)",
+        "info": "折 (chiết: bẻ)"
+      },
+      {
+        "hiragana": "やぶれます (かみが)",
+        "kanji": "破れます (紙が)",
+        "vietnamese": "rách (giấy)",
+        "info": "破 (phá) 石 (thạch) 皮 (bì)"
+      },
+      {
+        "hiragana": "よごれます(ふくが)",
+        "kanji": "汚れます(服が)",
+        "vietnamese": "dơ, bẩn (đồ mặc)",
+        "info": "汚 (ô) 丂(khảo)"
+      },
+      {
+        "hiragana": "つきます (カバンにタグ)",
+        "kanji": "付く (カバンにタグ)",
+        "vietnamese": "dính, đính (tag, trên cặp)",
+        "info": "付 (phó: dính)"
+      },
+      {
+        "hiragana": "はずれます (ボタンが)",
+        "kanji": "外れます (ボタンが)",
+        "vietnamese": "tuột,bung,rời ra (sút nút)",
+        "info": "外 ngoại"
+      },
+      {
+        "hiragana": "とまります (くるまが)",
+        "kanji": "止まる (車が)",
+        "vietnamese": "dừng (xe)",
+        "info": "止 (chỉ)"
+      },
+      {
+        "hiragana": "まちがえます (こたえを)",
+        "kanji": "間違える (答えを)",
+        "vietnamese": "nhầm lẫn, sai (trả lời)",
+        "info": "間 (gian) 違 (vi)"
+      },
+      {
+        "hiragana": "おとします (さいふを)",
+        "kanji": "落とす (財布を)",
+        "vietnamese": "làm rơi, rớt (ví)",
+        "info": "落 (lạc) 艹(thảo) | 各 (các: mỗi) 客 (khách)"
+      },
+      {
+        "hiragana": "かかります (じかんが)",
+        "kanji": "掛かる (時間が)",
+        "vietnamese": "tốn, mất (thời gian)",
+        "info": "掛 (quải: treo)"
+      },
+      {
+        "hiragana": "ふきます (まどを)",
+        "kanji": "拭く (窓を)",
+        "vietnamese": "lau (cửa sổ)",
         "info": ""
       },
       {
-        "hiragana": "すきます",
-        "kanji": "すきます",
-        "vietnamese": "vắng(đường)",
-        "info": ""
+        "hiragana": "とりかえます (でんちを)",
+        "kanji": "取り替える (電池を)",
+        "vietnamese": "thay (pin)",
+        "info": "取 (thủ: lấy) | 替 (thế) 夫 (phu)"
       },
       {
-        "hiragana": "こわれます",
-        "kanji": "壊れます",
-        "vietnamese": "hỏng(ghế)",
-        "info": ""
+        "hiragana": "かたづけます (へやを)",
+        "kanji": "片付ける (部屋を)",
+        "vietnamese": "dọn dẹp (phòng)",
+        "info": "片 (phiến) 付 (phó)"
       },
       {
-        "hiragana": "われます",
-        "kanji": "割れます",
-        "vietnamese": "có thể nghe thấy",
-        "info": ""
-      },
-      {
-        "hiragana": "おれます",
-        "kanji": " 折れます",
-        "vietnamese": "gãy(cây)",
-        "info": ""
-      },
-      {
-        "hiragana": "やぶれます",
-        "kanji": "開きます",
-        "vietnamese": "rách(giấy)",
-        "info": ""
-      },
-      {
-        "hiragana": "よごれます",
-        "kanji": "汚れます",
-        "vietnamese": "dơ,bẩn(tay)",
-        "info": ""
-      },
-      {
-        "hiragana": "つきます",
-        "kanji": "付きます",
-        "vietnamese": "dính, đính (có túi)",
-        "info": ""
-      },
-      {
-        "hiragana": "はずれます",
-        "kanji": "外れます",
-        "vietnamese": "tuột,bung,rời ra(sút nút)",
-        "info": ""
-      },
-      {
-        "hiragana": "とまります",
-        "kanji": "止まります",
-        "vietnamese": "dừng",
-        "info": ""
-      },
-      {
-        "hiragana": "まちがえます",
-        "kanji": "まちがえます",
-        "vietnamese": "nhầm lẫn,sai",
-        "info": ""
-      },
-      {
-        "hiragana": "おとします",
-        "kanji": "落とします",
-        "vietnamese": "làm rơi,rớt",
-        "info": ""
-      },
-      {
-        "hiragana": "かかります",
-        "kanji": "掛かります",
-        "vietnamese": "khóa",
-        "info": ""
-      },
-      {
-        "hiragana": "ふきます",
-        "kanji": "ふきます",
-        "vietnamese": "lau(cửa)",
-        "info": ""
-      },
-      {
-        "hiragana": "とりかえます",
-        "kanji": "とりかえます",
-        "vietnamese": "thay(pin)",
-        "info": ""
-      },
-      {
-        "hiragana": "かたづけます",
-        "kanji": "片付けます",
-        "vietnamese": "dọn dẹp",
-        "info": ""
-      },
-      {
-        "hiragana": "さら　（おさら）",
+        "hiragana": "さら (おさら)",
         "kanji": "皿",
         "vietnamese": "đĩa",
-        "info": ""
+        "info": "皿 (mãnh)"
       },
       {
-        "hiragana": "ちゃわん　（おちゃわん）",
+        "hiragana": "ちゃわん (おちゃわん)",
         "kanji": "茶碗",
-        "vietnamese": "bát,chén",
-        "info": ""
+        "vietnamese": "bát, chén",
+        "info": "茶 (trà) 碗(oản) | 石 (thạch) 宛 (uyên: nhỏ)"
       },
       {
         "hiragana": "コップ",
@@ -6620,55 +6620,37 @@ data_vocabulary = [
         "hiragana": "ふくろ",
         "kanji": "袋",
         "vietnamese": "túi",
-        "info": ""
+        "info": "袋 (đại: túi) 代 (đại: thời) 衣 (y)"
       },
       {
         "hiragana": "しょるい",
         "kanji": "書類",
         "vietnamese": "giấy tờ",
-        "info": ""
+        "info": "書 (thư) 類 (loại: loài) | mễ đại hiệt"
       },
       {
         "hiragana": "えだ",
         "kanji": "枝",
         "vietnamese": "cành cây",
-        "info": ""
+        "info": "枝 (chi: cành) 支 (chi: thứ trưởng)"
       },
       {
         "hiragana": "えきいん",
         "kanji": "駅員",
         "vietnamese": "nhân viên nhà ga",
-        "info": ""
+        "info": "駅 (dịch)"
       },
       {
         "hiragana": "こうばん",
         "kanji": "交番",
         "vietnamese": "đồn cảnh sát,bốt cảnh sát",
-        "info": ""
-      },
-      {
-        "hiragana": "スピーチ",
-        "kanji": "スピーチ",
-        "vietnamese": "diễn văn",
-        "info": ""
+        "info": "交 (giao) 番 (phiên)"
       },
       {
         "hiragana": "へんじ",
         "kanji": "返事",
         "vietnamese": "trả lời",
-        "info": ""
-      },
-      {
-        "hiragana": "おさきにどうぞ",
-        "kanji": "お先にどうぞ",
-        "vietnamese": "mời anh/chị cứ về trước",
-        "info": ""
-      },
-      {
-        "hiragana": "げんじものがたり",
-        "kanji": "源氏物語",
-        "vietnamese": "tiểu thuyết được viết thời heian",
-        "info": ""
+        "info": "返 (phản: trả lại, trở lại) | 反 (phản: trái) 事 (sự)"
       },
       {
         "hiragana": "いまのでんしゃ",
@@ -6685,98 +6667,68 @@ data_vocabulary = [
       {
         "hiragana": "このくらい",
         "kanji": "このくらい",
-        "vietnamese": "cỡ tầm này,cỡ chừng này",
+        "vietnamese": "cỡ tầm này, cỡ chừng này",
         "info": ""
       },
       {
         "hiragana": "がわ",
         "kanji": "側",
-        "vietnamese": "phía…",
-        "info": ""
-      },
-      {
-        "hiragana": "ポケット",
-        "kanji": "ポケット",
-        "vietnamese": "túi",
-        "info": ""
+        "vietnamese": "phía",
+        "info": "側 (trắc: bên)"
       },
       {
         "hiragana": "へん",
         "kanji": "辺",
-        "vietnamese": "chỗ,vùng…",
-        "info": ""
-      },
-      {
-        "hiragana": "おぼえていません",
-        "kanji": "覚えていません",
-        "vietnamese": "tôi không nhớ",
-        "info": ""
+        "vietnamese": "chỗ, vùng…",
+        "info": "辺 (biên)"
       },
       {
         "hiragana": "あみだな",
         "kanji": "網棚",
         "vietnamese": "giá để hành lý",
-        "info": ""
+        "info": "網 (võng: lưới) 罔 (võng: lưới) 棚 (bằng)"
       },
       {
-        "hiragana": "たしか",
-        "kanji": "確か",
-        "vietnamese": "chắc là",
-        "info": ""
-      },
-      {
-        "hiragana": "ああ、よかった",
-        "kanji": "ああ、よかった",
-        "vietnamese": "ôi, may quá",
-        "info": ""
+        "hiragana": "たしか (に)",
+        "kanji": "確か (に)",
+        "vietnamese": "chắc là, Certainly",
+        "info": "確 (xác: đích) 隹(chuy)"
       },
       {
         "hiragana": "じしん",
         "kanji": "地震",
         "vietnamese": "động đất",
-        "info": ""
+        "info": "地 (địa) 震 (chấn) 雨 (vũ) | 辰 (thần: thìn) 衣 (y)"
       },
       {
         "hiragana": "かべ",
         "kanji": "壁",
         "vietnamese": "bức tường",
-        "info": ""
+        "info": "壁 (bích: vách) 尸(thi) 辛(tân: cay)"
       },
       {
         "hiragana": "はり",
         "kanji": "針",
         "vietnamese": "kim đồng hồ",
-        "info": ""
+        "info": "針 (châm: kim)"
       },
       {
-        "hiragana": "さします",
-        "kanji": "付けます",
-        "vietnamese": "chỉ",
-        "info": ""
-      },
-      {
-        "hiragana": "えきまえ",
-        "kanji": "駅前",
-        "vietnamese": "trước ga",
-        "info": ""
+        "hiragana": "さします (きたを)",
+        "kanji": "指す (北を)",
+        "vietnamese": "chỉ (hướng bắc)",
+        "info": "指 (chỉ: ngón tay) 旨 (chỉ: thị)"
       },
       {
         "hiragana": "たおれます",
-        "kanji": "倒れます",
+        "kanji": "倒れる",
         "vietnamese": "đổ",
-        "info": ""
+        "info": "倒 (đảo: ngã) 到(đáo: đến) 至 (chí)"
       },
       {
-        "hiragana": "にしのほう",
-        "kanji": "西の方",
-        "vietnamese": "phía tây",
-        "info": ""
-      },
-      {
-        "hiragana": "もえます",
-        "kanji": "燃えます",
-        "vietnamese": "cháy",
-        "info": ""
+        "hiragana": "もえます (きが)",
+        "kanji": "燃える (木が)",
+        "vietnamese": "cháy (cây)",
+        "info": "燃 (nhiên: đốt) 然(nhiên: tự)"
       }
     ]
   },
