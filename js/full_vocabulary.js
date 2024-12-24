@@ -6662,7 +6662,7 @@ data_vocabulary = [
         "hiragana": "わすれもの",
         "kanji": "忘れ物",
         "vietnamese": "đồ bỏ quên",
-        "info": ""
+        "info": "忘 (vong)"
       },
       {
         "hiragana": "このくらい",
@@ -6736,136 +6736,106 @@ data_vocabulary = [
     "lesson": "minna 30",
     "vocabulary": [
       {
-        "hiragana": "はります",
-        "kanji": "はります",
-        "vietnamese": "dán",
-        "info": ""
+        "hiragana": "はります(ポスターをかべに)",
+        "kanji": "貼る (ポスターを壁に)",
+        "vietnamese": "dán (poster lên tường)",
+        "info": "貼 (thiếp) 貝 (bối) 占 (chiêm: bói)"
       },
       {
-        "hiragana": "かけます",
-        "kanji": "掛けます",
-        "vietnamese": "treo",
-        "info": ""
+        "hiragana": "かけます (ドアにコートを)",
+        "kanji": "掛ける (ドアにコートを)",
+        "vietnamese": "treo (áo lên cửa)",
+        "info": "掛 (quải: treo)"
       },
       {
-        "hiragana": "かざります",
-        "kanji": "飾ります",
-        "vietnamese": "trang trí",
-        "info": ""
+        "hiragana": "かざります (屋に花を)",
+        "kanji": "飾る (屋に花を)",
+        "vietnamese": "trang trí (phòng với hoa)",
+        "info": "飾 (sức)"
       },
       {
-        "hiragana": "ならべます",
-        "kanji": "並べます",
-        "vietnamese": "xếp thành hàng",
-        "info": ""
+        "hiragana": "ならべます(本を)",
+        "kanji": "並べる(本を)",
+        "vietnamese": "xếp hàng, arrange, line up (sách)",
+        "info": "並 (tịnh: dãy hàng)"
       },
       {
-        "hiragana": "うえます",
-        "kanji": "植えます",
-        "vietnamese": "trồng (cây)",
-        "info": ""
+        "hiragana": "うえます (花を)",
+        "kanji": "植える (花を)",
+        "vietnamese": "trồng (hoa)",
+        "info": "植 (thực: vật) 直 (trực)"
       },
       {
-        "hiragana": "もどします",
-        "kanji": "戻します",
-        "vietnamese": "đưa về, trả về",
-        "info": ""
+        "hiragana": "もどします (本を棚に)",
+        "kanji": "戻す (本を棚に)",
+        "vietnamese": "đưa về, trả về (sách về giá)",
+        "info": "戻 (lệ: quay lại) 戸 (hộ)"
       },
       {
-        "hiragana": "まとめます",
-        "kanji": "まとめます",
-        "vietnamese": "nhóm lại, tóm tắt",
-        "info": ""
+        "hiragana": "まとめます (ポートを)",
+        "kanji": "纏める (ポートを)",
+        "vietnamese": "nhóm lại, tóm tắt (report)",
+        "info": "纏 (triền: quấn) 糸 (mịch) | 廛 (triền: đất)"
       },
       {
-        "hiragana": "かたづけます",
-        "kanji": "方づけます",
-        "vietnamese": "dọn dẹp, sắp xếp",
-        "info": ""
+        "hiragana": "しまいます (パソコンを)",
+        "kanji": "仕舞う (パソコンを)",
+        "vietnamese": "cất vào, để vào (máy tính)",
+        "info": "仕 (sĩ) 舞 (vũ: múa) | 無 (vô) 舛 (suyễn: lẫn lộn)"
       },
       {
-        "hiragana": "しまいます",
-        "kanji": "しまいます",
-        "vietnamese": "cất vào, để vào",
-        "info": ""
-      },
-      {
-        "hiragana": "きめます",
-        "kanji": "決めます",
-        "vietnamese": "quyết định",
+        "hiragana": "きめます (スケジュールを)",
+        "kanji": "決める (スケジュールを)",
+        "vietnamese": "quyết định (thời gian)",
         "info": ""
       },
       {
         "hiragana": "しらせます",
-        "kanji": "知らせます",
+        "kanji": "知らせる",
         "vietnamese": "thông báo",
-        "info": ""
+        "info": "知 (tri)"
       },
       {
         "hiragana": "そうだんします",
-        "kanji": "祖横断します",
+        "kanji": "相談する",
         "vietnamese": "thảo luận, trao đổi , bàn bạc",
-        "info": ""
+        "info": "相 (tương, tướng) | 談 (đàm) 炎 (viêm)"
       },
       {
         "hiragana": "よしゅうします",
-        "kanji": "予習します",
+        "kanji": "予習する",
         "vietnamese": "chuẩn bị bài mới",
-        "info": ""
+        "info": "予 (dư) 習 (tập)"
       },
       {
         "hiragana": "ふくしゅうします",
-        "kanji": "復習します",
+        "kanji": "復習する",
         "vietnamese": "ôn bài cũ",
-        "info": ""
-      },
-      {
-        "hiragana": "そのままにします",
-        "kanji": "そのままにします",
-        "vietnamese": "để nguyên như thế",
-        "info": ""
-      },
-      {
-        "hiragana": "おこさん",
-        "kanji": "お子さん",
-        "vietnamese": "con (dùng đối với người khác)",
-        "info": ""
+        "info": "復 (phục: lại, hồi) 彳(xích) 复(phục) | 夏(hạ) 習 (tập)"
       },
       {
         "hiragana": "じゅぎょう",
         "kanji": "授業",
         "vietnamese": "giờ học",
-        "info": ""
+        "info": "授 (thụ: truyền) 受 (thụ: tiếp) | 業 (nghiệp)"
       },
       {
         "hiragana": "こうぎ",
         "kanji": "講義",
         "vietnamese": "bài giảng",
-        "info": ""
-      },
-      {
-        "hiragana": "ミーテイング",
-        "kanji": "ミーテイング",
-        "vietnamese": "cuộc họp",
-        "info": ""
+        "info": "講 (giảng) 井(tỉnh: giếng) | 再 (tái: lại) 義 (nghĩa) 我(ngã: tôi)"
       },
       {
         "hiragana": "よてい",
-        "kanji": " 予定",
+        "kanji": "予定",
         "vietnamese": "kế hoạch, dự định",
-        "info": ""
-      },
-      {
-        "hiragana": "おしらせ",
-        "kanji": " お知らせ",
-        "vietnamese": "bản thông báo",
-        "info": ""
+        "info": "予 (dư) 定 (định) 疋 (sơ)"
       },
       {
         "hiragana": "あんないしょ",
         "kanji": "案内書",
         "vietnamese": "tài liệu hướng dẫn",
-        "info": ""
+        "info": "案 (án) 安 (an) | 内 (nội) 書 (thư)"
       },
       {
         "hiragana": "カレンダー",
@@ -6883,85 +6853,73 @@ data_vocabulary = [
         "hiragana": "ごみばこ",
         "kanji": "ごみ箱",
         "vietnamese": "thùng rác",
-        "info": ""
+        "info": "箱 (tương: thùng, hộp) | 相 (tương) 竹 (trúc)"
       },
       {
         "hiragana": "にんぎょう",
         "kanji": "人形",
         "vietnamese": "con búp bê, con rối",
-        "info": ""
+        "info": "人 (nhân) 形 (hình) 开 (khai)"
       },
       {
         "hiragana": "かびん",
         "kanji": "花瓶",
         "vietnamese": "lọ hoa",
-        "info": ""
+        "info": "花 (hoa) 瓶 (bình) | 并(tịnh) 瓦 (ngõa: ngói)"
       },
       {
         "hiragana": "かがみ",
         "kanji": "鏡",
         "vietnamese": "cái gương",
-        "info": ""
+        "info": "鏡 (kính) 竟 (cánh: trọn vẹn) 音 (âm)"
       },
       {
         "hiragana": "ひきだし",
         "kanji": "引き出し",
         "vietnamese": "ngăn kéo",
-        "info": ""
+        "info": "引 (dẫn) 出 (xuất)"
       },
       {
         "hiragana": "げんかん",
         "kanji": "玄関",
         "vietnamese": "cửa vào",
-        "info": ""
+        "info": "玄 (huyền) 幺 (yêu) 亠 (đầu) | 関 (quan)"
       },
       {
         "hiragana": "ろうか",
         "kanji": "廊下",
         "vietnamese": "hành lang",
-        "info": ""
-      },
-      {
-        "hiragana": "かべ",
-        "kanji": " 壁",
-        "vietnamese": "bức tường",
-        "info": ""
+        "info": "廊 (lang) 郎 (lang: quân) | 良(lương) 广 (nghiễm: mái nhà) 下 (hạ)"
       },
       {
         "hiragana": "いけ",
         "kanji": "池",
         "vietnamese": "cái ao",
-        "info": ""
-      },
-      {
-        "hiragana": "こうばん",
-        "kanji": "交番",
-        "vietnamese": "trạm cảnh sát",
-        "info": ""
+        "info": "池 (trì)"
       },
       {
         "hiragana": "もとのところ",
-        "kanji": "元の　所",
+        "kanji": "元の所",
         "vietnamese": "địa điểm ban đầu",
-        "info": ""
+        "info": "元 (nguyên) 所 (sở)"
       },
       {
         "hiragana": "まわり",
         "kanji": "周り",
         "vietnamese": "xung quanh",
-        "info": ""
+        "info": "周 (chu: vòng) 週 (chu: tuần)"
       },
       {
         "hiragana": "まんなか",
         "kanji": "真ん中",
         "vietnamese": "giữa, trung tâm",
-        "info": ""
+        "info": "真 (chân) 中 (trung)"
       },
       {
         "hiragana": "すみ",
-        "kanji": "すみ",
+        "kanji": "隅",
         "vietnamese": "góc",
-        "info": ""
+        "info": "隅 (ngung: góc nhìn từ trong) | 禸 (nhựu: vết chân)| 角 (giác: nhìn từ ngoài) "
       },
       {
         "hiragana": "まだ",
@@ -6979,61 +6937,37 @@ data_vocabulary = [
         "hiragana": "よていひょう",
         "kanji": "予定表",
         "vietnamese": "thời khóa biểu",
-        "info": ""
-      },
-      {
-        "hiragana": "ごくろうさま",
-        "kanji": "ごくろうさま",
-        "vietnamese": "anh, chị đã làm việc vất vả/cảm ơn anh, chị",
-        "info": ""
+        "info": "予 (dư) 定 (định) 表 (biểu: phát)"
       },
       {
         "hiragana": "きぼう",
         "kanji": "希望",
         "vietnamese": "hi vọng, nguyện vọng",
-        "info": ""
-      },
-      {
-        "hiragana": "なにかごきぼうがありますか",
-        "kanji": "何かご希望がありますか",
-        "vietnamese": "anh/chị có nguyện vọng gì không?",
-        "info": ""
-      },
-      {
-        "hiragana": "ミュージカル",
-        "kanji": "ミュージカル",
-        "vietnamese": "ca kịch",
-        "info": ""
+        "info": "希 (hi) 布 (bố: vải) | 望 (vọng) 亡 (vong)"
       },
       {
         "hiragana": "まるい",
         "kanji": "丸い",
         "vietnamese": "tròn",
-        "info": ""
-      },
-      {
-        "hiragana": "つき",
-        "kanji": "月",
-        "vietnamese": "mặt trăng",
-        "info": ""
+        "info": "丸 (hoàn)"
       },
       {
         "hiragana": "ちきゅう",
         "kanji": "地球",
         "vietnamese": "trái đất",
-        "info": ""
+        "info": "地 (địa) 球 (cầu) 求 (cầu: xin)"
       },
       {
         "hiragana": "うれしい",
-        "kanji": "うれしい",
+        "kanji": "嬉しい",
         "vietnamese": "vui",
-        "info": ""
+        "info": "嬉 (hi) 喜 (hỉ) 豆 (đậu)"
       },
       {
         "hiragana": "いや（な）",
         "kanji": "いや（な）",
         "vietnamese": "chán, ghét, không chấp nhận được",
-        "info": ""
+        "info": "嫌 (hiềm: nghi) 兼 (kiêm: gồm)"
       },
       {
         "hiragana": "すると",
@@ -7045,7 +6979,7 @@ data_vocabulary = [
         "hiragana": "めがさめます",
         "kanji": "目が覚めます",
         "vietnamese": "tỉnh giấc, mở mắt",
-        "info": ""
+        "info": "覚 (giác)"
       }
     ]
   },
