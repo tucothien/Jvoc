@@ -6988,242 +6988,206 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "はじまります「式が～」",
-        "kanji": "始まります",
+        "kanji": "始まる「式が～」",
         "vietnamese": "bắt đầu (buổi lễ ~)",
-        "info": ""
+        "info": "tự, 始 (thủy)"
       },
       {
-        "hiragana": "つづけます",
-        "kanji": "続ける",
-        "vietnamese": "tiếp tục",
-        "info": ""
+        "hiragana": "つづけます (運動を)",
+        "kanji": "続ける (運動を)",
+        "vietnamese": "tiếp tục (tập thể dục)",
+        "info": "tha, 続 (tục: tiếp) 売 (mại)"
       },
       {
-        "hiragana": "みつけます",
-        "kanji": "見つめます",
-        "vietnamese": "tìm thấy",
-        "info": ""
+        "hiragana": "みつけます (私を)",
+        "kanji": "見つめる (私を)",
+        "vietnamese": "nhìn chằm vào tôi",
+        "info": "tha"
       },
       {
         "hiragana": "うけます「しけんを」",
-        "kanji": "受けます",
+        "kanji": "受ける [試験を]",
         "vietnamese": "thi (kì thi)",
-        "info": ""
+        "info": "tha 受 (thụ)"
       },
       {
         "hiragana": "にゅうがくします「だいがくに」",
-        "kanji": "入学します",
-        "vietnamese": "nhập học",
+        "kanji": "入学する 「だいがくに」",
+        "vietnamese": "nhập học (đại học)",
         "info": ""
       },
       {
         "hiragana": "そつぎょうします「だいがくを」",
-        "kanji": "卒業します",
+        "kanji": "卒業する 「だいがくを」",
         "vietnamese": "tốt nghiệp",
-        "info": ""
+        "info": "卒 (tốt) 業 (nghiệp)"
       },
       {
         "hiragana": "きゅうけいします",
-        "kanji": "休憩します",
+        "kanji": "休憩する",
         "vietnamese": "giải lao",
-        "info": ""
+        "info": "休 (hưu) 憩 (khế: nghỉ) | 舌 (thiệt lưỡi)"
       },
       {
         "hiragana": "れんきゅう",
         "kanji": "連休",
-        "vietnamese": "ngày nghỉ liền nhay",
-        "info": ""
+        "vietnamese": "ngày nghỉ liền nhau",
+        "info": "連 (liên) 休 (hưu)"
       },
       {
         "hiragana": "さくぶん",
         "kanji": "作文",
         "vietnamese": "bài văn",
-        "info": ""
+        "info": "作 (tác) 文 (văn)"
       },
       {
         "hiragana": "てんらんかい",
         "kanji": "展覧会",
         "vietnamese": "triển lãm",
-        "info": ""
+        "info": "展 (triển: mở) 覧 (lãm) 臣 | (thần: bề tôi)"
       },
       {
         "hiragana": "けっこんしき",
         "kanji": "結婚式",
         "vietnamese": "lễ cưới, đám cưới",
-        "info": ""
+        "info": "結 (kết: thắt) 吉 (cát) 糸 (mịch) | 婚 (hôn: kết) 昏(hôn: tối, hoàng) | 氏 (thị) 式 (thức)"
       },
       {
         "hiragana": "「お」そうしき",
         "kanji": "「お」葬式",
         "vietnamese": "lễ tang, đám tang",
-        "info": ""
+        "info": "葬 (táng: chôn) 死 (tử) 式 (thức)"
       },
       {
         "hiragana": "しき",
         "kanji": "式",
         "vietnamese": "buổi lễ",
-        "info": ""
+        "info": "式 (thức)"
       },
       {
         "hiragana": "ほんしゃ",
         "kanji": "本社",
         "vietnamese": "trụ sở",
-        "info": ""
+        "info": "本 (bản) 社 (xã)"
       },
       {
         "hiragana": "してん",
         "kanji": "支店",
         "vietnamese": "chi nhánh",
-        "info": ""
+        "info": "支 (chi) 店 (điếm) 占 (chiêm)"
       },
       {
         "hiragana": "きょうかい",
         "kanji": "教会",
         "vietnamese": "nhà thờ",
-        "info": ""
+        "info": "教 (giáo) 孝(hiếu) | 攵(phộc) 会 (hội)"
       },
       {
         "hiragana": "だいがくいん",
         "kanji": "大学院",
         "vietnamese": "cao học, cơ sở giáo dục trên đại học",
-        "info": ""
+        "info": "院 (viện) 完 (hoàn: thành)"
       },
       {
         "hiragana": "どうぶつえん",
         "kanji": "動物園",
         "vietnamese": "sở thú",
-        "info": ""
+        "info": "動 (động) 物 (vật) | 園 (viên) 遠 (viễn)"
       },
       {
         "hiragana": "おんせん",
         "kanji": "温泉",
         "vietnamese": "suối nước nóng",
-        "info": ""
+        "info": "温 (ôn) 泉 (tuyền)"
       },
       {
         "hiragana": "おきゃく「さん」",
         "kanji": " お客「さん」",
         "vietnamese": "khách hàng",
-        "info": ""
-      },
-      {
-        "hiragana": "だれか",
-        "kanji": "だれか",
-        "vietnamese": "ai đó",
-        "info": ""
+        "info": "客 (khách) 各 (các)"
       },
       {
         "hiragana": "～のほう",
         "kanji": "～の　方",
         "vietnamese": "hướng~",
-        "info": ""
+        "info": "方 (phương)"
       },
       {
         "hiragana": "のこります",
-        "kanji": "残ります",
-        "vietnamese": "ở lại",
-        "info": ""
-      },
-      {
-        "hiragana": "つきに",
-        "kanji": "月に",
-        "vietnamese": "một tháng",
-        "info": ""
+        "kanji": "残る (食べ物が少し)",
+        "vietnamese": "ở lại, còn lại (ít thức ăn)",
+        "info": "tự, 残 (tàn)"
       },
       {
         "hiragana": "ふつうの",
         "kanji": "普通の",
         "vietnamese": "thường",
-        "info": ""
-      },
-      {
-        "hiragana": "",
-        "kanji": "インターネット",
-        "vietnamese": "internet",
-        "info": ""
+        "info": "普 (phổ) 並 (tịnh: bình thường) 通 (thông)"
       },
       {
         "hiragana": "むら",
         "kanji": "村",
         "vietnamese": "làng",
-        "info": ""
+        "info": "村 (thôn) 寸 (thốn: tấc)"
       },
       {
         "hiragana": "えいがかん",
         "kanji": "映画館",
         "vietnamese": "rạp chiếu phim",
-        "info": ""
+        "info": "映 (ánh) 央 (ương) 画 (họa) 館 (quán)"
       },
       {
-        "hiragana": "いや「な」",
-        "kanji": "玄関",
-        "vietnamese": "chán ghét, không chấp nhận được",
-        "info": ""
-      },
-      {
-        "hiragana": "そら",
-        "kanji": "空",
-        "vietnamese": "bầu trời",
-        "info": ""
-      },
-      {
-        "hiragana": "とじます",
-        "kanji": " 閉じます",
-        "vietnamese": "nhắm",
-        "info": ""
+        "hiragana": "とじます (本を)",
+        "kanji": " 閉じる (本を)",
+        "vietnamese": "nhắm, đóng (sách)",
+        "info": "閉 (bế)"
       },
       {
         "hiragana": "とかい",
         "kanji": "都会",
-        "vietnamese": "thành phố",
-        "info": ""
-      },
-      {
-        "hiragana": "こどもたち",
-        "kanji": "子供たち",
-        "vietnamese": "bọn trẻ",
-        "info": ""
+        "vietnamese": "thành phố (lớn)",
+        "info": "都 (đô) 者 (giả) 会 (hội)"
       },
       {
         "hiragana": "じゆうに",
         "kanji": "自由に",
         "vietnamese": "tự do",
-        "info": ""
+        "info": "na, 自 (tự) 由 (do)"
       },
       {
         "hiragana": "せかいじゅう",
         "kanji": "世界中",
         "vietnamese": "khắp thể giới",
-        "info": ""
+        "info": "世 (thế: đời) 界 (giới) 中 (trung)"
       },
       {
         "hiragana": "あつまります",
-        "kanji": "集まります",
+        "kanji": "集まる",
         "vietnamese": "tập hợp",
-        "info": ""
+        "info": "tự, 集(tập), 隹 (chuy)"
       },
       {
         "hiragana": "うつくしい",
         "kanji": "美しい",
         "vietnamese": "đẹp",
-        "info": ""
+        "info": "i, 美(mỹ) 𦍌"
       },
       {
         "hiragana": "しぜん",
         "kanji": "自然",
         "vietnamese": "thiên nhiên",
-        "info": ""
+        "info": "自 (tự) 然 (nhiên)"
       },
       {
         "hiragana": "すばらしさ",
         "kanji": "すばらしさ",
-        "vietnamese": "tuyệt vời",
+        "vietnamese": "sự tuyệt vời",
         "info": ""
       },
       {
-        "hiragana": "きがつきます",
-        "kanji": "気が付きます",
-        "vietnamese": "để ý,nhận ra",
+        "hiragana": "きがつきます (時計に)",
+        "kanji": "𦍌 (時計に)",
+        "vietnamese": "để ý,nhận ra (đồng hồ)",
         "info": ""
       }
     ]
