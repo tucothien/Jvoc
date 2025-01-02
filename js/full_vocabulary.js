@@ -6999,7 +6999,7 @@ data_vocabulary = [
         "info": "tha, 続 (tục: tiếp) 売 (mại)"
       },
       {
-        "hiragana": "みつけます (私を)",
+        "hiragana": "みつめます (私を)",
         "kanji": "見つめる (私を)",
         "vietnamese": "nhìn chằm vào tôi",
         "info": "tha"
@@ -7008,7 +7008,7 @@ data_vocabulary = [
         "hiragana": "うけます「しけんを」",
         "kanji": "受ける [試験を]",
         "vietnamese": "thi (kì thi)",
-        "info": "tha 受 (thụ)"
+        "info": "tha, 受 (thụ)"
       },
       {
         "hiragana": "にゅうがくします「だいがくに」",
@@ -7102,7 +7102,7 @@ data_vocabulary = [
       },
       {
         "hiragana": "おきゃく「さん」",
-        "kanji": " お客「さん」",
+        "kanji": "お客「さん」",
         "vietnamese": "khách hàng",
         "info": "客 (khách) 各 (các)"
       },
@@ -7138,7 +7138,7 @@ data_vocabulary = [
       },
       {
         "hiragana": "とじます (本を)",
-        "kanji": " 閉じる (本を)",
+        "kanji": "閉じる (本を)",
         "vietnamese": "nhắm, đóng (sách)",
         "info": "閉 (bế)"
       },
@@ -7157,7 +7157,7 @@ data_vocabulary = [
       {
         "hiragana": "せかいじゅう",
         "kanji": "世界中",
-        "vietnamese": "khắp thể giới",
+        "vietnamese": "khắp thế giới",
         "info": "世 (thế: đời) 界 (giới) 中 (trung)"
       },
       {
@@ -7182,12 +7182,6 @@ data_vocabulary = [
         "hiragana": "すばらしさ",
         "kanji": "すばらしさ",
         "vietnamese": "sự tuyệt vời",
-        "info": ""
-      },
-      {
-        "hiragana": "きがつきます (時計に)",
-        "kanji": "𦍌 (時計に)",
-        "vietnamese": "để ý,nhận ra (đồng hồ)",
         "info": ""
       }
     ]
