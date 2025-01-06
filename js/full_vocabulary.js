@@ -7191,81 +7191,87 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "うんどうします",
-        "kanji": "運動します",
+        "kanji": "運動する",
         "vietnamese": "vận động, tập thể thao",
-        "info": ""
+        "info": "運 (vận) 軍 (quân: đội) | 連 (liên) 動 (động)"
       },
       {
         "hiragana": "せいこうします",
-        "kanji": "成功します",
+        "kanji": "成功する",
         "vietnamese": "thành công",
-        "info": ""
+        "info": "成 (thành) 戈 (mác) | 戊 (mậu: can) 功 (công: việc)"
       },
       {
         "hiragana": "しっぱいします（しけんに～）",
-        "kanji": "失敗します（試験に～）",
-        "vietnamese": "thất bại, trượt",
-        "info": ""
+        "kanji": "失敗する（試験に～）",
+        "vietnamese": "thất bại, trượt (kỳ thi)",
+        "info": "失 (thất) 夫 (phu) 矢 (thỉ) | 敗 (bại: bối phộc) 貼 (thiếp: dán)"
       },
       {
         "hiragana": "ごうかくします（しけんに～）",
         "kanji": "合格します（試験に～）",
         "vietnamese": "đỗ",
-        "info": ""
+        "info": "合 (hợp) 格 (cách: quy, giá) 各 (các)"
       },
       {
         "hiragana": "もどります",
         "kanji": "戻ります",
         "vietnamese": "quay lại, trở lại",
-        "info": ""
+        "info": "tự, 戻 (lệ: quay lại)"
       },
       {
         "hiragana": "やみます（雨が～）",
-        "kanji": "やみます（雨が～）",
-        "vietnamese": "tạnh ,ngừng",
-        "info": ""
+        "kanji": "止む（雨が～）",
+        "vietnamese": "tạnh, ngừng (mưa)",
+        "info": "tự, 止 (chỉ)"
       },
       {
         "hiragana": "はれます",
-        "kanji": "晴れます",
+        "kanji": "晴れる",
         "vietnamese": "nắng, quang đãng",
-        "info": ""
+        "info": "tự, 晴 (tình: nắng) 青 (thanh)"
       },
       {
         "hiragana": "くもります",
-        "kanji": "曇ります",
+        "kanji": "曇る",
         "vietnamese": "có mây, mây mù",
-        "info": ""
+        "info": "tự, 曇 (đàm: đám mây) 雲 (vân) 云 (vân: vân)"
       },
       {
         "hiragana": "ふきます（かぜが～）",
-        "kanji": "吹きます（風が～）",
-        "vietnamese": "thổi",
-        "info": ""
+        "kanji": "吹（風が～）",
+        "vietnamese": "thổi (gió)",
+        "info": "tha/tự, 吹 (xuy: thổi, cổ xúy) 欠 (khiếm)"
       },
       {
         "hiragana": "なおります",
-        "kanji": "治ります、直ります",
-        "vietnamese": "khỏi",
-        "info": ""
+        "kanji": "治る",
+        "vietnamese": "khỏi, phục hồi",
+        "info": "tự, 治 (trị)"
+      },
+      {
+        "hiragana": "なおります",
+        "kanji": "直る",
+        "vietnamese": "được sửa, fixed",
+        "info": "tự, 直 (trực)"
       },
       {
         "hiragana": "つづきます",
-        "kanji": "つづきます",
+        "kanji": "続く",
         "vietnamese": "tiếp tục, tiếp diễn",
-        "info": ""
+        "info": "tự, 続 (tục, mịch mại)"
       },
       {
         "hiragana": "ひやします",
-        "kanji": "冷やします",
+        "kanji": "冷やす",
         "vietnamese": "làm lạnh",
-        "info": ""
+        "info": "tha, 冷 (lãnh)冫 (băng) 令 (lệnh)"
       },
       {
         "hiragana": "しんぱい（な）",
         "kanji": "心配（な）",
         "vietnamese": "lo lắng",
-        "info": ""
+        "info": "心 (tâm) 配 (phối) | 酉 (dậu) 己 (kỉ)"
       },
       {
         "hiragana": "じゅうぶん（な）",
@@ -7277,7 +7283,7 @@ data_vocabulary = [
         "hiragana": "おかしい",
         "kanji": "おかしい",
         "vietnamese": "có vấn đề, không bình thường",
-        "info": ""
+        "info": "i"
       },
       {
         "hiragana": "うるさい",
@@ -7287,15 +7293,15 @@ data_vocabulary = [
       },
       {
         "hiragana": "やけど",
-        "kanji": "やけど",
+        "kanji": "やけど (火傷)",
         "vietnamese": "bỏng",
-        "info": ""
+        "info": "火 (hỏa) 傷 (thương: vết) | 昜(dương: thái) 旦 (đán: nguyên)"
       },
       {
         "hiragana": "けが",
-        "kanji": "けが",
+        "kanji": "けが (怪我)",
         "vietnamese": "bị thương",
-        "info": ""
+        "info": "N, 怪 (quái: yêu, lạ) | 忄(tâm) 圣 (thánh) 我 (ngã) 戈 (mâu)"
       },
       {
         "hiragana": "せき",
@@ -7310,22 +7316,16 @@ data_vocabulary = [
         "info": ""
       },
       {
-        "hiragana": "そら",
-        "kanji": "空",
-        "vietnamese": "bầu trời",
-        "info": ""
-      },
-      {
         "hiragana": "たいよう",
         "kanji": "太陽",
         "vietnamese": "mặt trời",
-        "info": ""
+        "info": "太 (thái: to) 陽 (dương) 昜 (dương)"
       },
       {
         "hiragana": "ほし",
         "kanji": "星",
         "vietnamese": "ngôi sao",
-        "info": ""
+        "info": "星 (tinh) 生 (sinh) nhật"
       },
       {
         "hiragana": "つき",
@@ -7337,7 +7337,7 @@ data_vocabulary = [
         "hiragana": "かぜ",
         "kanji": "風",
         "vietnamese": "gió",
-        "info": ""
+        "info": "風 (phong) 虫 (trùng)"
       },
       {
         "hiragana": "きた",
@@ -7365,74 +7365,32 @@ data_vocabulary = [
       },
       {
         "hiragana": "すいどう",
-        "kanji": "隧道",
+        "kanji": "水道",
         "vietnamese": "nước máy",
-        "info": ""
-      },
-      {
-        "hiragana": "エンジン",
-        "kanji": "エンジン",
-        "vietnamese": "động cơ",
-        "info": ""
-      },
-      {
-        "hiragana": "チーム",
-        "kanji": "チーム",
-        "vietnamese": "đội",
-        "info": ""
+        "info": "水 (thủy) 道 (đạo)"
       },
       {
         "hiragana": "こんや",
         "kanji": "今夜",
         "vietnamese": "tối nay, đêm nay",
-        "info": ""
+        "info": "夜 (dạ)"
       },
       {
         "hiragana": "ゆうがた",
         "kanji": "夕方",
         "vietnamese": "chiều tối",
-        "info": ""
-      },
-      {
-        "hiragana": "まえ",
-        "kanji": "前",
-        "vietnamese": "trước",
-        "info": ""
+        "info": "夕 (tịch: chiều tối) 方 (phương)"
       },
       {
         "hiragana": "おそく",
         "kanji": "遅く",
         "vietnamese": "muộn , khuya",
-        "info": ""
-      },
-      {
-        "hiragana": "こんなに",
-        "kanji": "こんなに",
-        "vietnamese": "như thế này",
-        "info": ""
-      },
-      {
-        "hiragana": "そんなに",
-        "kanji": "そんなに",
-        "vietnamese": "như thế đó",
-        "info": ""
-      },
-      {
-        "hiragana": "あんなに",
-        "kanji": "あんなに",
-        "vietnamese": "như thế kia",
-        "info": ""
+        "info": "遅 (trì) 羊 (dương)"
       },
       {
         "hiragana": "もしかしたら",
         "kanji": "もしかしたら",
         "vietnamese": "có thể, biết dâu là, có khả năng",
-        "info": ""
-      },
-      {
-        "hiragana": "それはいけませんね",
-        "kanji": "それはいけませんね",
-        "vietnamese": "thế thì thật không tốt.",
         "info": ""
       },
       {
@@ -7442,22 +7400,16 @@ data_vocabulary = [
         "info": ""
       },
       {
-        "hiragana": "げんき",
-        "kanji": "元気",
-        "vietnamese": "khỏe mạnh",
-        "info": ""
-      },
-      {
         "hiragana": "い",
         "kanji": "胃",
         "vietnamese": "dạ dày",
-        "info": ""
+        "info": "胃 (vị: dạ dày)"
       },
       {
         "hiragana": "はたらきすぎ",
         "kanji": "働きすぎ",
         "vietnamese": "làm việc quá sức",
-        "info": ""
+        "info": "働 (động)"
       },
       {
         "hiragana": "ストレス",
@@ -7469,67 +7421,61 @@ data_vocabulary = [
         "hiragana": "むりをします",
         "kanji": "無理をします",
         "vietnamese": "làm quá sức",
-        "info": ""
+        "info": "無 (vô) 理 (lý)"
       },
       {
         "hiragana": "ゆっくりします",
         "kanji": "ゆっくりします",
-        "vietnamese": "nghỉ ngơi, thư thái, dưỡng sức",
+        "vietnamese": "nghỉ ngơi, thư thái, làm vừa phải",
         "info": ""
       },
       {
         "hiragana": "ほしうらない",
         "kanji": "星占い",
         "vietnamese": "bói sao",
-        "info": ""
-      },
-      {
-        "hiragana": "おうしざ",
-        "kanji": "牡牛座",
-        "vietnamese": "chòm sao Kim Ngưu",
-        "info": ""
+        "info": "N, 星 (tinh) 占 (chiêm)"
       },
       {
         "hiragana": "こまります",
-        "kanji": "困ります",
+        "kanji": "困る",
         "vietnamese": "rắc rối, khó xử, vấn đề",
-        "info": ""
+        "info": "tự, 困 (khốn)"
       },
       {
         "hiragana": "たからくじ",
-        "kanji": "「宝くじ",
-        "vietnamese": "xổ số",
-        "info": ""
+        "kanji": "宝くじ",
+        "vietnamese": "vé số, xổ số",
+        "info": "N, 宝 (bảo: báu), 玉 (ngọc) miên"
       },
       {
         "hiragana": "あたります（たからくじが～）",
-        "kanji": "当たります（宝くじが～）",
-        "vietnamese": "trúng(số)",
-        "info": ""
+        "kanji": "当たる（宝くじが～）",
+        "vietnamese": "trúng (số, đạn, đúng)",
+        "info": "当 (đương: đang) "
       },
       {
         "hiragana": "けんこう",
         "kanji": "健康",
         "vietnamese": "sức khỏe",
-        "info": ""
+        "info": "健 (kiện: khỏe) 建(kiến) | 康 (khang: an) 隶 (đãi) 广 (nghiễm)"
       },
       {
         "hiragana": "れんあい",
         "kanji": "恋愛",
         "vietnamese": "tình yêu",
-        "info": ""
+        "info": "恋 (luyến) 亦 (diệc: cũng) 変 (biến) 赤(xích)| 愛(ái) 夂 (tri) 冖 (mịch)"
       },
       {
         "hiragana": "こいびと",
         "kanji": "恋人",
         "vietnamese": "người yêu",
-        "info": ""
+        "info": "恋 (luyến) 亦 (diệc: cũng) 変 (biến) 赤(xích)"
       },
       {
         "hiragana": "（お）かねもち",
-        "kanji": "お）金持ち",
+        "kanji": "（お）金持ち",
         "vietnamese": "người giàu có",
-        "info": ""
+        "info": "金 (kim) 持 (trì)"
       }
     ]
   },
