@@ -7484,99 +7484,75 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "にげます",
-        "kanji": "逃げます",
+        "kanji": "逃げる",
         "vietnamese": "chạy trốn, bỏ chạy",
-        "info": ""
+        "info": "tự, 逃 (đào: tẩu) 兆 (triệu: 10^6)"
       },
       {
         "hiragana": "さわぎます",
-        "kanji": "騒ぎます",
+        "kanji": "騒ぐ",
         "vietnamese": "làm ồn, làm rùm beng",
-        "info": ""
+        "info": "tự, 騒 (tao: làm ồn) mã trùng hựu"
       },
       {
         "hiragana": "あきらめます",
-        "kanji": "あきらめます",
+        "kanji": "諦める",
         "vietnamese": "từ bỏ, đầu hàng",
-        "info": ""
+        "info": "tha, 諦 (đế: bỏ) 帝 (đế: hoàng)"
       },
       {
-        "hiragana": "なげます",
-        "kanji": "投げま",
-        "vietnamese": "ném",
-        "info": ""
+        "hiragana": "なげます(猫に石を)",
+        "kanji": "投げる (猫に石を)",
+        "vietnamese": "ném (đá vào mèo)",
+        "info": "tự/tha, 投 (đầu: ném) 殳 (thù)"
       },
       {
-        "hiragana": "まもります",
-        "kanji": "守ります",
-        "vietnamese": "bảo vệ, tuân thủ",
-        "info": ""
+        "hiragana": "まもります (約束を)",
+        "kanji": "守る (約束を)",
+        "vietnamese": "bảo vệ, tuân thủ (lời hứa)",
+        "info": "tha, 守 (thủ: giữ, thốn miên)"
       },
       {
-        "hiragana": "あげます",
-        "kanji": "上げます",
-        "vietnamese": "nâng lên, tăng lên",
-        "info": ""
+        "hiragana": "あげます(手を)",
+        "kanji": "上げます(手を)",
+        "vietnamese": "nâng lên, tăng lên (tay)",
+        "info": "tha, 上 (thượng)"
       },
       {
-        "hiragana": "さげます",
-        "kanji": "下げます",
-        "vietnamese": "hạ xuống, giảm xuống",
-        "info": ""
+        "hiragana": "さげます(手を)",
+        "kanji": "下げる(手を)",
+        "vietnamese": "hạ xuống, giảm xuống (tay)",
+        "info": "tha, 下 (hạ)"
       },
       {
-        "hiragana": "つたえます",
-        "kanji": "伝えます",
-        "vietnamese": "truyền đạt",
-        "info": ""
+        "hiragana": "つたえます(ことを)",
+        "kanji": "伝える(ことを)",
+        "vietnamese": "truyền đạt (việc)",
+        "info": "tha, 伝 (truyền, nhân vân)"
       },
       {
         "hiragana": "ちゅういします",
         "kanji": "注意します",
         "vietnamese": "chú ý",
-        "info": ""
+        "info": "tự, 注 (chú) 主 (chủ) 意 (ý, âm tâm)"
       },
       {
         "hiragana": "はずします",
-        "kanji": "外します",
+        "kanji": "外す",
         "vietnamese": "rời, không có ở (chỗ ngồi)",
-        "info": ""
-      },
-      {
-        "hiragana": "だめ",
-        "kanji": "だめ",
-        "vietnamese": "không được, không thể",
-        "info": ""
+        "info": "tha/tự, 外(ngoại) | 外れる: tự, bung ra"
       },
       {
         "hiragana": "せき",
         "kanji": "席",
         "vietnamese": "chỗ ngồi, ghế",
-        "info": ""
-      },
-      {
-        "hiragana": "ファイト",
-        "kanji": "（な）",
-        "vietnamese": "’quyết chiến’, ‘cố lên’",
-        "info": ""
-      },
-      {
-        "hiragana": "マーク",
-        "kanji": "マーク",
-        "vietnamese": "kí hiệu",
-        "info": ""
-      },
-      {
-        "hiragana": "ボール",
-        "kanji": "ボール",
-        "vietnamese": "quả bóng",
-        "info": ""
+        "info": " 席 (tịch: cái chiếu) 广(nghiễm: mái nhà) | 廿 (nhập: 20) 巾 (cân: khăn) | 咳 (seki: ho) 度 (độ)"
       },
       {
         "hiragana": "せんたくき",
         "kanji": "洗濯機",
         "vietnamese": "máy giặt",
-        "info": ""
+        "info": "洗 (tẩy) 先 (tiên) 濯 (trạc: giặt) | 隹 (chuy: chim đuôi ngắn) 機 (cơ)"
       },
       {
         "hiragana": "―き",
@@ -7588,19 +7564,19 @@ data_vocabulary = [
         "hiragana": "きそく",
         "kanji": "規則",
         "vietnamese": "quy tắc, kỷ luật",
-        "info": ""
+        "info": "規 (quy: khuôn tròn, phu kiến) | 則 (tắc: phép) 貼 (thiếp) 敗 (bại)"
       },
       {
         "hiragana": "しようきんし",
         "kanji": "使用禁止",
         "vietnamese": "cấm sử dụng",
-        "info": ""
+        "info": "使 (sử) 吏 (lại) 用 (dụng) 禁 (cấm) 止 (chỉ)"
       },
       {
         "hiragana": "たちいりきんし",
         "kanji": "立ち入り禁止",
         "vietnamese": "cấm vào",
-        "info": ""
+        "info": "立入禁止 (giống)"
       },
       {
         "hiragana": "いりぐち",
@@ -7618,25 +7594,19 @@ data_vocabulary = [
         "hiragana": "ひじょうぐち",
         "kanji": "非常宇口",
         "vietnamese": "cửa thoát hiểm",
-        "info": ""
-      },
-      {
-        "hiragana": "むりょう",
-        "kanji": "無料",
-        "vietnamese": "miễn phí",
-        "info": ""
+        "info": "非 (phi) 常 (thường) 吊 | (điếu:văn) 宇 (vũ: trụ) 于 (vu: quy)"
       },
       {
         "hiragana": "ほんじつきゅうぎょう",
         "kanji": "本日休業",
         "vietnamese": "hôm nay đóng cửa, hôm nay nghỉ",
-        "info": ""
+        "info": "bổn nhật hưu nghiệp"
       },
       {
         "hiragana": "えいぎょうちゅう",
         "kanji": "営業中",
         "vietnamese": "đang mở cửa",
-        "info": ""
+        "info": "営 (doanh) 呂 (lữ) 風呂 (furo) "
       },
       {
         "hiragana": "しようちゅう",
@@ -7645,166 +7615,118 @@ data_vocabulary = [
         "info": ""
       },
       {
-        "hiragana": "―ちゅう",
-        "kanji": "ー中",
-        "vietnamese": "đang–",
-        "info": ""
-      },
-      {
-        "hiragana": "どういうー",
-        "kanji": "どういうー",
-        "vietnamese": "–gì, — thế nào",
-        "info": ""
-      },
-      {
-        "hiragana": "もう",
-        "kanji": "もう",
-        "vietnamese": "không—nữa",
-        "info": ""
-      },
-      {
-        "hiragana": "あと",
-        "kanji": "あと",
-        "vietnamese": "còn~",
-        "info": ""
+        "hiragana": "どういう(意味)",
+        "kanji": "どう言う(意味)",
+        "vietnamese": "–gì, — thế nào (ý)",
+        "info": "tương tự どんな, ít formal, thêm thông tin"
       },
       {
         "hiragana": "ちゅうしゃいはん",
         "kanji": "駐車違反",
         "vietnamese": "đỗ xe trái phép",
-        "info": ""
-      },
-      {
-        "hiragana": "そりゃあ",
-        "kanji": "そりゃあ",
-        "vietnamese": "thế thì ,ồ",
-        "info": ""
+        "info": "駐 (trú) xa 違 (vi) 反 (phản)"
       },
       {
         "hiragana": "～いない",
-        "kanji": "～い内",
+        "kanji": "～以内",
         "vietnamese": "~trong khoảng, ~trong vòng",
-        "info": ""
+        "info": "以 (dĩ)"
       },
       {
         "hiragana": "けいさつ",
         "kanji": "警察",
         "vietnamese": "cảnh sát",
-        "info": ""
+        "info": "警 (cảnh) 敬 (kính) | 察 (sát) 祭(tế: cúng, lễ hội)"
       },
       {
         "hiragana": "ばっきん",
         "kanji": "罰金",
         "vietnamese": "tiền phạt",
-        "info": ""
+        "info": "罰 (phạt, võng ngôn đao)"
       },
       {
         "hiragana": "でんぽう",
         "kanji": "電報",
         "vietnamese": "điện báo",
-        "info": ""
+        "info": "電 (điện) 報 (báo) | 幸 (hạnh) 服(phục)"
       },
       {
         "hiragana": "ひとびと",
         "kanji": "人々",
-        "vietnamese": "nhiều người",
+        "vietnamese": "nhiều người, people, each person",
         "info": ""
       },
       {
         "hiragana": "きゅうよう",
         "kanji": "急用",
         "vietnamese": "việc gấp",
-        "info": ""
+        "info": "急 (cấp) 用 (dụng)"
       },
       {
         "hiragana": "うちます（でんぽうを）",
-        "kanji": "打ちます（電報を）",
-        "vietnamese": "gửi(điện báo)",
-        "info": ""
+        "kanji": "打つ（電報を）",
+        "vietnamese": "gửi, đánh(điện báo)",
+        "info": "tha, 打 (đả, thủ đinh)"
       },
       {
         "hiragana": "でんぽうだい",
         "kanji": "電報代",
         "vietnamese": "phí điện báo",
-        "info": ""
+        "info": "電 (điện) 報 (báo) 代 (đại) | 幸 (hạnh) 服(phục)"
       },
       {
         "hiragana": "できるだけ",
         "kanji": "できるだけ",
         "vietnamese": "cố gắng, trong khả năng có thể",
-        "info": ""
+        "info": "adv"
       },
       {
-        "hiragana": "みじかく",
-        "kanji": "短く",
-        "vietnamese": "ngắn gọn",
-        "info": ""
-      },
-      {
-        "hiragana": "また",
-        "kanji": "また",
-        "vietnamese": "thêm nữa",
-        "info": ""
-      },
-      {
-        "hiragana": "たとえば",
-        "kanji": "例えば",
-        "vietnamese": "ví dụ",
-        "info": ""
-      },
-      {
-        "hiragana": "キトク",
+        "hiragana": "きとく",
         "kanji": "危篤",
         "vietnamese": "tình trạn hiểm nghèo",
-        "info": ""
+        "info": "危 (nguy) 厄 (ách: tai) | 篤 (đốc: ) 馬 (mã), trúc"
       },
       {
         "hiragana": "おもいびょうき",
         "kanji": "重い病気",
         "vietnamese": "bệnh nặng",
-        "info": ""
-      },
-      {
-        "hiragana": "あす",
-        "kanji": "明日",
-        "vietnamese": "ngày mai",
-        "info": ""
+        "info": "trọng bệnh khí 丙 (bính: đinh) 疒 (nạch)"
       },
       {
         "hiragana": "るす",
         "kanji": "留守",
         "vietnamese": "vắng nhà",
-        "info": ""
+        "info": "N suru, 留 (lưu: giữ) 卯 (mão: mẹo) | 守 (thủ: giữ, miên thốn)"
       },
       {
         "hiragana": "るすばん",
         "kanji": "留守番",
         "vietnamese": "trông nhà, giữ nhà",
-        "info": ""
+        "info": "N suru, 留 (lưu: giữ) 卯 (mão: mẹo) | 守 (thủ: giữ, miên thốn) 番 (phiên)"
       },
       {
         "hiragana": "(お）いわい",
-        "kanji": "(お）いわい",
+        "kanji": "(お）祝い",
         "vietnamese": "việc mừng",
-        "info": ""
+        "info": "N, 祝 (chúc) ne 兄 (huynh)"
       },
       {
         "hiragana": "なくなります",
-        "kanji": "なくなります",
+        "kanji": "亡くなる",
         "vietnamese": "mất,chết",
-        "info": ""
+        "info": "tự, 亡 (vong), 無くなる (mất)"
       },
       {
         "hiragana": "かなしい",
         "kanji": "悲しい",
         "vietnamese": "buồn",
-        "info": ""
+        "info": "i, 悲 (bi) phi tâm"
       },
       {
         "hiragana": "りようします",
         "kanji": "利用します",
-        "vietnamese": "sử dụng, lợi dụng, tận dụng",
-        "info": ""
+        "vietnamese": "sử dụng, áp dụng, tận dụng",
+        "info": "tha, 利 (lợi: tiện) 禾 (hòa)|  用 (dụng)"
       }
     ]
   },
