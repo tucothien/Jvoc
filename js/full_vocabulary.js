@@ -7513,7 +7513,7 @@ data_vocabulary = [
         "info": "tha, 守 (thủ: giữ, thốn miên)"
       },
       {
-        "hiragana": "あげます(手を)",
+        "hiragana": "上げる(手を)",
         "kanji": "上げます(手を)",
         "vietnamese": "nâng lên, tăng lên (tay)",
         "info": "tha, 上 (thượng)"
@@ -7592,7 +7592,7 @@ data_vocabulary = [
       },
       {
         "hiragana": "ひじょうぐち",
-        "kanji": "非常宇口",
+        "kanji": "非常口",
         "vietnamese": "cửa thoát hiểm",
         "info": "非 (phi) 常 (thường) 吊 | (điếu:văn) 宇 (vũ: trụ) 于 (vu: quy)"
       },
