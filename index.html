@@ -50,12 +50,21 @@
 			return array
 		}
 
+		function resetVocIdxList(currentVocList) {
+			$('#vIdxList').empty();
+			for (i = 0; i < currentVocList.length ; i++) {
+				$('#vIdxList').append('<option value="' + i + '">' + (i+1) + ' </option>');
+			}
+			// $('#vIdxList').val('0');
+		}
+
 		function initialize(voctype='vocabulary', isShuffle_=1) {
 			if (voctype === 'vocabulary') {
 				data = data_vocabulary
 			} else {
 				data = data_kanji
 			}
+
 			$('#selLessonList').empty();
 			$('#selLessonList').append('<option value="-1">All</option>');
 			for (i = 0; i < data.length ; i++) {
@@ -68,10 +77,13 @@
 			current_mode = 'vietnamese' // hiragana, kanji, vietnamese
 			currentVocList = shuffleArray(structuredClone(selectedVocList))
 			currentWord = -1
+			resetVocIdxList(currentVocList)
 			showAll = false; // first click will display the mode only, second click dislay all
 									// hot fix: this will be counterintuitive as showAll will be flipped in move func
+			resetVocIdxList(currentVocList)
 		} 
 		initialize('vocabulary', 1)
+
 
 		modeList = ['vietnamese', 'hiragana', 'kanji']
 		modeBtnList = ['#vietB', '#hiraB', '#kanjiB']
@@ -89,6 +101,7 @@
 			} else {
 				showMessage((currentWord+1).toString() + '/' + selectedVocList.length.toString());
 			}
+			$('#vIdxList').val(currentWord);
 			//console.log(currentWord)
 		}
 
@@ -165,6 +178,7 @@
 			selectedVocList = getVocList(selected_lessons)
 			currentVocList = shuffleArray(structuredClone(selectedVocList))
 			currentWord = -1
+			resetVocIdxList(currentVocList)
 			showAll = false
 			clearWords()
 			if (selected_lessons.indexOf('-1') != -1) {
@@ -173,6 +187,16 @@
 			} else {
 				showMessage('change to lesson ' + $('#selLessonList option:selected').text() +"(" + selectedVocList.length.toString() + " words)");
 			}
+		});
+
+		$('#vIdxList').change(function() {
+			// if select all => select all
+			vIndex = $(this).val();
+			currentWord = Number(vIndex)
+			showWords(currentVocList[currentWord], current_mode)
+			showAll = true // next will show all
+			console.log(vIndex)
+			
 		});
 
 		// $('#voctype').change(function() {
@@ -184,6 +208,7 @@
 			isShuffle = $(this).val() === 'shuffle' ? 1: 0
 			currentVocList = shuffleArray(structuredClone(selectedVocList))
 			currentWord = -1
+			resetVocIdxList(currentVocList)
 			showAll = false
 			clearWords()
 			if (isShuffle) {
@@ -272,11 +297,11 @@
 			<option value="vocabulary">vocabulary</option>
 			<option value="kanji">kanji</option>
 		</select> -->
-		<select id="shuffle">
+		<select id="shuffle" class="selectClass">
 			<option value='shuffle'>Shuffle</option>
 			<option value='noshuffle'>No Shuffle</option>
 		</select>
-		Lesson  <select id="selLessonList" class="clickExclusive" multiple="multiple"></select>
+		Lesson  <select id="selLessonList" class="selectClass" multiple="multiple"></select>
 		<fieldset class="clickExclusive" style="width: 200px; height: 120px; box-sizing: border-box; padding: 10px;text-align: left;">
 			<legend>Mode:</legend>
 			<div>
@@ -302,6 +327,7 @@
 		<br/><br/>
 		<button id = "backB" class="myButton clickExclusive">Back</button>
 		<button id = "nextB" class="myButton clickExclusive">Next</button>
+		<select id="vIdxList" class="clickExclusive" style="height: 30px; width: 60px;"></select>
 		<!-- <button id = "playB" class="myButton clickExclusive">Play audio</button> -->
 		<br/><br/>
 	</div>
@@ -362,7 +388,7 @@
 		top:1px;
 	}
 
-	select {
+	.selectClass {
 		-webkit-border-radius: 20px;
 		-moz-border-radius: 20px;
 		border-radius: 20px;
