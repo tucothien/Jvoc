@@ -7683,7 +7683,7 @@ data_vocabulary = [
       {
         "hiragana": "きとく",
         "kanji": "危篤",
-        "vietnamese": "tình trạn hiểm nghèo",
+        "vietnamese": "tình trạng hiểm nghèo",
         "info": "危 (nguy) 厄 (ách: tai) | 篤 (đốc: ) 馬 (mã), trúc"
       },
       {

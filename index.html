@@ -40,6 +40,8 @@
 		//============================================================
 		// Init
 		//============================================================
+		INIT_LESSON = String(33-1) // minna x - 1
+
 		function shuffleArray(array) {
 			if (isShuffle) {
 				for (let i = array.length - 1; i > 0; i--) {
@@ -70,17 +72,20 @@
 			for (i = 0; i < data.length ; i++) {
 					$('#selLessonList').append('<option value="' + i + '">' + data[i]['lesson'] + ' </option>');
 			}
-			$('#selLessonList').val('-1');
+			$('#selLessonList').val(INIT_LESSON);
 
 			isShuffle = isShuffle_
-			selectedVocList = getVocList() // the whole list
+			// selectedVocList = getVocList() // the whole list
+			selectedVocList = getVocList([INIT_LESSON]) // the whole list
 			current_mode = 'vietnamese' // hiragana, kanji, vietnamese
 			currentVocList = shuffleArray(structuredClone(selectedVocList))
 			currentWord = -1
 			resetVocIdxList(currentVocList)
 			showAll = false; // first click will display the mode only, second click dislay all
 									// hot fix: this will be counterintuitive as showAll will be flipped in move func
-			resetVocIdxList(currentVocList)
+			$("#lbTotalVoc").text("/" + currentVocList.length);
+
+			
 		} 
 		initialize('vocabulary', 1)
 
@@ -179,6 +184,7 @@
 			currentVocList = shuffleArray(structuredClone(selectedVocList))
 			currentWord = -1
 			resetVocIdxList(currentVocList)
+			$("#lbTotalVoc").text("/" + currentVocList.length);
 			showAll = false
 			clearWords()
 			if (selected_lessons.indexOf('-1') != -1) {
@@ -327,7 +333,8 @@
 		<br/><br/>
 		<button id = "backB" class="myButton clickExclusive">Back</button>
 		<button id = "nextB" class="myButton clickExclusive">Next</button>
-		<select id="vIdxList" class="clickExclusive" style="height: 30px; width: 60px;"></select>
+		<select id="vIdxList" class="clickExclusive" style="height: 30px; width: 60px; font-size: 20px;"></select>
+		<label id=lbTotalVoc style="font-size: 20px;"></label>
 		<!-- <button id = "playB" class="myButton clickExclusive">Play audio</button> -->
 		<br/><br/>
 	</div>
