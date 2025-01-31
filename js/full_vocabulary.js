@@ -7735,135 +7735,105 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "みがきます",
-        "kanji": "磨きます",
+        "kanji": "磨く",
         "vietnamese": "mài, đánh (răng)",
-        "info": ""
+        "info": "tha, 磨 (ma: mài)  麻 (ma, vải lanh) | 石 (thạch) 广 (nghiễm) 林 (lâm)"
       },
       {
-        "hiragana": "くみたてます",
-        "kanji": "組み立てます",
-        "vietnamese": "lắp ráp, lắp đặt",
-        "info": ""
+        "hiragana": "くみたてます(本棚を)",
+        "kanji": "組み立てる(本棚を)",
+        "vietnamese": "lắp ráp, lắp đặt (giá sách)",
+        "info": "tha, 組 (tổ: đội)"
       },
       {
-        "hiragana": "おります",
-        "kanji": "折ります",
-        "vietnamese": "gấp, gập, bẻ gãy",
-        "info": ""
+        "hiragana": "おります(紙を)",
+        "kanji": "折る(紙を)",
+        "vietnamese": "gấp, gập, bẻ gãy (tờ giấy)",
+        "info": "tha, 折 (chiết: thủ cân) | 折れる: tự"
       },
       {
         "hiragana": "きがつきます",
-        "kanji": "気が付きます",
-        "vietnamese": "nhận thấy, phát hiện",
-        "info": ""
+        "kanji": "気が付く",
+        "vietnamese": "nhận thấy, phát hiện (realize)",
+        "info": "気をつける: chú ý (pay attention)"
       },
       {
-        "hiragana": "つけます",
-        "kanji": "付けます",
-        "vietnamese": "chấm",
-        "info": ""
-      },
-      {
-        "hiragana": "みつかります",
-        "kanji": "見つかります",
-        "vietnamese": "được tìm thấy",
-        "info": ""
+        "hiragana": "みつかります(鍵が)",
+        "kanji": "見つかる(鍵が)",
+        "vietnamese": "được tìm thấy (chìa khóa)",
+        "info": "tự"
       },
       {
         "hiragana": "します（ネクタイを）",
         "kanji": "します（ネクタイを）",
-        "vietnamese": "đeo , thắt",
+        "vietnamese": "đeo , thắt(cà vạt)",
         "info": ""
       },
       {
         "hiragana": "しつもんします",
-        "kanji": "質問します",
+        "kanji": "質問する",
         "vietnamese": "hỏi",
-        "info": ""
+        "info": "質 (chất: vật, bản) 問 (vấn)"
       },
       {
         "hiragana": "ほそい",
         "kanji": "細い",
         "vietnamese": "gầy, hẹp, thon",
-        "info": ""
+        "info": "i, 細 (tế: tinh) mịch điền"
       },
       {
         "hiragana": "ふとい",
         "kanji": "太い",
         "vietnamese": "béo, to",
-        "info": ""
-      },
-      {
-        "hiragana": "ぼんおどり",
-        "kanji": "盆踊り",
-        "vietnamese": "múa trong hội bon",
-        "info": ""
-      },
-      {
-        "hiragana": "スポーツクラブ",
-        "kanji": "スポーツクラブ",
-        "vietnamese": "câu lạc bộ thể thao",
-        "info": ""
+        "info": "太 (thái)"
       },
       {
         "hiragana": "かぐ",
         "kanji": "家具",
         "vietnamese": "gia cụ , đồ dùng nội thất",
-        "info": ""
-      },
-      {
-        "hiragana": "キー",
-        "kanji": "キー",
-        "vietnamese": "chìa khóa",
-        "info": ""
-      },
-      {
-        "hiragana": "シートべルト",
-        "kanji": "シートべルト",
-        "vietnamese": "dây an toàn",
-        "info": ""
+        "info": "家 (gia) 豕 (bộ thỉ: heo 豚) | 具 (cụ) 真(chân)"
       },
       {
         "hiragana": "せつめいしょ",
         "kanji": "説明書",
         "vietnamese": "quyển hướng dẫn",
-        "info": ""
+        "info": "thuyết minh thư"
       },
       {
         "hiragana": "ず",
         "kanji": "図",
         "vietnamese": "sơ đồ, hình vẽ",
-        "info": ""
+        "info": "図 (đồ) 斗 (đấu)"
       },
       {
         "hiragana": "せん",
         "kanji": "線",
         "vietnamese": "đường",
-        "info": ""
+        "info": "線 (tuyến) 糸 (mịch) |泉 (tuyền: suối, onsen)"
       },
       {
         "hiragana": "やじるし",
         "kanji": "矢印",
         "vietnamese": "dấu mũi tên",
-        "info": ""
+        "info": "矢 (thỉ) 印 (ấn: in) | 失(thất) 牛 (ngưu) 夫 (phu) 午 (ngọ)"
       },
       {
         "hiragana": "くろ",
         "kanji": "黒",
         "vietnamese": "màu đen",
-        "info": ""
+        "info": "黒 (hắc)"
       },
       {
         "hiragana": "しろ",
         "kanji": "白",
         "vietnamese": "màu trắng",
-        "info": ""
+        "info": "白 (bạch)"
       },
       {
         "hiragana": "あか",
         "kanji": "赤",
         "vietnamese": "màu đỏ",
-        "info": ""
+        "info": "赤 (xích)"
       },
       {
         "hiragana": "あお",
@@ -7874,25 +7844,25 @@ data_vocabulary = [
       {
         "hiragana": "こん",
         "kanji": "紺",
-        "vietnamese": "màu xanh lam",
-        "info": ""
+        "vietnamese": "màu xanh sẫm navy",
+        "info": "紺 (cám) mịch 甘 (cam) 組 (tổ: đội)"
       },
       {
         "hiragana": "きいろ",
         "kanji": "黄色",
         "vietnamese": "màu vàng",
-        "info": ""
+        "info": "黄 (hoàng) 由 (do) 廿 (nhập) |  色 (sắc)"
       },
       {
         "hiragana": "ちゃいろ",
         "kanji": "茶色",
         "vietnamese": "màu nâu",
-        "info": ""
+        "info": "茶 (trà) 艹 (thảo) | 色 (sắc)"
       },
       {
         "hiragana": "しょうゆ",
         "kanji": "しょうゆ",
-        "vietnamese": "xì- dầu",
+        "vietnamese": "xì dầu",
         "info": ""
       },
       {
@@ -7903,9 +7873,9 @@ data_vocabulary = [
       },
       {
         "hiragana": "ゆうべ",
-        "kanji": "ゆうべ",
+        "kanji": "昨夜",
         "vietnamese": "tối qua, đêm qua",
-        "info": ""
+        "info": "昨 (tạc: hôm qua) | 夜 (dạ: tối, đầu nhân tri ')"
       },
       {
         "hiragana": "さっき",
@@ -7917,7 +7887,7 @@ data_vocabulary = [
         "hiragana": "さどう",
         "kanji": "茶道",
         "vietnamese": "trà đạo",
-        "info": ""
+        "info": "茶 (trà) 道 (đạo) 首 (thủ)"
       },
       {
         "hiragana": "おちゃおたてます",
@@ -7927,15 +7897,15 @@ data_vocabulary = [
       },
       {
         "hiragana": "さきに",
-        "kanji": "今夜先に/td>",
+        "kanji": "先に",
         "vietnamese": "trước",
-        "info": ""
+        "info": "adv, 先 (tiên)"
       },
       {
         "hiragana": "のせます",
-        "kanji": "載せます",
+        "kanji": "載せる",
         "vietnamese": "đặt lên",
-        "info": ""
+        "info": "tha, 載 (tải: chở) 車 (xa) 戈 (qua: mác)"
       },
       {
         "hiragana": "これでいいですか",
@@ -7947,43 +7917,25 @@ data_vocabulary = [
         "hiragana": "にがい",
         "kanji": "苦い",
         "vietnamese": "đắng",
-        "info": ""
-      },
-      {
-        "hiragana": "おやこどんぶり",
-        "kanji": "親子どんぶり",
-        "vietnamese": "món oyako-don",
-        "info": ""
+        "info": "苦 (khổ: khốn) 古 (cổ) 艹 (thảo)"
       },
       {
         "hiragana": "ざいりょう",
         "kanji": "材料",
         "vietnamese": "nguyên liêu",
-        "info": ""
-      },
-      {
-        "hiragana": "ーぶん",
-        "kanji": "ー分",
-        "vietnamese": "-suất / -người",
-        "info": ""
+        "info": "材 (tài: gỗ, nguyên) 才(tài: thiên)| 料 (liệu, mễ đấu)"
       },
       {
         "hiragana": "とりにく",
         "kanji": "鶏肉",
         "vietnamese": "thịt gà",
-        "info": ""
-      },
-      {
-        "hiragana": "ーグラマ",
-        "kanji": "ーグラマ",
-        "vietnamese": "gam-",
-        "info": ""
+        "info": "鶏 (kê) ⺤ 夫 (phu) 鳥(điểu) | 肉 (nhục)"
       },
       {
         "hiragana": "たまねぎ",
-        "kanji": "たまねぎ",
-        "vietnamese": "hành củ",
-        "info": ""
+        "kanji": "玉ねぎ",
+        "vietnamese": "hành củ, hành tây",
+        "info": "玉 (ngọc)"
       },
       {
         "hiragana": "よんぶんの１",
@@ -7995,13 +7947,13 @@ data_vocabulary = [
         "hiragana": "ちょうみりょう",
         "kanji": "調味料",
         "vietnamese": "gia vị",
-        "info": ""
+        "info": "調 (điều: chỉnh, ngôn chu) 味 (vị) | 未(vị: lai) 料 (liệu, mễ, đấu)|調子: condition, 調べる (examine)"
       },
       {
         "hiragana": "なべ",
-        "kanji": "なべ",
-        "vietnamese": "nấp",
-        "info": ""
+        "kanji": "鍋",
+        "vietnamese": "nồi (pan)",
+        "info": "鍋 (qua: nồi) kim, 咼(qua)"
       },
       {
         "hiragana": "ひ",
@@ -8011,27 +7963,27 @@ data_vocabulary = [
       },
       {
         "hiragana": "ひにかけます",
-        "kanji": "火にかけます",
+        "kanji": "火に掛ける",
         "vietnamese": "đun",
-        "info": ""
+        "info": "掛 (quải) 掛ける: treo"
       },
       {
         "hiragana": "にます",
-        "kanji": "煮ます",
+        "kanji": "煮る",
         "vietnamese": "nấu",
-        "info": ""
+        "info": "tha, 煮 (chử) 者 (giả) 灬 (hỏa)"
       },
       {
         "hiragana": "にえます",
-        "kanji": "煮えます",
+        "kanji": "煮える",
         "vietnamese": "chín,được nấu",
-        "info": ""
+        "info": "tự, 煮 (chử) 者 (giả) 灬 (hỏa)"
       },
       {
         "hiragana": "どんぶり",
-        "kanji": "どんぶり",
-        "vietnamese": "cái bát",
-        "info": ""
+        "kanji": "丼",
+        "vietnamese": "cơm donburi",
+        "info": "丼 (đảm: tô) 井 (tỉnh)"
       }
     ]
   },
@@ -8039,190 +7991,148 @@ data_vocabulary = [
     "lesson": "minna 35",
     "vocabulary": [
       {
-        "hiragana": "さきます",
-        "kanji": "咲きます",
+        "hiragana": "さきます(花が)",
+        "kanji": "咲く(花が)",
         "vietnamese": "nở (hoa)",
-        "info": ""
+        "info": "tự, 咲 (tiếu) 关 (quan) | 笑 (tiếu: cười)"
       },
       {
-        "hiragana": "かわります",
-        "kanji": "変わります",
-        "vietnamese": "thay đổi, đổi",
-        "info": ""
-      },
-      {
-        "hiragana": "こまります",
-        "kanji": "困ります",
-        "vietnamese": "rắc rối, khó xử, có vấn đề",
-        "info": ""
-      },
-      {
-        "hiragana": "つけます",
-        "kanji": "付けます",
-        "vietnamese": "vẽ , đánh dấu",
-        "info": ""
+        "hiragana": "かわります(天気が)",
+        "kanji": "変わる(天気が)",
+        "vietnamese": "thay đổi, đổi (thời tiết)",
+        "info": "tự, 変える: thay đổi, tha"
       },
       {
         "hiragana": "ひろいます",
-        "kanji": "拾います",
-        "vietnamese": "nhặt lên",
-        "info": ""
-      },
-      {
-        "hiragana": "かかります",
-        "kanji": "かかります",
-        "vietnamese": "có điện thoại",
-        "info": ""
+        "kanji": "拾う (ごみを)",
+        "vietnamese": "nhặt (rác)",
+        "info": "拾 (thập) 合 (hợp) 捨(xả)"
       },
       {
         "hiragana": "らく（な）",
         "kanji": "楽（な）",
         "vietnamese": "thoải mái, nhàn hạ, dễ dàng",
-        "info": ""
+        "info": "楽 (lạc) 薬 (dược) 楽しい"
       },
       {
         "hiragana": "ただしい",
         "kanji": "正しい",
         "vietnamese": "đúng, chính xác",
-        "info": ""
+        "info": "正 (chính) 止 (chỉ)"
       },
       {
         "hiragana": "めずらしい",
         "kanji": "珍しい",
         "vietnamese": "hiếm có",
-        "info": ""
+        "info": "珍 (trân) vương"
       },
       {
         "hiragana": "かた",
         "kanji": "方",
         "vietnamese": "vị, người",
-        "info": ""
+        "info": "方 (phương)"
       },
       {
         "hiragana": "むこう",
         "kanji": " 向こう",
         "vietnamese": "bên kia, bên đấy",
-        "info": ""
+        "info": "向 (hướng) 同 (đồng)"
       },
       {
         "hiragana": "しま",
         "kanji": "島",
         "vietnamese": "đảo, hòn đảo",
-        "info": ""
-      },
-      {
-        "hiragana": "むら",
-        "kanji": "村",
-        "vietnamese": "làng",
-        "info": ""
+        "info": "島 (đảo)山 (sơn) 鳥(điểu)"
       },
       {
         "hiragana": "みなと",
         "kanji": "港",
         "vietnamese": "cảng, bến cảng",
-        "info": ""
+        "info": "港 (cảng, thủy, cộng, kỷ) 空港:くうこう:sân bay"
       },
       {
         "hiragana": "きんじょ",
         "kanji": "近所",
         "vietnamese": "hàng xóm, khu vực lân cận",
-        "info": ""
+        "info": "近 (cận) 所 (sở) 辺(biên: vùng)"
       },
       {
         "hiragana": "おくじょう",
         "kanji": "屋上",
         "vietnamese": "mái nhà, nóc nhà",
-        "info": ""
+        "info": "屋 (ốc) thi 至(chí) 上 (thượng)"
       },
       {
         "hiragana": "かいがい",
         "kanji": "海外",
         "vietnamese": "nước ngoài, hải ngoại",
-        "info": ""
+        "info": "海 (hải) 毎 (mỗi) 外 (ngoại)"
       },
       {
         "hiragana": "やまのぼり",
         "kanji": "山登り",
         "vietnamese": "leo núi",
-        "info": ""
-      },
-      {
-        "hiragana": "ハイキング",
-        "kanji": "ハイキング",
-        "vietnamese": "đi bộ trên núi",
-        "info": ""
+        "info": "山 (sơn) 登 (đăng) | 豆 (đậu) 癶 (bát: gạt ra)"
       },
       {
         "hiragana": "きかい",
         "kanji": "機会",
         "vietnamese": "cơ hội",
-        "info": ""
+        "info": "機 (cơ) 会 (hội)"
       },
       {
         "hiragana": "きょか",
         "kanji": "許可",
         "vietnamese": "phép, giấy phép",
-        "info": ""
-      },
-      {
-        "hiragana": "まる",
-        "kanji": "丸",
-        "vietnamese": "tròn, vòng tròn",
-        "info": ""
+        "info": "許 (hứa: ừ cho, ngôn ngọ) | 可 (khả)"
       },
       {
         "hiragana": "そうさ",
         "kanji": "操作",
-        "vietnamese": "thao tác",
-        "info": ""
+        "vietnamese": "thao tác (operation, handling)",
+        "info": "操 (thao, thủ phẩm mộc) 作"
       },
       {
         "hiragana": "ほうほう",
         "kanji": "方法",
         "vietnamese": "phương pháp",
-        "info": ""
+        "info": "方 (phương) 法 (pháp: phép, thủy khứ)"
       },
       {
         "hiragana": "せつび",
         "kanji": "設備",
         "vietnamese": "thiết bị",
-        "info": ""
-      },
-      {
-        "hiragana": "カ－テン",
-        "kanji": "カ－テン",
-        "vietnamese": "cái rèm",
-        "info": ""
+        "info": "設 (thiết: sắp, bày: ngôn thù) | 備 (bị: nhân thảo hán dụng) |建設 (けんせつ) 準備 (じゅんび)"
       },
       {
         "hiragana": "ひも",
-        "kanji": "ひも",
+        "kanji": "紐",
         "vietnamese": "sợi dây",
-        "info": ""
+        "info": "紐 (nữu) mịch 丑 (sửu: trâu)| 組 (tổ: đội)"
       },
       {
         "hiragana": "ふた",
-        "kanji": "ふた",
-        "vietnamese": "cái nắp",
-        "info": ""
+        "kanji": "蓋",
+        "vietnamese": "cái nắp (cover, lid)",
+        "info": "蓋 (cái: nắp) thảo 去 khứ mãnh"
       },
       {
         "hiragana": "は",
         "kanji": "葉",
         "vietnamese": "cái lá",
-        "info": ""
+        "info": "葉 (diệp) thảo thế mộc | 言葉 (từ)"
       },
       {
         "hiragana": "きょく",
         "kanji": "曲",
         "vietnamese": "bài hát, bản nhạc",
-        "info": ""
+        "info": "曲 (khúc) 曲がる:まがる: rẽ"
       },
       {
         "hiragana": "たのしみ",
         "kanji": "楽しみ",
         "vietnamese": "niềm vui, điều vui",
-        "info": ""
+        "info": "na, N, 楽 (lạc)"
       },
       {
         "hiragana": "もっと",
@@ -8234,13 +8144,7 @@ data_vocabulary = [
         "hiragana": "はじめに",
         "kanji": "初めに",
         "vietnamese": "đầu tiên , trước hết",
-        "info": ""
-      },
-      {
-        "hiragana": "これでおわります",
-        "kanji": "これで終わります",
-        "vietnamese": "đến đây là hết, chúng ta dừng ở đây",
-        "info": ""
+        "info": "初 (sơ)"
       },
       {
         "hiragana": "それなら",
@@ -8252,55 +8156,37 @@ data_vocabulary = [
         "hiragana": "やこうバス",
         "kanji": "夜行バス",
         "vietnamese": "xe buýt chạy đêm",
-        "info": ""
+        "info": "夜 (dạ) 行 (hành)"
       },
       {
         "hiragana": "りょこうしゃ",
         "kanji": "旅行社",
         "vietnamese": "công ty du lịch",
-        "info": ""
+        "info": "旅 (lữ) 行 (hành) 社 (xã)"
       },
       {
         "hiragana": "くわしい",
         "kanji": "詳しい",
-        "vietnamese": "cụ thể, chi tiết",
-        "info": ""
-      },
-      {
-        "hiragana": "スキーじょう",
-        "kanji": "スキー場",
-        "vietnamese": "bãi trượt tuyết",
-        "info": ""
-      },
-      {
-        "hiragana": "しゅ",
-        "kanji": "しゅ",
-        "vietnamese": "đỏ, màu đỏ",
-        "info": ""
+        "vietnamese": "cụ thể, chi tiết (detailed)",
+        "info": "詳 (tường: tận, ngôn dương)"
       },
       {
         "hiragana": "まじわります",
         "kanji": "交わります",
-        "vietnamese": "giao lưu, quan hệ với",
-        "info": ""
+        "vietnamese": "giao lưu (to associate with)",
+        "info": "tự, 交 (giao) 父 (phụ)"
       },
       {
         "hiragana": "ことわざ",
-        "kanji": "ことわざ",
+        "kanji": "諺 ことわざ",
         "vietnamese": "tục ngữ",
-        "info": ""
-      },
-      {
-        "hiragana": "なかよくします",
-        "kanji": "仲よくします",
-        "vietnamese": "quan hệ tốt với, chơi thân với",
-        "info": ""
+        "info": "諺 (ngạn)"
       },
       {
         "hiragana": "ひつよう（な）",
         "kanji": "必要（な）",
         "vietnamese": "cần thiết",
-        "info": ""
+        "info": "必 (tất) 心 (tâm) 要 (yếu) 亜 (á)"
       }
     ]
   },
