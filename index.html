@@ -57,7 +57,7 @@
 			for (i = 0; i < currentVocList.length ; i++) {
 				$('#vIdxList').append('<option value="' + i + '">' + (i+1) + ' </option>');
 			}
-			// $('#vIdxList').val('0');
+			$("#lbTotalVoc").text("/" + currentVocList.length);
 		}
 
 		function initialize(voctype='vocabulary', isShuffle_=1) {
@@ -77,6 +77,7 @@
 			isShuffle = isShuffle_
 			// selectedVocList = getVocList() // the whole list
 			selectedVocList = getVocList([INIT_LESSON]) // the whole list
+			notedVocList = new Set()
 			current_mode = 'vietnamese' // hiragana, kanji, vietnamese
 			currentVocList = shuffleArray(structuredClone(selectedVocList))
 			currentWord = -1
@@ -100,11 +101,11 @@
 		function moveCurrentWord(isNext) {
 			currentWord = isNext ? currentWord+1 : currentWord -1
 			if (currentWord >= currentVocList.length || currentWord < 0) {
-				currentVocList = shuffleArray(structuredClone(selectedVocList))
+				currentVocList = shuffleArray(currentVocList)
 				currentWord = 0
-				showMessage('-----------Reset vocabulary list: 1/' + selectedVocList.length.toString() + '----')
+				showMessage('-----------Reset vocabulary list: 1/' + currentVocList.length.toString() + '----')
 			} else {
-				showMessage((currentWord+1).toString() + '/' + selectedVocList.length.toString());
+				showMessage((currentWord+1).toString() + '/' + currentVocList.length.toString());
 			}
 			$('#vIdxList').val(currentWord);
 			//console.log(currentWord)
@@ -179,12 +180,13 @@
 		//============================================================
 		$('#selLessonList').change(function() {
 			// if select all => select all
+			isShuffle=true
+			$('#shuffle').val('shuffle')
 			selected_lessons = $(this).val();
 			selectedVocList = getVocList(selected_lessons)
 			currentVocList = shuffleArray(structuredClone(selectedVocList))
 			currentWord = -1
 			resetVocIdxList(currentVocList)
-			$("#lbTotalVoc").text("/" + currentVocList.length);
 			showAll = false
 			clearWords()
 			if (selected_lessons.indexOf('-1') != -1) {
@@ -211,22 +213,65 @@
 		// 	initialize(voctype=selected_lessons)
 		// });
 		$('#shuffle').change(function() {
-			isShuffle = $(this).val() === 'shuffle' ? 1: 0
-			currentVocList = shuffleArray(structuredClone(selectedVocList))
+			value = $(this).val() 
+			if (value === 'shuffle'){
+				isShuffle=true // TODO: remove isShuffle
+				currentVocList = shuffleArray(structuredClone(selectedVocList))
+			} else if (value === 'noshuffle') {
+				isShuffle=false
+				currentVocList = shuffleArray(structuredClone(selectedVocList))
+			} else if (value === 'noted shuffle') {
+				isShuffle=true
+				currentVocList = shuffleArray(structuredClone(Array.from(notedVocList)))
+			} else if (value === 'noted noshuffle') {
+				isShuffle=false
+				currentVocList = shuffleArray(structuredClone(Array.from(notedVocList)))
+			} else {
+				console.log('ERROROOOO')
+				console.log(value)
+			}
+			
+			showAll = false
 			currentWord = -1
 			resetVocIdxList(currentVocList)
-			showAll = false
+			showMessage("reset: " + value);
 			clearWords()
-			if (isShuffle) {
-				showMessage("reset, shuffle");
-			} else {
-				showMessage('reset, no shuffle');
-			}
+				
+
+
+			// isShuffle = $(this).val() === 'shuffle' ? 1: 0
+			
+			// if (isShuffle) {
+			// 	showMessage("reset, shuffle");
+			// } else {
+			// 	showMessage('reset, no shuffle');
+			// }
 			// console.log(isShuffle)
 		});
 
 		$('#nextB').click(function() {move(isNext=true);});
 		$('#backB').click(function() {move(isNext=false);});
+
+		$('#addB').click(function() {
+			if (currentWord!= -1) {
+				notedVocList.add(currentVocList[currentWord])
+				showMessage('Noted: ' + currentVocList[currentWord]['vietnamese'] + ' | '  + currentVocList[currentWord]['kanji']);
+				// console.log(currentVocList[currentWord])
+			}
+			// console.log(notedVocList)
+		});
+		$('#resetAddB').click(function() {
+			notedVocList = new Set()
+			if ($('#shuffle').val()==='noted shuffle' || $('#shuffle').val()==='noted noshuffle') {
+				isShuffle=true // TODO: remove isShuffle
+				currentVocList = shuffleArray(structuredClone(selectedVocList))
+				showAll = false
+				currentWord = -1
+				resetVocIdxList(currentVocList)
+				showMessage("reset: " + value);
+				clearWords()
+			}
+		});
 		
 		$("body").keypress(function(e){
 			switch (e.which) {
@@ -306,6 +351,8 @@
 		<select id="shuffle" class="selectClass">
 			<option value='shuffle'>Shuffle</option>
 			<option value='noshuffle'>No Shuffle</option>
+			<option value='noted shuffle'>Noted Shuffle</option>
+			<option value='noted noshuffle'>Noted No Shuffle</option>
 		</select>
 		Lesson  <select id="selLessonList" class="selectClass" multiple="multiple"></select>
 		<fieldset class="clickExclusive" style="width: 200px; height: 120px; box-sizing: border-box; padding: 10px;text-align: left;">
@@ -336,6 +383,8 @@
 		<select id="vIdxList" class="clickExclusive" style="height: 30px; width: 60px; font-size: 20px;"></select>
 		<label id=lbTotalVoc style="font-size: 20px;"></label>
 		<!-- <button id = "playB" class="myButton clickExclusive">Play audio</button> -->
+		<button id = "addB" class="myButton clickExclusive">Note</button>
+		<!-- <button id = "resetAddB" class="myButton clickExclusive">Reset Note</button> -->
 		<br/><br/>
 	</div>
 	<div id=textArea>
