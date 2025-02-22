@@ -254,9 +254,26 @@
 
 		$('#addB').click(function() {
 			if (currentWord!= -1) {
-				notedVocList.add(currentVocList[currentWord])
-				showMessage('Noted: ' + currentVocList[currentWord]['vietnamese'] + ' | '  + currentVocList[currentWord]['kanji']);
+				if (notedVocList.has(currentVocList[currentWord])) {
+					showMessage('Currently in noted list ('+ notedVocList.size +'): ' + currentVocList[currentWord]['vietnamese'] + ' | '  + currentVocList[currentWord]['kanji']);
+				} else {
+					notedVocList.add(currentVocList[currentWord])
+					showMessage('Added to noted list ('+ notedVocList.size +'): ' + currentVocList[currentWord]['vietnamese'] + ' | '  + currentVocList[currentWord]['kanji']);
+				}
+				
 				// console.log(currentVocList[currentWord])
+			}
+			// console.log(notedVocList)
+		});
+
+		$('#removeB').click(function() {
+			if (currentWord!= -1) {
+				if (notedVocList.has(currentVocList[currentWord])) {
+					notedVocList.delete(currentVocList[currentWord]);
+					showMessage('Deleted from noted list ('+ notedVocList.size +'): ' + currentVocList[currentWord]['vietnamese'] + ' | '  + currentVocList[currentWord]['kanji']);
+				} else {
+					showMessage('Not in noted list ('+ notedVocList.size +'): ' + currentVocList[currentWord]['vietnamese'] + ' | '  + currentVocList[currentWord]['kanji']);
+				}
 			}
 			// console.log(notedVocList)
 		});
@@ -384,6 +401,7 @@
 		<label id=lbTotalVoc style="font-size: 20px;"></label>
 		<!-- <button id = "playB" class="myButton clickExclusive">Play audio</button> -->
 		<button id = "addB" class="myButton clickExclusive">Note</button>
+		<button id = "removeB" class="myButton clickExclusive">Remove</button>
 		<!-- <button id = "resetAddB" class="myButton clickExclusive">Reset Note</button> -->
 		<br/><br/>
 	</div>
