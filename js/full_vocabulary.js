@@ -8195,279 +8195,159 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "とどきます",
-        "kanji": "届きます",
+        "kanji": "届く",
         "vietnamese": "được gửi đến, được chuyển đến",
-        "info": ""
-      },
-      {
-        "hiragana": "でます",
-        "kanji": "出ます",
-        "vietnamese": "tham gia, tham dự",
-        "info": ""
-      },
-      {
-        "hiragana": "うちます",
-        "kanji": "打ちます",
-        "vietnamese": "đánh",
-        "info": ""
+        "info": "届 (Giới: tới lúc) | 尸 (Thi) 由 (Do)"
       },
       {
         "hiragana": "ちょきんします",
-        "kanji": "彫金ます",
+        "kanji": "貯金する",
         "vietnamese": "tiết kiệm tiền, để dành tiền",
-        "info": ""
+        "info": "貯 (trữ) 貝 (bối) miên đinh"
       },
       {
         "hiragana": "ふとります",
-        "kanji": "太ります",
+        "kanji": "太る",
         "vietnamese": "béo lên, tăng cân",
-        "info": ""
+        "info": "tự, 太 (thái)"
       },
       {
         "hiragana": "やせます",
-        "kanji": "やせます",
+        "kanji": "痩せる",
         "vietnamese": "gầy đi, giảm cân",
-        "info": ""
+        "info": "tự, 痩 (sấu: gầy) 疒(nạch)| 申(thân) 又(hựu)"
       },
       {
         "hiragana": "すぎます",
-        "kanji": "過ぎます",
+        "kanji": "過ぎる",
         "vietnamese": "quá",
-        "info": ""
+        "info": "tự, 過 (Quá) |辶 (Sước) 咼 (Qua)"
       },
       {
         "hiragana": "なれます",
-        "kanji": "なれます",
+        "kanji": "慣れる",
         "vietnamese": "làm quen, quen",
-        "info": ""
+        "info": "tự, 慣 (quán: tập)| 心 (tâm) 貝 (bối)"
       },
       {
         "hiragana": "かたい",
         "kanji": "固い",
         "vietnamese": "cứng",
-        "info": ""
+        "info": "固 (Cố) 囗 (Vi) 古 (Cổ) | 困 (khốn)"
       },
       {
         "hiragana": "やわらかい",
         "kanji": "軟らかい",
         "vietnamese": "mềm",
-        "info": ""
-      },
-      {
-        "hiragana": "でんしー",
-        "kanji": "電子ー",
-        "vietnamese": "– điện tử",
-        "info": ""
-      },
-      {
-        "hiragana": "けいたいー",
-        "kanji": "携帯ー",
-        "vietnamese": "– cầm tay",
-        "info": ""
+        "info": "軟 (Nhuyễn) 車 (Xa) 欠 (Khiếm)"
       },
       {
         "hiragana": "こうじょう",
         "kanji": "工場",
         "vietnamese": "nhà máy, phân xưởng",
-        "info": ""
-      },
-      {
-        "hiragana": "けんこう",
-        "kanji": "健康",
-        "vietnamese": "sức khỏe",
-        "info": ""
+        "info": "工 (công) 場 (trường)"
       },
       {
         "hiragana": "けんどう",
         "kanji": "剣道",
         "vietnamese": "kiếm đạo",
-        "info": ""
-      },
-      {
-        "hiragana": "まいしゅう",
-        "kanji": "毎週",
-        "vietnamese": "hàng tuần",
-        "info": ""
-      },
-      {
-        "hiragana": "まいつき",
-        "kanji": "毎月",
-        "vietnamese": "hàng tháng",
-        "info": ""
-      },
-      {
-        "hiragana": "まいとし",
-        "kanji": "毎年",
-        "vietnamese": "hàng năm",
-        "info": ""
+        "info": "剣 (Kiếm) 刂 (Đao) | 道 (đạo) 首 (thủ)"
       },
       {
         "hiragana": "やっと",
         "kanji": "やっと",
         "vietnamese": "cuối cùng thì",
-        "info": ""
+        "info": "adv"
       },
       {
         "hiragana": "かなり",
-        "kanji": "かなり",
-        "vietnamese": "khá, tương đối",
-        "info": ""
+        "kanji": "可也",
+        "vietnamese": "khá, tương đối, considerably",
+        "info": "可 (khả) 也 (dã)| 他 (tha: ngoài)"
+      },
+      {
+        "hiragana": "ほとんど",
+        "kanji": "殆ど",
+        "vietnamese": "hầu hết",
+        "info": "adv, 殆 (đãi: suýt)| 台 (đài) 歹 (ngạt)"
       },
       {
         "hiragana": "かならず",
         "kanji": "必ず",
         "vietnamese": "nhất định",
-        "info": ""
+        "info": "adv, 必 (tất: ắt)"
       },
       {
         "hiragana": "ぜったいに",
         "kanji": "絶対に",
         "vietnamese": "tuyệt đối",
-        "info": ""
-      },
-      {
-        "hiragana": "じょうずに",
-        "kanji": "星上手に",
-        "vietnamese": "giỏi, khéo",
-        "info": ""
-      },
-      {
-        "hiragana": "できるだけ",
-        "kanji": "できるだけ",
-        "vietnamese": "cố gắng",
-        "info": ""
-      },
-      {
-        "hiragana": "このごろ",
-        "kanji": "このごろ",
-        "vietnamese": "gần đây, dạo này",
-        "info": ""
-      },
-      {
-        "hiragana": "そのほうがー",
-        "kanji": "そのほうがー",
-        "vietnamese": "cái đó–hơn",
-        "info": ""
-      },
-      {
-        "hiragana": "おきゃくさま",
-        "kanji": "お客様",
-        "vietnamese": "khách hàng",
-        "info": ""
+        "info": "adv, 絶 (Tuyệt: giao) 糸 (Mịch) 色 (sắc)| 対 (Đối) 寸 (Thốn) 文 (văn)"
       },
       {
         "hiragana": "とくべつ（な）",
         "kanji": "特別（な）",
         "vietnamese": "đặc biệt",
-        "info": ""
-      },
-      {
-        "hiragana": "していらっしゃいます",
-        "kanji": "東",
-        "vietnamese": "đang làm (tôn kính ngữ của しています）",
-        "info": ""
+        "info": "特 (Đặc) 寺 (tự) 別 (biệt)"
       },
       {
         "hiragana": "すいえい",
         "kanji": "水泳",
         "vietnamese": "môn bơi lội",
-        "info": ""
-      },
-      {
-        "hiragana": "～とか、～とか",
-        "kanji": "～とか、～とか",
-        "vietnamese": "vâng vâng",
-        "info": ""
-      },
-      {
-        "hiragana": "タンゴ",
-        "kanji": "タンゴ",
-        "vietnamese": "tango",
-        "info": ""
-      },
-      {
-        "hiragana": "チャレンジします",
-        "kanji": "今夜",
-        "vietnamese": "thách thức, thử thách",
-        "info": ""
+        "info": "泳 (Vịnh: bơi) 永 (Vĩnh: cữu)"
       },
       {
         "hiragana": "きもち",
         "kanji": "気持ち",
         "vietnamese": "cảm giác, tâm trạng, tinh thần",
-        "info": ""
+        "info": "気 (khí) 持 (trì)"
       },
       {
         "hiragana": "のりもの",
         "kanji": "乗り物",
         "vietnamese": "phương tiện đi lại",
-        "info": ""
+        "info": "乗 (Thừa) 車 (Xa) 物 (Vật) 牛 (Ngưu)"
       },
       {
         "hiragana": "れきし",
-        "kanji": "歴史く",
+        "kanji": "歴史",
         "vietnamese": "lịch sử",
-        "info": ""
+        "info": "N, 歴 (Lịch: sử) 磨  (ma: mài) (hán, lâm, chỉ) | 史 (Sử: sách) 使 (sử dụng) 吏 (lại: quan)"
       },
       {
-        "hiragana": "ーせいき",
-        "kanji": "ー世紀",
+        "hiragana": "せいき",
+        "kanji": "世紀",
         "vietnamese": "thế kỉ-",
-        "info": ""
-      },
-      {
-        "hiragana": "とおく",
-        "kanji": "とおく",
-        "vietnamese": "xa, ở xa",
-        "info": ""
+        "info": "世 (thế) 紀 (Kỷ: nguyên) mịch kỷ | 記念 kỷ niệm"
       },
       {
         "hiragana": "きしゃ",
         "kanji": "汽車",
         "vietnamese": "tàu hỏa chạy bằng hơi nước",
-        "info": ""
+        "info": "汽 (Khí: hơi nước) |気 (khí: không) 車 (xa)"
       },
       {
         "hiragana": "きせん",
         "kanji": "汽船",
         "vietnamese": "thuyền chạy bằng hơi nước",
-        "info": ""
+        "info": "汽 (Khí: hơi nước) | 船 (Thuyền) 舟 (Chu) bát khẩu"
       },
       {
         "hiragana": "おおぜいの（ひと）",
         "kanji": "大勢の（人）",
         "vietnamese": "nhiều(người)",
-        "info": ""
+        "info": "勢 (Thế: lực) 熱 (nhiệt) | tiên thổ hoàn lực"
       },
       {
         "hiragana": "はこびます",
         "kanji": "運びます",
         "vietnamese": "vận chuyển",
-        "info": ""
+        "info": "運 (vận) 連 (liên)"
       },
       {
         "hiragana": "あんぜん（な）",
-        "kanji": "あんぜん（な）",
+        "kanji": "安全（な）",
         "vietnamese": "an toàn",
-        "info": ""
-      },
-      {
-        "hiragana": "とびます",
-        "kanji": "飛びます",
-        "vietnamese": "bay",
-        "info": ""
-      },
-      {
-        "hiragana": "うちゅう",
-        "kanji": "宇宙",
-        "vietnamese": "vũ trụ",
-        "info": ""
-      },
-      {
-        "hiragana": "ちきゅう",
-        "kanji": "地球",
-        "vietnamese": "trái đất",
-        "info": ""
+        "info": "安 (an) 全 (toàn)"
       }
     ]
   },
