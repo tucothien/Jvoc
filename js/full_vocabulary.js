@@ -8583,249 +8583,141 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "そだてます",
-        "kanji": "育てます",
-        "vietnamese": "nuôi,trồng",
-        "info": ""
-      },
-      {
-        "hiragana": "はこびます",
-        "kanji": "運びます",
-        "vietnamese": "chở, vận chuyển",
-        "info": ""
-      },
-      {
-        "hiragana": "なくなります",
-        "kanji": "亡くなります",
-        "vietnamese": "mất, qua đời",
-        "info": ""
+        "kanji": "育てる",
+        "vietnamese": "nuôi, trồng",
+        "info": "tha, 育 (dục) 𠫓 (đột) 月 (nguyệt)"
       },
       {
         "hiragana": "にゅういんします",
-        "kanji": "入院します",
+        "kanji": "入院する",
         "vietnamese": "nhập viện",
-        "info": ""
+        "info": "院 (viện) 完 (hoàn) ⻖"
       },
       {
         "hiragana": "たいいんします",
-        "kanji": "退院します",
+        "kanji": "退院する",
         "vietnamese": "xuất viện",
-        "info": ""
+        "info": "退 (thối, thoái) 艮 (quẻ: cấn)| ⻌ (sước) 良 (lương)"
       },
       {
         "hiragana": "いれます",
         "kanji": "入れます",
         "vietnamese": "bật",
-        "info": ""
+        "info": "tha 入(nhập)"
       },
       {
         "hiragana": "きります",
-        "kanji": " 切ります",
-        "vietnamese": "tắt",
+        "kanji": "切る",
+        "vietnamese": "tha, tắt (điện)",
         "info": ""
       },
       {
         "hiragana": "かけます",
-        "kanji": "掛けます",
+        "kanji": "掛ける",
         "vietnamese": "khóa",
-        "info": ""
-      },
-      {
-        "hiragana": "きもちがいい",
-        "kanji": "気持ちがいい",
-        "vietnamese": "dễ chịu, thư giản",
-        "info": ""
-      },
-      {
-        "hiragana": "きもちがわるい",
-        "kanji": "気持ちが悪い",
-        "vietnamese": "khó chịu",
-        "info": ""
-      },
-      {
-        "hiragana": "おおきなー",
-        "kanji": "大きなー",
-        "vietnamese": "–to, –lớn",
-        "info": ""
-      },
-      {
-        "hiragana": "ちいさなー",
-        "kanji": " 小さなー",
-        "vietnamese": "–nhỏ, –bé",
-        "info": ""
+        "info": "tha, 掛 (quải: treo) |扌 (thủ) 卜 (bặc) 圭 (khuê)"
       },
       {
         "hiragana": "あかちゃん",
         "kanji": "赤ちゃん",
         "vietnamese": "em bé",
-        "info": ""
-      },
-      {
-        "hiragana": "しょうがっこう",
-        "kanji": "小学校",
-        "vietnamese": "trường tiểu học",
-        "info": ""
-      },
-      {
-        "hiragana": "ちゅうがっこう",
-        "kanji": "中学校",
-        "vietnamese": "trường trung học cơ sở",
-        "info": ""
-      },
-      {
-        "hiragana": "えきまえ",
-        "kanji": "駅前",
-        "vietnamese": "khu vực trước nha ga",
-        "info": ""
+        "info": "N, 赤 (xích, thích)"
       },
       {
         "hiragana": "かいがん",
         "kanji": "海岸",
         "vietnamese": "bờ biển",
-        "info": ""
+        "info": "N, 海 (hải) 氵 (thủy) |毎 (mỗi) 岸 (ngạn: bờ) |山 (san) 干 (kiền: khô) 厂 (hán)"
       },
       {
         "hiragana": "うそ",
         "kanji": "うそ",
         "vietnamese": "nói dối, lời nói dối",
-        "info": ""
+        "info": "N"
       },
       {
         "hiragana": "しょるい",
         "kanji": "書類",
         "vietnamese": "giấy tờ,tài liệu",
-        "info": ""
+        "info": "N, 書 (thư) 聿 (duật) |日 (nhật) 類 (loại)| 頁 (hiệt) 大 (đại) 米 (mễ)"
       },
       {
         "hiragana": "でんげん",
         "kanji": "電源",
         "vietnamese": "nguồn điện , công tắc điện",
-        "info": ""
-      },
-      {
-        "hiragana": "―せい",
-        "kanji": "―せい",
-        "vietnamese": "sản xuất tai–",
-        "info": ""
-      },
-      {
-        "hiragana": "あ、いけない",
-        "kanji": "あ、いけない",
-        "vietnamese": "Ôi, hỏng mất rồi./Ôi, trời ơi",
-        "info": ""
-      },
-      {
-        "hiragana": "おさきに",
-        "kanji": "お先に",
-        "vietnamese": "Tôi xin phép về trước",
-        "info": ""
+        "info": "N, 電 (điện) 电 (điện) |⻗ (vũ) 源 (nguyên: nguồn nước) |氵 (thủy) 原 (nguyên)"
       },
       {
         "hiragana": "かいらん",
         "kanji": "回覧",
         "vietnamese": "Tập thông báo",
-        "info": ""
-      },
-      {
-        "hiragana": "けんきゅうしつ",
-        "kanji": " 研究者室",
-        "vietnamese": "Phòng nghiên cứu",
-        "info": ""
+        "info": "N, 回 (hồi, hối) 覧 (lãm)| 臣 (thần) 一 (nhất) |𠂉 () 見 (kiến)"
       },
       {
         "hiragana": "きちんと",
         "kanji": "きちんと",
         "vietnamese": "Nghiêm chỉnh, hẳn hoi, đứng đắn",
-        "info": ""
+        "info": "adv, N, Nsuru"
       },
       {
         "hiragana": "せいりします",
-        "kanji": "整理します。",
-        "vietnamese": "sắp xếp",
-        "info": ""
-      },
-      {
-        "hiragana": "はんこ",
-        "kanji": "はんこ",
-        "vietnamese": "con dấu, dấu",
-        "info": ""
+        "kanji": "整理する",
+        "vietnamese": "sắp xếp, arangement",
+        "info": "整 (chỉnh: đều, ngay ngắn)| 敕 (sắc: lệnh) 攵 (phộc) |束 (thúc: bó) 正 (chánh) |理 (lí) 里 (lí) 王 (vương)"
       },
       {
         "hiragana": "おします",
-        "kanji": "押します",
-        "vietnamese": "đóng(dấu)",
-        "info": ""
+        "kanji": "押す",
+        "vietnamese": "đóng (dấu) (nhấn)",
+        "info": "tha, 押 (áp) 甲 (giáp) 扌 (thủ)"
       },
       {
         "hiragana": "ふたご",
         "kanji": "双子",
         "vietnamese": "cặp sinh đôi",
-        "info": ""
+        "info": "N, 双 (song) 又 (hựu) 子 (tử, tí)"
       },
       {
         "hiragana": "しまい",
         "kanji": "姉妹",
         "vietnamese": "chị em",
-        "info": ""
+        "info": "N, 姉 (tỉ) 女 (nữ) |市 (thị) 妹 (muội) 未 (vị)"
       },
       {
-        "hiragana": "５ねんせい",
-        "kanji": "5年生",
-        "vietnamese": "học sinh năm thứ 5",
-        "info": ""
-      },
-      {
-        "hiragana": "にています",
-        "kanji": "似ています",
+        "hiragana": "にます",
+        "kanji": "似る",
         "vietnamese": "giống",
-        "info": ""
+        "info": "tự (2), 似 (tự: tương)| 亻 (nhân) 以 (dĩ)"
       },
       {
         "hiragana": "せいかく",
         "kanji": "性格",
         "vietnamese": "tính cách",
-        "info": ""
+        "info": "N, 性 (tính) 忄 (tâm) 生 (sanh) |格 (cách, các) 各 (các) 木 (mộc)"
       },
       {
         "hiragana": "おとなしい",
-        "kanji": "おとなしい",
+        "kanji": "大人しい",
         "vietnamese": "hiền lành, trầm",
-        "info": ""
+        "info": "i, "
       },
       {
         "hiragana": "せわをします",
-        "kanji": "世話をします",
+        "kanji": "世話をする",
         "vietnamese": "chăm sóc , giúp đỡ",
-        "info": ""
-      },
-      {
-        "hiragana": "じかんがたちます",
-        "kanji": "時間がたちます",
-        "vietnamese": "thời gian trôi đi",
-        "info": ""
-      },
-      {
-        "hiragana": "だいすき",
-        "kanji": " だいすき",
-        "vietnamese": "rất thích",
-        "info": ""
-      },
-      {
-        "hiragana": "クラス",
-        "kanji": "クラス",
-        "vietnamese": "lớp học, lớp",
-        "info": ""
+        "info": "世 (thế) 話 (thoại) |舌 (thiệt: lưỡi) 言 (ngôn)"
       },
       {
         "hiragana": "けんかします",
-        "kanji": "けんかします",
+        "kanji": "喧嘩する",
         "vietnamese": "cãi nhau",
-        "info": ""
+        "info": "喧 (huyên) 口 (khẩu) 宣 (tuyên) |嘩 (hoa) 華 (hoa: trung) 口 (khẩu)"
       },
       {
         "hiragana": "ふしぎ（な）",
-        "kanji": " 不思議（な）",
+        "kanji": "不思議（な）",
         "vietnamese": "bí ẩn , kỳ thú, khó hiểu.",
-        "info": ""
+        "info": "不 (bất, phầu, phủ, phi) |思 (tư, tứ, tai) 心 (tâm) 田 (điền)| 議 (nghị) 言 (ngôn) 義 (nghĩa)"
       }
     ]
   },
