@@ -8728,101 +8728,77 @@ data_vocabulary = [
         "hiragana": "こたえます",
         "kanji": "答えます",
         "vietnamese": "trả lời",
-        "info": ""
+        "info": "答 (đáp) ⺮ (trúc) 合 (hợp)"
       },
       {
         "hiragana": "たおれます",
         "kanji": "倒れます",
         "vietnamese": "đổ",
-        "info": ""
-      },
-      {
-        "hiragana": "やけます",
-        "kanji": "焼け舞う",
-        "vietnamese": "cháy",
-        "info": ""
+        "info": "倒 (đảo) 亻 (nhân) 到 (đáo) 至 (chí) 側 (trắc: phía)"
       },
       {
         "hiragana": "やけます（パン/にくが～）",
-        "kanji": "入院します（パン/肉が～）",
+        "kanji": "焼ける（パン/肉が～）",
         "vietnamese": "nướng",
-        "info": ""
+        "info": "焼 (thiêu) 尭 (nghiêu: thuấn) 火 (hỏa)"
       },
       {
         "hiragana": "とおります",
         "kanji": "通ります",
-        "vietnamese": "đi qua",
-        "info": ""
-      },
-      {
-        "hiragana": "しにます",
-        "kanji": "死にます",
-        "vietnamese": "chết",
-        "info": ""
+        "vietnamese": "đi qua, pass through",
+        "info": "通 (thông) 甬 (dũng) ⻌ ()"
       },
       {
         "hiragana": "びっくりします",
-        "kanji": "びっくりします",
+        "kanji": "びっくりする",
         "vietnamese": "ngạc nhiên, giật mình",
         "info": ""
       },
       {
         "hiragana": "がっかりします",
-        "kanji": "がっかりします",
+        "kanji": "がっかりする",
         "vietnamese": "thất vọng",
-        "info": ""
-      },
-      {
-        "hiragana": "あんしんします",
-        "kanji": "安心します",
-        "vietnamese": "yên tâm",
         "info": ""
       },
       {
         "hiragana": "ちこくします",
         "kanji": "遅刻します",
         "vietnamese": "đến chậm , đến muộn",
-        "info": ""
+        "info": "遅 (trì: osoi) 羊 (dương) 尸 (thi) ⻌ () 刻 (khắc 彫刻) 亥 (hợi) 刂 (đao)"
       },
       {
         "hiragana": "そうたいします",
         "kanji": "早退します",
         "vietnamese": "về sớm, ra sớm",
-        "info": ""
-      },
-      {
-        "hiragana": "けんかします",
-        "kanji": "けんかします",
-        "vietnamese": "cãi nhau",
-        "info": ""
+        "info": "早 (tảo) 十 (thập) 日 (nhật) 退 (thối, thoái) 艮 (cấn) ⻌ () 良(lương: yoi)"
       },
       {
         "hiragana": "りこんします",
         "kanji": "離婚します",
         "vietnamese": "ly dị, ly hôn",
-        "info": ""
+        "info": "離 (li) 隹 (chuy) 禸 (nhựu) 凶 (hung) 亠 (đầu) 婚 (hôn) 女 (nữ) 昏 (hôn: hoàng)"
       },
       {
         "hiragana": "ふくざつ（な）",
         "kanji": "複雑（な）",
         "vietnamese": "phức tạp",
-        "info": ""
+        "info": "複 (phức) 衤 (y) 复 (phục) 夏(hạ) 雑 (tạp) 隹 (chuy) 九 (cửu) 木 (mộc)"
       },
       {
         "hiragana": "じゃま（な）",
         "kanji": "邪魔（な）",
         "vietnamese": "cản trở, chiếm diện tích",
-        "info": ""
+        "info": "邪 (tà: ma) ⻏ 牙 (nha: nanh) 魔 (ma: quỷ) 鬼 (quỷ) 麻 (ma)"
       },
       {
         "hiragana": "きたない",
         "kanji": "汚い",
         "vietnamese": "bẩn",
-        "info": ""
+        "info": "汚 (ô) 丂 (khảo) 一 (nhất) 氵 (thủy)"
       },
       {
         "hiragana": "うれしい",
-        "kanji": "うれしい",
+        "kanji": "嬉しい",
         "vietnamese": "vui mừng",
         "info": ""
       },
@@ -8830,79 +8806,49 @@ data_vocabulary = [
         "hiragana": "かなしい",
         "kanji": "悲しい",
         "vietnamese": "buồn, đau thương",
-        "info": ""
+        "info": "嬉 (hi) 女 (nữ) 喜 (hỉ)"
       },
       {
         "hiragana": "はずかしい",
         "kanji": "恥ずかしい",
         "vietnamese": "xấu hổ, thẹn, hổ thẹn",
-        "info": ""
+        "info": "恥 (sỉ) 耳 (nhĩ) 心 (tâm)"
       },
       {
         "hiragana": "じしん",
         "kanji": "地震",
         "vietnamese": "động đất",
-        "info": ""
+        "info": "地 (địa) 也 (dã) 土 (thổ) 震 (chấn) ⻗ () 辰 (thần)"
       },
       {
         "hiragana": "たいふう",
         "kanji": "台風",
         "vietnamese": "bão",
-        "info": ""
+        "info": "台 (thai, đài, di) 厶 (khư) 口 (khẩu) 風 (phong) ノ () 虫 (trùng) 𠘨 ()"
       },
       {
         "hiragana": "かじ",
         "kanji": "火事",
         "vietnamese": "hỏa hoạn",
-        "info": ""
+        "info": "火 (hỏa) 丷 () 人 (nhân) 事 (sự)"
       },
       {
         "hiragana": "じこ",
         "kanji": "事故",
         "vietnamese": "tai nạn, sự cố",
-        "info": ""
+        "info": "事 (sự) 故 (cố) 古 (cổ) 攵 (phộc)"
       },
       {
         "hiragana": "みあい",
         "kanji": "見合い",
         "vietnamese": "nam nữ làm quen qua giới thiệu, làm mối",
-        "info": ""
-      },
-      {
-        "hiragana": "でんわだい",
-        "kanji": "電話代",
-        "vietnamese": "tiền điện thoại, phí điện thoại",
-        "info": ""
-      },
-      {
-        "hiragana": "ーだい",
-        "kanji": "ー代",
-        "vietnamese": "Nghiêm chỉnh, hẳn hoi, đứng đắn",
-        "info": ""
-      },
-      {
-        "hiragana": "フロント",
-        "kanji": "フロント",
-        "vietnamese": "bộ phận tiếp tân",
-        "info": ""
-      },
-      {
-        "hiragana": "―ごうしつ",
-        "kanji": "ー号室",
-        "vietnamese": "phòng số–",
-        "info": ""
+        "info": "見 (kiến, hiện) 合 (hợp, cáp, hiệp)"
       },
       {
         "hiragana": "あせ",
         "kanji": "汗",
         "vietnamese": "mồ hôi",
-        "info": ""
-      },
-      {
-        "hiragana": "タオル",
-        "kanji": "タオル",
-        "vietnamese": "khăn lau, khăn tắm",
-        "info": ""
+        "info": "汗 (hãn, hàn: mồ hôi) 氵 (thủy) 干 (kiền: khô) 午 (ngọ)"
       },
       {
         "hiragana": "せっけん",
@@ -8911,34 +8857,10 @@ data_vocabulary = [
         "info": ""
       },
       {
-        "hiragana": "おおぜい",
-        "kanji": "大勢",
-        "vietnamese": "nhiều người",
-        "info": ""
-      },
-      {
-        "hiragana": "おつかれさまでした",
-        "kanji": "お疲れさまでした",
-        "vietnamese": "chắc anh/chị đã mệt vì làm việc tôi đến thăm",
-        "info": ""
-      },
-      {
-        "hiragana": "うかがいます",
-        "kanji": "伺います",
-        "vietnamese": "tôi đến thăm",
-        "info": ""
-      },
-      {
         "hiragana": "とちゅうで",
         "kanji": "途中で",
         "vietnamese": "giữa đường, giữa chừng",
-        "info": ""
-      },
-      {
-        "hiragana": "トラック",
-        "kanji": "トラック",
-        "vietnamese": "xe tải",
-        "info": ""
+        "info": "途 (đồ: đường) 余 (dư: ta) ⻌ () "
       },
       {
         "hiragana": "ぶつかります",
@@ -8947,22 +8869,10 @@ data_vocabulary = [
         "info": ""
       },
       {
-        "hiragana": "ならびます",
-        "kanji": "並びます",
-        "vietnamese": "xếp hàng",
-        "info": ""
-      },
-      {
-        "hiragana": "おとな",
-        "kanji": "大人",
-        "vietnamese": "người lớn",
-        "info": ""
-      },
-      {
         "hiragana": "ようふく",
         "kanji": "洋服",
         "vietnamese": "quần áo kiểu tây âu",
-        "info": ""
+        "info": "洋 (dương: tây) 羊 (dương: dê) 氵 (thủy) 服 (phục)"
       },
       {
         "hiragana": "せいようかします",
