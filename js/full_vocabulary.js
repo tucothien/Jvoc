@@ -9067,7 +9067,7 @@ data_vocabulary = [
       {
         "hiragana": "よびます",
         "kanji": "呼ぶ",
-        "vietnamese": "mời",
+        "vietnamese": "mời, gọi (call)",
         "info": "呼 (hô, há) 口 (khẩu) 乎 (hồ)"
       },
       {
@@ -9086,19 +9086,19 @@ data_vocabulary = [
         "hiragana": "おとしだま",
         "kanji": "お年玉",
         "vietnamese": "tiền mừng tuổi",
-        "info": "年 (niên) 玉 (ngọc, túc) |王 (vương) 丶 (chủ)"
+        "info": "N, 年 (niên) 玉 (ngọc, túc) |王 (vương) 丶 (chủ)"
       },
       {
         "hiragana": "［お］みまい",
         "kanji": "［お］見舞い",
         "vietnamese": "thăm người ốm",
-        "info": "見 (kiến, hiện) 目 (mục) 儿 (nhân)| 舞 (vũ) 無 (vô) 舛 (suyễn: lẫn lộn)"
+        "info": "Nsuru, 見 (kiến, hiện) 目 (mục) 儿 (nhân)| 舞 (vũ) 無 (vô) 舛 (suyễn: lẫn lộn)"
       },
       {
         "hiragana": "きょうみ",
         "kanji": "興味",
-        "vietnamese": "quan tâm",
-        "info": "興 (hưng: thịnh) 同 (đồng) 𦥑 () |丌 (kì) 味 (vị: mùi) 未 (vị: chưa) 口 (khẩu)"
+        "vietnamese": "quan tâm, hứng thú",
+        "info": "N, 興 (hưng: thịnh) 同 (đồng) 𦥑 () |丌 (kì) 味 (vị: mùi) 未 (vị: chưa) 口 (khẩu)"
       },
       {
         "hiragana": "じょうほう",
@@ -9176,7 +9176,7 @@ data_vocabulary = [
         "hiragana": "あずかります",
         "kanji": "預かる",
         "vietnamese": "bảo quản; thu nhận; giữ giùm",
-        "info": "預 (dự: can) 頁 (hiệt) 予 (dư: ta)"
+        "info": "tha, 預 (dự: can) 頁 (hiệt) 予 (dư: ta)"
       },
       {
         "hiragana": "せんじつ",
@@ -9188,7 +9188,13 @@ data_vocabulary = [
         "hiragana": "たすかります",
         "kanji": "助かる",
         "vietnamese": "giúp đỡ",
-        "info": "助 (trợ: giúp) 且 (thả) 力 (lực)"
+        "info": "tự, 助 (trợ: giúp) 且 (thả) 力 (lực)"
+      },
+      {
+        "hiragana": "たすけます",
+        "kanji": "助けます",
+        "vietnamese": "cứu; giúp",
+        "info": "tha, 助 (trợ: giúp) 且 (thả) 力 (lực)"
       },
       {
         "hiragana": "むかしばなし",
@@ -9201,12 +9207,6 @@ data_vocabulary = [
         "kanji": "亀",
         "vietnamese": "con rùa",
         "info": "亀 (quy, qui) 电 (điện) ⺈ () |田 (điền)"
-      },
-      {
-        "hiragana": "たすけます",
-        "kanji": "助けます",
-        "vietnamese": "cứu; giúp",
-        "info": "助 (trợ: giúp) 且 (thả) 力 (lực)"
       },
       {
         "hiragana": "［お］しろ",
@@ -9223,8 +9223,8 @@ data_vocabulary = [
       {
         "hiragana": "くらします",
         "kanji": "暮らす",
-        "vietnamese": "sống",
-        "info": "暮 (mộ: tối) 日 (nhật) 莫 (mạc, mộ, mạch, bá)| 大 (đại) 日 (nhật) 艹 (thảo) "
+        "vietnamese": "sống (một cuộc sống)",
+        "info": "tự, 暮 (mộ: tối) 日 (nhật) 莫 (mạc, mộ, mạch, bá)| 大 (đại) 日 (nhật) 艹 (thảo) "
       },
       {
         "hiragana": "りく",
@@ -9259,325 +9259,157 @@ data_vocabulary = [
         "hiragana": "つつみます Ⅰ",
         "kanji": "包みます",
         "vietnamese": "bọc; gói",
-        "info": ""
+        "info": "包 (bao: bọc) 勹 (bao) 己 (kỉ)"
       },
       {
         "hiragana": "わかします Ⅰ",
         "kanji": "沸かします",
         "vietnamese": "đun sôi",
-        "info": ""
+        "info": "沸 (phí: sôi) 弗 (phất: dollar) 氵 (thủy)"
       },
       {
         "hiragana": "まぜます Ⅱ",
         "kanji": "混ぜます",
         "vietnamese": "trộn; khuấy",
-        "info": ""
+        "info": "混 (hỗn: độn) 昆 (côn: trùng) 比 (bỉ: so sánh) 日 (nhật) 氵 (thủy)"
       },
       {
         "hiragana": "けいさんします Ⅲ",
         "kanji": "計算します",
         "vietnamese": "tính toán",
-        "info": ""
+        "info": "計 (kế, kê) 十 (thập) 言 (ngôn) 算 (toán: tính) 廾 (củng) 目 (mục) ⺮ ()"
       },
       {
         "hiragana": "あつい",
         "kanji": "厚い",
         "vietnamese": "dầy",
-        "info": ""
+        "info": "厚 (hậu) 子 (tử) 日 (nhật) 厂 (hán)"
       },
       {
         "hiragana": "うすい",
         "kanji": "薄い",
         "vietnamese": "mỏng",
-        "info": ""
+        "info": "薄 (bạc: thếch, mỏng) 専 (chuyên: môn) 艹 (thảo) 氵 (thủy)"
       },
       {
         "hiragana": "べんごし",
         "kanji": "弁護士",
         "vietnamese": "luật sư",
-        "info": ""
-      },
-      {
-        "hiragana": "おんがくか",
-        "kanji": "音楽家",
-        "vietnamese": "nhạc sĩ",
-        "info": ""
-      },
-      {
-        "hiragana": "こどもたち",
-        "kanji": "子どもたち",
-        "vietnamese": "trẻ em",
-        "info": ""
-      },
-      {
-        "hiragana": "ふたり",
-        "kanji": "二人",
-        "vietnamese": "hai người",
-        "info": ""
+        "info": "弁 (biện, biền, bàn) 廾 (củng) 厶 (khư) 護 (hộ) 隹 (chuy) 艹 (thảo) 又 (hựu) 言 (ngôn) 士 (sĩ)"
       },
       {
         "hiragana": "きょういく",
         "kanji": "教育",
         "vietnamese": "giáo dục",
-        "info": ""
+        "info": "教 (giáo, giao) 孝 (hiếu) 攵 (phộc) 育 (dục) 𠫓 (đột) 月 (nguyệt) "
       },
       {
         "hiragana": "れきし",
         "kanji": "歴史",
         "vietnamese": "lịch sử",
-        "info": ""
+        "info": "歴 (lịch) 止 (chỉ) 麻 (ma) 史 (sử) 乂 (nghệ) 中 (trung) 使 (sử, sứ) 吏 (lại)"
       },
       {
         "hiragana": "ぶんか",
         "kanji": "文化",
         "vietnamese": "văn hoá",
-        "info": ""
-      },
-      {
-        "hiragana": "しゃかい",
-        "kanji": "社会",
-        "vietnamese": "xã hội",
-        "info": ""
+        "info": "文 (văn, vấn) 化 (hóa) 亻 (nhân) 匕 (chủy: thủ)"
       },
       {
         "hiragana": "ほうりつ",
         "kanji": "法律",
         "vietnamese": "pháp luật",
-        "info": ""
+        "info": "法 (pháp) 去 (khứ) 氵 (thủy) 律 (luật) 彳 (xích) 聿 (duật: bút) 書 (thư)"
       },
       {
         "hiragana": "せんそう",
         "kanji": "戦争",
         "vietnamese": "chiến tranh",
-        "info": ""
+        "info": "戦 (chiến) 単 (đơn) 戈 (mâu) 争 (tranh, tránh) ⺈ () 肀 () 聿 (duật: bút)"
       },
       {
         "hiragana": "へいわ",
         "kanji": "平和",
         "vietnamese": "hoà bình",
-        "info": ""
+        "info": "平 (bình: bằng phẳng) 丷 () 干 (kiền: khô) 和 (hòa: cùng) 禾 (hòa: lúa) 口 (khẩu)"
       },
       {
         "hiragana": "もくてき",
         "kanji": "目的",
         "vietnamese": "mục đích",
-        "info": ""
-      },
-      {
-        "hiragana": "あんぜん",
-        "kanji": "安全",
-        "vietnamese": "an toàn",
-        "info": ""
+        "info": "目 (mục) 的 (đích, để) 白 (bạch) 勺 (chước: cái môi múc canh)"
       },
       {
         "hiragana": "ろんぶん",
         "kanji": "論文",
-        "vietnamese": "luận văn",
-        "info": ""
+        "vietnamese": "luận văn, article",
+        "info": "論 (luận: bàn bạc) 侖 (lôn) 冊 (sách) 言 (ngôn) 文 (văn, vấn)"
       },
       {
         "hiragana": "かんけい",
         "kanji": "関係",
-        "vietnamese": "quan hệ",
-        "info": ""
+        "vietnamese": "quan hệ, relationship",
+        "info": "関 (quan) 关 (quan) 門 (môn) 係 (hệ) 亻 (nhân) 系 (hệ: quả)"
       },
       {
         "hiragana": "ミキサ",
         "kanji": "ミキサ",
-        "vietnamese": "máy trộn; máy xay",
+        "vietnamese": "mixer, máy trộn; máy xay",
         "info": ""
       },
       {
         "hiragana": "やかん",
-        "kanji": "やかん",
+        "kanji": "薬缶 やかん",
         "vietnamese": "ấm đun nước",
-        "info": ""
+        "info": "薬 (dược) 楽 (lạc) 艹 (thảo) 缶 (phữu: hũ, lon)"
       },
       {
         "hiragana": "せんぬき",
         "kanji": "栓抜き",
         "vietnamese": "cái mở nút chai",
-        "info": ""
+        "info": "栓 (xuyên: then cửa) 全 (toàn) 木 (mộc) 抜 (bạt: rút ra) 扌 (thủ) 友 (hữu)"
       },
       {
         "hiragana": "かんきり",
         "kanji": "缶切り",
         "vietnamese": "đồ mở đồ hộp",
-        "info": ""
+        "info": "缶 (phữu: hũ, lon) 切 (thiết, thế) 七 (thất) 刀 (đao)"
       },
       {
         "hiragana": "かんづめ",
         "kanji": "缶詰",
         "vietnamese": "đồ hộp",
-        "info": ""
+        "info": "缶 (phữu: hũ, lon) 詰 (cật: nhồi nhét) 言 (ngôn) 吉 (cát: tốt)"
       },
       {
         "hiragana": "ふろしき",
-        "kanji": "ふろしき",
-        "vietnamese": "khăn gói",
-        "info": ""
+        "kanji": "風呂敷",
+        "vietnamese": "khăn gói đồ, wrapper",
+        "info": "風 (phong) ノ () 虫 (trùng) 𠘨 () 呂 (lữ, lã) 丨 (cổn) 口 (khẩu) 敷 (phu) 甫 (phủ: tiếng gọi tôn quý) 方 (phương) 攵 (phộc) 風呂(bồn tắm)"
       },
       {
         "hiragana": "そろばん",
         "kanji": "そろばん",
         "vietnamese": "bàn tính",
-        "info": ""
+        "info": "算 (toán) 廾 (củng) 目 (mục) ⺮ () 盤 (bàn: mâm) 般 (bàn) 船 (thuyền) 皿 (mãnh)"
       },
       {
         "hiragana": "たいおんけい",
         "kanji": "体温計",
         "vietnamese": "cặp nhiệt độ",
-        "info": ""
+        "info": "体 (thể) 本 (bổn) 亻 (nhân) 温 (ôn, uẩn) 氵 (thủy) 皿 (mãnh) 日 (nhật) 計 (kế, kê) 十 (thập) 言 (ngôn)"
       },
       {
-        "hiragana": "ざいりょう",
-        "kanji": "材料",
-        "vietnamese": "vật liệu",
-        "info": ""
-      },
-      {
-        "hiragana": "いし",
-        "kanji": "石",
-        "vietnamese": "đá; sỏi",
-        "info": ""
-      },
-      {
-        "hiragana": "ピラミッド",
-        "kanji": "ピラミッド",
-        "vietnamese": "kim tự tháp",
-        "info": ""
-      },
-      {
-        "hiragana": "データ",
-        "kanji": "データ",
-        "vietnamese": "dữ liệu",
-        "info": ""
-      },
-      {
-        "hiragana": "ファイル",
-        "kanji": "ファイル",
-        "vietnamese": "tập tin",
-        "info": ""
-      },
-      {
-        "hiragana": "ある～",
-        "kanji": "ある～",
-        "vietnamese": "nọ",
-        "info": ""
-      },
-      {
-        "hiragana": "いっしょうけんめい",
-        "kanji": "生懸命",
-        "vietnamese": "cố gắng",
-        "info": ""
-      },
-      {
-        "hiragana": "なぜ",
-        "kanji": "なぜ",
-        "vietnamese": "tại sao",
-        "info": ""
-      },
-      {
-        "hiragana": "こくれん",
-        "kanji": "国連",
+        "hiragana": "こくれん / こくさいれんごう",
+        "kanji": "国連 / 国際連合",
         "vietnamese": "liên hiệp quốc",
-        "info": ""
-      },
-      {
-        "hiragana": "こくさいれんごう",
-        "kanji": "国際連合",
-        "vietnamese": "liên hiệp quốc",
-        "info": ""
-      },
-      {
-        "hiragana": "ポーランド",
-        "kanji": "ポーランド",
-        "vietnamese": "Phần Lan",
-        "info": ""
-      },
-      {
-        "hiragana": "ローン",
-        "kanji": "ローン",
-        "vietnamese": "tiền vay; trả góp",
-        "info": ""
-      },
-      {
-        "hiragana": "セット",
-        "kanji": "セット",
-        "vietnamese": "bộ",
-        "info": ""
-      },
-      {
-        "hiragana": "あとは",
-        "kanji": "あとは",
-        "vietnamese": "còn lại",
-        "info": ""
-      },
-      {
-        "hiragana": "カップラーメン",
-        "kanji": "カップラーメン",
-        "vietnamese": "mì ăn liền",
-        "info": ""
-      },
-      {
-        "hiragana": "インスタントラーメン",
-        "kanji": "インスタントラーメン",
-        "vietnamese": "mì ăn liền",
-        "info": ""
-      },
-      {
-        "hiragana": "なべ",
-        "kanji": "なべ",
-        "vietnamese": "nồi",
-        "info": ""
-      },
-      {
-        "hiragana": "どんぶり",
-        "kanji": "どんぶり",
-        "vietnamese": "tô to",
-        "info": ""
-      },
-      {
-        "hiragana": "しょくひん",
-        "kanji": "食品",
-        "vietnamese": "thực phẩm",
-        "info": ""
+        "info": "国 (quốc) 玉 (ngọc) 囗 (vi) 連 (liên) 車 (xa) ⻌ () 運 (vận) 際 (tế: giao tiếp) ⻖ () 祭 (tế: cúng)"
       },
       {
         "hiragana": "ちょうさ",
         "kanji": "調査",
         "vietnamese": "điều tra",
-        "info": ""
-      },
-      {
-        "hiragana": "カップ",
-        "kanji": "カップ",
-        "vietnamese": "tách; chén",
-        "info": ""
-      },
-      {
-        "hiragana": "また",
-        "kanji": "また",
-        "vietnamese": "lại nữa; ngoài ra",
-        "info": ""
-      },
-      {
-        "hiragana": "～のかわりに",
-        "kanji": "～の代わりに",
-        "vietnamese": "thay cho",
-        "info": ""
-      },
-      {
-        "hiragana": "どこででも",
-        "kanji": "どこででも",
-        "vietnamese": "bất cứ nơi nào",
-        "info": ""
-      },
-      {
-        "hiragana": "いまでは",
-        "kanji": "今では",
-        "vietnamese": "bây giờ; hiện nay",
-        "info": ""
+        "info": "調 (điều, điệu) 周 (chu) 言 (ngôn) 査 (tra) 且 (thả) 木 (mộc)"
       }
     ]
   },
