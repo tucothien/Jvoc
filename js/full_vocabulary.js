@@ -9408,13 +9408,13 @@ data_vocabulary = [
         "hiragana": "ふえます",
         "kanji": "増えます",
         "vietnamese": "tăng, tăng lên(xuất khẩu)",
-        "info": ""
+        "info": "増 (tăng: thêm) 曽 (tằng) 土 (thổ)"
       },
       {
         "hiragana": "へります",
         "kanji": "減ります",
         "vietnamese": "giảm, giảm xuống(xuất khẩu)",
-        "info": ""
+        "info": "減 (giảm) 咸 (hàm: bao, khắp) 戊 (mậu) 氵 (thủy)"
       },
       {
         "hiragana": "あがります",
@@ -9432,43 +9432,43 @@ data_vocabulary = [
         "hiragana": "きれます",
         "kanji": "切れます",
         "vietnamese": "đứt",
-        "info": ""
+        "info": "切 (thiết, thế) 七 (thất) 刀 (đao)"
       },
       {
         "hiragana": "とれます",
-        "kanji": "とれます",
+        "kanji": "取れる",
         "vietnamese": "tuột",
-        "info": ""
+        "info": "取 (thủ) 耳 (nhĩ) 又 (hựu)"
       },
       {
         "hiragana": "おちゃます",
-        "kanji": "おちゃます",
+        "kanji": "落ちる",
         "vietnamese": "rơi",
-        "info": ""
+        "info": "落 (lạc) 艹 (thảo) 氵 (thủy) 各 (các)"
       },
       {
         "hiragana": "なくなります",
-        "kanji": "なくなります",
+        "kanji": "無くなる",
         "vietnamese": "mất,hết(xăng)",
-        "info": ""
+        "info": "無 (vô, mô)"
       },
       {
         "hiragana": "じょうぶ「な」",
         "kanji": "丈夫「な」",
         "vietnamese": "chắc,bền",
-        "info": ""
+        "info": "丈 (trượng: 10 thước) 才(tài) 夫 (phu) 大丈夫"
       },
       {
         "hiragana": "へん「な」",
         "kanji": "変「な」",
         "vietnamese": "lạ,kì quặc",
-        "info": ""
+        "info": "変 (biến) 夂 (tri) 亦 (diệc) 赤 (aka)"
       },
       {
         "hiragana": "しあわせ",
         "kanji": "幸せ",
         "vietnamese": "hạnh phúc",
-        "info": ""
+        "info": "幸 (hạnh) 土 (thổ) 辛 (tân)"
       },
       {
         "hiragana": "うまい",
@@ -9489,99 +9489,45 @@ data_vocabulary = [
         "info": ""
       },
       {
-        "hiragana": "ガソリン",
-        "kanji": "ガソリン",
-        "vietnamese": "xăng",
-        "info": ""
-      },
-      {
-        "hiragana": "ひ",
-        "kanji": "火",
-        "vietnamese": "lửa",
-        "info": ""
-      },
-      {
         "hiragana": "だんぼう",
         "kanji": "暖房",
         "vietnamese": "thiết bị làm ấm, lò sưởi, máy điều hòa",
-        "info": ""
+        "info": "暖 (noãn: ấm) 爫 (trảo) 一 (nhất) 友 (hữu) 日 (nhật) 房 (phòng: buồng) 戸 (hộ) 方 (phương) 戻 (lệ: quay lại)"
       },
       {
         "hiragana": "れいぼう",
         "kanji": "冷房",
         "vietnamese": "thiết bị làm mát, máy điều hòa",
-        "info": ""
-      },
-      {
-        "hiragana": "センス",
-        "kanji": "センス",
-        "vietnamese": "có khiếu, gu",
-        "info": ""
-      },
-      {
-        "hiragana": "いまにも",
-        "kanji": "今にも",
-        "vietnamese": "(có vẻ sắp)~đến nơi",
-        "info": ""
-      },
-      {
-        "hiragana": "わあ",
-        "kanji": "わあ",
-        "vietnamese": "ôi!",
-        "info": ""
-      },
-      {
-        "hiragana": "かいいん",
-        "kanji": "会員",
-        "vietnamese": "thành viên",
-        "info": ""
+        "info": "冷 (lãnh) 令 (lệnh) 冫 (băng) 房 (phòng: buồng) 戸 (hộ) 方 (phương) 戻 (lệ: quay lại)"
       },
       {
         "hiragana": "てきとう「な」",
         "kanji": "適当「な」",
-        "vietnamese": "thích hợp, vừa phải",
-        "info": ""
+        "vietnamese": "thích hợp, vừa phải, suitable, proper",
+        "info": "適 (thích, đích, quát) 啇 () ⻌ () 当 (đương, đang, đáng) 古 (cổ)"
       },
       {
         "hiragana": "ねんれい",
         "kanji": "年齢",
         "vietnamese": "tuổi",
-        "info": ""
+        "info": "年 (niên) 齢 (linh: tuổi) 令 (lệnh) 歯 (xỉ: răng)"
       },
       {
         "hiragana": "しゅうにゅう",
         "kanji": "収入",
         "vietnamese": "thu nhập",
-        "info": ""
+        "info": "収 (thu) 又 (hựu) 入 (nhập)"
       },
       {
         "hiragana": "ぴったり",
         "kanji": "ぴったり",
-        "vietnamese": "vừa văn,đúng",
+        "vietnamese": "vừa vặn, đúng",
         "info": ""
       },
       {
         "hiragana": "そのうえ",
         "kanji": "そのうえ",
         "vietnamese": "thêm vào đó , hơn thế",
-        "info": ""
-      },
-      {
-        "hiragana": "～といいます",
-        "kanji": "～と言います",
-        "vietnamese": "tên là~/ được gọi là~",
-        "info": ""
-      },
-      {
-        "hiragana": "ばら",
-        "kanji": "ばら",
-        "vietnamese": "hoa hồng",
-        "info": ""
-      },
-      {
-        "hiragana": "ドライブ",
-        "kanji": "ドライブ",
-        "vietnamese": "lái xe(đi chơi)",
         "info": ""
       }
     ]
