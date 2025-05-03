@@ -9257,25 +9257,25 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "つつみます Ⅰ",
-        "kanji": "包みます",
+        "kanji": "包む",
         "vietnamese": "bọc; gói",
         "info": "包 (bao: bọc) 勹 (bao) 己 (kỉ)"
       },
       {
         "hiragana": "わかします Ⅰ",
-        "kanji": "沸かします",
+        "kanji": "沸かす",
         "vietnamese": "đun sôi",
-        "info": "沸 (phí: sôi) 弗 (phất: dollar) 氵 (thủy)"
+        "info": "tha, 沸 (phí: sôi) 弗 (phất: dollar) 氵 (thủy)"
       },
       {
         "hiragana": "まぜます Ⅱ",
-        "kanji": "混ぜます",
+        "kanji": "混ぜる",
         "vietnamese": "trộn; khuấy",
-        "info": "混 (hỗn: độn) 昆 (côn: trùng) 比 (bỉ: so sánh) 日 (nhật) 氵 (thủy)"
+        "info": "tha, 混 (hỗn: độn) 昆 (côn: trùng) 比 (bỉ: so sánh) 日 (nhật) 氵 (thủy)"
       },
       {
         "hiragana": "けいさんします Ⅲ",
-        "kanji": "計算します",
+        "kanji": "計算する",
         "vietnamese": "tính toán",
         "info": "計 (kế, kê) 十 (thập) 言 (ngôn) 算 (toán: tính) 廾 (củng) 目 (mục) ⺮ ()"
       },
@@ -9349,17 +9349,11 @@ data_vocabulary = [
         "hiragana": "かんけい",
         "kanji": "関係",
         "vietnamese": "quan hệ, relationship",
-        "info": "関 (quan) 关 (quan) 門 (môn) 係 (hệ) 亻 (nhân) 系 (hệ: quả)"
-      },
-      {
-        "hiragana": "ミキサ",
-        "kanji": "ミキサ",
-        "vietnamese": "mixer, máy trộn; máy xay",
-        "info": ""
+        "info": "関 (quan) 关 (quan) 門 (môn) 係 (hệ) 亻 (nhân) 系 (hệ: quả) 孫(tôn: cháu)"
       },
       {
         "hiragana": "やかん",
-        "kanji": "薬缶 やかん",
+        "kanji": "薬缶",
         "vietnamese": "ấm đun nước",
         "info": "薬 (dược) 楽 (lạc) 艹 (thảo) 缶 (phữu: hũ, lon)"
       },
@@ -9389,7 +9383,7 @@ data_vocabulary = [
       },
       {
         "hiragana": "そろばん",
-        "kanji": "そろばん",
+        "kanji": "算盤",
         "vietnamese": "bàn tính",
         "info": "算 (toán) 廾 (củng) 目 (mục) ⺮ () 盤 (bàn: mâm) 般 (bàn) 船 (thuyền) 皿 (mãnh)"
       },
@@ -9398,12 +9392,6 @@ data_vocabulary = [
         "kanji": "体温計",
         "vietnamese": "cặp nhiệt độ",
         "info": "体 (thể) 本 (bổn) 亻 (nhân) 温 (ôn, uẩn) 氵 (thủy) 皿 (mãnh) 日 (nhật) 計 (kế, kê) 十 (thập) 言 (ngôn)"
-      },
-      {
-        "hiragana": "こくれん / こくさいれんごう",
-        "kanji": "国連 / 国際連合",
-        "vietnamese": "liên hiệp quốc",
-        "info": "国 (quốc) 玉 (ngọc) 囗 (vi) 連 (liên) 車 (xa) ⻌ () 運 (vận) 際 (tế: giao tiếp) ⻖ () 祭 (tế: cúng)"
       },
       {
         "hiragana": "ちょうさ",
