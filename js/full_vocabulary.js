@@ -9406,51 +9406,45 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "ふえます",
-        "kanji": "増えます",
+        "kanji": "増える",
         "vietnamese": "tăng, tăng lên(xuất khẩu)",
-        "info": "増 (tăng: thêm) 曽 (tằng) 土 (thổ)"
+        "info": "tự, 増 (tăng: thêm) 曽 (tằng) 土 (thổ)"
       },
       {
         "hiragana": "へります",
-        "kanji": "減ります",
+        "kanji": "減る",
         "vietnamese": "giảm, giảm xuống(xuất khẩu)",
-        "info": "減 (giảm) 咸 (hàm: bao, khắp) 戊 (mậu) 氵 (thủy)"
+        "info": "tự, 減 (giảm) 咸 (hàm: bao, khắp) 戊 (mậu) 氵 (thủy)"
       },
       {
         "hiragana": "あがります",
-        "kanji": "上がります",
-        "vietnamese": "tăng, tăng lên(giá)",
+        "kanji": "上がる",
+        "vietnamese": "tự, tăng, tăng lên(giá)",
         "info": ""
       },
       {
         "hiragana": "さがります",
-        "kanji": "下がります",
-        "vietnamese": "giảm, giảm xuống(giá)",
+        "kanji": "下がる",
+        "vietnamese": "tự, giảm, giảm xuống(giá)",
         "info": ""
       },
       {
         "hiragana": "きれます",
-        "kanji": "切れます",
+        "kanji": "切れる",
         "vietnamese": "đứt",
-        "info": "切 (thiết, thế) 七 (thất) 刀 (đao)"
+        "info": "tự, 切 (thiết, thế) 七 (thất) 刀 (đao)"
       },
       {
         "hiragana": "とれます",
         "kanji": "取れる",
         "vietnamese": "tuột",
-        "info": "取 (thủ) 耳 (nhĩ) 又 (hựu)"
+        "info": "tự/tha, 取 (thủ) 耳 (nhĩ) 又 (hựu)"
       },
       {
         "hiragana": "おちゃます",
         "kanji": "落ちる",
         "vietnamese": "rơi",
-        "info": "落 (lạc) 艹 (thảo) 氵 (thủy) 各 (các)"
-      },
-      {
-        "hiragana": "なくなります",
-        "kanji": "無くなる",
-        "vietnamese": "mất,hết(xăng)",
-        "info": "無 (vô, mô)"
+        "info": "tự, 落 (lạc) 艹 (thảo) 氵 (thủy) 各 (các)"
       },
       {
         "hiragana": "じょうぶ「な」",
@@ -9484,9 +9478,9 @@ data_vocabulary = [
       },
       {
         "hiragana": "つまらない",
-        "kanji": "つまらない",
+        "kanji": "詰らない",
         "vietnamese": "buồn tẻ, không hấp dẫn, không thú vị",
-        "info": ""
+        "info": "詰 (cật)"
       },
       {
         "hiragana": "だんぼう",
