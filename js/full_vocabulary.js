@@ -9441,7 +9441,7 @@ data_vocabulary = [
         "info": "tự/tha, 取 (thủ) 耳 (nhĩ) 又 (hựu)"
       },
       {
-        "hiragana": "おちゃます",
+        "hiragana": "おちます",
         "kanji": "落ちる",
         "vietnamese": "rơi",
         "info": "tự, 落 (lạc) 艹 (thảo) 氵 (thủy) 各 (các)"
@@ -9533,139 +9533,109 @@ data_vocabulary = [
         "hiragana": "なきます Ⅰ",
         "kanji": "泣きます",
         "vietnamese": "khóc",
-        "info": ""
+        "info": "泣 (khấp: khóc) 立 (lập) 氵 (thủy)"
       },
       {
         "hiragana": "わらいます Ⅰ",
         "kanji": "笑います",
         "vietnamese": "cười",
-        "info": ""
+        "info": "笑 (tiếu) ⺮ () 夭 (yêu) "
       },
       {
         "hiragana": "かわきます Ⅰ",
         "kanji": "乾きます",
         "vietnamese": "khô",
-        "info": ""
+        "info": "乾 (kiền, càn: quẻ) 乞 (khất: xin, thực) 𠦝 ()"
       },
       {
         "hiragana": "ぬれます Ⅱ",
         "kanji": "ぬれます Ⅱ",
         "vietnamese": "ướt",
-        "info": ""
+        "info": "濡 (nhu, nhi: ướt) 需 (nhu: cầu) 而 (nhi) ⻗ () 氵 (thủy)"
       },
       {
         "hiragana": "すべります Ⅰ",
         "kanji": "滑ります",
         "vietnamese": "trượt chân",
-        "info": ""
+        "info": "滑 (hoạt, cốt: trơn, giảo) 骨 (cốt: xương) 氵 (thủy) 鍋(oa: nồi)"
       },
       {
         "hiragana": "おきます Ⅱ",
         "kanji": "起きます",
         "vietnamese": "xảy ra",
-        "info": ""
+        "info": "起 (khởi) 己 (kỉ) 走 (tẩu)"
       },
       {
         "hiragana": "ちょうせつします Ⅲ",
         "kanji": "調節します",
         "vietnamese": "điều chỉnh",
-        "info": ""
-      },
-      {
-        "hiragana": "あんぜん［な］",
-        "kanji": "安全［な］",
-        "vietnamese": "an toàn",
-        "info": ""
+        "info": "調 (điều, điệu) 周 (chu) 言 (ngôn) 節 (tiết, tiệt: thời) 即 (tức: thời) ⺮ () 艮 (cấn: quẻ) 良(lương) 卩 (tiết)"
       },
       {
         "hiragana": "ていねい［な］",
         "kanji": "丁寧［な］",
         "vietnamese": "lịch sự",
-        "info": ""
+        "info": "丁 (đinh: can) 寧 (ninh: yên ổn) 心 (tâm) 宀 (miên) 丁 (đinh) 罒 (võng)"
       },
       {
         "hiragana": "こまかい",
         "kanji": "細かい",
         "vietnamese": "nhỏ",
-        "info": ""
+        "info": "細 (tế: nhỏ) 糸 (mịch) 田 (điền)"
       },
       {
         "hiragana": "こい",
         "kanji": "濃い",
         "vietnamese": "đậm; nồng",
-        "info": ""
+        "info": "濃 (nùng: nồng) 農 (nông) 氵 (thủy) 農 (nông: nghiệp) 辰 (thần, thìn: chi) 曲 (khúc)"
       },
       {
         "hiragana": "うすい",
         "kanji": "薄い",
         "vietnamese": "nhạt; lợt",
-        "info": ""
-      },
-      {
-        "hiragana": "くうき",
-        "kanji": "空気",
-        "vietnamese": "không khí",
-        "info": ""
+        "info": "薄 (bạc, bác) 専 (chuyên) 艹 (thảo) 氵 (thủy)"
       },
       {
         "hiragana": "なみだ",
         "kanji": "涙",
         "vietnamese": "nước mắt",
-        "info": ""
+        "info": "涙 (lệ) 氵 (thủy) 戻 (lệ)"
       },
       {
         "hiragana": "わしょく",
         "kanji": "和食",
         "vietnamese": "món ăn Nhật",
-        "info": ""
+        "info": "和 (hòa, họa: cùng) 禾 (hòa) 口 (khẩu) 食 (thực, tự) 良 (lương) 𠆢 ()"
       },
       {
         "hiragana": "ようしょく",
         "kanji": "洋食",
         "vietnamese": "đồ Tây",
-        "info": ""
+        "info": "洋 (dương: bể lớn) 羊 (dương: dê) 氵 (thủy) 食 (thực, tự) 良 (lương) 𠆢 ()"
       },
       {
         "hiragana": "おかず",
         "kanji": "おかず",
         "vietnamese": "thức ăn",
-        "info": ""
+        "info": "菜 (thái: rau) 采 (thải) 艹 (thảo)"
       },
       {
         "hiragana": "りょう",
         "kanji": "量",
         "vietnamese": "lượng",
-        "info": ""
+        "info": "量 (lượng, lương) 旦 (đán) 里 (lí)"
       },
       {
-        "hiragana": "…ばい",
+        "hiragana": "ばい",
         "kanji": "倍",
-        "vietnamese": "lần",
-        "info": ""
-      },
-      {
-        "hiragana": "はんぶん",
-        "kanji": "半分",
-        "vietnamese": "một nửa",
-        "info": ""
-      },
-      {
-        "hiragana": "シングル",
-        "kanji": "シングル",
-        "vietnamese": "phòng đơn",
-        "info": ""
-      },
-      {
-        "hiragana": "ツイン",
-        "kanji": "ツイン",
-        "vietnamese": "phòng đôi",
-        "info": ""
+        "vietnamese": "Sự gấp đôi",
+        "info": "倍 (bội) 亻 (nhân) 咅 () 音 (âm)"
       },
       {
         "hiragana": "たんす",
         "kanji": "たんす",
         "vietnamese": "tủ quần áo",
-        "info": ""
+        "info": "箪 (đan) 単 (đơn) ⺮ () 笥 (tứ: sọt vuông) ⺮ () 司 (ti: cục)"
       },
       {
         "hiragana": "せんたくもの",
@@ -9677,66 +9647,6 @@ data_vocabulary = [
         "hiragana": "りゆう",
         "kanji": "理由",
         "vietnamese": "lý do",
-        "info": ""
-      },
-      {
-        "hiragana": "どう なさいますか",
-        "kanji": "どう なさいますか",
-        "vietnamese": "tôi có thể giúp gì cho ông?",
-        "info": ""
-      },
-      {
-        "hiragana": "カット",
-        "kanji": "カット",
-        "vietnamese": "cắt tóc",
-        "info": ""
-      },
-      {
-        "hiragana": "シャンプー",
-        "kanji": "シャンプー",
-        "vietnamese": "xà-bông gội đầu",
-        "info": ""
-      },
-      {
-        "hiragana": "どういうふうに なさいますか",
-        "kanji": "どういうふうに なさいますか",
-        "vietnamese": "ông muốn làm ra sao？",
-        "info": ""
-      },
-      {
-        "hiragana": "ショート",
-        "kanji": "ショート",
-        "vietnamese": "ngắn",
-        "info": ""
-      },
-      {
-        "hiragana": "～みたいに して ください",
-        "kanji": "～みたいに して ください",
-        "vietnamese": "xin làm giống như",
-        "info": ""
-      },
-      {
-        "hiragana": "これで よろしいでしょうか",
-        "kanji": "これで よろしいでしょうか",
-        "vietnamese": "thế này được chưa ạ?",
-        "info": ""
-      },
-      {
-        "hiragana": "［どうも］お疲れさまでした",
-        "kanji": "［どうも］お疲れさまでした",
-        "vietnamese": "cám ơn đã làm cho tôi",
-        "info": ""
-      },
-      {
-        "hiragana": "いやがります",
-        "kanji": "嫌がります",
-        "vietnamese": "ghét",
-        "info": ""
-      },
-      {
-        "hiragana": "また",
-        "kanji": "また",
-        "vietnamese": "và",
         "info": ""
       },
       {
@@ -9752,27 +9662,9 @@ data_vocabulary = [
         "info": ""
       },
       {
-        "hiragana": "たとえば",
-        "kanji": "例えば",
-        "vietnamese": "ví dụ",
-        "info": ""
-      },
-      {
         "hiragana": "わかれます",
         "kanji": "別れます",
         "vietnamese": "chia cách; chia tay",
-        "info": ""
-      },
-      {
-        "hiragana": "これら",
-        "kanji": "これら",
-        "vietnamese": "những thứ này",
-        "info": ""
-      },
-      {
-        "hiragana": "えんぎが わるい",
-        "kanji": "縁起が 悪い",
-        "vietnamese": "điềm xấu",
         "info": ""
       }
     ]
