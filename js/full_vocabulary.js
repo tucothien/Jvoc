@@ -9414,7 +9414,7 @@ data_vocabulary = [
         "hiragana": "へります",
         "kanji": "減る",
         "vietnamese": "giảm, giảm xuống(xuất khẩu)",
-        "info": "tự, 減 (giảm) 咸 (hàm: bao, khắp) 戊 (mậu) 氵 (thủy)"
+        "info": "tự, 減 (giảm) 咸 (hàm: bao, khắp)| 戊 (mậu) 氵 (thủy)"
       },
       {
         "hiragana": "あがります",
@@ -9432,31 +9432,31 @@ data_vocabulary = [
         "hiragana": "きれます",
         "kanji": "切れる",
         "vietnamese": "đứt",
-        "info": "tự, 切 (thiết, thế) 七 (thất) 刀 (đao)"
+        "info": "tự, 切 (thiết, thế) 七 (thất) |刀 (đao)"
       },
       {
         "hiragana": "とれます",
         "kanji": "取れる",
         "vietnamese": "tuột",
-        "info": "tự/tha, 取 (thủ) 耳 (nhĩ) 又 (hựu)"
+        "info": "tự/tha, 取 (thủ) 耳 (nhĩ) |又 (hựu)"
       },
       {
         "hiragana": "おちます",
         "kanji": "落ちる",
         "vietnamese": "rơi",
-        "info": "tự, 落 (lạc) 艹 (thảo) 氵 (thủy) 各 (các)"
+        "info": "tự, 落 (lạc) 艹 (thảo) |氵 (thủy) 各 (các)"
       },
       {
         "hiragana": "じょうぶ「な」",
         "kanji": "丈夫「な」",
         "vietnamese": "chắc,bền",
-        "info": "丈 (trượng: 10 thước) 才(tài) 夫 (phu) 大丈夫"
+        "info": "丈 (trượng: 10 thước) 才(tài) |夫 (phu) 大丈夫"
       },
       {
         "hiragana": "へん「な」",
         "kanji": "変「な」",
         "vietnamese": "lạ,kì quặc",
-        "info": "変 (biến) 夂 (tri) 亦 (diệc) 赤 (aka)"
+        "info": "変 (biến) 夂 (tri) 亦 (diệc) |赤 (aka)"
       },
       {
         "hiragana": "しあわせ",
@@ -9486,25 +9486,25 @@ data_vocabulary = [
         "hiragana": "だんぼう",
         "kanji": "暖房",
         "vietnamese": "thiết bị làm ấm, lò sưởi, máy điều hòa",
-        "info": "暖 (noãn: ấm) 爫 (trảo) 一 (nhất) 友 (hữu) 日 (nhật) 房 (phòng: buồng) 戸 (hộ) 方 (phương) 戻 (lệ: quay lại)"
+        "info": "暖 (noãn: ấm) 爫 (trảo) |一 (nhất) 友 (hữu) 日 (nhật)| 房 (phòng: buồng) 戸 (hộ) 方 (phương) 戻 (lệ: quay lại)"
       },
       {
         "hiragana": "れいぼう",
         "kanji": "冷房",
         "vietnamese": "thiết bị làm mát, máy điều hòa",
-        "info": "冷 (lãnh) 令 (lệnh) 冫 (băng) 房 (phòng: buồng) 戸 (hộ) 方 (phương) 戻 (lệ: quay lại)"
+        "info": "冷 (lãnh) 令 (lệnh) 冫 (băng) |房 (phòng: buồng) 戸 (hộ)| 方 (phương) 戻 (lệ: quay lại)"
       },
       {
         "hiragana": "てきとう「な」",
         "kanji": "適当「な」",
         "vietnamese": "thích hợp, vừa phải, suitable, proper",
-        "info": "適 (thích, đích, quát) 啇 () ⻌ () 当 (đương, đang, đáng) 古 (cổ)"
+        "info": "適 (thích, đích, quát)| 啇 () ⻌ () 当 (đương, đang, đáng)| 古 (cổ)"
       },
       {
         "hiragana": "ねんれい",
         "kanji": "年齢",
         "vietnamese": "tuổi",
-        "info": "年 (niên) 齢 (linh: tuổi) 令 (lệnh) 歯 (xỉ: răng)"
+        "info": "年 (niên) 齢 (linh: tuổi) |令 (lệnh) 歯 (xỉ: răng)"
       },
       {
         "hiragana": "しゅうにゅう",
@@ -9531,51 +9531,51 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "なきます Ⅰ",
-        "kanji": "泣きます",
+        "kanji": "泣く",
         "vietnamese": "khóc",
-        "info": "泣 (khấp: khóc) 立 (lập) 氵 (thủy)"
+        "info": "tự, 泣 (khấp: khóc) 立 (lập) |氵 (thủy)"
       },
       {
         "hiragana": "わらいます Ⅰ",
-        "kanji": "笑います",
+        "kanji": "笑う",
         "vietnamese": "cười",
-        "info": "笑 (tiếu) ⺮ () 夭 (yêu) "
+        "info": "tự, 笑 (tiếu) ⺮ () 夭 (yêu) "
       },
       {
         "hiragana": "かわきます Ⅰ",
-        "kanji": "乾きます",
+        "kanji": "乾く",
         "vietnamese": "khô",
-        "info": "乾 (kiền, càn: quẻ) 乞 (khất: xin, thực) 𠦝 ()"
+        "info": "tự, 乾 (kiền, càn: quẻ) |乞 (khất: xin, thực) 𠦝 ()"
       },
       {
         "hiragana": "ぬれます Ⅱ",
-        "kanji": "ぬれます Ⅱ",
+        "kanji": "濡れる Ⅱ",
         "vietnamese": "ướt",
-        "info": "濡 (nhu, nhi: ướt) 需 (nhu: cầu) 而 (nhi) ⻗ () 氵 (thủy)"
+        "info": "濡 (nhu, nhi: ướt) 需 (nhu: cầu) |而 (nhi) ⻗ () 氵 (thủy)"
       },
       {
         "hiragana": "すべります Ⅰ",
-        "kanji": "滑ります",
+        "kanji": "滑る",
         "vietnamese": "trượt chân",
-        "info": "滑 (hoạt, cốt: trơn, giảo) 骨 (cốt: xương) 氵 (thủy) 鍋(oa: nồi)"
+        "info": "滑 (hoạt, cốt: trơn, giảo) |骨 (cốt: xương) 氵 (thủy) 鍋(oa: nồi)"
       },
       {
         "hiragana": "おきます Ⅱ",
-        "kanji": "起きます",
+        "kanji": "起きる",
         "vietnamese": "xảy ra",
         "info": "起 (khởi) 己 (kỉ) 走 (tẩu)"
       },
       {
         "hiragana": "ちょうせつします Ⅲ",
-        "kanji": "調節します",
+        "kanji": "調節する",
         "vietnamese": "điều chỉnh",
-        "info": "調 (điều, điệu) 周 (chu) 言 (ngôn) 節 (tiết, tiệt: thời) 即 (tức: thời) ⺮ () 艮 (cấn: quẻ) 良(lương) 卩 (tiết)"
+        "info": "調 (điều, điệu) 周 (chu) |言 (ngôn) 節 (tiết, tiệt: thời) 即 (tức: thời) ⺮ () 艮 (cấn: quẻ) 良(lương) 卩 (tiết)"
       },
       {
         "hiragana": "ていねい［な］",
         "kanji": "丁寧［な］",
         "vietnamese": "lịch sự",
-        "info": "丁 (đinh: can) 寧 (ninh: yên ổn) 心 (tâm) 宀 (miên) 丁 (đinh) 罒 (võng)"
+        "info": "丁 (đinh: can) 寧 (ninh: yên ổn) |心 (tâm) 宀 (miên) 丁 (đinh) 罒 (võng)"
       },
       {
         "hiragana": "こまかい",
@@ -9587,13 +9587,13 @@ data_vocabulary = [
         "hiragana": "こい",
         "kanji": "濃い",
         "vietnamese": "đậm; nồng",
-        "info": "濃 (nùng: nồng) 農 (nông) 氵 (thủy) 農 (nông: nghiệp) 辰 (thần, thìn: chi) 曲 (khúc)"
+        "info": "濃 (nùng: nồng) 農 (nông) 氵 (thủy)| 農 (nông: nghiệp) 辰 (thần, thìn: chi) 曲 (khúc)"
       },
       {
         "hiragana": "うすい",
         "kanji": "薄い",
         "vietnamese": "nhạt; lợt",
-        "info": "薄 (bạc, bác) 専 (chuyên) 艹 (thảo) 氵 (thủy)"
+        "info": "薄 (bạc, bác) 専 (chuyên) |艹 (thảo) 氵 (thủy)"
       },
       {
         "hiragana": "なみだ",
@@ -9605,13 +9605,13 @@ data_vocabulary = [
         "hiragana": "わしょく",
         "kanji": "和食",
         "vietnamese": "món ăn Nhật",
-        "info": "和 (hòa, họa: cùng) 禾 (hòa) 口 (khẩu) 食 (thực, tự) 良 (lương) 𠆢 ()"
+        "info": "和 (hòa, họa: cùng) 禾 (hòa) |口 (khẩu) 食 (thực, tự) 良 (lương) 𠆢 ()"
       },
       {
         "hiragana": "ようしょく",
         "kanji": "洋食",
         "vietnamese": "đồ Tây",
-        "info": "洋 (dương: bể lớn) 羊 (dương: dê) 氵 (thủy) 食 (thực, tự) 良 (lương) 𠆢 ()"
+        "info": "洋 (dương: bể lớn) 羊 (dương: dê)| 氵 (thủy) 食 (thực, tự)| 良 (lương) 𠆢 ()"
       },
       {
         "hiragana": "おかず",
@@ -9635,37 +9635,25 @@ data_vocabulary = [
         "hiragana": "たんす",
         "kanji": "たんす",
         "vietnamese": "tủ quần áo",
-        "info": "箪 (đan) 単 (đơn) ⺮ () 笥 (tứ: sọt vuông) ⺮ () 司 (ti: cục)"
-      },
-      {
-        "hiragana": "せんたくもの",
-        "kanji": "洗濯物",
-        "vietnamese": "đồ giặt",
-        "info": ""
-      },
-      {
-        "hiragana": "りゆう",
-        "kanji": "理由",
-        "vietnamese": "lý do",
-        "info": ""
+        "info": "箪 (đan) 単 (đơn) ⺮ () |笥 (tứ: sọt vuông) ⺮ () 司 (ti: cục)"
       },
       {
         "hiragana": "じゅんじょ",
         "kanji": "順序",
         "vietnamese": "thứ tự",
-        "info": ""
+        "info": "順 (thuận: theo) 頁 (hiệt) 川 (xuyên) |序 (tự) 予 (dư) 广 (nghiễm)"
       },
       {
         "hiragana": "ひょうげん",
         "kanji": "表現",
-        "vietnamese": "cách nói",
-        "info": ""
+        "vietnamese": "sự diễn tả, expression",
+        "info": "表 (biểu) 龶 () 𧘇 () 現 (hiện) |王 (vương) 見 (kiến)"
       },
       {
         "hiragana": "わかれます",
         "kanji": "別れます",
         "vietnamese": "chia cách; chia tay",
-        "info": ""
+        "info": "別 (biệt) 勹 (bao) 口 (khẩu) 刂 (đao)"
       }
     ]
   },
