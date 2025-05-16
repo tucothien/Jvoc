@@ -9662,141 +9662,87 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "あやまります",
-        "kanji": "謝ります",
+        "kanji": "謝る",
         "vietnamese": "xin lỗi, tạ lỗi",
-        "info": ""
-      },
-      {
-        "hiragana": "あいます（じこに～）",
-        "kanji": "あいます（じこに～）",
-        "vietnamese": "gặp(tai nạn)",
-        "info": ""
+        "info": "Tha, 謝 (tạ: lỗi) 射 (xạ: thủ) 寸 (thốn) 身 (thân) 言 (ngôn)"
       },
       {
         "hiragana": "しんじます",
-        "kanji": "信じます",
-        "vietnamese": "tin.tin tưởng",
-        "info": ""
+        "kanji": "信じる",
+        "vietnamese": "tin, tin tưởng",
+        "info": "tha, 信 (tín: tin) 亻 (nhân) 言 (ngôn)"
       },
       {
         "hiragana": "よういします",
-        "kanji": "用意します",
+        "kanji": "用意する",
         "vietnamese": "chuẩn bị",
-        "info": ""
-      },
-      {
-        "hiragana": "キャンセルします",
-        "kanji": "キャンセルします",
-        "vietnamese": "hủy, hủy bỏ",
-        "info": ""
+        "info": "Tha, 用 (dụng) 意 (ý) 音 (âm) 心 (tâm)"
       },
       {
         "hiragana": "うまくいきます",
-        "kanji": "到着します。",
+        "kanji": "上手く行きます",
         "vietnamese": "tốt, thuận lợi",
-        "info": ""
+        "info": "adv + "
       },
       {
         "hiragana": "ほしょうしょ",
         "kanji": "保証書",
         "vietnamese": "giấy bảo hành",
-        "info": ""
+        "info": "保 (bảo) 亻 (nhân) 呆 (ngốc: nghếch) 証 (chứng: thực) 正 (chánh) 言 (ngôn) 書 (thư) 聿 (duật) 日 (nhật)"
       },
       {
         "hiragana": "りょうしゅうしょ",
         "kanji": "領収書",
         "vietnamese": "hóa đơn",
-        "info": ""
+        "info": "領 (lĩnh: lương) 頁 (hiệt) 令 (lệnh) 収 (thu) 丩 () 又 (hựu) 書 (thư) 聿 (duật) 日 (nhật)"
       },
       {
         "hiragana": "おくりもの（をします）",
         "kanji": "贈り物",
         "vietnamese": "quà tặng(tặng quà)",
-        "info": ""
-      },
-      {
-        "hiragana": "まちがいでんわ",
-        "kanji": "間違い電話",
-        "vietnamese": "điện thoại nhầm",
-        "info": ""
-      },
-      {
-        "hiragana": "キャンプ",
-        "kanji": "キャンプ",
-        "vietnamese": "trại",
-        "info": ""
+        "info": "贈 (tặng) 曽 (tằng) 貝 (bối) 物 (vật) 勿 (vật) 牜 () 憎 (tăng)"
       },
       {
         "hiragana": "かかり",
         "kanji": "係",
         "vietnamese": "nhân viên, người phụ trách",
-        "info": ""
+        "info": "係 (hệ) 亻 (nhân) 系 (hệ: buộc) 孫(tôn)"
       },
       {
         "hiragana": "ちゅうし",
         "kanji": "中止",
         "vietnamese": "cấm, đình chỉ",
-        "info": ""
-      },
-      {
-        "hiragana": "てん",
-        "kanji": "点",
-        "vietnamese": "điểm",
-        "info": ""
-      },
-      {
-        "hiragana": "レバー",
-        "kanji": "レバー",
-        "vietnamese": "tay bẻ, tay số, cần gạt",
-        "info": ""
+        "info": "中 (trung, trúng) 口 (khẩu) 丨 (cổn) 止 (chỉ)"
       },
       {
         "hiragana": "[えん」さつ",
         "kanji": "「円」札",
         "vietnamese": "tờ tiền giấy(yên)",
-        "info": ""
+        "info": "札 (trát: thẻ gỗ) 乚 () 木 (mộc)"
       },
       {
         "hiragana": "ちゃんと",
         "kanji": "ちゃんと",
-        "vietnamese": "đúng , hẳn hoi",
-        "info": ""
+        "vietnamese": "đúng , hẳn hoi, nghiêm túc (làm)",
+        "info": "adv/N"
       },
       {
         "hiragana": "きゅうに",
         "kanji": "急に",
         "vietnamese": "gấp",
-        "info": ""
-      },
-      {
-        "hiragana": "たのしみにしています",
-        "kanji": "楽しみにしています",
-        "vietnamese": "mong đợi, lấy làm vui",
-        "info": ""
+        "info": "adv, 急 (cấp) 心 (tâm) ⺈ () ヨ ()"
       },
       {
         "hiragana": "いじょうです",
         "kanji": "以上です",
         "vietnamese": "xin hết",
-        "info": ""
+        "info": "以 (dĩ) 上 (thượng, thướng)"
       },
       {
         "hiragana": "かかりいん",
         "kanji": "係員",
-        "vietnamese": "nhân viên",
-        "info": ""
-      },
-      {
-        "hiragana": "ロース",
-        "kanji": "ロース",
-        "vietnamese": "đường chạy(maraton)",
-        "info": ""
-      },
-      {
-        "hiragana": "スタート",
-        "kanji": "スタート",
-        "vietnamese": "xuất phát",
-        "info": ""
+        "vietnamese": "person in charge, nhân viên",
+        "info": "係 (hệ: quan) 亻 (nhân) 系 (hệ) 員 (viên, vân) 貝 (bối) 口 (khẩu)"
       },
       {
         "hiragana": "ゆうしょうします",

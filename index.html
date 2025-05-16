@@ -28,19 +28,19 @@
 				"lesson": "minna 2",
 				"vocabulary": []
 			  },
-			  
+
 			  // text of words
 			  $('#kanji').html("");
 			  $('#viet').html(""); # displaying viet
 			  $('#hira').html("");
 		*/
-	
-		
-		
+
+
+
 		//============================================================
 		// Init
 		//============================================================
-		INIT_LESSON = String(44-1) // minna x - 1
+		INIT_LESSON = String(45-1) // minna x - 1
 
 		function shuffleArray(array) {
 			if (isShuffle) {
@@ -86,8 +86,8 @@
 									// hot fix: this will be counterintuitive as showAll will be flipped in move func
 			$("#lbTotalVoc").text("/" + currentVocList.length);
 
-			
-		} 
+
+		}
 		initialize('vocabulary', 1)
 
 
@@ -133,7 +133,7 @@
 			return voc_list
 		}
 
-		
+
 		//============================================================
 		// Display
 		//============================================================
@@ -150,7 +150,7 @@
 					}
 					if ('onyomi' in word && word['onyomi'] !== "") {displayText+='<br/>On: '+word['onyomi']}
 					if ('kunyomi' in word && word['kunyomi'] !== "") {displayText+='<br/>Kun: '+word['kunyomi']}
-					
+
 					if ('info' in word) {
 						if (Array.isArray(word['info'])) {
 							displayText+='<br/>'+word['info'].join('<br/>')
@@ -172,9 +172,9 @@
 			$('#message').html(text);
 			isShowMessage=true
 		}
-		
-		
-		
+
+
+
 		//============================================================
 		// Event handlers
 		//============================================================
@@ -204,7 +204,7 @@
 			showWords(currentVocList[currentWord], current_mode)
 			showAll = true // next will show all
 			console.log(vIndex)
-			
+
 		});
 
 		// $('#voctype').change(function() {
@@ -213,7 +213,7 @@
 		// 	initialize(voctype=selected_lessons)
 		// });
 		$('#shuffle').change(function() {
-			value = $(this).val() 
+			value = $(this).val()
 			if (value === 'shuffle'){
 				isShuffle=true // TODO: remove isShuffle
 				currentVocList = shuffleArray(structuredClone(selectedVocList))
@@ -230,17 +230,17 @@
 				console.log('ERROROOOO')
 				console.log(value)
 			}
-			
+
 			showAll = false
 			currentWord = -1
 			resetVocIdxList(currentVocList)
 			showMessage("reset: " + value);
 			clearWords()
-				
+
 
 
 			// isShuffle = $(this).val() === 'shuffle' ? 1: 0
-			
+
 			// if (isShuffle) {
 			// 	showMessage("reset, shuffle");
 			// } else {
@@ -260,7 +260,7 @@
 					notedVocList.add(currentVocList[currentWord])
 					showMessage('Added to noted list ('+ notedVocList.size +'): ' + currentVocList[currentWord]['vietnamese'] + ' | '  + currentVocList[currentWord]['kanji']);
 				}
-				
+
 				// console.log(currentVocList[currentWord])
 			}
 			// console.log(notedVocList)
@@ -289,7 +289,7 @@
 				clearWords()
 			}
 		});
-		
+
 		$("body").keypress(function(e){
 			switch (e.which) {
 				case 32: // space
@@ -298,7 +298,7 @@
 					break;
 			}
 		});
-		
+
 		$('#vietB, #kanjiB, #hiraB').click(function() {
 			current_mode = $(this).attr('value')
 			showMessage("Change to "+current_mode+" mode");
@@ -306,7 +306,7 @@
 				showWords(currentVocList[currentWord], current_mode)
 			}
     	});
-		
+
 
 		$("#swipeArea").css({top: $("#textArea").offset().top});
 		var clickCount = 0;
@@ -389,7 +389,7 @@
 				<label for="kanji">Kanji</label>
 			</div>
 
-			
+
 		</fieldset>
 	</div>
 
@@ -411,15 +411,15 @@
 			<div>
 				<h1 id="mainText" style="font-size: 3em;"></h1>
 			<div>
-		</fieldset>	
+		</fieldset>
 	</div>
 	<div id=swipeArea style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"></div>
-		
-	
+
+
 </body>
 <style type="text/css">
 	body {
-	  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+	  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
 	}
 	.myButton {
 		-moz-box-shadow:inset 3px 4px 11px 0px #ffffff;
@@ -477,7 +477,7 @@
 
 
 	table.fixed td { overflow: hidden; }
-	
+
 	html {
 		height: 100%;
 	}
@@ -488,7 +488,7 @@
 		background: rgb(250,0,0);
 		background: linear-gradient(135deg, rgba(250,0,0,1) 0%, rgba(254,179,0,1) 3%, rgba(232,255,0,1) 5%, rgba(58,250,40,1) 8%, rgba(78,151,245,1) 10%, rgba(171,104,242,1) 13%, rgba(239,137,220,1) 15%, rgba(169,241,255,0.7819502801120448) 19%);
 	}
-	
+
 
 </style>
 </html>
