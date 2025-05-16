@@ -9664,7 +9664,7 @@ data_vocabulary = [
         "hiragana": "あやまります",
         "kanji": "謝る",
         "vietnamese": "xin lỗi, tạ lỗi",
-        "info": "Tha, 謝 (tạ: lỗi) 射 (xạ: thủ) 寸 (thốn) 身 (thân) 言 (ngôn)"
+        "info": "Tha, 謝 (tạ: lỗi) 射 (xạ: thủ) |寸 (thốn) 身 (thân) |言 (ngôn)"
       },
       {
         "hiragana": "しんじます",
@@ -9688,19 +9688,19 @@ data_vocabulary = [
         "hiragana": "ほしょうしょ",
         "kanji": "保証書",
         "vietnamese": "giấy bảo hành",
-        "info": "保 (bảo) 亻 (nhân) 呆 (ngốc: nghếch) 証 (chứng: thực) 正 (chánh) 言 (ngôn) 書 (thư) 聿 (duật) 日 (nhật)"
+        "info": "保 (bảo) 亻 (nhân) 呆 (ngốc: nghếch) |証 (chứng: thực) 正 (chánh) |言 (ngôn) 書 (thư) 聿 (duật) 日 (nhật)"
       },
       {
         "hiragana": "りょうしゅうしょ",
         "kanji": "領収書",
         "vietnamese": "hóa đơn",
-        "info": "領 (lĩnh: lương) 頁 (hiệt) 令 (lệnh) 収 (thu) 丩 () 又 (hựu) 書 (thư) 聿 (duật) 日 (nhật)"
+        "info": "領 (lĩnh: lương) 頁 (hiệt) 令 (lệnh)| 収 (thu) 丩 () 又 (hựu) |書 (thư) 聿 (duật) 日 (nhật)"
       },
       {
         "hiragana": "おくりもの（をします）",
         "kanji": "贈り物",
         "vietnamese": "quà tặng(tặng quà)",
-        "info": "贈 (tặng) 曽 (tằng) 貝 (bối) 物 (vật) 勿 (vật) 牜 () 憎 (tăng)"
+        "info": "贈 (tặng) 曽 (tằng) 貝 (bối) 物 (vật) |勿 (vật) 牜 () 憎 (tăng)"
       },
       {
         "hiragana": "かかり",
@@ -9742,67 +9742,31 @@ data_vocabulary = [
         "hiragana": "かかりいん",
         "kanji": "係員",
         "vietnamese": "person in charge, nhân viên",
-        "info": "係 (hệ: quan) 亻 (nhân) 系 (hệ) 員 (viên, vân) 貝 (bối) 口 (khẩu)"
+        "info": "係 (hệ: quan) 亻 (nhân) 系 (hệ) |員 (viên, vân) 貝 (bối) 口 (khẩu)"
       },
       {
         "hiragana": "ゆうしょうします",
-        "kanji": "優勝します",
-        "vietnamese": "vộ địch, giải nhất",
-        "info": ""
+        "kanji": "優勝する",
+        "vietnamese": "tự, vộ địch, giải nhất",
+        "info": "優 (ưu: tiên) 憂 (ưu: phiền) |心 (tâm) 夏 (hạ)亻 (nhân) |勝 (thắng, thăng) 力 (lực) 朕 (trẫm) |⺼ (nguyệt) 关 (quan)"
       },
       {
         "hiragana": "なやみ",
         "kanji": "悩み",
         "vietnamese": "điều lo nghĩ, trăn trở, phiền muộn",
-        "info": ""
+        "info": "N, 悩 (não: phiền) 凶 (hung: ác) ⺍ () 忄 (tâm)"
       },
       {
-        "hiragana": "めざまし「とけい」",
-        "kanji": "目覚まし「時計」",
+        "hiragana": "めざまし 「とけい」",
+        "kanji": "目覚まし 「時計」",
         "vietnamese": "đồng hồ báo thức",
-        "info": ""
-      },
-      {
-        "hiragana": "ねむります",
-        "kanji": " 眠ります",
-        "vietnamese": "ngủ",
-        "info": ""
-      },
-      {
-        "hiragana": "めがさめます",
-        "kanji": "目が覚めます",
-        "vietnamese": "mở mắt",
-        "info": ""
-      },
-      {
-        "hiragana": "だいがくせい",
-        "kanji": "大学生",
-        "vietnamese": "sinh viên đại học",
-        "info": ""
+        "info": "目 (mục) 覚 (giác) |見 (kiến) 龸 ()"
       },
       {
         "hiragana": "かいとう",
-        "kanji": "ー便回答",
-        "vietnamese": "câu trả lời, giải thích",
-        "info": ""
-      },
-      {
-        "hiragana": "なります",
-        "kanji": "なります",
-        "vietnamese": "ren lên",
-        "info": ""
-      },
-      {
-        "hiragana": "セットします",
-        "kanji": "セットします",
-        "vietnamese": "cài đặt",
-        "info": ""
-      },
-      {
-        "hiragana": "それでも",
-        "kanji": "それでも",
-        "vietnamese": "tuy nhiên",
-        "info": ""
+        "kanji": "回答",
+        "vietnamese": "câu trả lời, giải thích, reply, answer",
+        "info": "回 (hồi, hối) 答 (đáp) |⺮ () 合 (hợp)"
       }
     ]
   },
