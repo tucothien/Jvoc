@@ -9774,196 +9774,76 @@ data_vocabulary = [
     "lesson": "minna 46",
     "vocabulary": [
       {
-        "hiragana": "やきます",
-        "kanji": "焼きます",
-        "vietnamese": "nướng",
-        "info": ""
-      },
-      {
         "hiragana": "わたします",
         "kanji": "渡します",
         "vietnamese": "trao",
-        "info": ""
-      },
-      {
-        "hiragana": "かえってきます",
-        "kanji": "帰ってきます",
-        "vietnamese": "quay về",
-        "info": ""
-      },
-      {
-        "hiragana": "でます [バスがー]",
-        "kanji": "出ます「バスが」",
-        "vietnamese": "xuất phát, rời trạm [ xe bus ~ ]",
-        "info": ""
-      },
-      {
-        "hiragana": "るす",
-        "kanji": "留守",
-        "vietnamese": "vắng nhà",
-        "info": ""
+        "info": "tha, 渡 (độ: qua) 度 (độ: lần, nhiệt) 氵 (thủy)"
       },
       {
         "hiragana": "たくはいびん",
         "kanji": "宅配便",
         "vietnamese": "dịch vụ trao tận nhà",
-        "info": ""
+        "info": "宅 (trạch: nhà) 乇 () 宀 (miên) 配 (phối) 己 (kỉ) 酉 (dậu) 便 (tiện) 亻 (nhân) 更 (canh)"
       },
       {
         "hiragana": "げんいん",
         "kanji": "原因",
         "vietnamese": "nguyên nhân",
-        "info": ""
+        "info": "原 (nguyên: đồng) 厂 (hán) 小 (tiểu) 白 (bạch) 因 (nhân: nguyên) 大 (đại) 囗 (vi)"
       },
       {
         "hiragana": "ちゅうしゃ",
         "kanji": "注射",
         "vietnamese": "tiêm",
-        "info": ""
+        "info": "Nsuru, 注 (chú) 主 (chủ) 氵 (thủy) 射 (xạ: bắn) 寸 (thốn) 身 (thân)"
       },
       {
         "hiragana": "しょくよく",
         "kanji": "食欲",
         "vietnamese": "sự thèm ăn",
-        "info": ""
-      },
-      {
-        "hiragana": "バンフレット",
-        "kanji": "間違い電話",
-        "vietnamese": "tờ bướm quảng cáo",
-        "info": ""
-      },
-      {
-        "hiragana": "ステレオ",
-        "kanji": "ステレオ",
-        "vietnamese": "âm thanh nổi",
-        "info": ""
-      },
-      {
-        "hiragana": "こちら",
-        "kanji": "こちら",
-        "vietnamese": "chỗ (chúng tôi), phía (chúng tôi)",
-        "info": ""
-      },
-      {
-        "hiragana": "~のところ",
-        "kanji": "～の所",
-        "vietnamese": "quanh vùng ~",
-        "info": ""
-      },
-      {
-        "hiragana": "ちょうど",
-        "kanji": "ちょうど",
-        "vietnamese": "vừa đúng",
-        "info": ""
-      },
-      {
-        "hiragana": "たったいま",
-        "kanji": " たった今",
-        "vietnamese": "mới hồi nãy",
-        "info": ""
-      },
-      {
-        "hiragana": "いまいいでしょうか",
-        "kanji": "今いいでしょうか",
-        "vietnamese": "bây giờ (tôi) có thể làm phiền anh/chị được không?",
-        "info": ""
-      },
-      {
-        "hiragana": "ガスサービスセンター",
-        "kanji": "ガスサービスセンター",
-        "vietnamese": "trung tâm dịch vụ gas",
-        "info": ""
-      },
-      {
-        "hiragana": "ガスコンロ",
-        "kanji": "ガスコンロ",
-        "vietnamese": "bếp ga",
-        "info": ""
+        "info": "N, 食 (thực, tự) 良 (lương) 𠆢 () 欲 (dục) 欠 (khiếm) 谷 (cốc)"
       },
       {
         "hiragana": "ぐあい",
         "kanji": "具合",
-        "vietnamese": "trạng thái, tình trạng",
-        "info": ""
-      },
-      {
-        "hiragana": "どちらさまでしょうか",
-        "kanji": "どちら様でしょうか",
-        "vietnamese": "vị nào đấy ạ ?",
-        "info": ""
+        "vietnamese": "trạng thái, tình trạng (cụ thể)",
+        "info": "具 (cụ: công) 目 (mục) 丌 (kì) 合 (hợp, cáp, hiệp) 亼 () 口 (khẩu)"
       },
       {
         "hiragana": "むかいます",
-        "kanji": "向かいます",
-        "vietnamese": "hướng về",
-        "info": ""
-      },
-      {
-        "hiragana": "おまたせしました。",
-        "kanji": " お待たせしました",
-        "vietnamese": "xin lỗi đã để quý vị chờ lâu",
-        "info": ""
+        "kanji": "向かう",
+        "vietnamese": "tự, hướng về, quay về phía",
+        "info": "向 (hướng) ノ () 冋 () "
       },
       {
         "hiragana": "ちしき",
-        "kanji": " 知識",
+        "kanji": "知識",
         "vietnamese": "tri thức, kiến thức",
-        "info": ""
+        "info": "知 (tri, trí) 矢 (thỉ) 口 (khẩu) 識 (thức: biết) 言 (ngôn) 戈 (mâu) 音 (âm)"
       },
       {
         "hiragana": "ほうこ",
         "kanji": "宝庫",
-        "vietnamese": "kho hàng",
-        "info": ""
-      },
-      {
-        "hiragana": "なやみ",
-        "kanji": "なやみ",
-        "vietnamese": "điều lo nghĩ, trăn trở, phiền muộn",
-        "info": ""
-      },
-      {
-        "hiragana": "てにはいります[じょうほうが~]",
-        "kanji": "手に入ります「情報が～）",
-        "vietnamese": "có,được [thông tin]",
-        "info": ""
-      },
-      {
-        "hiragana": "システム",
-        "kanji": "システム",
-        "vietnamese": "hệ thống",
-        "info": ""
-      },
-      {
-        "hiragana": "キーワード",
-        "kanji": "キーワード",
-        "vietnamese": "từ khóa, điểm then chốt",
-        "info": ""
+        "vietnamese": "kho hàng, storehouse, treasury",
+        "info": "宝 (bảo) 玉 (ngọc) 宀 (miên) 庫 (khố: kho) 車 (xa) 广 (nghiễm)"
       },
       {
         "hiragana": "いちぶぶん",
         "kanji": "一部分",
-        "vietnamese": "một bộ phận",
-        "info": ""
+        "vietnamese": "một bộ phận, one part",
+        "info": "一 (nhất) 部 (bộ) 咅 () 分 (phân, phận) 刀 (đao) ハ ()"
       },
       {
         "hiragana": "にゅうりょくします",
         "kanji": "入力します",
         "vietnamese": "nhập vào",
-        "info": ""
+        "info": "入 (nhập) 力 (lực)"
       },
       {
         "hiragana": "びょう",
-        "kanji": " 秒",
+        "kanji": "秒",
         "vietnamese": "giây",
-        "info": ""
-      },
-      {
-        "hiragana": "でます[ほんが~]",
-        "kanji": " 出ます「本が～」",
-        "vietnamese": "[sách] được xuất bản",
-        "info": ""
+        "info": "秒 (miểu: giây) 少 (thiểu) 禾 (hòa)"
       }
     ]
   },
