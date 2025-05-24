@@ -9854,41 +9854,17 @@ data_vocabulary = [
         "hiragana": "あつまります [ひとが~]",
         "kanji": "集まります「人が～」",
         "vietnamese": "tập hợp, tập trung [ người ~]",
-        "info": ""
-      },
-      {
-        "hiragana": "わかれます [ひとが~]",
-        "kanji": "別れます「人が」",
-        "vietnamese": "chia tay [ người ~]",
-        "info": ""
+        "info": "集 (tập: hợp) 隹 (chuy) 木 (mộc)"
       },
       {
         "hiragana": "ながいきます",
         "kanji": "長生きます",
         "vietnamese": "sống lâu",
-        "info": ""
+        "info": "長 (trường, trưởng, trướng) 生 (sanh, sinh)"
       },
       {
-        "hiragana": "[おと/こえが~] します",
-        "kanji": "「音/声が～」します",
-        "vietnamese": "nghe thấy, có [~ âm thanh, tiếng nói]",
-        "info": ""
-      },
-      {
-        "hiragana": "[あじが~] します",
-        "kanji": "「味が～」します",
-        "vietnamese": "có [~vị]",
-        "info": ""
-      },
-      {
-        "hiragana": "[においが~] します",
-        "kanji": "[においが~] します",
-        "vietnamese": "có [~ mùi ]",
-        "info": ""
-      },
-      {
-        "hiragana": "[かさを~] さします",
-        "kanji": "「傘を～」さします",
+        "hiragana": "さします [かさを~]",
+        "kanji": "さす 「傘を～」",
         "vietnamese": "dương che [ dù ]",
         "info": ""
       },
@@ -9902,181 +9878,109 @@ data_vocabulary = [
         "hiragana": "こわい",
         "kanji": "怖い",
         "vietnamese": "sợ, khiếp",
-        "info": ""
-      },
-      {
-        "hiragana": "てんきよほう",
-        "kanji": "天気予報",
-        "vietnamese": "dự báo thời tiết",
-        "info": ""
-      },
-      {
-        "hiragana": "はっぴょう",
-        "kanji": " 発表",
-        "vietnamese": "công bố, thuyết trình",
-        "info": ""
+        "info": "怖 (phố, bố) 布 (bố: vải) 忄 (tâm)"
       },
       {
         "hiragana": "じっけん",
-        "kanji": " 実験",
+        "kanji": "実験",
         "vietnamese": "thí nghiệm, thực nghiệm",
-        "info": ""
+        "info": "実 (thực: sự) 𡗗 () 宀 (miên) 験 (nghiệm: kinh, thí) 㑒 () 馬 (mã)"
       },
       {
         "hiragana": "じんこう",
         "kanji": "人口",
         "vietnamese": "dân số",
-        "info": ""
+        "info": "人 (nhân) 口 (khẩu)"
       },
       {
         "hiragana": "におい",
-        "kanji": "におい",
-        "vietnamese": "mùi",
-        "info": ""
-      },
-      {
-        "hiragana": "かがく",
-        "kanji": "科学",
-        "vietnamese": "khoa học",
-        "info": ""
-      },
-      {
-        "hiragana": "いがく",
-        "kanji": "医学",
-        "vietnamese": "y học, ngành y",
-        "info": ""
-      },
-      {
-        "hiragana": "ぶんがく",
-        "kanji": " 文学",
-        "vietnamese": "văn học",
-        "info": ""
-      },
-      {
-        "hiragana": "パトカー",
-        "kanji": "パトカー",
-        "vietnamese": "xe tuần tra",
-        "info": ""
+        "kanji": "におい / 匂い / 臭い",
+        "vietnamese": "mùi trung lập/ thơm / hôi",
+        "info": "匂 ((mùi)) 勹 (bao) 匕 (chủy) 臭 (xú, khứu) 自 (tự) 大 (đại)"
       },
       {
         "hiragana": "きゅうきゅうしゃ",
         "kanji": "救急車",
         "vietnamese": "xe cứu thương",
-        "info": ""
+        "info": "救 (cứu) 求 (cầu: yêu) 攵 (phộc) 球 (cầu: bóng) 急 (cấp) 車 (xa)"
       },
       {
         "hiragana": "さんせい",
         "kanji": "賛成",
         "vietnamese": "tán thành, đồng ý",
-        "info": ""
+        "info": "賛 (tán) 夫 (phu) 貝 (bối) 成 (thành) 戈 (mâu) 勹 (bao) 質 (chất)"
       },
       {
         "hiragana": "はんたい",
         "kanji": "反対",
         "vietnamese": "phản đối",
-        "info": ""
+        "info": "反 (phản, phiên) 又 (hựu) 厂 (hán) 対 (đối) 寸 (thốn) 文 (văn)"
       },
       {
         "hiragana": "だんせい",
         "kanji": "男性",
         "vietnamese": "phái nam",
-        "info": ""
+        "info": "男 (nam) 性 (tính) 忄 (tâm) 生 (sanh)"
       },
       {
         "hiragana": "じょせい",
         "kanji": "女性",
         "vietnamese": "phái nữ",
-        "info": ""
+        "info": "女 (nữ, nứ, nhữ) 性 (tính) 忄 (tâm) 生 (sanh)"
       },
       {
-        "hiragana": "どうも",
-        "kanji": "どうも",
-        "vietnamese": "dường như (dùng khi phán đoán )",
-        "info": ""
-      },
-      {
-        "hiragana": "~によると",
-        "kanji": "~によると",
-        "vietnamese": "căn cứ theo…(chỉ nguồn gốc của thông tin)",
-        "info": ""
-      },
-      {
-        "hiragana": "イラン",
-        "kanji": "イラン",
-        "vietnamese": "nước IRAN",
-        "info": ""
-      },
-      {
-        "hiragana": "こいびと",
-        "kanji": "恋人",
-        "vietnamese": "người yêu",
+        "hiragana": "~によると (てんきよほう)",
+        "kanji": "~によると (天気予報)",
+        "vietnamese": "căn cứ theo…(dự báo thời tiết)",
         "info": ""
       },
       {
         "hiragana": "こんやくします",
         "kanji": "婚約します",
         "vietnamese": "đính hôn",
-        "info": ""
+        "info": "婚 (hôn) 女 (nữ) 昏 (hôn: hoàng) 約 (ước: bó) 勺 (chước) 糸 (mịch)"
       },
       {
         "hiragana": "あいて",
         "kanji": "相手",
         "vietnamese": "đối tượng, đối tác, nửa còn lại",
-        "info": ""
+        "info": "相 (tương, tướng: mạo) 目 (mục) 木 (mộc) 手 (thủ)"
       },
       {
         "hiragana": "しりあいます",
         "kanji": "知り合います",
         "vietnamese": "quen biết",
-        "info": ""
+        "info": "知 (tri, trí) 矢 (thỉ) 口 (khẩu) 合 (hợp, cáp, hiệp) 亼 () "
       },
       {
         "hiragana": "へいきんじゅみょう",
         "kanji": "平均十冥",
         "vietnamese": "tuổi thọ bình quân",
-        "info": ""
+        "info": "平 (bình, biền) 丷 () 干 (kiền) 均 (quân, vận) 土 (thổ) 冥 (minh: u, tối) 冖 (mịch) 日 (nhật) 六 (lục) "
       },
       {
-        "hiragana": "くらべます[だんせい]",
-        "kanji": "比べます「男性」",
+        "hiragana": "くらべます [だんせい]",
+        "kanji": "比べます 「男性」",
         "vietnamese": "so sánh [với nam giới ~]",
-        "info": ""
+        "info": "比 (bỉ, bí, bì, tỉ) 匕 (chủy)"
       },
       {
         "hiragana": "はかせ",
         "kanji": "博士",
         "vietnamese": "tiến sĩ",
-        "info": ""
+        "info": "博 (bác: rộng) 十 (thập) 専 (chuyên)"
       },
       {
         "hiragana": "のう",
         "kanji": "脳",
         "vietnamese": "não",
-        "info": ""
-      },
-      {
-        "hiragana": "ホルチン",
-        "kanji": "ホルチン",
-        "vietnamese": "hooc­môn",
-        "info": ""
-      },
-      {
-        "hiragana": "けしょうひん",
-        "kanji": "化粧品",
-        "vietnamese": "mỹ phẩm",
-        "info": ""
-      },
-      {
-        "hiragana": "しらべ",
-        "kanji": "調べ",
-        "vietnamese": "cuộc điều tra, nghiên cứu",
-        "info": ""
+        "info": "脳 (não: bộ) ⺼ () ⺍ () 凶 (hung) 悩 (não: phiền)"
       },
       {
         "hiragana": "けしょう「～をします」",
         "kanji": "化粧「～をします」",
         "vietnamese": "trang điểm",
-        "info": ""
+        "info": "化 (hóa) 亻 (nhân) 匕 (chủy) 粧 (trang: sức) 米 (mễ) 庄 (trang: viên)"
       }
     ]
   },
