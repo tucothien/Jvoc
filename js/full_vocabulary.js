@@ -9854,13 +9854,13 @@ data_vocabulary = [
         "hiragana": "あつまります [ひとが~]",
         "kanji": "集まる「人が～」",
         "vietnamese": "tập hợp, tập trung [ người ~]",
-        "info": "集 (tập: hợp) 隹 (chuy) 木 (mộc)"
+        "info": "tự, 集 (tập: hợp) 隹 (chuy) 木 (mộc)"
       },
       {
-        "hiragana": "ながいきます",
-        "kanji": "長生きます",
+        "hiragana": "ながいき",
+        "kanji": "長生き",
         "vietnamese": "sống lâu",
-        "info": "長 (trường, trưởng, trướng) 生 (sanh, sinh)"
+        "info": "suru, 長 (trường, trưởng, trướng) 生 (sanh, sinh)"
       },
       {
         "hiragana": "さします [かさを~]",
@@ -9871,7 +9871,7 @@ data_vocabulary = [
       {
         "hiragana": "ひどい",
         "kanji": "ひどい",
-        "vietnamese": "tồi tệ, xấu",
+        "vietnamese": "tồi tệ, xấu, kinh khủng, tàn nhẫn",
         "info": ""
       },
       {
@@ -9936,7 +9936,7 @@ data_vocabulary = [
       },
       {
         "hiragana": "こんやくします",
-        "kanji": "婚約します",
+        "kanji": "婚約する",
         "vietnamese": "đính hôn",
         "info": "婚 (hôn) 女 (nữ) 昏 (hôn: hoàng) 約 (ước: bó) 勺 (chước) 糸 (mịch)"
       },
@@ -9948,7 +9948,7 @@ data_vocabulary = [
       },
       {
         "hiragana": "しりあいます",
-        "kanji": "知り合います",
+        "kanji": "知り合う",
         "vietnamese": "quen biết",
         "info": "知 (tri, trí) 矢 (thỉ) 口 (khẩu) 合 (hợp, cáp, hiệp) 亼 () "
       },
@@ -9960,7 +9960,7 @@ data_vocabulary = [
       },
       {
         "hiragana": "くらべます [だんせい]",
-        "kanji": "比べます 「男性」",
+        "kanji": "比べる 「男性」",
         "vietnamese": "so sánh [với nam giới ~]",
         "info": "比 (bỉ, bí, bì, tỉ) 匕 (chủy)"
       },
