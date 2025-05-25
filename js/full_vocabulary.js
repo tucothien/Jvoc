@@ -9852,7 +9852,7 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "あつまります [ひとが~]",
-        "kanji": "集まります「人が～」",
+        "kanji": "集まる「人が～」",
         "vietnamese": "tập hợp, tập trung [ người ~]",
         "info": "集 (tập: hợp) 隹 (chuy) 木 (mộc)"
       },
