@@ -9896,7 +9896,7 @@ data_vocabulary = [
         "hiragana": "におい",
         "kanji": "におい / 匂い / 臭い",
         "vietnamese": "mùi trung lập/ thơm / hôi",
-        "info": "匂 ((mùi)) 勹 (bao) 匕 (chủy) 臭 (xú, khứu) 自 (tự) 大 (đại)"
+        "info": "匂 ((mùi)) 勹 (bao) 匕 (chủy) 臭 (xú, khứu)|自 (tự) 大 (đại)"
       },
       {
         "hiragana": "きゅうきゅうしゃ",
@@ -9908,13 +9908,13 @@ data_vocabulary = [
         "hiragana": "さんせい",
         "kanji": "賛成",
         "vietnamese": "tán thành, đồng ý",
-        "info": "賛 (tán) 夫 (phu) 貝 (bối) 成 (thành) 戈 (mâu) 勹 (bao) 質 (chất)"
+        "info": "賛 (tán) 夫 (phu) 貝 (bối) 成 (thành) 戈 (mâu)| 勹 (bao) 質 (chất) 替 (thế)"
       },
       {
         "hiragana": "はんたい",
         "kanji": "反対",
         "vietnamese": "phản đối",
-        "info": "反 (phản, phiên) 又 (hựu) 厂 (hán) 対 (đối) 寸 (thốn) 文 (văn)"
+        "info": "反 (phản, phiên) 又 (hựu) 厂 (hán) 対 (đối) |寸 (thốn) 文 (văn)"
       },
       {
         "hiragana": "だんせい",
@@ -9938,7 +9938,7 @@ data_vocabulary = [
         "hiragana": "こんやくします",
         "kanji": "婚約する",
         "vietnamese": "đính hôn",
-        "info": "婚 (hôn) 女 (nữ) 昏 (hôn: hoàng) 約 (ước: bó) 勺 (chước) 糸 (mịch)"
+        "info": "婚 (hôn) 女 (nữ) 昏 (hôn: hoàng) 約 (ước: bó) |勺 (chước) 糸 (mịch)"
       },
       {
         "hiragana": "あいて",
@@ -9950,13 +9950,13 @@ data_vocabulary = [
         "hiragana": "しりあいます",
         "kanji": "知り合う",
         "vietnamese": "quen biết",
-        "info": "知 (tri, trí) 矢 (thỉ) 口 (khẩu) 合 (hợp, cáp, hiệp) 亼 () "
+        "info": "知 (tri, trí) 矢 (thỉ) 口 (khẩu) |合 (hợp, cáp, hiệp) 亼 () "
       },
       {
         "hiragana": "へいきんじゅみょう",
-        "kanji": "平均十冥",
+        "kanji": "平均寿命",
         "vietnamese": "tuổi thọ bình quân",
-        "info": "平 (bình, biền) 丷 () 干 (kiền) 均 (quân, vận) 土 (thổ) 冥 (minh: u, tối) 冖 (mịch) 日 (nhật) 六 (lục) "
+        "info": "平 (bình, biền) 丷 () 干 (kiền) 均 (quân, vận) |土 (thổ) 寿 (thọ) 寸 (thốn) 命 (mệnh)"
       },
       {
         "hiragana": "くらべます [だんせい]",
@@ -9980,7 +9980,7 @@ data_vocabulary = [
         "hiragana": "けしょう「～をします」",
         "kanji": "化粧「～をします」",
         "vietnamese": "trang điểm",
-        "info": "化 (hóa) 亻 (nhân) 匕 (chủy) 粧 (trang: sức) 米 (mễ) 庄 (trang: viên)"
+        "info": "化 (hóa) 亻 (nhân) 匕 (chủy) 粧 (trang: sức) |米 (mễ) 庄 (trang: viên)"
       }
     ]
   },
