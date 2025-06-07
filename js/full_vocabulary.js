@@ -9989,195 +9989,87 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "おろします",
-        "kanji": "降ろします、下ろします",
+        "kanji": "降ろす、下ろす",
         "vietnamese": "cho xuống, hạ xuống",
-        "info": ""
+        "info": "降 (hàng, giáng) 夂 (tri) 下 (hạ, há) "
       },
       {
         "hiragana": "とどけます",
-        "kanji": "届けます",
+        "kanji": "届く",
         "vietnamese": "gửi đến, chuyển đến",
-        "info": ""
-      },
-      {
-        "hiragana": "せわをします",
-        "kanji": "世話をします",
-        "vietnamese": "chăm sóc",
-        "info": ""
-      },
-      {
-        "hiragana": "いや[な]",
-        "kanji": "いや[な]",
-        "vietnamese": "không thích, ngán",
-        "info": ""
+        "info": "tự, 届 (giới) 由 (do) 尸 (thi) "
       },
       {
         "hiragana": "きびしい",
         "kanji": "厳しい",
         "vietnamese": "nghiêm khắc, nghiêm ngặt",
-        "info": ""
+        "info": "厳 (nghiêm) 敢 (cảm: dũng) 攵 (phộc) 耳 (nhĩ) 厂 (hán) "
       },
       {
         "hiragana": "じゅく",
-        "kanji": " 塾",
+        "kanji": "塾",
         "vietnamese": "cở sở học thêm",
-        "info": ""
-      },
-      {
-        "hiragana": "スケジュール",
-        "kanji": "スケジュール",
-        "vietnamese": "thời khóa biểu, lịch trình",
-        "info": ""
+        "info": "塾 (thục: chái nhà) 享 (hưởng: thụ) 亠 (đầu) 口 (khẩu) 子 (tử)  丸 (hoàn: viên) 土 (thổ) "
       },
       {
         "hiragana": "せいと",
-        "kanji": " 生徒",
+        "kanji": "生徒",
         "vietnamese": "học trò",
-        "info": ""
-      },
-      {
-        "hiragana": "もの",
-        "kanji": "者",
-        "vietnamese": "người (khi đề cập tới người thân hay cấp dưới )",
-        "info": ""
+        "info": "生 (sanh, sinh) 徒 (đồ: thầy) 彳 (xích) 走 (tẩu) "
       },
       {
         "hiragana": "にゅうかん",
-        "kanji": "入館",
+        "kanji": "入管",
         "vietnamese": "sở nhập cảnh",
-        "info": ""
+        "info": "入 (nhập) 管 (quản) 官 (quan) ⺮ (trúc) "
       },
       {
         "hiragana": "さいにゅうこくビザ",
         "kanji": "再入国ビザ",
         "vietnamese": "visa tái nhập cảnh",
-        "info": ""
-      },
-      {
-        "hiragana": "じゆうに",
-        "kanji": "自由に",
-        "vietnamese": "một cách tự do",
-        "info": ""
-      },
-      {
-        "hiragana": "~かん",
-        "kanji": "～間",
-        "vietnamese": "trong ~(nói về thời lượng)",
-        "info": ""
-      },
-      {
-        "hiragana": "いいことですね。",
-        "kanji": "いいことですね。",
-        "vietnamese": "hay nhỉ/ được đấy nhỉ",
-        "info": ""
-      },
-      {
-        "hiragana": "おいそがしいですか。",
-        "kanji": "お忙しいですか",
-        "vietnamese": "anh/chị đang bận phải không?",
-        "info": ""
-      },
-      {
-        "hiragana": "ひさしぶり",
-        "kanji": "久しぶり",
-        "vietnamese": "sau khoảng thời gian dài",
-        "info": ""
-      },
-      {
-        "hiragana": "えいぎょう",
-        "kanji": "営業",
-        "vietnamese": "kinh doanh",
-        "info": ""
-      },
-      {
-        "hiragana": "それまでに",
-        "kanji": "それまでに",
-        "vietnamese": "đến trước lúc đó",
-        "info": ""
-      },
-      {
-        "hiragana": "かまいません",
-        "kanji": "かまいません",
-        "vietnamese": "được rồi,không sao, không có gì đâu",
-        "info": ""
-      },
-      {
-        "hiragana": "たのしみます",
-        "kanji": "楽しみます",
-        "vietnamese": "vui thích",
-        "info": ""
+        "info": "再 (tái) 入 (nhập) 国 (quốc) 玉 (ngọc) 囗 (vi) "
       },
       {
         "hiragana": "もともと",
-        "kanji": "もともと",
+        "kanji": "本々",
         "vietnamese": "vốn dĩ",
         "info": ""
       },
       {
         "hiragana": "ーせいき",
         "kanji": "ー世紀",
-        "vietnamese": "thế kỷ thứ ­ー",
-        "info": ""
+        "vietnamese": "thế kỷ thứ ー",
+        "info": "世 (thế) 紀 (kỉ) 己 (kỉ) 糸 (mịch) 記 (kí: niệm)"
       },
       {
-        "hiragana": "かわりをします",
-        "kanji": "代わりをします",
-        "vietnamese": "thay thế",
-        "info": ""
-      },
-      {
-        "hiragana": "スピード",
-        "kanji": "スピード",
-        "vietnamese": "tốc độ",
-        "info": ""
-      },
-      {
-        "hiragana": "きょうそうします",
-        "kanji": "競走します",
+        "hiragana": "きょうそう",
+        "kanji": "競走",
         "vietnamese": "chạy đua",
-        "info": ""
-      },
-      {
-        "hiragana": "サーカス",
-        "kanji": "サーカス",
-        "vietnamese": "xiếc",
-        "info": ""
+        "info": "suru, 競 (cạnh: tranh) 立 (lập) 兄 (huynh) 走 (tẩu) "
       },
       {
         "hiragana": "げい",
         "kanji": "芸",
         "vietnamese": "trò diễn, tiết mục, tài năng",
-        "info": ""
-      },
-      {
-        "hiragana": "うつくしい",
-        "kanji": "美しい",
-        "vietnamese": "đẹp",
-        "info": ""
+        "info": "芸 (vân: cỏ thơn, trò diễn) 艹 (thảo) 云 (vân) "
       },
       {
         "hiragana": "すがた",
         "kanji": "姿",
         "vietnamese": "dáng hình, tư thế",
-        "info": ""
+        "info": "姿 (tư: thế) 次 (thứ) 女 (nữ) "
       },
       {
         "hiragana": "こころ",
         "kanji": "心",
         "vietnamese": "tâm hồn ,trái tim",
-        "info": ""
+        "info": "心 (tâm: tim) "
       },
       {
         "hiragana": "とらえます",
-        "kanji": "とらえます",
+        "kanji": "捉える",
         "vietnamese": "giành được",
-        "info": ""
-      },
-      {
-        "hiragana": "~にとって",
-        "kanji": "~にとって",
-        "vietnamese": "đối với~",
-        "info": ""
+        "info": "捉 (tróc: nắm chặt) 扌 (thủ) 足 (túc) "
       }
     ]
   },
@@ -10191,33 +10083,15 @@ data_vocabulary = [
         "info": ""
       },
       {
-        "hiragana": "やすみます",
-        "kanji": "休みます",
-        "vietnamese": "nghỉ ngơi",
-        "info": ""
-      },
-      {
-        "hiragana": "かけます",
-        "kanji": "掛けます",
-        "vietnamese": "ngồi xuống [ ghế]",
-        "info": ""
-      },
-      {
         "hiragana": "すごします",
-        "kanji": "過ごします",
+        "kanji": "過ごす",
         "vietnamese": "trải qua (thời gian)",
         "info": ""
       },
       {
         "hiragana": "よります [ぎんこうに~]",
-        "kanji": "寄ります「銀行に～」",
+        "kanji": "寄る「銀行に～」",
         "vietnamese": "ghé vào (ngân hàng )",
-        "info": ""
-      },
-      {
-        "hiragana": "いらっしゃいます",
-        "kanji": "いらっしゃいます",
-        "vietnamese": "kính ngữ của います、いきます、きます",
         "info": ""
       },
       {
@@ -10228,7 +10102,7 @@ data_vocabulary = [
       },
       {
         "hiragana": "おっしゃいます",
-        "kanji": "おっしゃいます",
+        "kanji": "仰います",
         "vietnamese": "nói (kính ngữ)",
         "info": ""
       },
@@ -10270,7 +10144,7 @@ data_vocabulary = [
       },
       {
         "hiragana": "バスてい",
-        "kanji": "バスてい",
+        "kanji": "バス停",
         "vietnamese": "trạm dừng xe BUS",
         "info": ""
       },
@@ -10281,20 +10155,8 @@ data_vocabulary = [
         "info": ""
       },
       {
-        "hiragana": "~さま",
-        "kanji": "～様",
-        "vietnamese": "ngài ~(dạng tôn kính của ~さん)",
-        "info": ""
-      },
-      {
-        "hiragana": "かえりに",
-        "kanji": "帰りに",
-        "vietnamese": "trên đường về, ở lượt về",
-        "info": ""
-      },
-      {
         "hiragana": "たまに",
-        "kanji": "たまに",
+        "kanji": "偶に, たまに",
         "vietnamese": "đôi khi, thỉnh thoảng",
         "info": ""
       },
@@ -10311,18 +10173,6 @@ data_vocabulary = [
         "info": ""
       },
       {
-        "hiragana": "~ねん~(1ねん3くみ)",
-        "kanji": "～年～（1年3組）",
-        "vietnamese": "tên lớp( ví dụ: lớp 1­3)",
-        "info": ""
-      },
-      {
-        "hiragana": "では",
-        "kanji": "では",
-        "vietnamese": "vậy thì (dạng lịch sự của じゃ)",
-        "info": ""
-      },
-      {
         "hiragana": "たします(ねつを~)",
         "kanji": "出します（熱を～）",
         "vietnamese": "phát sốt",
@@ -10330,13 +10180,13 @@ data_vocabulary = [
       },
       {
         "hiragana": "よろしくおつたえください",
-        "kanji": " よろしくお伝えください",
+        "kanji": "よろしくお伝えください",
         "vietnamese": "cho tôi gửi lời hỏi thăm",
         "info": ""
       },
       {
         "hiragana": "しつれいいたします",
-        "kanji": " 失礼いたします",
+        "kanji": "失礼いたします",
         "vietnamese": "xin chào (dạng khiêm tốn củaしつれいします)",
         "info": ""
       },
