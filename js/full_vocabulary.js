@@ -10003,19 +10003,19 @@ data_vocabulary = [
         "hiragana": "きびしい",
         "kanji": "厳しい",
         "vietnamese": "nghiêm khắc, nghiêm ngặt",
-        "info": "厳 (nghiêm) 敢 (cảm: dũng) 攵 (phộc) 耳 (nhĩ) 厂 (hán) "
+        "info": "厳 (nghiêm) 敢 (cảm: dũng) 攵 (phộc) |耳 (nhĩ) 厂 (hán) "
       },
       {
         "hiragana": "じゅく",
         "kanji": "塾",
         "vietnamese": "cở sở học thêm",
-        "info": "塾 (thục: chái nhà) 享 (hưởng: thụ) 亠 (đầu) 口 (khẩu) 子 (tử)  丸 (hoàn: viên) 土 (thổ) "
+        "info": "塾 (thục: chái nhà) 享 (hưởng: thụ) |亠 (đầu) 口 (khẩu) 子 (tử)  丸 (hoàn: viên) 土 (thổ) "
       },
       {
         "hiragana": "せいと",
         "kanji": "生徒",
         "vietnamese": "học trò",
-        "info": "生 (sanh, sinh) 徒 (đồ: thầy) 彳 (xích) 走 (tẩu) "
+        "info": "生 (sanh, sinh) 徒 (đồ: thầy) |彳 (xích) 走 (tẩu) "
       },
       {
         "hiragana": "にゅうかん",
@@ -10027,7 +10027,7 @@ data_vocabulary = [
         "hiragana": "さいにゅうこくビザ",
         "kanji": "再入国ビザ",
         "vietnamese": "visa tái nhập cảnh",
-        "info": "再 (tái) 入 (nhập) 国 (quốc) 玉 (ngọc) 囗 (vi) "
+        "info": "再 (tái) 入 (nhập) 国 (quốc) |玉 (ngọc) 囗 (vi) "
       },
       {
         "hiragana": "もともと",
@@ -10039,19 +10039,19 @@ data_vocabulary = [
         "hiragana": "ーせいき",
         "kanji": "ー世紀",
         "vietnamese": "thế kỷ thứ ー",
-        "info": "世 (thế) 紀 (kỉ) 己 (kỉ) 糸 (mịch) 記 (kí: niệm)"
+        "info": "世 (thế) 紀 (kỉ) 己 (kỉ) |糸 (mịch) 記 (kí: niệm)"
       },
       {
         "hiragana": "きょうそう",
         "kanji": "競走",
         "vietnamese": "chạy đua",
-        "info": "suru, 競 (cạnh: tranh) 立 (lập) 兄 (huynh) 走 (tẩu) "
+        "info": "suru, 競 (cạnh: tranh) 立 (lập) |兄 (huynh) 走 (tẩu) "
       },
       {
         "hiragana": "げい",
         "kanji": "芸",
         "vietnamese": "trò diễn, tiết mục, tài năng",
-        "info": "芸 (vân: cỏ thơn, trò diễn) 艹 (thảo) 云 (vân) "
+        "info": "芸 (vân: cỏ thơn, trò diễn) |艹 (thảo) 云 (vân) "
       },
       {
         "hiragana": "すがた",
@@ -10069,7 +10069,7 @@ data_vocabulary = [
         "hiragana": "とらえます",
         "kanji": "捉える",
         "vietnamese": "giành được",
-        "info": "捉 (tróc: nắm chặt) 扌 (thủ) 足 (túc) "
+        "info": "捉 (tróc: nắm chặt) 扌 (thủ) |足 (túc) "
       }
     ]
   },
