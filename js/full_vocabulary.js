@@ -10077,38 +10077,32 @@ data_vocabulary = [
     "lesson": "minna 49",
     "vocabulary": [
       {
-        "hiragana": "つとめます [かいしゃに~]",
-        "kanji": "勤め増す「会社に～」",
-        "vietnamese": "làm việc [ công ty ~]",
-        "info": ""
-      },
-      {
         "hiragana": "すごします",
         "kanji": "過ごす",
         "vietnamese": "trải qua (thời gian)",
-        "info": ""
+        "info": "tha, 過 (quá, qua) 咼 (qua) ⻌ () "
       },
       {
         "hiragana": "よります [ぎんこうに~]",
         "kanji": "寄る「銀行に～」",
         "vietnamese": "ghé vào (ngân hàng )",
-        "info": ""
+        "info": "tự, 寄 (kí: gửi) 奇 (kì, cơ: lạ) |大 (đại) 可 (khả)  宀 (miên) "
       },
       {
         "hiragana": "めしあがります",
-        "kanji": "召し上がります",
+        "kanji": "召し上がる",
         "vietnamese": "ăn, uống (kính ngữ)",
-        "info": ""
+        "info": "tha, 召 (triệu: tập) 刀 (đao) 口 (khẩu) "
       },
       {
         "hiragana": "おっしゃいます",
-        "kanji": "仰います",
+        "kanji": "仰る",
         "vietnamese": "nói (kính ngữ)",
-        "info": ""
+        "info": "仰 (ngưỡng: kính) 卬 (ngang: ta) |亻 (nhân) "
       },
       {
         "hiragana": "なさいます",
-        "kanji": "なさいます",
+        "kanji": "なさる",
         "vietnamese": "làm (kính ngữ)",
         "info": ""
       },
@@ -10116,7 +10110,7 @@ data_vocabulary = [
         "hiragana": "ごらんになります",
         "kanji": "ご覧になります",
         "vietnamese": "xem (kính ngữ)",
-        "info": ""
+        "info": "覧 (lãm: triển) 臣 (thần: vua) 一 (nhất) |𠂉 () 見 (kiến) "
       },
       {
         "hiragana": "あいさつ",
@@ -10128,37 +10122,31 @@ data_vocabulary = [
         "hiragana": "はいざら",
         "kanji": "灰皿",
         "vietnamese": "gạt tàn thuốc",
-        "info": ""
+        "info": "灰 (hôi: tro) 火 (hỏa) 厂 (hán)| 皿 (mãnh: dĩa) "
       },
       {
         "hiragana": "りょかん",
         "kanji": "旅館",
         "vietnamese": "nhà trọ, nhà nghỉ",
-        "info": ""
-      },
-      {
-        "hiragana": "かいじょう",
-        "kanji": "会場",
-        "vietnamese": "hội trường",
-        "info": ""
+        "info": "旅 (lữ) 𠂉 () 方 (phương) 𧘇 () |館 (quán) 官 (quan) 飠 (thực) "
       },
       {
         "hiragana": "バスてい",
         "kanji": "バス停",
         "vietnamese": "trạm dừng xe BUS",
-        "info": ""
+        "info": "停 (đình: dừng) 亻 (nhân) 亭 (đình: làng) |冖 (mịch) 丁 (đinh) 亠 (đầu) 口 (khẩu)  "
       },
       {
         "hiragana": "ぼうえき",
         "kanji": "貿易",
         "vietnamese": "thương mại, mậu dịch",
-        "info": ""
+        "info": "貿 (mậu: đổi, dịch) 貝 (bối) |卯 (mão: mẹo) 易 (dịch: di dịch) 勿 (vật) |日 (nhật) 昜(dương) 場(trường)"
       },
       {
         "hiragana": "たまに",
         "kanji": "偶に, たまに",
         "vietnamese": "đôi khi, thỉnh thoảng",
-        "info": ""
+        "info": "偶 (ngẫu: nhiên) 禺 (ngu) 亻 (nhân) "
       },
       {
         "hiragana": "ちっとも",
@@ -10170,115 +10158,61 @@ data_vocabulary = [
         "hiragana": "えんりょなく",
         "kanji": "遠慮なく",
         "vietnamese": "xin đừng ngại",
-        "info": ""
+        "info": "遠 (viễn, viển) 袁 (viên: họ) |⻌ () 慮 (lự: lo, tư) |虍 (hô: vằn hổ) 卜 (bặc) 厂 (hán)| 七 (thất)  思 (tư) "
       },
       {
         "hiragana": "たします(ねつを~)",
         "kanji": "出します（熱を～）",
         "vietnamese": "phát sốt",
-        "info": ""
-      },
-      {
-        "hiragana": "よろしくおつたえください",
-        "kanji": "よろしくお伝えください",
-        "vietnamese": "cho tôi gửi lời hỏi thăm",
-        "info": ""
-      },
-      {
-        "hiragana": "しつれいいたします",
-        "kanji": "失礼いたします",
-        "vietnamese": "xin chào (dạng khiêm tốn củaしつれいします)",
-        "info": ""
+        "info": "熱 (nhiệt) 灬 (hỏa) 埶 (nghệ) "
       },
       {
         "hiragana": "こうし",
         "kanji": "講師",
         "vietnamese": "giảng viên, báo cáo viên",
-        "info": ""
-      },
-      {
-        "hiragana": "おおくの~",
-        "kanji": "多くの～",
-        "vietnamese": "nhiều ~",
-        "info": ""
+        "info": "講 (giảng: giải) 言 (ngôn) |井 (tỉnh: giếng) 再 (tái) |師 (sư) 𠂤 () 帀 (táp) | 市 (thị) 巾 (cân) 亠 (đầu) "
       },
       {
         "hiragana": "さくひん",
         "kanji": "作品",
         "vietnamese": "tác phẩm",
-        "info": ""
-      },
-      {
-        "hiragana": "じゅしょうします",
-        "kanji": "受賞します",
-        "vietnamese": "được giải thưởng",
-        "info": ""
-      },
-      {
-        "hiragana": "せかいてきに",
-        "kanji": "世界的に",
-        "vietnamese": "mang tính chất thế giới,toàn cầu",
-        "info": ""
+        "info": "作 (tác) 亻 (nhân) 品 (phẩm) "
       },
       {
         "hiragana": "さっか",
         "kanji": "作家",
         "vietnamese": "tác giả",
-        "info": ""
-      },
-      {
-        "hiragana": "~でございます。",
-        "kanji": "~でございます。",
-        "vietnamese": "là (dạng tôn kính củaです)",
-        "info": ""
-      },
-      {
-        "hiragana": "ちょうなん",
-        "kanji": "長男",
-        "vietnamese": "trưởng nam",
-        "info": ""
-      },
-      {
-        "hiragana": "しょうがい",
-        "kanji": " 障害",
-        "vietnamese": "khuyết tật, khiếm khuyết",
-        "info": ""
-      },
-      {
-        "hiragana": "お持ちです",
-        "kanji": "お持ちです",
-        "vietnamese": "có (cách nói tôn kính của もっています)",
-        "info": ""
+        "info": "作 (tác) 乍 (sạ) 亻 (nhân) |家 (gia, cô) 豕 (thỉ) 宀 (miên) "
       },
       {
         "hiragana": "さっきょく",
         "kanji": "作曲",
         "vietnamese": "viết( sáng tác) nhạc, bài hát",
-        "info": ""
+        "info": "作 (tác) 乍 (sạ) 亻 (nhân) 曲 (khúc) "
+      },
+      {
+        "hiragana": "じゅしょう",
+        "kanji": "受賞",
+        "vietnamese": "được giải thưởng",
+        "info": "suru, 受 (thụ) 又 (hựu) 冖 (mịch) |⺤ () 賞 (thưởng) 員 (viên) 龸 () "
+      },
+      {
+        "hiragana": "せかいてきに",
+        "kanji": "世界的に",
+        "vietnamese": "mang tính chất thế giới,toàn cầu",
+        "info": "世 (thế) 界 (giới) 介 (giới) |田 (điền) 的 (đích, để) 白 (bạch) 勺 (chước) "
+      },
+      {
+        "hiragana": "しょうがい",
+        "kanji": "障害",
+        "vietnamese": "khuyết tật, khiếm khuyết",
+        "info": "障 (chướng) 章 (chương: sách) |⻖ () 害 (hại: làm) 口 (khẩu) 龶 () 宀 (miên) "
       },
       {
         "hiragana": "かつどう",
         "kanji": "活動",
         "vietnamese": "hoạt động",
-        "info": ""
-      },
-      {
-        "hiragana": "それでは",
-        "kanji": "それでは",
-        "vietnamese": "thế thì ( chỉ sự bắt đầu hay kết thúc )",
-        "info": ""
-      },
-      {
-        "hiragana": "とうきょうだいがく",
-        "kanji": " 東京大学",
-        "vietnamese": "đại học Tokyo",
-        "info": ""
-      },
-      {
-        "hiragana": "ノーベルぶんがくしょう",
-        "kanji": "ノーベル文学賞",
-        "vietnamese": "giải Nobel văn học",
-        "info": ""
+        "info": "活 (hoạt, quạt) 舌 (thiệt) 氵 (thủy) |動 (động) 重 (trọng) 力 (lực) "
       }
     ]
   },
