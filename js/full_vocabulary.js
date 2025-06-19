@@ -10221,171 +10221,111 @@ data_vocabulary = [
     "vocabulary": [
       {
         "hiragana": "まいります",
-        "kanji": "参ります",
-        "vietnamese": "đi,đến (dạng khiêm tốn của きます、いきます)",
-        "info": ""
+        "kanji": "参る",
+        "vietnamese": "đi,đến (khiêm tốn きます、いきます)",
+        "info": "参 (tham: dự) 大 (đại) 厶 (khư) |彡 (sam) "
       },
       {
         "hiragana": "おります",
         "kanji": "おります",
-        "vietnamese": "có (dạng khiêm tốn của います)",
+        "vietnamese": "có (khiêm tốn います)",
         "info": ""
       },
       {
         "hiragana": "いただきます",
         "kanji": "いただきます",
-        "vietnamese": "ăn,uống,nhận (dạng khiêm tốn của たべます)",
+        "vietnamese": "ăn,uống,nhận (khiêm tốn たべます)",
         "info": ""
       },
       {
         "hiragana": "もうします",
-        "kanji": "申します",
-        "vietnamese": "nói (dạng khiêm tốn của いいます)",
-        "info": ""
+        "kanji": "申す",
+        "vietnamese": "nói (khiêm tốn いいます)",
+        "info": "申 (thân: khỉ) 丨 (cổn) 日 (nhật) "
       },
       {
         "hiragana": "いたします",
-        "kanji": "いたします",
-        "vietnamese": "làm(dạng khiêm tốn của します)",
+        "kanji": "致す",
+        "vietnamese": "làm (khiêm tốn します)",
         "info": ""
       },
       {
         "hiragana": "はいけんします",
-        "kanji": "拝見します",
-        "vietnamese": "xem (dạng khiêm tốn của もます)",
-        "info": ""
+        "kanji": "拝見する",
+        "vietnamese": "xem (khiêm tốn 見ます)",
+        "info": "拝 (bái: sùng) 扌 (thủ) 一 (nhất)| 丰 (phong) 見 (kiến, hiện) 目 (mục) |儿 (nhân) "
       },
       {
         "hiragana": "ぞんじます",
-        "kanji": "存じます",
-        "vietnamese": "biết(dạng khiêm tốn của しります)",
-        "info": ""
+        "kanji": "存じる",
+        "vietnamese": "biết(khiêm tốn しります)",
+        "info": "存 (tồn) 𠂇 () 丨 (cổn) 子 (tử) "
       },
       {
         "hiragana": "うかがいます",
-        "kanji": "伺います",
-        "vietnamese": "hỏi,nghe,hỏi thăm (dạng khiêm tốn của ききますvà いきます)",
-        "info": ""
+        "kanji": "伺う",
+        "vietnamese": "hỏi,nghe,hỏi thăm (khiêm tốn ききますvà いきます)",
+        "info": "伺 (tý: hỏi thăm) 亻 (nhân) |司 (ti: sở quan) 可 (khả)  "
       },
       {
         "hiragana": "おめにかかります",
-        "kanji": " お目にかかります",
-        "vietnamese": "gặp (dạng khiêm tốn của あいます )",
+        "kanji": "お目にかかる",
+        "vietnamese": "gặp (khiêm tốn あいます )",
         "info": ""
       },
       {
         "hiragana": "ございます",
         "kanji": "ございます",
-        "vietnamese": "có (dạng lịch sự của あります)",
+        "vietnamese": "có (lịch sự あります)",
         "info": ""
       },
       {
         "hiragana": "~でございます",
         "kanji": "~でございます",
-        "vietnamese": "là (dạng lịch sự của ~です)",
-        "info": ""
-      },
-      {
-        "hiragana": "わたくし",
-        "kanji": "私",
-        "vietnamese": "tôi (dạng khiêm tốn của わたし)",
-        "info": ""
-      },
-      {
-        "hiragana": "ガイド",
-        "kanji": "ガイド",
-        "vietnamese": "hướng dẫn viên",
+        "vietnamese": "là (lịch sự ~です)",
         "info": ""
       },
       {
         "hiragana": "おたく",
         "kanji": "お宅",
         "vietnamese": "nhà (của người khác)",
-        "info": ""
+        "info": "宅 (trạch: nhà) 乇 () 宀 (miên)| 毛 (mao, mô) "
       },
       {
         "hiragana": "こうがい",
         "kanji": "郊外",
         "vietnamese": "ngoại ô",
-        "info": ""
+        "info": "郊 (giao: ngoại ô) ⻏ () 交 (giao) |外 (ngoại) 夕 (tịch) 卜 (bặc) "
       },
       {
-        "hiragana": "アルバム",
-        "kanji": "アルバム",
-        "vietnamese": "tập ảnh,Album",
-        "info": ""
-      },
-      {
-        "hiragana": "さらいしゅう",
-        "kanji": "再来週",
+        "hiragana": "さらいしゅう/さらいげつ/さらいねん",
+        "kanji": "再来週/再来月/再来年",
         "vietnamese": "tuần tới nữa",
-        "info": ""
+        "info": "再 (tái) "
       },
       {
-        "hiragana": "さらいげつ",
-        "kanji": "再来月",
-        "vietnamese": "tháng tới nữa",
-        "info": ""
-      },
-      {
-        "hiragana": "さらいねん",
-        "kanji": "再来年",
-        "vietnamese": "năm tới nữa",
-        "info": ""
-      },
-      {
-        "hiragana": "はんとし",
-        "kanji": "半年",
-        "vietnamese": "nửa năm",
-        "info": ""
-      },
-      {
-        "hiragana": "さいしょに",
-        "kanji": "遠慮なく",
-        "vietnamese": "trước hết",
-        "info": ""
-      },
-      {
-        "hiragana": "さいごに",
-        "kanji": "最後に",
-        "vietnamese": "cuối cùng",
-        "info": ""
-      },
-      {
-        "hiragana": "ただいま",
-        "kanji": "ただ今",
-        "vietnamese": "tôi đã về !",
-        "info": ""
+        "hiragana": "さいしょ/さいご",
+        "kanji": "最初/最後",
+        "vietnamese": "trước hết, cuối cùng",
+        "info": "最 (tối) 取 (thủ) 日 (nhật) 初 (sơ) |衤 (y) 刀 (đao) "
       },
       {
         "hiragana": "きんちょうします",
-        "kanji": "緊張します",
+        "kanji": "緊張する",
         "vietnamese": "căng thẳng",
-        "info": ""
+        "info": "緊 (khẩn: cấp) 臣 (thần) 又 (hựu) |糸 (mịch) 張 (trương, trướng) |長 (trường) 弓 (cung) "
       },
       {
         "hiragana": "ほうそうします",
-        "kanji": "放送します",
+        "kanji": "放送する",
         "vietnamese": "phát thanh,phát hình",
-        "info": ""
-      },
-      {
-        "hiragana": "とります",
-        "kanji": "撮ります",
-        "vietnamese": "thâu (băng hình)",
-        "info": ""
+        "info": "放 (phóng: đại) 方 (phương)| 攵 (phộc) 送 (tống) 关 (quan) ⻌ () "
       },
       {
         "hiragana": "しょうきん",
         "kanji": "賞金",
         "vietnamese": "tiền thưởng",
-        "info": ""
-      },
-      {
-        "hiragana": "しぜん",
-        "kanji": "自然",
-        "vietnamese": "thiên nhiên",
-        "info": ""
+        "info": "賞 (thưởng) 員 (viên) 龸 () 金 (kim) |𠆢 () 丷 () 王 (vương) "
       },
       {
         "hiragana": "きりん",
@@ -10395,93 +10335,15 @@ data_vocabulary = [
       },
       {
         "hiragana": "ぞう",
-        "kanji": "像",
+        "kanji": "象",
         "vietnamese": "con voi",
-        "info": ""
-      },
-      {
-        "hiragana": "ころ",
-        "kanji": "ころ",
-        "vietnamese": "lần, ngày",
-        "info": ""
-      },
-      {
-        "hiragana": "かないます",
-        "kanji": "かないます",
-        "vietnamese": "(giấc mơ)thành hiện thực,linh ứng",
-        "info": ""
-      },
-      {
-        "hiragana": "ひとことよろしいでしょうか",
-        "kanji": "ひとことよろしいでしょうか",
-        "vietnamese": "cho tôi nói một lời",
-        "info": ""
+        "info": "象 (tượng) 豕 (thỉ) 丨 (cổn) |口 (khẩu) ⺈ ()  亻 (nhân) "
       },
       {
         "hiragana": "きょうりょくします",
-        "kanji": "協力します",
+        "kanji": "協力する",
         "vietnamese": "hiệp lực, cộng tác",
-        "info": ""
-      },
-      {
-        "hiragana": "こころから",
-        "kanji": "心から",
-        "vietnamese": "từ đáy lòng, thật lòng",
-        "info": ""
-      },
-      {
-        "hiragana": "かんしゃします",
-        "kanji": "感謝します",
-        "vietnamese": "cảm tạ, biết ơn",
-        "info": ""
-      },
-      {
-        "hiragana": "はいけい",
-        "kanji": "拝啓",
-        "vietnamese": "thưa ~( viết ngay đầu thư)",
-        "info": ""
-      },
-      {
-        "hiragana": "うつくしい",
-        "kanji": "美しい",
-        "vietnamese": "đẹp",
-        "info": ""
-      },
-      {
-        "hiragana": "おげんきでいらっしゃいますか?",
-        "kanji": "おげんきでいらっしゃいますか?",
-        "vietnamese": "anh/chị có khỏe không?(cách nói tôn kính của おげんきですか。)",
-        "info": ""
-      },
-      {
-        "hiragana": "めいわくをかけます",
-        "kanji": "迷惑をかけます",
-        "vietnamese": "làm phiền",
-        "info": ""
-      },
-      {
-        "hiragana": "いかします",
-        "kanji": "生かします",
-        "vietnamese": "vận dụng, ứng dụng",
-        "info": ""
-      },
-      {
-        "hiragana": "[お]しろ",
-        "kanji": "お」城",
-        "vietnamese": "thành trì",
-        "info": ""
-      },
-      {
-        "hiragana": "けいぐ",
-        "kanji": "敬具",
-        "vietnamese": "kính thư( viết cuối thư)",
-        "info": ""
-      },
-      {
-        "hiragana": "ミュンヘン",
-        "kanji": "ミュンヘン",
-        "vietnamese": " Munchen (thành phố lớn của Đức)",
-        "info": ""
+        "info": "協 (hiệp: hợp) 十 (thập) 力 (lực) "
       }
     ]
   }
