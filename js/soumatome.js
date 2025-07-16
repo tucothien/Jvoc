@@ -161,79 +161,43 @@ data_vocabulary = [
                 "hiragana": "にくじゃが",
                 "kanji": "肉じゃが",
                 "vietnamese": "món thịt hầm khoai tây",
-                "info": "n"
+                "info": "n, 肉 (nhục, nhụ, nậu) 内 (nội) "
             },
             {
                 "hiragana": "ざいりょう",
                 "kanji": "材料",
                 "vietnamese": "nguyên liệu",
-                "info": "n"
+                "info": "n, 材 (tài) 才 (tài) 木 (mộc) 料 (liêu, liệu) 米 (mễ) 斗 (đấu) "
             },
             {
-                "hiragana": "よにんぶん",
-                "kanji": "４人分",
-                "vietnamese": "phần 4 người",
-                "info": "n"
-            },
-            {
-                "hiragana": "ぎゅうにく",
-                "kanji": "牛肉",
-                "vietnamese": "thịt bò",
-                "info": "n"
-            },
-            {
-                "hiragana": "～グラム",
-                "kanji": "～グラム",
-                "vietnamese": "~ gram",
-                "info": "suf"
-            },
-            {
-                "hiragana": "ジャガイモ",
-                "kanji": "ジャガイモ",
+                "hiragana": "じゃがいも",
+                "kanji": "じゃがいも",
                 "vietnamese": "khoai tây",
-                "info": "n"
-            },
-            {
-                "hiragana": "たまねぎ",
-                "kanji": "玉ネギ",
-                "vietnamese": "củ hành tây",
                 "info": "n"
             },
             {
                 "hiragana": "ちょうみりょう",
                 "kanji": "調味料",
                 "vietnamese": "gia vị",
-                "info": "n"
-            },
-            {
-                "hiragana": "みず",
-                "kanji": "水",
-                "vietnamese": "nước",
-                "info": "n"
-            },
-            {
-                "hiragana": "～カップ",
-                "kanji": "～カップ",
-                "vietnamese": "~ cốc",
-                "info": "suf"
-            },
-            {
-                "hiragana": "さけ",
-                "kanji": "酒",
-                "vietnamese": "rượu sake của Nhật",
-                "info": "n"
-            },
-            {
-                "hiragana": "しょうゆ",
-                "kanji": "しょうゆ",
-                "vietnamese": "nước tương của Nhật",
-                "info": "n"
+                "info": "n, 調 (điều, điệu) 周 (chu) 言 (ngôn) 味 (vị) 未 (vị) 口 (khẩu)  料 (liêu, liệu) 米 (mễ) 斗 (đấu) "
             },
             {
                 "hiragana": "さとう",
                 "kanji": "砂糖",
                 "vietnamese": "đường (ăn)",
-                "info": "n"
+                "info": "n, 砂 (sa: cát) 少 (thiểu) 石 (thạch) 糖 (đường: ăn) 米 (mễ) 唐 (đường) "
+            },
+            {
+                "hiragana": "しお",
+                "kanji": "塩",
+                "vietnamese": "muối",
+                "info": "n, 塩 (diêm) 土 (thổ) 皿 (mãnh) 口 (khẩu) 𠂉 () "
+            },
+            {
+                "hiragana": "す",
+                "kanji": "酢",
+                "vietnamese": "giấm",
+                "info": "n, 酢 (tạc: thù) 乍 (sạ) 酉 (dậu) "
             },
             {
                 "hiragana": "おおさじ",
@@ -245,37 +209,25 @@ data_vocabulary = [
                 "hiragana": "～ばい",
                 "kanji": "～杯",
                 "vietnamese": "~ cốc; chén",
-                "info": "suf"
+                "info": "suf, 杯 (bôi) 不 (bất) 木 (mộc) "
             },
             {
-                "hiragana": "サラダゆ",
-                "kanji": "サラダ油",
-                "vietnamese": "dầu xà lách",
-                "info": "n"
+                "hiragana": "サラダゆ / てんぷらあぶら",
+                "kanji": "サラダ油 / 天ぷら油",
+                "vietnamese": "dầu xà lách / tempura",
+                "info": "n, 油 (du) 氵 (thủy) 由 (do) "
             },
             {
-                "hiragana": "しょうしょう",
-                "kanji": "少々",
-                "vietnamese": "một chút",
-                "info": "adv"
-            },
-            {
-                "hiragana": "～センチはば",
-                "kanji": "～センチ幅",
-                "vietnamese": "(cắt) lát ~ cm",
-                "info": "suf"
-            },
-            {
-                "hiragana": "むく",
-                "kanji": "剥く",
-                "vietnamese": "bóc; gọt",
-                "info": "v"
+                "hiragana": "(～センチ) はば",
+                "kanji": "(～センチ) 幅",
+                "vietnamese": "chiều rộng ~ cm",
+                "info": "suf, 幅 (phúc, bức) 巾 (cân) 畐 () "
             },
             {
                 "hiragana": "ゆうしょく",
                 "kanji": "夕食",
                 "vietnamese": "cơm chiều; cơm tối",
-                "info": "n"
+                "info": "n, 夕 (tịch) タ () 食 (thực, tự) 良 (lương) 𠆢 () "
             },
             {
                 "hiragana": "おかず",
@@ -284,178 +236,58 @@ data_vocabulary = [
                 "info": "n"
             },
             {
-                "hiragana": "～リットル",
-                "kanji": "～リットル",
-                "vietnamese": "~ lít",
-                "info": "suf"
-            },
-            {
                 "hiragana": "こさじ",
                 "kanji": "小さじ",
                 "vietnamese": "muỗng trà",
-                "info": "n"
+                "info": "n, 小 (tiểu) "
+            },
+            {
+                "hiragana": "むきます",
+                "kanji": "剥く",
+                "vietnamese": "bóc; gọt",
+                "info": "v, 剥 (bác) 录 (lục) 刂 (đao) 緑 (lục: xanh) 録 (lục: đăng ký)"
             },
             {
                 "hiragana": "ほうちょう",
                 "kanji": "包丁",
                 "vietnamese": "dao thái thịt",
-                "info": "n"
+                "info": "n, 包 (bao) 勹 (bao) 己 (kỉ) 丁 (đinh, chênh, tranh) "
             },
             {
                 "hiragana": "まないた",
                 "kanji": "まな板",
                 "vietnamese": "cái thớt",
-                "info": "n"
+                "info": "n, 板 (bản: ván mỏng) 反 (phản) 木 (mộc) "
             },
             {
-                "hiragana": "はかり",
-                "kanji": "はかり",
-                "vietnamese": "cái cân",
-                "info": "n"
-            },
-            {
-                "hiragana": "ゆうしょく",
-                "kanji": "夕食のおかず",
-                "vietnamese": "thức ăn bữa tối",
-                "info": "n"
+                "hiragana": "はかり / たいじゅうけい",
+                "kanji": "秤 / 体重計",
+                "vietnamese": "cái cân / cân cơ thể",
+                "info": "n, 秤 (xứng: cân) 平 (bình) 禾 (hòa) 体 (thể) 本 (bổn) 亻 (nhân) 重 (trọng, trùng) 計 (kế, kê) 十 (thập) 言 (ngôn) "
             },
             {
                 "hiragana": "えいよう",
                 "kanji": "栄養",
                 "vietnamese": "dinh dưỡng",
-                "info": "n"
-            },
-            {
-                "hiragana": "バランス",
-                "kanji": "バランス",
-                "vietnamese": "cân bằng",
-                "info": "n"
-            },
-            {
-                "hiragana": "えいようのバランスをかんがえる",
-                "kanji": "栄養のバランスを考える",
-                "vietnamese": "suy nghĩ về cân bằng dinh dưỡng",
-                "info": "v"
-            },
-            {
-                "hiragana": "カロリー",
-                "kanji": "カロリー",
-                "vietnamese": "lượng ca-lo",
-                "info": "n"
-            },
-            {
-                "hiragana": "しょくひん",
-                "kanji": "食品",
-                "vietnamese": "đồ ăn; thực phẩm",
-                "info": "n"
-            },
-            {
-                "hiragana": "カロリーがたかいしょくひん",
-                "kanji": "カロリーが高い食品",
-                "vietnamese": "thực phẩm có lượng ca-lo cao",
-                "info": "n"
-            },
-            {
-                "hiragana": "はかりではかる",
-                "kanji": "はかりで量る",
-                "vietnamese": "cân bằng cân",
-                "info": "v"
-            },
-            {
-                "hiragana": "しお",
-                "kanji": "塩",
-                "vietnamese": "muối",
-                "info": "n"
-            },
-            {
-                "hiragana": "しおをしょうしょういれる",
-                "kanji": "塩を少々入れる",
-                "vietnamese": "cho vào chút muối",
-                "info": "v"
-            },
-            {
-                "hiragana": "す",
-                "kanji": "酢",
-                "vietnamese": "giấm",
-                "info": "n"
-            },
-            {
-                "hiragana": "てんぷらあぶら",
-                "kanji": "天ぷら油",
-                "vietnamese": "dầu tenpura",
-                "info": "n"
+                "info": "n, 栄 (vinh: quan) 木 (mộc) 龸 ()  養 (dưỡng) 食 (thực) 𦍌 () 羊 (dê)"
             },
             {
                 "hiragana": "かわ",
                 "kanji": "皮",
                 "vietnamese": "vỏ",
-                "info": "n"
+                "info": "n, 皮 (bì) 丨 (cổn) 厂 (hán) 又 (hựu) "
             },
             {
-                "hiragana": "かわをむく",
-                "kanji": "皮をむく",
-                "vietnamese": "gọt vỏ",
-                "info": "v"
-            },
-            {
-                "hiragana": "ざいりょうをきざむ",
-                "kanji": "材料を刻む",
+                "hiragana": "(ざいりょうを)きざみます",
+                "kanji": "(材料を)刻む",
                 "vietnamese": "thái (rau, quả)",
-                "info": "v"
-            },
-            {
-                "hiragana": "おおきめにきる",
-                "kanji": "大きめに",
-                "vietnamese": "cắt lớn một chút",
-                "info": "v"
-            },
-            {
-                "hiragana": "３センチはばにきる",
-                "kanji": "３センチ幅に切る",
-                "vietnamese": "cắt miếng 3 cm",
-                "info": "v"
+                "info": "v, 刻 (khắc) 亥 (hợi) 刂 (đao) "
             },
             {
                 "hiragana": "みそしる",
                 "kanji": "みそ汁",
                 "vietnamese": "súp miso (Nhật)",
-                "info": "n"
-            },
-            {
-                "hiragana": "みそしるがぬるくなる",
-                "kanji": "みそ汁がぬるくなる",
-                "vietnamese": "súp Miso âm ấm",
-                "info": "v"
-            },
-            {
-                "hiragana": "ラップ",
-                "kanji": "ラップ",
-                "vietnamese": "túi nhựa để bao gói",
-                "info": "n"
-            },
-            {
-                "hiragana": "ラップをかぶせる",
-                "kanji": "ラップをかぶせる",
-                "vietnamese": "đậy lên; trùm lên bằng túi nhựa",
-                "info": "v"
-            },
-            {
-                "hiragana": "ラップをかける",
-                "kanji": "ラップをかける",
-                "vietnamese": "đậy lên; trùm lên bằng túi nhựa",
-                "info": "v"
-            },
-            {
-                "hiragana": "ラップでくるむ",
-                "kanji": "ラップでくるむ",
-                "vietnamese": "bao phủ bằng túi nhựa",
-                "info": "v"
-            },
-            {
-                "hiragana": "（アルミ）ホイル",
-                "kanji": "（アルミ）ホイル",
-                "vietnamese": "giấy nhôm",
-                "info": "n"
+                "info": "n, 汁 (trấp: nước) 十 (thập) 氵 (thủy) 汗 (hãn: mồ hôi)"
             }
         ]
     },
