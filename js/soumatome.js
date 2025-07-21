@@ -296,39 +296,27 @@ data_vocabulary = [
         "vocabulary": [
             {
                 "hiragana": "ふた",
-                "kanji": "ふた",
+                "kanji": "蓋",
                 "vietnamese": "cái nắp nồi",
-                "info": "n"
+                "info": "n, 蓋 (cái: vung) 艹 (thảo) |去 (khứ) 皿 (mãnh) "
             },
             {
                 "hiragana": "なべ",
-                "kanji": "なべ",
+                "kanji": "鍋",
                 "vietnamese": "cái nồi",
-                "info": "n"
-            },
-            {
-                "hiragana": "おたま",
-                "kanji": "おたま",
-                "vietnamese": "cái gáo",
-                "info": "n"
-            },
-            {
-                "hiragana": "フライパン",
-                "kanji": "フライパン",
-                "vietnamese": "chảo rán",
-                "info": "n"
-            },
-            {
-                "hiragana": "フライがえし",
-                "kanji": "フライ返し",
-                "vietnamese": "dụng cụ đảo thức ăn khi rán",
-                "info": "n"
+                "info": "n, 鍋 (oa) 金 (kim) 咼 (qua) |過 (quá, qua)"
             },
             {
                 "hiragana": "すいはんき",
                 "kanji": "炊飯器",
                 "vietnamese": "nồi cơm điện",
-                "info": "n"
+                "info": "n, 炊 (xuy: thổi nấu) 欠 (khiếm) |火 (hỏa) 飯 (phạn: cơm) 反 (phản) |飠 (thực) 器 (khí) 口 (khẩu) 大 (đại) "
+            },
+            {
+                "hiragana": "おたま",
+                "kanji": "お玉",
+                "vietnamese": "cái gáo",
+                "info": "n, 玉 (ngọc) 王 (vương) 丶 (chủ) "
             },
             {
                 "hiragana": "しゃもじ",
@@ -337,178 +325,124 @@ data_vocabulary = [
                 "info": "n"
             },
             {
-                "hiragana": "（お）ゆをわかす",
-                "kanji": "（お）湯を沸かす",
-                "vietnamese": "đun nước sôi",
-                "info": ""
+                "hiragana": "フライがえし",
+                "kanji": "フライ返し",
+                "vietnamese": "dụng cụ đảo thức ăn khi rán",
+                "info": "n, 返 (phản: trả lại) |反 (phản) ⻌ () "
             },
             {
-                "hiragana": "（お）ゆがわく",
-                "kanji": "（お）湯が沸く",
-                "vietnamese": "nước sôi",
-                "info": ""
+                "hiragana": "（おゆを）わかします / （おゆが）わきます",
+                "kanji": "（お湯を）沸かす / (お湯が）沸く",
+                "vietnamese": "đun nước sôi / sôi",
+                "info": "tha, tự, 湯 (thang) 昜 (dương) |氵 (thủy) 沸 (phí, phất) |弗 (phất) 氵 (thủy) "
             },
             {
-                "hiragana": "（お）ゆをさます",
-                "kanji": "（お）湯を冷ます",
-                "vietnamese": "làm nguội nước",
-                "info": ""
+                "hiragana": "（おゆを）さます / （おゆが）さめります",
+                "kanji": "（お湯を）冷ます / （お湯が）冷める",
+                "vietnamese": "làm nguội nước / nước nguội",
+                "info": "tha, tự, 冷 (lãnh) 令 (lệnh) |冫 (băng) 湯 (thang) |昜 (dương) 氵 (thủy)"
             },
             {
-                "hiragana": "（お）ゆがさめる",
-                "kanji": "（お）湯が冷める",
-                "vietnamese": "nước nguội",
-                "info": ""
-            },
-            {
-                "hiragana": "なべをひにかける",
-                "kanji": "なべを火にかける",
-                "vietnamese": "làm nóng chảo",
-                "info": ""
-            },
-            {
-                "hiragana": "ごはんをたく",
-                "kanji": "ご飯を",
-                "vietnamese": "nấu cơm",
-                "info": ""
-            },
-            {
-                "hiragana": "あぶらをねっする",
-                "kanji": "油を熱する",
-                "vietnamese": "làm nóng dầu",
-                "info": ""
-            },
-            {
-                "hiragana": "あぶらであげる",
-                "kanji": "油で揚げる",
-                "vietnamese": "rán bằng dầu",
-                "info": ""
-            },
-            {
-                "hiragana": "にる",
-                "kanji": "煮る",
-                "vietnamese": "nấu",
-                "info": ""
-            },
-            {
-                "hiragana": "ゆでる",
-                "kanji": "ゆでる",
-                "vietnamese": "luộc",
-                "info": ""
-            },
-            {
-                "hiragana": "いためる",
-                "kanji": "いためる",
-                "vietnamese": "xào",
-                "info": ""
-            },
-            {
-                "hiragana": "むす",
-                "kanji": "蒸す",
-                "vietnamese": "hấp",
-                "info": ""
-            },
-            {
-                "hiragana": "みずをきる",
+                "hiragana": "みずをきります",
                 "kanji": "水を切る",
                 "vietnamese": "làm ráo nước",
-                "info": ""
+                "info": "水 (thủy) 切 (thiết, thế)| 七 (thất) 刀 (đao) "
             },
             {
-                "hiragana": "まぜる",
+                "hiragana": "(なべを)ひにかけます",
+                "kanji": "(なべを)火に掛ける",
+                "vietnamese": "làm nóng chảo",
+                "info": "掛 (quải) 扌 (thủ) 卜 (bặc) |圭 (khuê) 火 (hỏa) 丷 () 人 (nhân) "
+            },
+            {
+                "hiragana": "あぶらをねっします",
+                "kanji": "油を熱する",
+                "vietnamese": "làm nóng dầu",
+                "info": "油 (du: dầu) 氵 (thủy) 由 (do)| 熱 (nhiệt) 灬 (hỏa) 埶 (nghệ) |丸 (hoàn) 坴 ()  "
+            },
+            {
+                "hiragana": "(ごはんを)たきます",
+                "kanji": "(ご飯を)炊く",
+                "vietnamese": "nấu cơm",
+                "info": "炊 (xuy: thổi nấu) 欠 (khiếm) 火 (hỏa)| 飯 (phạn, phãn) 反 (phản) 飠 (thực) "
+            },
+            {
+                "hiragana": "(あぶらで)あげます",
+                "kanji": "(油で)揚げる",
+                "vietnamese": "rán (bằng dầu)",
+                "info": "揚 (dương: giơ lên) 昜 (dương) 扌 (thủ) "
+            },
+            {
+                "hiragana": "にます",
+                "kanji": "煮る",
+                "vietnamese": "nấu",
+                "info": "tha, 煮 (chử: nấu) 者 (giả: hành) 灬 (hỏa) "
+            },
+            {
+                "hiragana": "ゆでます",
+                "kanji": "茹でる",
+                "vietnamese": "luộc",
+                "info": "tha, 茹 (như: luộc) 如 (như) 艹 (thảo) "
+            },
+            {
+                "hiragana": "いためます",
+                "kanji": "炒める",
+                "vietnamese": "xào",
+                "info": "tha, 炒 (sao: rang, xào) 少 (thiểu) 火 (hỏa) "
+            },
+            {
+                "hiragana": "むします",
+                "kanji": "蒸す",
+                "vietnamese": "hấp",
+                "info": "tha, 蒸 (chưng: cất) 艹 (thảo) 丞 (thừa: tướng, giúp đỡ) |一 (nhất) 氶 ()  灬 (hỏa) "
+            },
+            {
+                "hiragana": "まぜます",
                 "kanji": "混ぜる",
                 "vietnamese": "trộn",
-                "info": ""
+                "info": "tha, 混 (hỗn: tạp) 昆 (côn: trùng) |氵 (thủy) "
             },
             {
-                "hiragana": "こげる",
-                "kanji": "こげる",
+                "hiragana": "こげます",
+                "kanji": "焦げる",
                 "vietnamese": "bị cháy, khê",
-                "info": ""
+                "info": "tự, 焦 (tiêu: cháy) 隹 (chuy) |灬 (hỏa) "
             },
             {
-                "hiragana": "ひっくりかえす",
+                "hiragana": "ひっくりかえします",
                 "kanji": "ひっくり返す",
-                "vietnamese": "đảo lộn; lật ngược",
-                "info": ""
+                "vietnamese": "đảo lộn; lật ngược hoàn toàn (vật trạng thái)",
+                "info": "tha, 返 (phản) 反 (phản) ⻌ () "
             },
             {
-                "hiragana": "うらがえす",
+                "hiragana": "うらがえします",
                 "kanji": "裏返す",
-                "vietnamese": "đảo lộn; lật ngược",
-                "info": ""
+                "vietnamese": "lật để thấy mặt kia (vật)",
+                "info": "tha, 裏 (lí) 𧘇 () 里 (lí) 亠 (đầu)| 返 (phản) 反 (phản) ⻌ ()"
             },
             {
-                "hiragana": "あじをつける",
+                "hiragana": "あじをつけます",
                 "kanji": "味をつける",
                 "vietnamese": "cho gia vị",
-                "info": ""
+                "info": "味 (vị) 未 (vị) 口 (khẩu) "
             },
             {
-                "hiragana": "しおをくわえる",
+                "hiragana": "しおをくわえます",
                 "kanji": "塩を加える",
                 "vietnamese": "thêm muối",
-                "info": ""
+                "info": "塩 (diêm) 土 (thổ) 皿 (mãnh) 口 (khẩu) |𠂉 () 加 (gia: thêm) 力 (lực) 口 (khẩu) "
             },
             {
-                "hiragana": "こしょうをふる",
-                "kanji": "こしょうを振る",
+                "hiragana": "こしょうをふります",
+                "kanji": "胡椒を振る",
                 "vietnamese": "rắc tiêu",
-                "info": ""
+                "info": "胡 (hồ) 古 (cổ) 月 (nguyệt) 椒 (tiêu: hạt)| 叔 (thúc: chú) 又 (hựu) 尗 (thục) chú 木 (mộc) |振 (chấn: chỉnh) 辰 (thần: thìn) 扌 (thủ) "
             },
             {
-                "hiragana": "あじみをする",
+                "hiragana": "あじみをします",
                 "kanji": "味見をする",
                 "vietnamese": "nếm thử",
-                "info": ""
-            },
-            {
-                "hiragana": "あじをみる",
-                "kanji": "味を見る",
-                "vietnamese": "nếm thử",
-                "info": ""
-            },
-            {
-                "hiragana": "あじがこい",
-                "kanji": "味が濃い",
-                "vietnamese": "vị nồng",
-                "info": ""
-            },
-            {
-                "hiragana": "あじがうすい",
-                "kanji": "味が薄い",
-                "vietnamese": "vị nhạt",
-                "info": ""
-            },
-            {
-                "hiragana": "からい",
-                "kanji": "からい",
-                "vietnamese": "cay",
-                "info": ""
-            },
-            {
-                "hiragana": "しおからい",
-                "kanji": "塩からい",
-                "vietnamese": "mặn",
-                "info": ""
-            },
-            {
-                "hiragana": "すっぱい",
-                "kanji": "すっぱい",
-                "vietnamese": "chua",
-                "info": ""
-            },
-            {
-                "hiragana": "できあがる",
-                "kanji": "できあがる",
-                "vietnamese": "làm xong",
-                "info": ""
-            },
-            {
-                "hiragana": "できあがり",
-                "kanji": "できあがり",
-                "vietnamese": "xong xuôi",
-                "info": ""
+                "info": "味 (vị) 未 (vị) 口 (khẩu) 見 (kiến, hiện)| 目 (mục) 儿 (nhân) "
             }
         ]
     },
