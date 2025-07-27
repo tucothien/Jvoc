@@ -3,8 +3,8 @@ data_vocabulary = [
         "lesson": "sou w1 d1",
         "vocabulary": [
             {
-                "hiragana": "だいどころ / キッチン",
-                "kanji": "台所 / キッチン",
+                "hiragana": "だいどころ/キッチン",
+                "kanji": "台所/キッチン",
                 "vietnamese": "nhà bếp",
                 "info": "n, 台 (đài) 厶 (khư) 口 (khẩu) |所 (sở) 斤 (cân) 戸 (hộ)"
             },
@@ -33,8 +33,8 @@ data_vocabulary = [
                 "info": "n, 流 (lưu: hải) 氵 (thủy) 㐬 () "
             },
             {
-                "hiragana": "いま / リビング",
-                "kanji": "居間 / リビング",
+                "hiragana": "いま/リビング",
+                "kanji": "居間/リビング",
                 "vietnamese": "phòng khách",
                 "info": "n, 居 (cư, kí) 古 (cổ) 尸 (thi) |間 (gian) 日 (nhật) 門 (môn) "
             },
@@ -69,8 +69,8 @@ data_vocabulary = [
                 "info": "n, 床 (sàng) 木 (mộc) 广 (nghiễm) "
             },
             {
-                "hiragana": "じゅうたん / カーペット",
-                "kanji": "絨毯 / カーペット",
+                "hiragana": "じゅうたん/カーペット",
+                "kanji": "絨毯/カーペット",
                 "vietnamese": "thảm trải nền nhà",
                 "info": "n, 絨 (nhung: vải) 戎 (nhung: đồ binh) |𠂇 () 戈 (mác)  糸 (mịch) "
             },
@@ -118,14 +118,14 @@ data_vocabulary = [
             },
             {
                 "hiragana": "あたためる",
-                "kanji": "温める / 暖める",
+                "kanji": "温める/暖める",
                 "vietnamese": "hâm nóng đồ ăn",
                 "info": "温 (ôn, uẩn) 氵 (thủy) 皿 (mãnh) |日 (nhật) 暖 (noãn)| 爰 (viên) 日 (nhật) "
             },
             {
-                "hiragana": "ひやす / ひえる",
-                "kanji": "冷やす / 冷える",
-                "vietnamese": "làm lạnh / lạnh",
+                "hiragana": "ひやす/ひえる",
+                "kanji": "冷やす/冷える",
+                "vietnamese": "làm lạnh/lạnh",
                 "info": "冷 (lãnh) 令 (lệnh) 冫 (băng) "
             },
             {
@@ -135,8 +135,8 @@ data_vocabulary = [
                 "info": "敷 (phu: bày, mở) 甫 (phủ) |方 (phương)  攵 (phộc) "
             },
             {
-                "hiragana": "だんぼう / れいぼう",
-                "kanji": "暖房 / 冷房",
+                "hiragana": "だんぼう/れいぼう",
+                "kanji": "暖房/冷房",
                 "vietnamese": "phòng nóng, phòng lạnh",
                 "info": "暖 (noãn) 爰 (viên) 日 (nhật)| 房 (phòng, bàng) 戸 (hộ) 方 (phương) |冷 (lãnh) 令 (lệnh) 冫 (băng) "
             },
@@ -212,9 +212,9 @@ data_vocabulary = [
                 "info": "suf, 杯 (bôi) 不 (bất) 木 (mộc) "
             },
             {
-                "hiragana": "サラダゆ / てんぷらあぶら",
-                "kanji": "サラダ油 / 天ぷら油",
-                "vietnamese": "dầu xà lách / tempura",
+                "hiragana": "サラダゆ/てんぷらあぶら",
+                "kanji": "サラダ油/天ぷら油",
+                "vietnamese": "dầu xà lách/tempura",
                 "info": "n, 油 (du) 氵 (thủy) 由 (do) "
             },
             {
@@ -260,9 +260,9 @@ data_vocabulary = [
                 "info": "n, 板 (bản: ván mỏng) 反 (phản) 木 (mộc) "
             },
             {
-                "hiragana": "はかり / たいじゅうけい",
-                "kanji": "秤 / 体重計",
-                "vietnamese": "cái cân / cân cơ thể",
+                "hiragana": "はかり/たいじゅうけい",
+                "kanji": "秤/体重計",
+                "vietnamese": "cái cân/cân cơ thể",
                 "info": "n, 秤 (xứng: cân) 平 (bình) 禾 (hòa) 体 (thể) 本 (bổn) 亻 (nhân) 重 (trọng, trùng) 計 (kế, kê) 十 (thập) 言 (ngôn) "
             },
             {
@@ -331,15 +331,15 @@ data_vocabulary = [
                 "info": "n, 返 (phản: trả lại) |反 (phản) ⻌ () "
             },
             {
-                "hiragana": "（おゆを）わかします / （おゆが）わきます",
-                "kanji": "（お湯を）沸かす / (お湯が）沸く",
-                "vietnamese": "đun nước sôi / sôi",
+                "hiragana": "（おゆを）わかします/（おゆが）わきます",
+                "kanji": "（お湯を）沸かす/(お湯が）沸く",
+                "vietnamese": "đun nước sôi/sôi",
                 "info": "tha, tự, 湯 (thang) 昜 (dương) |氵 (thủy) 沸 (phí, phất) |弗 (phất) 氵 (thủy) "
             },
             {
-                "hiragana": "（おゆを）さます / （おゆが）さめります",
-                "kanji": "（お湯を）冷ます / （お湯が）冷める",
-                "vietnamese": "làm nguội nước / nước nguội",
+                "hiragana": "（おゆを）さます/（おゆが）さめります",
+                "kanji": "（お湯を）冷ます/（お湯が）冷める",
+                "vietnamese": "làm nguội nước/nước nguội",
                 "info": "tha, tự, 冷 (lãnh) 令 (lệnh) |冫 (băng) 湯 (thang) |昜 (dương) 氵 (thủy)"
             },
             {
@@ -450,238 +450,124 @@ data_vocabulary = [
         "lesson": "sou w1 d4",
         "vocabulary": [
             {
-                "hiragana": "エプロン",
-                "kanji": "エプロン",
-                "vietnamese": "cái tạp dề",
-                "info": "n"
+                "hiragana": "ほこり",
+                "kanji": "埃",
+                "vietnamese": "bụi, dust",
+                "info": "n, 埃 (ai: trần) 厶 (khư)| 矢 (thỉ)  土 (thổ) "
             },
             {
                 "hiragana": "ほうき",
-                "kanji": "ほうき",
-                "vietnamese": "cái chổi",
-                "info": "n"
+                "kanji": "箒",
+                "vietnamese": "cái chổi, broom",
+                "info": "n, 箒 (trửu, chửu) ⺮ () |帚 (trửu) 掃 (tảo: quét dọn)"
             },
             {
                 "hiragana": "ちりとり",
-                "kanji": "ちりとり",
-                "vietnamese": "đồ hốt rác",
-                "info": "n"
+                "kanji": "ちり取り",
+                "vietnamese": "đồ hốt rác, dustpan",
+                "info": "n, 取 (thủ) 耳 (nhĩ) 又 (hựu) "
             },
             {
                 "hiragana": "ぞうきん",
                 "kanji": "ぞうきん",
-                "vietnamese": "vải che bụi",
+                "vietnamese": "khăn lau, dust cloth, rag",
                 "info": "n"
             },
             {
-                "hiragana": "バケツ",
-                "kanji": "バケツ",
-                "vietnamese": "thùng; xô",
-                "info": "n"
+                "hiragana": "どけます/どきます（ソファーを/が）",
+                "kanji": "退ける/退く（ソファーを/が）",
+                "vietnamese": "đẩy ra/tránh ra (ghế salông)",
+                "info": "tha/tự, 退 (thối, thoái) |艮 (cấn: quẻ) ⻌ () "
             },
             {
-                "hiragana": "エプロン",
-                "kanji": "エプロン",
-                "vietnamese": "cái tạp dề",
-                "info": ""
+                "hiragana": "ちらかします/ちらかります（へやを/が）",
+                "kanji": "散らかす/散らかる（部屋を/が）",
+                "vietnamese": "bày bừa/đồ đạc bừa bãi trong phòng",
+                "info": "tha/tự, 散 (tán: tan) |攵 (phộc) 月 (nguyệt) 龷 () "
             },
             {
-                "hiragana": "エプロンをする",
-                "kanji": "エプロンをする",
-                "vietnamese": "mang tạp dề",
-                "info": ""
+                "hiragana": "こぼす (ジュースを/が)",
+                "kanji": "零す/零れる (ジュースを/が)",
+                "vietnamese": "làm đổ (tràn) nước trái cây",
+                "info": "tha/tự, 零 (linh: rơi) |令 (lệnh) ⻗ () "
             },
             {
-                "hiragana": "エプロンをかける",
-                "kanji": "エプロンをかける",
-                "vietnamese": "mang tạp dề",
-                "info": ""
+                "hiragana": "ためます/たまります（ほこりを/が）",
+                "kanji": "溜める/溜まる（埃を/が）",
+                "vietnamese": "tích tụ/đọng (bụi, đồ giặt)",
+                "info": "tha/tự, 溜 (lựu: thu góp)| 留 (lưu: lại) 卯 (mão) |田 (điền)  氵 (thủy) "
             },
             {
-                "hiragana": "エプロンをつける",
-                "kanji": "エプロンをつける",
-                "vietnamese": "mang tạp dề",
-                "info": ""
+                "hiragana": "つみます/つもります（ほこりを/が）",
+                  "kanji": "積む/積もる（埃を/が）",
+                "vietnamese": "chất lên, chồng chất/(bụi) phủ dày, đóng đầy bụi",
+                "info": "tha/tự, 積 (tích: góp)| 禾 (hòa) 責 (trách: nhiệm) "
             },
             {
-                "hiragana": "ソファー",
-                "kanji": "ソファー",
-                "vietnamese": "ghế salông",
-                "info": ""
+                "hiragana": "かけます（そうじきを）",
+                "kanji": "かける（掃除機を）",
+                "vietnamese": "dùng (máy hút bụi)",
+                "info": "tha, 掃 (tảo) 扌 (thủ) 帚 (trửu)| 除 (trừ) 余 (dư: ta) |⻖ () 機 (ki, cơ) 幾 (ki) 木 (mộc) "
             },
             {
-                "hiragana": "ソファーをどける",
-                "kanji": "ソファーをどける",
-                "vietnamese": "đẩy ghế salông ra",
-                "info": ""
+                "hiragana": "ふきます（ゆかを）",
+                "kanji": "拭く（床を）",
+                "vietnamese": "lau (sàn)",
+                "info": "tha, 拭 (thức: lau) |式 (thức) 扌 (thủ) "
             },
             {
-                "hiragana": "ソファーがどく",
-                "kanji": "ソファーがどく",
-                "vietnamese": "ghế salong nằm sang một bên",
-                "info": ""
+                "hiragana": "はきます（ほうきで）",
+                "kanji": "掃く（ほうきで）",
+                "vietnamese": "quét (bằng chổi)",
+                "info": "tha, 掃 (tảo: quét) 扌 (thủ) |帚 (trửu: chổi) ⺕ () |冖 (mịch) 巾 (cân)  "
             },
             {
-                "hiragana": "へやをちらかす",
-                "kanji": "部屋を散らかす",
-                "vietnamese": "vứt đồ bừa bãi trong phòng",
-                "info": ""
+                "hiragana": "くみます（みずを）",
+                "kanji": "汲む（水を）",
+                "vietnamese": "múc (nước)",
+                "info": "tha, 汲 (cấp: múc) 氵 (thủy)| 及 (cập: kịp) 吸(hấp)"
             },
             {
-                "hiragana": "へやがちらかる",
-                "kanji": "部屋が散らかる",
-                "vietnamese": "đồ đạc bừa bãi trong phòng",
-                "info": ""
+                "hiragana": "ぬらします／ぬれます（ぞうきんを／が）",
+                "kanji": "濡らす／濡れる（雑巾を／が）",
+                "vietnamese": "làm ướt/bị ướt (giẻ lau)",
+                "info": "tha/tự, 濡 (nhu: ướt)| 需 (nhu: đợi) 而 (nhi: mà) |⻗ ()  氵 (thủy) "
             },
             {
-                "hiragana": "へやをかたづける",
-                "kanji": "部屋を片づける",
-                "vietnamese": "dọn dẹp phòng",
-                "info": ""
+                "hiragana": "しぼります（ぞうきんを）",
+                "kanji": "絞る（雑巾を）",
+                "vietnamese": "vắt (giẻ lau)",
+                "info": "tha, 絞 (giảo: vắt) |交 (giao) 糸 (mịch) "
             },
             {
-                "hiragana": "へやがかたづく",
-                "kanji": "部屋が片づく",
-                "vietnamese": "phòng được dọn dẹp",
-                "info": ""
-            },
-            {
-                "hiragana": "ジュースをこぼす",
-                "kanji": "ジュースをこぼす",
-                "vietnamese": "làm đổ nước trái cây",
-                "info": ""
-            },
-            {
-                "hiragana": "ジュースがこぼれる",
-                "kanji": "ジュースがこぼれる",
-                "vietnamese": "nước trái cây tràn ra",
-                "info": ""
-            },
-            {
-                "hiragana": "ほこりがたまる",
-                "kanji": "ほこりがたまる",
-                "vietnamese": "đầy bụi",
-                "info": ""
-            },
-            {
-                "hiragana": "ほこりがつもる",
-                "kanji": "ほこりがつもる",
-                "vietnamese": "đóng đầy bụi",
-                "info": ""
-            },
-            {
-                "hiragana": "ゆきがつもる",
-                "kanji": "雪がつもる",
-                "vietnamese": "tuyết chất đống",
-                "info": ""
-            },
-            {
-                "hiragana": "ほこりをとる",
-                "kanji": "ほこりを取る",
-                "vietnamese": "phủi bụi",
-                "info": ""
-            },
-            {
-                "hiragana": "そうじき",
-                "kanji": "掃除機をかける",
-                "vietnamese": "hút bụi",
-                "info": ""
-            },
-            {
-                "hiragana": "ゆかをふく",
-                "kanji": "床をふく",
-                "vietnamese": "lau sàn",
-                "info": ""
-            },
-            {
-                "hiragana": "ほうきではく",
-                "kanji": "ほうきで掃く",
-                "vietnamese": "quét bằng chổi",
-                "info": ""
-            },
-            {
-                "hiragana": "ふきんでしょっきをふく",
-                "kanji": "ふきんで食器をふく",
-                "vietnamese": "lau chén bát bằng khăn",
-                "info": ""
-            },
-            {
-                "hiragana": "みずをくむ",
-                "kanji": "水をくむ",
-                "vietnamese": "múc nước",
-                "info": ""
-            },
-            {
-                "hiragana": "だいぶきんでテーブルをふく",
-                "kanji": "台ぶきんでテーブルをふく",
-                "vietnamese": "lau bàn (bằng khăn lau bàn)",
-                "info": ""
-            },
-            {
-                "hiragana": "ぞうきんをぬらす",
-                "kanji": "ぞうきんをぬらす",
-                "vietnamese": "làm ướt giẻ lau",
-                "info": ""
-            },
-            {
-                "hiragana": "かぐをみがく",
-                "kanji": "家具をみがく",
-                "vietnamese": "đánh bóng đồ nội thất",
-                "info": ""
-            },
-            {
-                "hiragana": "ぞうきんをしぼる",
-                "kanji": "ぞうきんをしぼる",
-                "vietnamese": "vắt giẻ lau",
-                "info": ""
-            },
-            {
-                "hiragana": "ブラシでこする",
-                "kanji": "ブラシでこする",
-                "vietnamese": "chùi bằng bàn chải",
-                "info": ""
+                "hiragana": "みがきます（かぐを）",
+                "kanji": "磨く（家具を）",
+                "vietnamese": "đánh bóng (đồ nội thất)",
+                "info": "tha, 磨 (ma: sát) 麻 (ma) |石 (thạch) 魔 (ma quỷ)"
             },
             {
                 "hiragana": "なまごみ",
                 "kanji": "生ゴミ",
                 "vietnamese": "rác nhà bếp",
-                "info": ""
+                "info": "生 (sanh, sinh) "
             },
             {
-                "hiragana": "もえるごみ",
-                "kanji": "燃えるゴミ",
-                "vietnamese": "rác cháy được",
-                "info": ""
+                "hiragana": "もえる/もえない ごみ",
+                "kanji": "燃える/燃えない ゴミ",
+                "vietnamese": "rác cháy/không",
+                "info": "燃 (nhiên: đốt) 火 (hỏa)| 然 (nhiên) 犬 (khuyển) |⺼ () 灬 (hỏa)  "
             },
             {
-                "hiragana": "もえないごみ",
-                "kanji": "燃えないゴミ",
-                "vietnamese": "rác không cháy được",
-                "info": ""
+                "hiragana": "そろえます／そろいます（スリッパを／が）",
+                "kanji": "揃える／揃う（スリッパを／が）",
+                "vietnamese": "xếp gọn/được xếp gọn (dép đi trong nhà)",
+                "info": "tha/tự, 揃 (tiễn: hoàn tất) |前 (tiền) 扌 (thủ) "
             },
             {
-                "hiragana": "ゴミをわけるのはめんどうだ",
-                "kanji": "ゴミを分けるのは面倒だ",
-                "vietnamese": "phân loại rác thật là rắc rối",
-                "info": ""
-            },
-            {
-                "hiragana": "ゴミをわけるのはめんどうくさい",
-                "kanji": "ゴミを分けるのは",
-                "vietnamese": "phân loại rác thật là rắc rối",
-                "info": ""
-            },
-            {
-                "hiragana": "スリッパをそろえる",
-                "kanji": "スリッパをそろえる",
-                "vietnamese": "xếp gọn dép đi trong nhà",
-                "info": ""
-            },
-            {
-                "hiragana": "ものおきにしまう",
-                "kanji": "物置にしまう",
-                "vietnamese": "cất đồ vào kho",
-                "info": ""
+                "hiragana": "しまいます（ものおきに）",
+                "kanji": "仕舞う（物置に）",
+                "vietnamese": "cất (đồ vào kho)",
+                "info": "tha, 仕 (sĩ) 亻 (nhân)| 士 (sĩ) 舞 (vũ: múa) |無 (vô) 舛 (suyễn) "
             }
         ]
     },
@@ -689,142 +575,70 @@ data_vocabulary = [
         "lesson": "sou w1 d5",
         "vocabulary": [
             {
-                "hiragana": "せんたくものがたまる",
-                "kanji": "洗濯物がたまる",
-                "vietnamese": "đầy đồ cần giặt",
-                "info": "v"
+                "hiragana": "しめらせます／しめっています（せんたくものを／が）",
+                "kanji": "湿らせる／湿っている（洗濯物を／が）",
+                "vietnamese": "làm ẩm/ẩm ướt (đồ giặt)",
+                "info": "tha/tự"
             },
             {
-                "hiragana": "せんたくものがぬれている",
-                "kanji": "洗濯物がぬれている",
-                "vietnamese": "đồ ướt (quần áo)",
-                "info": "v"
+                "hiragana": "かわかします（せんたくものを）／かわきます（せんたくものが）",
+                "kanji": "乾かす（洗濯物を）／乾く（洗濯物が）",
+                "vietnamese": "làm khô (đồ giặt)/khô (đồ giặt)",
+                "info": "tha/tự"
             },
             {
-                "hiragana": "せんたくものがしめっている",
-                "kanji": "洗濯物が湿っている",
-                "vietnamese": "đồ ẩm ướt",
-                "info": "v"
+                "hiragana": "ほします（せんたくものを）",
+                "kanji": "干す（洗濯物を）",
+                "vietnamese": "phơi (quần áo)",
+                "info": "tha"
             },
             {
-                "hiragana": "せんたくものがかわく",
-                "kanji": "洗濯物が乾く",
-                "vietnamese": "đồ khô",
-                "info": "v"
+                "hiragana": "たたみます（せんたくものを）",
+                "kanji": "畳む（洗濯物を）",
+                "vietnamese": "xếp (quần áo)",
+                "info": "tha"
             },
             {
-                "hiragana": "せんたくものがまっしろにしあがる",
-                "kanji": "洗濯物が真っ白に",
-                "vietnamese": "đồ trắng tinh",
-                "info": "v"
+                "hiragana": "よごします（ふくを）／よごれます（ふくが）",
+                "kanji": "汚す（服を）／汚れる（服が）",
+                "vietnamese": "làm dơ (đồ)/bị dơ (đồ)",
+                "info": "tha/tự"
             },
             {
-                "hiragana": "せんたくものをためる",
-                "kanji": "洗濯物をためる",
-                "vietnamese": "chất đống đồ cần giặt",
-                "info": "v"
-            },
-            {
-                "hiragana": "せんたくものをぬらす",
-                "kanji": "洗濯物をぬらす",
-                "vietnamese": "làm ướt đồ",
-                "info": "v"
-            },
-            {
-                "hiragana": "せんたくものをほす",
-                "kanji": "洗濯物を干す",
-                "vietnamese": "phơi quần áo",
-                "info": "v"
-            },
-            {
-                "hiragana": "せんたくものをかんそうきでかわかす",
-                "kanji": "洗濯物を乾燥機で乾かす",
-                "vietnamese": "làm khô quần áo bằng máy sấy",
-                "info": "v"
-            },
-            {
-                "hiragana": "せんたくものをたたむ",
-                "kanji": "洗濯物をたたむ",
-                "vietnamese": "xếp quần áo",
-                "info": "v"
-            },
-            {
-                "hiragana": "ふくをよごす",
-                "kanji": "服を汚す",
-                "vietnamese": "làm dơ đồ",
+                "hiragana": "（だいどころよう／せんたくよう）せんざい",
+                "kanji": "（台所用／洗濯用）洗剤",
+                "vietnamese": "(nhà bếp/giặt giũ) chất tẩy rửa",
                 "info": ""
             },
             {
-                "hiragana": "そでがまっくろによごれる",
-                "kanji": "そでが真っ黒に",
-                "vietnamese": "tay áo bị vấy bẩn đen thui",
-                "info": ""
+                "hiragana": "つるします（ふくを）／つっています（ふくが）",
+                "kanji": "つるす（服を）／つるっている（服が）",
+                "vietnamese": "treo (đồ lên)/được treo (đồ)",
+                "info": "tha/tự"
             },
             {
-                "hiragana": "（せんたくよう）せんざいをいれる",
-                "kanji": "（洗濯用）洗剤を入れる",
-                "vietnamese": "cho bột giặt vào",
-                "info": ""
+                "hiragana": "かけます（ワイシャツにアイロンを）",
+                "kanji": "かける（ワイシャツにアイロンを）",
+                "vietnamese": "ủi (áo sơ mi)",
+                "info": "tha"
             },
             {
-                "hiragana": "（だいどころよう）せんざい）",
-                "kanji": "（台所用）洗剤",
-                "vietnamese": "chất tẩy rửa",
-                "info": ""
+                "hiragana": "のばします（しわを）／のびます（しわが）",
+                "kanji": "伸ばす（しわを）／伸びる（しわが）",
+                "vietnamese": "làm thẳng (nếp gấp)/được làm thẳng (nếp gấp)",
+                "info": "tha/tự"
             },
             {
-                "hiragana": "スーツをクリーニングにだす",
-                "kanji": "スーツをクリーニングに出す",
-                "vietnamese": "gửi áo vét đến tiệm giặt ủi",
-                "info": ""
+                "hiragana": "ちぢみます（ウールのセーターが）",
+                "kanji": "縮む（ウールのセーターが）",
+                "vietnamese": "co lại (áo len)",
+                "info": "tự"
             },
             {
-                "hiragana": "コインランドリーでせんたくをする",
-                "kanji": "コインランドリーで洗濯をする",
-                "vietnamese": "giặt đồ ở hiệu giặt tự động",
-                "info": ""
-            },
-            {
-                "hiragana": "タオルをほす",
-                "kanji": "タオルを干す",
-                "vietnamese": "phơi khăn",
-                "info": ""
-            },
-            {
-                "hiragana": "ふくをつるす",
-                "kanji": "服をつるす",
-                "vietnamese": "treo đồ lên",
-                "info": ""
-            },
-            {
-                "hiragana": "ワイシャツにアイロンをかける",
-                "kanji": "ワイシャツにアイロンをかける",
-                "vietnamese": "ủi áo sơ mi",
-                "info": ""
-            },
-            {
-                "hiragana": "しわをのばす",
-                "kanji": "しわを伸ばす",
-                "vietnamese": "làm thẳng nếp gấp",
-                "info": ""
-            },
-            {
-                "hiragana": "しわがのびる",
-                "kanji": "しわが伸びる",
-                "vietnamese": "nếp gấp thẳng ra",
-                "info": ""
-            },
-            {
-                "hiragana": "ウールのセーターがちぢむ",
-                "kanji": "ウールのセーターが縮む",
-                "vietnamese": "áo len co lại",
-                "info": ""
-            },
-            {
-                "hiragana": "ジーンズのいろがおちる",
-                "kanji": "ジーンズの色が落ちる",
-                "vietnamese": "quần jean phai màu",
-                "info": ""
+                "hiragana": "おちます（ジーンズのいろが）",
+                "kanji": "落ちる（ジーンズの色が）",
+                "vietnamese": "phai màu (quần jean)",
+                "info": "tự"
             }
         ]
     },
@@ -832,34 +646,34 @@ data_vocabulary = [
         "lesson": "sou w1 d6",
         "vocabulary": [
             {
-                "hiragana": "かわいらしいこども",
-                "kanji": "かわいらしい子ども",
-                "vietnamese": "đứa trẻ đáng yêu",
-                "info": "n"
+                "hiragana": "かわいらしい（こども）",
+                "kanji": "かわいらしい（子ども）",
+                "vietnamese": "đáng yêu (đứa trẻ)",
+                "info": "adj"
             },
             {
-                "hiragana": "かわいそうなこども",
-                "kanji": "かわいそうな子ども",
-                "vietnamese": "đứa trẻ tội nghiệp",
-                "info": "n"
+                "hiragana": "かわいそうな（こども）",
+                "kanji": "かわいそうな（子ども）",
+                "vietnamese": "tội nghiệp (đứa trẻ)",
+                "info": "adj"
             },
             {
-                "hiragana": "ぎょうぎがいいこども",
-                "kanji": "行儀がいい子ども",
-                "vietnamese": "đứa trẻ lễ phép",
-                "info": "n"
+                "hiragana": "ぎょうぎがいい（こども）",
+                "kanji": "行儀がいい（子ども）",
+                "vietnamese": "lễ phép (đứa trẻ)",
+                "info": "adj"
             },
             {
-                "hiragana": "りこうなこども",
-                "kanji": "利口な子供",
-                "vietnamese": "đứa trẻ lanh lợi",
-                "info": "n"
+                "hiragana": "りこうな（こども）",
+                "kanji": "利口な（子供）",
+                "vietnamese": "lanh lợi (đứa trẻ)",
+                "info": "adj"
             },
             {
-                "hiragana": "かしこいこども",
-                "kanji": "かしこい子ども",
-                "vietnamese": "đứa trẻ khôn ngoan",
-                "info": "n"
+                "hiragana": "かしこい（こども）",
+                "kanji": "かしこい（子ども）",
+                "vietnamese": "khôn ngoan (đứa trẻ)",
+                "info": "adj"
             },
             {
                 "hiragana": "ひとなつこいこども",
@@ -1466,7 +1280,7 @@ data_vocabulary = [
                 "info": ""
             },
             {
-                "hiragana": "とうきょうはつよこはまい／ゆき",
+                "hiragana": "とうきょうはつよこはまい/ゆき",
                 "kanji": "東京発横浜行き",
                 "vietnamese": "tàu xuất phát ở Tokyo đi đến Yokohama",
                 "info": ""
@@ -3831,8 +3645,8 @@ data_vocabulary = [
                 "info": ""
             },
             {
-                "hiragana": "１／２／３がっき",
-                "kanji": "１／２／３学期",
+                "hiragana": "１/２/３がっき",
+                "kanji": "１/２/３学期",
                 "vietnamese": "học kì 1, 2, 3",
                 "info": ""
             },
@@ -5240,8 +5054,8 @@ data_vocabulary = [
                 "info": ""
             },
             {
-                "hiragana": "ぶちょう「ごくろうさま。／おつかれさま。」",
-                "kanji": "部長「ご苦労さま。／お疲れさま。」",
+                "hiragana": "ぶちょう「ごくろうさま。/おつかれさま。」",
+                "kanji": "部長「ご苦労さま。/お疲れさま。」",
                 "vietnamese": "cảm ơn đã vất vả",
                 "info": ""
             },
@@ -6698,14 +6512,14 @@ data_vocabulary = [
                 "info": ""
             },
             {
-                "hiragana": "ようふくをきちんと／ちゃんとたたむ",
-                "kanji": "洋服をきちんと／ちゃんとたたむ",
+                "hiragana": "ようふくをきちんと/ちゃんとたたむ",
+                "kanji": "洋服をきちんと/ちゃんとたたむ",
                 "vietnamese": "xếp quần áo chỉn chu",
                 "info": ""
             },
             {
-                "hiragana": "たいどをきちんとする／ちゃんとする",
-                "kanji": "態度をきちんとする／ちゃんとする",
+                "hiragana": "たいどをきちんとする/ちゃんとする",
+                "kanji": "態度をきちんとする/ちゃんとする",
                 "vietnamese": "thái độ đàng hoàng",
                 "info": ""
             },
