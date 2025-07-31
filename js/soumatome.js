@@ -528,8 +528,8 @@ data_vocabulary = [
                 "info": "tha, 汲 (cấp: múc) 氵 (thủy)| 及 (cập: kịp) 吸(hấp)"
             },
             {
-                "hiragana": "ぬらします／ぬれます（ぞうきんを／が）",
-                "kanji": "濡らす／濡れる（雑巾を／が）",
+                "hiragana": "ぬらします/ぬれます（ぞうきんを/が）",
+                "kanji": "濡らす/濡れる（雑巾を/が）",
                 "vietnamese": "làm ướt/bị ướt (giẻ lau)",
                 "info": "tha/tự, 濡 (nhu: ướt)| 需 (nhu: đợi) 而 (nhi: mà) |⻗ ()  氵 (thủy) "
             },
@@ -558,8 +558,8 @@ data_vocabulary = [
                 "info": "燃 (nhiên: đốt) 火 (hỏa)| 然 (nhiên) 犬 (khuyển) |⺼ () 灬 (hỏa)  "
             },
             {
-                "hiragana": "そろえます／そろいます（スリッパを／が）",
-                "kanji": "揃える／揃う（スリッパを／が）",
+                "hiragana": "そろえます/そろいます（スリッパを/が）",
+                "kanji": "揃える/揃う（スリッパを/が）",
                 "vietnamese": "xếp gọn/được xếp gọn (dép đi trong nhà)",
                 "info": "tha/tự, 揃 (tiễn: hoàn tất) |前 (tiền) 扌 (thủ) "
             },
@@ -575,46 +575,46 @@ data_vocabulary = [
         "lesson": "sou w1 d5",
         "vocabulary": [
             {
-                "hiragana": "しめらせます／しめっています（せんたくものを／が）",
-                "kanji": "湿らせる／湿っている（洗濯物を／が）",
+                "hiragana": "しめらせます/しめっています（せんたくものを/が）",
+                "kanji": "湿らせる/湿っている（洗濯物を/が）",
                 "vietnamese": "làm ẩm/ẩm ướt (đồ giặt)",
-                "info": "tha/tự"
+                "info": "tha/tự, 湿 (thấp: ẩm) 显 (hiển) |氵 (thủy) 洗 (tẩy, tiển) |氵 (thủy) 先 (tiên) 濯 (trạc: giặc) |翟 (địch) 氵 (thủy) "
             },
             {
-                "hiragana": "かわかします（せんたくものを）／かわきます（せんたくものが）",
-                "kanji": "乾かす（洗濯物を）／乾く（洗濯物が）",
+                "hiragana": "かわかします/かわきます（せんたくもの を/が）",
+                "kanji": "乾かす/乾く（洗濯物が）",
                 "vietnamese": "làm khô (đồ giặt)/khô (đồ giặt)",
-                "info": "tha/tự"
+                "info": "tha/tự, 乾 (kiền: khô) 乞 (khất: thực) |𠦝 () 洗 (tẩy, tiển) 氵 (thủy) 先 (tiên) |濯 (trạc: giặc) 翟 (địch) 氵 (thủy) "
             },
             {
                 "hiragana": "ほします（せんたくものを）",
                 "kanji": "干す（洗濯物を）",
                 "vietnamese": "phơi (quần áo)",
-                "info": "tha"
+                "info": "tha, 干 (kiền, can, càn, cán: khô) "
             },
             {
                 "hiragana": "たたみます（せんたくものを）",
                 "kanji": "畳む（洗濯物を）",
                 "vietnamese": "xếp (quần áo)",
-                "info": "tha"
+                "info": "tha, 畳 (điệp: chiếu) 且 (thả) |田 (điền) 冖 (mịch) "
             },
             {
-                "hiragana": "よごします（ふくを）／よごれます（ふくが）",
-                "kanji": "汚す（服を）／汚れる（服が）",
+                "hiragana": "よごします/よごれます（ふく を/が）",
+                "kanji": "汚す/汚れる（服 を/が）",
                 "vietnamese": "làm dơ (đồ)/bị dơ (đồ)",
-                "info": "tha/tự"
+                "info": "tha/tự, 汚 (ô) 丂 (khảo) |一 (nhất) 氵 (thủy) "
             },
             {
-                "hiragana": "（だいどころよう／せんたくよう）せんざい",
-                "kanji": "（台所用／洗濯用）洗剤",
+                "hiragana": "せんざい （だいどころよう/せんたくよう）",
+                "kanji": "洗剤 （台所用/洗濯用）",
                 "vietnamese": "(nhà bếp/giặt giũ) chất tẩy rửa",
-                "info": ""
+                "info": "洗 (tẩy, tiển) 氵 (thủy) 先 (tiên)| 剤 (tễ: dịch) 斉 (tề: chỉnh) 刂 (đao) "
             },
             {
-                "hiragana": "つるします（ふくを）／つっています（ふくが）",
-                "kanji": "つるす（服を）／つるっている（服が）",
+                "hiragana": "つるします（ふく を）",
+                "kanji": "吊るす（服 を）",
                 "vietnamese": "treo (đồ lên)/được treo (đồ)",
-                "info": "tha/tự"
+                "info": "tha, 吊 (điếu) 口 (khẩu) 巾 (cân)| 服 (phục) ⺼ () 𠬝 () "
             },
             {
                 "hiragana": "かけます（ワイシャツにアイロンを）",
@@ -623,22 +623,22 @@ data_vocabulary = [
                 "info": "tha"
             },
             {
-                "hiragana": "のばします（しわを）／のびます（しわが）",
-                "kanji": "伸ばす（しわを）／伸びる（しわが）",
+                "hiragana": "のばします/のびます（しわ を/が）",
+                "kanji": "伸ばす/伸びる（しわ を/が）",
                 "vietnamese": "làm thẳng (nếp gấp)/được làm thẳng (nếp gấp)",
-                "info": "tha/tự"
+                "info": "tha/tự, 伸 (thân: duỗi) 亻 (nhân)| 申 (thân: khỉ) "
             },
             {
                 "hiragana": "ちぢみます（ウールのセーターが）",
                 "kanji": "縮む（ウールのセーターが）",
                 "vietnamese": "co lại (áo len)",
-                "info": "tự"
+                "info": "tự, 縮 (súc: rụt) 宿 (túc: tá) |糸 (mịch) "
             },
             {
                 "hiragana": "おちます（ジーンズのいろが）",
                 "kanji": "落ちる（ジーンズの色が）",
                 "vietnamese": "phai màu (quần jean)",
-                "info": "tự"
+                "info": "tự, 落 (lạc: rơi) 艹 (thảo)| 洛 (lạc) "
             }
         ]
     },
