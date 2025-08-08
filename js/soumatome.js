@@ -645,316 +645,250 @@ data_vocabulary = [
     {
         "lesson": "sou w1 d6",
         "vocabulary": [
-            {
-                "hiragana": "かわいらしい（こども）",
-                "kanji": "かわいらしい（子ども）",
-                "vietnamese": "đáng yêu (đứa trẻ)",
-                "info": "adj"
-            },
-            {
-                "hiragana": "かわいそうな（こども）",
-                "kanji": "かわいそうな（子ども）",
-                "vietnamese": "tội nghiệp (đứa trẻ)",
-                "info": "adj"
-            },
-            {
-                "hiragana": "ぎょうぎがいい（こども）",
-                "kanji": "行儀がいい（子ども）",
-                "vietnamese": "lễ phép (đứa trẻ)",
-                "info": "adj"
-            },
-            {
-                "hiragana": "りこうな（こども）",
-                "kanji": "利口な（子供）",
-                "vietnamese": "lanh lợi (đứa trẻ)",
-                "info": "adj"
-            },
-            {
-                "hiragana": "かしこい（こども）",
-                "kanji": "かしこい（子ども）",
-                "vietnamese": "khôn ngoan (đứa trẻ)",
-                "info": "adj"
-            },
-            {
-                "hiragana": "ひとなつこいこども",
-                "kanji": "人なつ（っ）こい子ども",
-                "vietnamese": "đứa trẻ hòa đồng",
-                "info": "n"
-            },
-            {
-                "hiragana": "かわいらしいいぬ",
-                "kanji": "かわいらしい犬",
-                "vietnamese": "con chó đáng yêu",
-                "info": "n"
-            },
-            {
-                "hiragana": "かわいそうないぬ",
-                "kanji": "かわいそうな犬",
-                "vietnamese": "con chó tội nghiệp",
-                "info": "n"
-            },
-            {
-                "hiragana": "ぎょうぎがいいいぬ",
-                "kanji": "行儀がいい犬",
-                "vietnamese": "con chó hiền lành",
-                "info": "n"
-            },
-            {
-                "hiragana": "りこうないぬ",
-                "kanji": "利口な犬",
-                "vietnamese": "con chó lanh lợi",
-                "info": "n"
-            },
-            {
-                "hiragana": "かしこいいぬ",
-                "kanji": "かしこい犬",
-                "vietnamese": "con chó khôn ngoan",
-                "info": "n"
-            },
-            {
-                "hiragana": "ひとなつ（っ）こいいぬ",
-                "kanji": "人なつ（っ）こい犬",
-                "vietnamese": "con chó hòa nhã",
-                "info": "n"
-            },
-            {
-                "hiragana": "わがままなこども",
-                "kanji": "わがままな子ども",
-                "vietnamese": "đứa trẻ ích kỷ",
-                "info": "n"
-            },
-            {
-                "hiragana": "なまいきなこども",
-                "kanji": "生意気な子ども",
-                "vietnamese": "đứa trẻ xấc xược",
-                "info": "n"
-            },
-            {
-                "hiragana": "なまいきなたいど",
-                "kanji": "生意気な態度",
-                "vietnamese": "thái độ xấc xược",
-                "info": "n"
-            },
-            {
-                "hiragana": "こどもをあまやかす",
-                "kanji": "子どもを",
-                "vietnamese": "nuông chiều con",
-                "info": "v"
-            },
-            {
-                "hiragana": "こどもをかわいがる",
-                "kanji": "子どもをかわいがる",
-                "vietnamese": "yêu thương con",
-                "info": "v"
-            },
-            {
-                "hiragana": "こどもをおんぶする",
-                "kanji": "子どもをおんぶする",
-                "vietnamese": "cõng con",
-                "info": "v"
-            },
-            {
-                "hiragana": "こどもをだっこする",
-                "kanji": "子どもをする",
-                "vietnamese": "bế con",
-                "info": "v"
-            },
-            {
-                "hiragana": "こどもをうでにだく",
-                "kanji": "子どもを腕に",
-                "vietnamese": "bế con",
-                "info": "v"
-            },
-            {
-                "hiragana": "いぬがほえる",
-                "kanji": "犬がほえる",
-                "vietnamese": "chó sủa",
-                "info": "v"
-            },
-            {
-                "hiragana": "いぬがしっぽをふる",
-                "kanji": "犬がしっぽを振る",
-                "vietnamese": "chó vẫy đuôi",
-                "info": "v"
-            },
-            {
-                "hiragana": "いぬがひとになれる",
-                "kanji": "犬が人になれる",
-                "vietnamese": "chó quen (thân thiện) người",
-                "info": "v"
-            },
-            {
-                "hiragana": "いぬがうなる",
-                "kanji": "犬がうなる",
-                "vietnamese": "chó gầm gừ",
-                "info": "v"
-            },
-            {
-                "hiragana": "いぬがあなをほる",
-                "kanji": "犬が穴をほる",
-                "vietnamese": "chó đào lỗ",
-                "info": "v"
-            },
-            {
-                "hiragana": "いぬがあなをうめる",
-                "kanji": "犬が穴をうめる",
-                "vietnamese": "chó lấp lỗ",
-                "info": "v"
-            },
-            {
-                "hiragana": "いくじ",
-                "kanji": "育児",
-                "vietnamese": "chăm sóc trẻ",
-                "info": ""
-            },
-            {
-                "hiragana": "こそだて",
-                "kanji": "子育て",
-                "vietnamese": "chăm sóc trẻ",
-                "info": ""
-            },
-            {
-                "hiragana": "ようじ",
-                "kanji": "幼児",
-                "vietnamese": "trẻ con; đứa trẻ",
-                "info": ""
-            },
-            {
-                "hiragana": "おさないこども",
-                "kanji": "幼い",
-                "vietnamese": "trẻ con; đứa trẻ",
-                "info": ""
-            },
-            {
-                "hiragana": "こどもがせいちょうする",
-                "kanji": "子どもが成長する",
-                "vietnamese": "đứa trẻ lớn dần",
-                "info": ""
-            },
-            {
-                "hiragana": "わがままにそだつ",
-                "kanji": "わがままに育つ",
-                "vietnamese": "dạy làm hư đứa trẻ",
-                "info": ""
-            },
-            {
-                "hiragana": "えらい",
-                "kanji": "えらい",
-                "vietnamese": "tuyệt vời; giỏi",
-                "info": ""
-            },
-            {
-                "hiragana": "あたまをなでる",
-                "kanji": "頭をなでる",
-                "vietnamese": "xoa đầu",
-                "info": ""
-            },
-            {
-                "hiragana": "（お）しりをたたく",
-                "kanji": "（お）尻をたたく",
-                "vietnamese": "đánh mông",
-                "info": ""
-            },
-            {
-                "hiragana": "（お）しりをぶつ",
-                "kanji": "（お）尻をぶつ",
-                "vietnamese": "đánh mông",
-                "info": ""
-            },
-            {
-                "hiragana": "いたずらをする",
-                "kanji": "いたずらをする",
-                "vietnamese": "tinh nghịch",
-                "info": ""
-            },
-            {
-                "hiragana": "いたずらな",
-                "kanji": "いたずらな",
-                "vietnamese": "nghịch ngợm",
-                "info": ""
-            },
-            {
-                "hiragana": "てをつなぐ",
-                "kanji": "手をつなぐ",
-                "vietnamese": "nắm tay",
-                "info": ""
-            },
-            {
-                "hiragana": "てをはなす",
-                "kanji": "手をはなす",
-                "vietnamese": "buông tay",
-                "info": ""
-            },
-            {
-                "hiragana": "こどもがまいごになる",
-                "kanji": "子どもが迷子になる",
-                "vietnamese": "đứa trẻ bị lạc",
-                "info": ""
-            },
-            {
-                "hiragana": "こどもがははおやのあとをついていく",
-                "kanji": "子どもが母親の後をついていく",
-                "vietnamese": "đứa trẻ đi theo sau mẹ",
-                "info": ""
-            },
-            {
-                "hiragana": "いぬをかう",
-                "kanji": "犬を飼う",
-                "vietnamese": "nuôi chó",
-                "info": ""
-            },
-            {
-                "hiragana": "さんぽにつれていく",
-                "kanji": "散歩に連れていく",
-                "vietnamese": "dẫn đi bộ",
-                "info": ""
-            },
-            {
-                "hiragana": "いぬにえさをやる",
-                "kanji": "犬にえさをやる",
-                "vietnamese": "cho chó ăn",
-                "info": ""
-            },
-            {
-                "hiragana": "いぬにえさをあたえる",
-                "kanji": "犬にえさを与える",
-                "vietnamese": "cho chó ăn",
-                "info": ""
-            }
+            // {
+            //     "hiragana": "かわいらしい（こども）",
+            //     "kanji": "かわいらしい（子ども）",
+            //     "vietnamese": "đáng yêu (đứa trẻ)",
+            //     "info": "adj"
+            // },
+            // {
+            //     "hiragana": "かわいそうな（こども）",
+            //     "kanji": "かわいそうな（子ども）",
+            //     "vietnamese": "tội nghiệp (đứa trẻ)",
+            //     "info": "adj"
+            // },
+            // {
+            //     "hiragana": "ぎょうぎがいい（こども）",
+            //     "kanji": "行儀がいい（子ども）",
+            //     "vietnamese": "lễ phép (đứa trẻ)",
+            //     "info": "adj"
+            // },
+            // {
+            //     "hiragana": "りこうな（こども）",
+            //     "kanji": "利口な（子供）",
+            //     "vietnamese": "lanh lợi (đứa trẻ)",
+            //     "info": "adj"
+            // },
+            // {
+            //     "hiragana": "かしこい（こども）",
+            //     "kanji": "かしこい（子ども）",
+            //     "vietnamese": "khôn ngoan (đứa trẻ)",
+            //     "info": "adj"
+            // },
+            // {
+            //     "hiragana": "ひとなつこい（こども）",
+            //     "kanji": "人なつこい（子ども）",
+            //     "vietnamese": "đứa trẻ hòa đồng",
+            //     "info": "adj"
+            // },
+            // {
+            //     "hiragana": "わがままな（こども）",
+            //     "kanji": "わがままな（子ども）",
+            //     "vietnamese": "ích kỷ (đứa trẻ)",
+            //     "info": "adj-na"
+            // },
+            // {
+            //     "hiragana": "なまいきな（こども）",
+            //     "kanji": "生意気な（子ども）",
+            //     "vietnamese": "xấc xược (đứa trẻ)",
+            //     "info": "adj-na"
+            // },
+            // {
+            //     "hiragana": "たいど",
+            //     "kanji": "態度",
+            //     "vietnamese": "thái độ",
+            //     "info": "n"
+            // },
+            // {
+            //     "hiragana": "こどもをあまやかします",
+            //     "kanji": "子どもを甘やかす",
+            //     "vietnamese": "nuông chiều con",
+            //     "info": "tha"
+            // },
+            // {
+            //     "hiragana": "こどもをかわいがります",
+            //     "kanji": "子どもをかわいがる",
+            //     "vietnamese": "yêu thương con",
+            //     "info": "tha"
+            // },
+            // {
+            //     "hiragana": "こどもをおんぶします",
+            //     "kanji": "子どもをおんぶする",
+            //     "vietnamese": "cõng con",
+            //     "info": "tha"
+            // },
+            // {
+            //     "hiragana": "こどもをだっこします/こどもをうでにだきます",
+            //     "kanji": "子どもをだっこする/子どもを腕に抱く",
+            //     "vietnamese": "bế con",
+            //     "info": "tha"
+            // },
+            // {
+            //     "hiragana": "いぬがほえます",
+            //     "kanji": "犬がほえる",
+            //     "vietnamese": "chó sủa",
+            //     "info": "tự"
+            // },
+            // {
+            //     "hiragana": "いぬがしっぽをふります",
+            //     "kanji": "犬がしっぽを振る",
+            //     "vietnamese": "chó vẫy đuôi",
+            //     "info": "tự"
+            // },
+            // {
+            //     "hiragana": "いぬがひとになれます",
+            //     "kanji": "犬が人になれる",
+            //     "vietnamese": "chó quen (thân thiện) với người",
+            //     "info": "tự"
+            // },
+            // {
+            //     "hiragana": "いぬがうなります",
+            //     "kanji": "犬がうなる",
+            //     "vietnamese": "chó gầm gừ",
+            //     "info": "tự"
+            // },
+            // {
+            //     "hiragana": "いぬがあなをほります",
+            //     "kanji": "犬が穴をほる",
+            //     "vietnamese": "chó đào lỗ",
+            //     "info": "tự"
+            // },
+            // {
+            //     "hiragana": "いぬがあなをうめます",
+            //     "kanji": "犬が穴をうめる",
+            //     "vietnamese": "chó lấp lỗ",
+            //     "info": "tha"
+            // },
+            // {
+            //     "hiragana": "いくじ/こそだて",
+            //     "kanji": "育児/子育て",
+            //     "vietnamese": "chăm sóc trẻ",
+            //     "info": "n"
+            // },
+            // {
+            //     "hiragana": "ようじ",
+            //     "kanji": "幼児",
+            //     "vietnamese": "trẻ con; đứa trẻ",
+            //     "info": "n"
+            // },
+            // {
+            //     "hiragana": "おさないこども",
+            //     "kanji": "幼い子ども",
+            //     "vietnamese": "trẻ con; đứa trẻ",
+            //     "info": "adj"
+            // },
+            // {
+            //     "hiragana": "こどもがせいちょうします",
+            //     "kanji": "子どもが成長する",
+            //     "vietnamese": "đứa trẻ lớn dần",
+            //     "info": "tự"
+            // },
+            // {
+            //     "hiragana": "わがままにそだちます",
+            //     "kanji": "わがままに育つ",
+            //     "vietnamese": "dạy làm hư đứa trẻ",
+            //     "info": "tự"
+            // },
+            // {
+            //     "hiragana": "えらい",
+            //     "kanji": "えらい",
+            //     "vietnamese": "tuyệt vời; giỏi",
+            //     "info": "adj"
+            // },
+            // {
+            //     "hiragana": "あたまをなでます",
+            //     "kanji": "頭をなでる",
+            //     "vietnamese": "xoa đầu",
+            //     "info": "tha"
+            // },
+            // {
+            //     "hiragana": "おしりをたたきます/おしりをぶちます",
+            //     "kanji": "お尻をたたく/お尻をぶつ",
+            //     "vietnamese": "đánh mông",
+            //     "info": "tha"
+            // },
+            // {
+            //     "hiragana": "いたずらをします",
+            //     "kanji": "いたずらをする",
+            //     "vietnamese": "tinh nghịch",
+            //     "info": "tự"
+            // },
+            // {
+            //     "hiragana": "いたずらな",
+            //     "kanji": "いたずらな",
+            //     "vietnamese": "nghịch ngợm",
+            //     "info": "adj-na"
+            // },
+            // {
+            //     "hiragana": "てをつなぎます",
+            //     "kanji": "手をつなぐ",
+            //     "vietnamese": "nắm tay",
+            //     "info": "tha"
+            // },
+            // {
+            //     "hiragana": "てをはなします",
+            //     "kanji": "手をはなす",
+            //     "vietnamese": "buông tay",
+            //     "info": "tha"
+            // },
+            // {
+            //     "hiragana": "こどもがまいごになります",
+            //     "kanji": "子どもが迷子になる",
+            //     "vietnamese": "đứa trẻ bị lạc",
+            //     "info": "tự"
+            // },
+            // {
+            //     "hiragana": "こどもがははおやのあとをついていきます",
+            //     "kanji": "子どもが母親の後をついていく",
+            //     "vietnamese": "đứa trẻ đi theo sau mẹ",
+            //     "info": "tự"
+            // },
+            // {
+            //     "hiragana": "いぬをかいます",
+            //     "kanji": "犬を飼う",
+            //     "vietnamese": "nuôi chó",
+            //     "info": "tha"
+            // },
+            // {
+            //     "hiragana": "さんぽにつれていきます",
+            //     "kanji": "散歩に連れていく",
+            //     "vietnamese": "dẫn đi bộ",
+            //     "info": "tha"
+            // },
+            // {
+            //     "hiragana": "いぬにえさをやります/いぬにえさをあたえます",
+            //     "kanji": "犬にえさをやる/犬にえさを与える",
+            //     "vietnamese": "cho chó ăn",
+            //     "info": "tha"
+            // }
         ]
     },
     {
         "lesson": "sou w2 d1",
         "vocabulary": [
             {
+                "hiragana": "さきおととい",
+                "kanji": "先一昨日",
+                "vietnamese": "hôm kìa",
+                "info": "n, 先 (tiên, tiến) ⺧ () 儿 (nhân) 昨 (tạc: hôm qua) 乍 (sạ) 日 (nhật) "
+            },
+            {
                 "hiragana": "いっさくじつ",
                 "kanji": "一昨日",
                 "vietnamese": "hôm kia",
-                "info": "n"
+                "info": "n, 昨 (tạc: hôm qua) 乍 (sạ) 日 (nhật)"
             },
             {
                 "hiragana": "さくじつ",
                 "kanji": "昨日",
                 "vietnamese": "hôm qua",
-                "info": "n"
+                "info": "n, 昨 (tạc: hôm qua) 乍 (sạ) 日 (nhật)"
             },
             {
                 "hiragana": "あす",
                 "kanji": "明日",
                 "vietnamese": "ngày mai",
-                "info": "n"
-            },
-            {
-                "hiragana": "さきおととい",
-                "kanji": "さきおととい",
-                "vietnamese": "hôm kìa",
-                "info": "n"
-            },
-            {
-                "hiragana": "しあさって",
-                "kanji": "しあさって",
-                "vietnamese": "ngày kìa; 3 ngày sau",
-                "info": "n"
+                "info": "n, 明 (minh) 日 (nhật) 月 (nguyệt) "
             },
             {
                 "hiragana": "あさって",
@@ -963,105 +897,57 @@ data_vocabulary = [
                 "info": "n"
             },
             {
-                "hiragana": "がんじつ",
-                "kanji": "元日",
+                "hiragana": "しあさって",
+                "kanji": "しあさって",
+                "vietnamese": "ngày kìa/３ ngày sau",
+                "info": "n"
+            },
+            {
+                "hiragana": "がんじつ/がんたん",
+                "kanji": "元日/元旦",
                 "vietnamese": "mùng một Tết",
-                "info": "n"
+                "info": "n, 元 (nguyên) 二 (nhị) 儿 (nhân) , 旦 (đán) 日 (nhật) 一 (nhất) "
             },
             {
-                "hiragana": "がんたん",
-                "kanji": "元旦",
-                "vietnamese": "mùng một Tết",
-                "info": "n"
-            },
-            {
-                "hiragana": "じょうじゅん",
-                "kanji": "上旬",
+                "hiragana": "じょうじゅん/しょじゅん",
+                "kanji": "上旬/初旬",
                 "vietnamese": "10 ngày đầu của tháng",
-                "info": "n"
-            },
-            {
-                "hiragana": "しょじゅん",
-                "kanji": "初旬",
-                "vietnamese": "10 ngày đầu của tháng",
-                "info": "n"
+                "info": "n, 旬 (tuần: 10 ngày) 日 (nhật) 勹 (bao), 初 (sơ) 衤 (y) 刀 (đao) "
             },
             {
                 "hiragana": "ちゅうじゅん",
                 "kanji": "中旬",
                 "vietnamese": "10 ngày giữa một tháng",
-                "info": "n"
+                "info": "n, 旬 (tuần: 10 ngày) 日 (nhật) 勹 (bao)"
             },
             {
                 "hiragana": "げじゅん",
                 "kanji": "下旬",
                 "vietnamese": "10 ngày cuối một tháng",
-                "info": "n"
+                "info": "n, 下 (hạ, há), 旬 (tuần: 10 ngày) 日 (nhật) 勹 (bao)"
             },
             {
-                "hiragana": "げつまつ",
-                "kanji": "月末",
-                "vietnamese": "cuối tháng",
-                "info": "n"
-            },
-            {
-                "hiragana": "へいじつ",
-                "kanji": "平日",
-                "vietnamese": "ngày thường (thứ 2 đến thứ 6)",
-                "info": ""
-            },
-            {
-                "hiragana": "しゅくじつ",
-                "kanji": "祝日",
+                "hiragana": "しゅくじつ/さいじつ",
+                "kanji": "祝日/祭日",
                 "vietnamese": "ngày lễ",
-                "info": ""
-            },
-            {
-                "hiragana": "さいじつ",
-                "kanji": "祭日",
-                "vietnamese": "ngày lễ",
-                "info": ""
-            },
-            {
-                "hiragana": "さくねん",
-                "kanji": "昨年",
-                "vietnamese": "năm trước",
-                "info": ""
+                "info": "祝 (chúc, chú) 兄 (huynh) 礻 (thị) 祭 (tế: cúng) 示 (kì) ⺼ () 又 (hựu) "
             },
             {
                 "hiragana": "いっさくねん",
                 "kanji": "一昨年",
                 "vietnamese": "năm kia",
-                "info": ""
+                "info": "昨 (tạc: hôm qua) 乍 (sạ) 日 (nhật)"
             },
             {
-                "hiragana": "さらいねん",
-                "kanji": "再来年",
-                "vietnamese": "hai năm nữa",
-                "info": ""
+                "hiragana": "さくねん",
+                "kanji": "昨年",
+                "vietnamese": "năm trước",
+                "info": "昨 (tạc: hôm qua) 乍 (sạ) 日 (nhật)"
             },
             {
-                "hiragana": "せんせんげつ",
-                "kanji": "先々月",
-                "vietnamese": "hai tháng trước",
-                "info": ""
-            },
-            {
-                "hiragana": "せんせんしゅう",
-                "kanji": "先々週",
-                "vietnamese": "hai tuần trước",
-                "info": ""
-            },
-            {
-                "hiragana": "さらいげつ",
-                "kanji": "再来月",
-                "vietnamese": "hai tháng sau",
-                "info": ""
-            },
-            {
-                "hiragana": "さらいしゅう",
-                "kanji": "再来週",
-                "vietnamese": "hai tuần sau",
+                "hiragana": "せんせん げつ/しゅう",
+                "kanji": "先々月/週",
+                "vietnamese": "hai tháng/tuần trước",
                 "info": ""
             },
             {
@@ -1071,147 +957,75 @@ data_vocabulary = [
                 "info": ""
             },
             {
-                "hiragana": "ねんまつねんし",
-                "kanji": "年末年始",
-                "vietnamese": "đầu năm cuối năm",
-                "info": ""
+                "hiragana": "さらい しゅう/げつ/ねん",
+                "kanji": "再来 週/月/年",
+                "vietnamese": "hai tuần/tháng/năm sau",
+                "info": "再 (tái) 来 (lai, lãi) 丷 () 未 (vị) 週 (chu) 周 (chu) ⻌ () "
             },
             {
                 "hiragana": "くれ",
                 "kanji": "暮れ",
                 "vietnamese": "cuối năm",
+                "info": "暮 (mộ: tối, cuối) 日 (nhật) 莫 (mạc) "
+            },
+            {
+                "hiragana": "ねんまつねんし",
+                "kanji": "年末年始",
+                "vietnamese": "29/12-1/3",
+                "info": "年 (niên) 𠂉 () ヰ () 末 (mạt) 始 (thủy, thí) 女 (nữ) 台 (đài) "
+            },
+            {
+                "hiragana": "ちょうせいする (よていを)",
+                "kanji": "調整する (予定を)",
+                "vietnamese": "điều chỉnh (kế hoạch)",
+                "info": "調 (điều, điệu) 周 (chu) 言 (ngôn) 整 (chỉnh) 敕 (sắc: lệnh) 攵 (phộc) 束 (thúc: buộc)  正 (chánh) "
+            },
+            {
+                "hiragana": "へんこうする (ひにちを)",
+                "kanji": "変更する (日にちを)",
+                "vietnamese": "thay đổi (ngày tháng/lịch trình/lịch trình)",
+                "info": "変 (biến) 夂 (tri) 亦 (diệc) 更 (canh: 5) 一 (nhất) 日 (nhật) 乂 (nghệ) "
+            },
+            {
+                "hiragana": "ずらす (にっていを/スケジュールを)",
+                "kanji": "ずらす (日程を/スケジュールを)",
+                "vietnamese": "hoãn/kéo dài (lịch trình/lịch trình)",
+                "info": "程 (trình: chương) 禾 (hòa) 呈 (trình: lên) "
+            },
+            {
+                "hiragana": "とる (きゅうかを)",
+                "kanji": "取る (休暇を)",
+                "vietnamese": "lấy (phép nghỉ)",
+                "info": "休 (hưu) 亻 (nhân) 木 (mộc) 暇 (hạ: nhàn) 叚 (giả) 日 (nhật) "
+            },
+            {
+                "hiragana": "とりけす/キャンセルする (よやくを)",
+                "kanji": "取り消す/キャンセルする (予約を)",
+                "vietnamese": "hủy (đặt trước)",
+                "info": "消 (tiêu) 肖 (tiếu: giống) 氵 (thủy) 予 (dư, dữ) マ () 丁 (đinh) 約 (ước) 勺 (chước) 糸 (mịch) "
+            },
+            {
+                "hiragana": "つめる (にもつを)",
+                "kanji": "つめる (荷物を)",
+                "vietnamese": "đóng (hành lý)",
+                "info": "荷 (hà, hạ) 何 (hà) 艹 (thảo) 物 (vật) 勿 (vật) 牜 () "
+            },
+            {
+                "hiragana": "しゅくはくする (りょかんに)",
+                "kanji": "宿泊する (旅館に)",
+                "vietnamese": "lưu trú (tại lữ quán)",
+                "info": "宿 (túc, tú) 佰 (bách) 宀 (miên) 泊 (bạc: ghé vào) 白 (bạch) 氵 (thủy) 旅 (lữ) 𠂉 () 方 (phương) 𧘇 () 館 (quán) 官 (quan) 飠 (thực) "
+            },
+            {
+                "hiragana": "いく (にはくみっかで/ひがえりで)",
+                "kanji": "行く (二泊三日で/日帰りで)",
+                "vietnamese": "đi (2 đêm 3 ngày / trong ngày)",
                 "info": ""
             },
             {
-                "hiragana": "きゅうかをとる",
-                "kanji": "休暇を取る",
-                "vietnamese": "lấy phép",
-                "info": ""
-            },
-            {
-                "hiragana": "よていをちょうせいする",
-                "kanji": "予定を調整する",
-                "vietnamese": "điều chỉnh kế hoạch",
-                "info": ""
-            },
-            {
-                "hiragana": "よていをへんこうする",
-                "kanji": "予定を変更する",
-                "vietnamese": "thay đổi kế hoạch",
-                "info": ""
-            },
-            {
-                "hiragana": "よていをずらす",
-                "kanji": "予定をずらす",
-                "vietnamese": "hoãn, kéo dài kế hoạch",
-                "info": ""
-            },
-            {
-                "hiragana": "ひにちをちょうせいする",
-                "kanji": "日にちを調整する",
-                "vietnamese": "điều chỉnh ngày tháng",
-                "info": ""
-            },
-            {
-                "hiragana": "ひにちをへんこうする",
-                "kanji": "日にちを変更する",
-                "vietnamese": "thay đổi ngày tháng",
-                "info": ""
-            },
-            {
-                "hiragana": "ひにちをずらす",
-                "kanji": "日にちをずらす",
-                "vietnamese": "hoãn ngày lại",
-                "info": ""
-            },
-            {
-                "hiragana": "にっていをちょうせいする",
-                "kanji": "日程を調整する",
-                "vietnamese": "điều chỉnh lịch trình",
-                "info": ""
-            },
-            {
-                "hiragana": "にっていをへんこうする",
-                "kanji": "日程を変更する",
-                "vietnamese": "thay đổi lịch trình",
-                "info": ""
-            },
-            {
-                "hiragana": "にっていをずらす",
-                "kanji": "日程をずらす",
-                "vietnamese": "hoãn lịch trình",
-                "info": ""
-            },
-            {
-                "hiragana": "スケジュールをちょうせいする",
-                "kanji": "スケジュールを調整する",
-                "vietnamese": "điều chỉnh lịch trình",
-                "info": ""
-            },
-            {
-                "hiragana": "スケジュールをへんこうする",
-                "kanji": "スケジュールを変更する",
-                "vietnamese": "thay đổi lịch trình",
-                "info": ""
-            },
-            {
-                "hiragana": "スケジュールをずらす",
-                "kanji": "スケジュールをずらす",
-                "vietnamese": "hoãn lịch trình",
-                "info": ""
-            },
-            {
-                "hiragana": "りょこうがいしゃにもうしこむ",
-                "kanji": "旅行会社に申し込む",
-                "vietnamese": "đăng ký du lịch cả công ty",
-                "info": ""
-            },
-            {
-                "hiragana": "よやくをとりけす",
-                "kanji": "予約を取り消す",
-                "vietnamese": "hủy việc đặt trước",
-                "info": ""
-            },
-            {
-                "hiragana": "よやくをキャンセルする",
-                "kanji": "予約をキャンセルする",
-                "vietnamese": "hủy việc đặt trước",
-                "info": ""
-            },
-            {
-                "hiragana": "にもつをつめる",
-                "kanji": "荷物をつめる",
-                "vietnamese": "đóng hành lý",
-                "info": ""
-            },
-            {
-                "hiragana": "かいがいりょこう",
-                "kanji": "海外旅行",
-                "vietnamese": "du lịch nước ngoài",
-                "info": ""
-            },
-            {
-                "hiragana": "こくないりょこう",
-                "kanji": "国内旅行",
-                "vietnamese": "du lịch trong nước",
-                "info": ""
-            },
-            {
-                "hiragana": "にはくみっかでおんせんにいく",
-                "kanji": "二泊三日で温泉に行く",
-                "vietnamese": "đi suối nước nóng 2 đêm 3 ngày",
-                "info": ""
-            },
-            {
-                "hiragana": "ひがえりでおんせんにいく",
-                "kanji": "日帰りで温泉に",
-                "vietnamese": "đi suối nước nóng trong ngày",
-                "info": ""
-            },
-            {
-                "hiragana": "りょかんにしゅくはくする",
-                "kanji": "旅館に宿泊する",
-                "vietnamese": "lưu trú tại lữ quán",
+                "hiragana": "かいがいりょこう/こくないりょこう",
+                "kanji": "海外旅行/国内旅行",
+                "vietnamese": "du lịch nước ngoài / trong nước",
                 "info": ""
             }
         ]
