@@ -1034,172 +1034,112 @@ data_vocabulary = [
         "lesson": "sou w2 d2",
         "vocabulary": [
             {
-                "hiragana": "かいだんをのぼる",
-                "kanji": "階段を上る",
+                "hiragana": "かいだんを のぼります/あがります",
+                "kanji": "階段を 上る/上がる",
                 "vietnamese": "bước lên cầu thang",
-                "info": "v"
+                "info": "tự, 階 (giai: đoạn) 皆 (giai: huynh đệ)| 比 (bì) 白 (bạch) 段 (đoạn) |乍 (sạ) 殳 (thù) "
             },
             {
-                "hiragana": "かいだんをあがる",
-                "kanji": "階段を上がる",
-                "vietnamese": "bước lên cầu thang",
-                "info": "v"
-            },
-            {
-                "hiragana": "かいだんをくだる",
-                "kanji": "階段を下る",
+                "hiragana": "かいだんをくだります/おります",
+                "kanji": "階段を下る/下りる",
                 "vietnamese": "bước xuống cầu thang",
-                "info": "v"
+                "info": "tự, 階 (giai: đoạn) 皆 (giai: huynh đệ)| 比 (bì) 白 (bạch) 段 (đoạn)| 乍 (sạ) 殳 (thù)"
             },
             {
-                "hiragana": "かいだんをおりる",
-                "kanji": "階段を下りる",
-                "vietnamese": "bước xuống cầu thang",
-                "info": "v"
-            },
-            {
-                "hiragana": "くだりでんしゃ",
-                "kanji": "下り電車",
-                "vietnamese": "tàu đi về hướng Hokkaido",
+                "hiragana": "くだりでんしゃ/のぼりでんしゃ",
+                "kanji": "下り電車/上り電車",
+                "vietnamese": "tàu đi về địa phương/ trung tâm (Tokyo)",
                 "info": "n"
             },
             {
-                "hiragana": "のぼりでんしゃ",
-                "kanji": "上り電車",
-                "vietnamese": "tàu đi về hướng Tokyo",
+                "hiragana": "エスカレーターの のぼり/くだり",
+                "kanji": "エスカレーターの 上り/下り",
+                "vietnamese": "thang cuốn đi lên/xuống",
                 "info": "n"
             },
             {
-                "hiragana": "エスカレーターののぼり",
-                "kanji": "エスカレーターの上り",
-                "vietnamese": "thang cuốn đi lên",
-                "info": "n"
-            },
-            {
-                "hiragana": "エスカレーターのくだり",
-                "kanji": "エスカレーターの下り",
-                "vietnamese": "thang cuốn đi xuống",
-                "info": "n"
-            },
-            {
-                "hiragana": "れっしゃのじこくをしらべる",
+                "hiragana": "れっしゃのじこくをしらべます",
                 "kanji": "列車の時刻を調べる",
-                "vietnamese": "tìm kiếm giờ tàu chạy",
-                "info": ""
+                "vietnamese": "tìm kiếm/tra cứu giờ tàu chạy",
+                "info": "tha, 列 (liệt: kê) 刂 (đao) |歹 (ngạt: xương tàn) 死 (tử) |刻 (khắc: chạm) 亥 (hợi) |調 (điều, điệu) 周 (chu)|言 (ngôn) "
             },
             {
-                "hiragana": "じこくひょう",
-                "kanji": "時刻表",
-                "vietnamese": "bảng giờ tàu chạy",
-                "info": ""
-            },
-            {
-                "hiragana": "とうきょうはつよこはまい/ゆき",
+                "hiragana": "とうきょうはつよこはまいき/ゆき",
                 "kanji": "東京発横浜行き",
-                "vietnamese": "tàu xuất phát ở Tokyo đi đến Yokohama",
-                "info": ""
+                "vietnamese": "tàu xuất phát từ Tokyo đi đến Yokohama",
+                "info": "n, 発 (phát) 癶 (bát) 二 (nhị) |儿 (nhân) 横 (hoành) 木 (mộc)| 黄 (hoàng: vàng) 浜 (banh) 兵 (binh) |氵 (thủy) "
             },
             {
                 "hiragana": "してつ",
                 "kanji": "私鉄",
                 "vietnamese": "đường sắt tư nhân",
-                "info": ""
+                "info": "n, 私 (tư) 厶 (khư) 禾 (hòa) |鉄 (thiết) 失 (thất) 金 (kim) "
             },
             {
-                "hiragana": "しんかんせん",
-                "kanji": "新幹線",
-                "vietnamese": "tàu siêu tốc Shinkansen",
-                "info": ""
-            },
-            {
-                "hiragana": "ざせきをしていする",
+                "hiragana": "ざせきをしていします",
                 "kanji": "座席を指定する",
-                "vietnamese": "đặt ghế chỉ định",
-                "info": ""
+                "vietnamese": "chọn/đặt ghế chỉ định",
+                "info": "tha, 座 (tọa) 坐 (tọa) 广 (nghiễm) |席 (tịch: chiếu) 廿 (nhập) |巾 (cân) 指 (chỉ) 旨 (chỉ) |扌 (thủ) 定 (định, đính) |疋 (sơ) 宀 (miên) "
             },
             {
-                "hiragana": "していせき",
-                "kanji": "指定席",
-                "vietnamese": "ghế chỉ định",
-                "info": ""
+                "hiragana": "していせき/じゆうせき",
+                "kanji": "指定席/自由席",
+                "vietnamese": "ghế chỉ định/ghế tự do",
+                "info": "n, 指 (chỉ) 旨 (chỉ) 扌 (thủ) |定 (định, đính) 疋 (sơ) |宀 (miên) 席 (tịch: chiếu)| 廿 (nhập) 广 (nghiễm) |自 (tự) 由 (do) "
             },
             {
-                "hiragana": "じゆうせき",
-                "kanji": "自由席",
-                "vietnamese": "ghế tự do",
-                "info": ""
-            },
-            {
-                "hiragana": "まどがわ",
-                "kanji": "窓側",
-                "vietnamese": "hướng cửa sổ",
-                "info": ""
-            },
-            {
-                "hiragana": "つうろがわ",
-                "kanji": "通路側",
-                "vietnamese": "hướng về lối đi",
-                "info": ""
+                "hiragana": "まどがわ/つうろがわ",
+                "kanji": "窓側/通路側",
+                "vietnamese": "hướng cửa sổ/hướng lối đi",
+                "info": "n, 窓 (song) 穴 (huyệt) 厶 (khư) |心 (tâm) 側 (trắc) 亻 (nhân)| 則 (tắc) 通 (thông) |甬 (dũng) ⻌ () 路 (lộ: đường) |各 (các) ⻊ () "
             },
             {
                 "hiragana": "じょうしゃけん",
                 "kanji": "乗車券",
                 "vietnamese": "vé lên tàu",
-                "info": ""
+                "info": "n, 乗 (thừa: lên xe) 禾 (hòa) |券 (khoán: hợp đồng) 龹 () 刀 (đao) "
             },
             {
                 "hiragana": "かたみちきっぷ",
                 "kanji": "片道切符",
                 "vietnamese": "vé một chiều",
-                "info": ""
+                "info": "n, 片 (phiến: đá, mỏng phẳng) |道 (đạo, đáo) 首 (thủ) ⻌ () |切 (thiết, thế) 七 (thất) |刀 (đao) 符 (phù: hiệu)| 付 (phó) ⺮ () "
             },
             {
                 "hiragana": "おうふくきっぷ",
                 "kanji": "往復切符",
                 "vietnamese": "vé khứ hồi",
-                "info": ""
+                "info": "n, 往 (vãng: đi) 主 (chủ) 彳 (xích)| 復 (phục: lại) 彳 (xích) |复 (phục) 切 (thiết, thế) |七 (thất) 刀 (đao) 符 (phù) |付 (phó) ⺮ () "
             },
             {
                 "hiragana": "とっきゅうけん",
                 "kanji": "特急券",
                 "vietnamese": "vé tàu tốc hành",
-                "info": ""
-            },
-            {
-                "hiragana": "とっきゅうりょうきん",
-                "kanji": "特急料金",
-                "vietnamese": "cước tàu tốc hành",
-                "info": ""
+                "info": "n, 特 (đặc) 牜 () 寺 (tự)| 急 (cấp) 心 (tâm) ⺈ ()| ヨ () 券 (khoán: hợp đồng) 龹 () |刀 (đao) "
             },
             {
                 "hiragana": "かいすうけん",
                 "kanji": "回数券",
-                "vietnamese": "vé tập",
-                "info": ""
+                "vietnamese": "vé nhiều lượt (nhiều lần đi cùng tuyến)",
+                "info": "n, 回 (hồi, hối) 口 (khẩu)| 囗 (vi) 数 (số) 女 (nữ) |米 (mễ) 攵 (phộc) 券 (khoán: hợp đồng) |龹 () 刀 (đao) "
             },
             {
                 "hiragana": "ていきけん",
                 "kanji": "定期券",
                 "vietnamese": "vé định kỳ",
-                "info": ""
+                "info": "n, 定 (định, đính) 疋 (sơ) 宀 (miên)| 期 (kì, ki) 其 (kì) |月 (nguyệt) 券 (khoán: hợp đồng)| 龹 () 刀 (đao) "
             },
             {
-                "hiragana": "かいさつぐちをとおる",
+                "hiragana": "かいさつぐちをとおります",
                 "kanji": "改札口を通る",
                 "vietnamese": "qua cổng soát vé",
-                "info": ""
-            },
-            {
-                "hiragana": "きっぷをはらいもどす",
-                "kanji": "切符を払い戻す",
-                "vietnamese": "trả lại vé",
-                "info": ""
+                "info": "tự, 改 (cải: tạo) 攵 (phộc) |己 (kỉ) 札 (trát: ther) |乚 () 木 (mộc) 通 (thông) |甬 (dũng) ⻌ () "
             },
             {
                 "hiragana": "はらいもどし",
                 "kanji": "払い戻し",
                 "vietnamese": "hoàn trả (tiền, vé…)",
-                "info": ""
+                "info": "n, 払 (phất: trả) 厶 (khư) |扌 (thủ) 戻 (lệ: quay lại)| 大 (đại) 戸 (hộ) "
             }
         ]
     },
