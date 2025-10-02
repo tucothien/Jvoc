@@ -1147,184 +1147,124 @@ data_vocabulary = [
         "lesson": "sou w2 d3",
         "vocabulary": [
             {
-                "hiragana": "（プラット）ホームがこんざつしている",
-                "kanji": "（プラット）ホームが混雑している",
+                "hiragana": "ホームがこんざつします",
+                "kanji": "ホームが混雑する",
                 "vietnamese": "tắc nghẽn ở chỗ chờ lên tàu",
-                "info": "v"
+                "info": "tự, 混 (hỗn: tạp) 昆 (côn: trùng) 氵 (thủy) 雑 (tạp: chí) 隹 (chuy) 九 (cửu) 木 (mộc) "
             },
             {
-                "hiragana": "はくせんのうちがわにさがる",
-                "kanji": "白線の内側に下がる",
-                "vietnamese": "lùi vào bên trong vạch trắng",
-                "info": "v"
-            },
-            {
-                "hiragana": "きいろいせんのうちがわにさがる",
-                "kanji": "黄色い線の内側に",
+                "hiragana": "きいろいせんのうちがわにさがります",
+                "kanji": "黄色い線の内側に下がる",
                 "vietnamese": "lùi vào bên trong vạch vàng",
-                "info": "v"
+                "info": "tự, 黄 (hoàng) 共 (cộng) 田 (điền) 線 (tuyến) 糸 (mịch) 泉 (tuyền: suối) 側 (trắc) 亻 (nhân) 則 (tắc) "
             },
             {
-                "hiragana": "そとがわ",
-                "kanji": "外側",
-                "vietnamese": "phía ngoài",
-                "info": "n"
-            },
-            {
-                "hiragana": "とっきゅうがつうかする",
+                "hiragana": "とっきゅうがつうかします",
                 "kanji": "特急が通過する",
                 "vietnamese": "tàu tốc hành đi qua",
-                "info": "v"
+                "info": "tự, 特 (đặc) 牜 () 寺 (tự) 急 (cấp) 心 (tâm) ⺈ () ヨ () 通 (thông) 甬 (dũng) ⻌ () 過 (quá, qua) 咼 (qua) ⻌ () "
             },
             {
-                "hiragana": "じょうしゃする",
-                "kanji": "乗車する",
-                "vietnamese": "lên tàu",
-                "info": "v"
+                "hiragana": "じょうしゃします/げしゃします",
+                "kanji": "乗車する/下車する",
+                "vietnamese": "lên tàu/xuống tàu",
+                "info": "tự, 乗 (thừa) 禾 (hòa) "
             },
             {
-                "hiragana": "げしゃする",
-                "kanji": "下車する",
-                "vietnamese": "xuống tàu",
-                "info": "v"
-            },
-            {
-                "hiragana": "はっしゃする",
+                "hiragana": "はっしゃします",
                 "kanji": "発車する",
                 "vietnamese": "tàu xuất phát",
-                "info": "v"
-            },
-            {
-                "hiragana": "でんしゃ（のなか）はがらがらだ",
-                "kanji": "電車（の中）はがらがらだ",
-                "vietnamese": "trên tàu vắng tanh",
-                "info": "v"
+                "info": "tự, 発 (phát) 癶 (bát) 二 (nhị) 儿 (nhân) "
             },
             {
                 "hiragana": "からっぽ",
                 "kanji": "空っぽ",
                 "vietnamese": "vắng tanh, trống rỗng",
-                "info": "a-na"
+                "info": "a-na, 空 (không, khống, khổng) 工 (công) 穴 (huyệt) "
             },
             {
-                "hiragana": "まんいんでんしゃでつうきんする",
+                "hiragana": "まんいんでんしゃでつうきんします",
                 "kanji": "満員電車で通勤する",
-                "vietnamese": "đi làm trân tàu chật ních người",
-                "info": "v"
+                "vietnamese": "đi làm trên tàu chật ních người",
+                "info": "tự, 満 (mãn: nguyện) 両 (lưỡng) 艹 (thảo) 氵 (thủy) 員 (viên: nhân) 貝 (bối) 口 (khẩu) 通 (thông) 甬 (dũng) ⻌ () 勤 (cần: chuyên) 主 (chủ) 艹 (thảo) 口 (khẩu)  力 (lực) "
             },
             {
-                "hiragana": "でんしゃがゆれる",
-                "kanji": "電車がゆれる",
+                "hiragana": "でんしゃがゆれます",
+                "kanji": "電車が揺れる",
                 "vietnamese": "tàu lảo đảo, rung lắc",
-                "info": "v"
+                "info": "tự, 揺 (dao: động) 扌 (thủ) ⺤ () 缶 (phữu: lon)"
             },
             {
-                "hiragana": "しはつ（でんしゃ）",
-                "kanji": "始発（電車）",
-                "vietnamese": "chuyến tàu đầu tiên trong ngày",
-                "info": "n"
+                "hiragana": "しはつ（でんしゃ）/しゅうでん",
+                "kanji": "始発（電車）/終電",
+                "vietnamese": "chuyến tàu đầu tiên/chuyến tàu cuối cùng trong ngày",
+                "info": "n, 始 (thủy, thí) 女 (nữ) 台 (thai) 発 (phát) 癶 (bát) 二 (nhị) 儿 (nhân) 終 (chung) 糸 (mịch) 冬 (đông) "
             },
             {
-                "hiragana": "しゅうでん",
-                "kanji": "終電",
-                "vietnamese": "chuyến tàu cuối cùng trong ngày",
-                "info": "n"
-            },
-            {
-                "hiragana": "しはつえきからのる",
-                "kanji": "始発駅から乗る",
-                "vietnamese": "lên từ ga đầu",
-                "info": "v"
-            },
-            {
-                "hiragana": "しゅうてんでおりる",
-                "kanji": "終点で降りる",
-                "vietnamese": "xuống ga cuối",
-                "info": "v"
-            },
-            {
-                "hiragana": "きゅうこうからかくえきていしゃにのりかえる",
-                "kanji": "急行から各駅停車に乗り換える",
-                "vietnamese": "đổi từ tàu nhanh sang tàu dừng địa phương",
-                "info": "v"
+                "hiragana": "しはつえき/しゅうてんえき",
+                "kanji": "始発駅/終点駅",
+                "vietnamese": "ga đầu/ga cuối",
+                "info": "n, 始 (thủy, thí) 女 (nữ) 台 (thai) 発 (phát) 癶 (bát) 二 (nhị) 儿 (nhân) 終 (chung) 糸 (mịch) 冬 (đông) 点 (điểm) 灬 (hỏa) 占 (chiêm) 駅 (dịch) 馬 (mã) 尺 (xích) "
             },
             {
                 "hiragana": "のりかえ",
                 "kanji": "乗り換え",
                 "vietnamese": "đổi tàu",
-                "info": "n"
+                "info": "n, 乗 (thừa) 禾 (hòa) 換 (hoán: đổi) 奐 (hoán) 扌 (thủ) "
             },
             {
-                "hiragana": "のりおくれる",
+                "hiragana": "のりおくれます",
                 "kanji": "乗り遅れる",
                 "vietnamese": "lỡ chuyến tàu",
-                "info": "v"
+                "info": "tự, 乗 (thừa) 禾 (hòa) 遅 (trì) 羊 (dương) 尸 (thi) ⻌ () "
             },
             {
-                "hiragana": "のりすごす",
+                "hiragana": "のりすごします",
                 "kanji": "乗り過ごす",
                 "vietnamese": "đi quá ga cần tới",
-                "info": "v"
-            },
-            {
-                "hiragana": "のりこす",
-                "kanji": "乗り越す",
-                "vietnamese": "đi quá ga cần tới",
-                "info": "v"
+                "info": "tự, 乗 (thừa) 禾 (hòa) 過 (quá, qua) 咼 (qua) ⻌ () "
             },
             {
                 "hiragana": "のりこし",
                 "kanji": "乗り越し",
                 "vietnamese": "đi quá ga cần tới",
-                "info": "n"
+                "info": "n, 乗 (thừa) 禾 (hòa) 越 (việt: vượt) 走 (tẩu) 戉 () "
             },
             {
-                "hiragana": "うんちんをせいさんする",
+                "hiragana": "うんちんをせいさんします",
                 "kanji": "運賃を精算する",
                 "vietnamese": "điều chỉnh, tính lại cước phí đi",
-                "info": "v"
+                "info": "tha, 運 (vận) 軍 (quân: lính) ⻌ () 賃 (nhẫm: thuê) 貝 (bối) 任 (nhiệm) 精 (tinh: trắng) 青 (thanh) 米 (mễ) 算 (toán) 廾 (củng) 目 (mục) ⺮ () "
             },
             {
-                "hiragana": "しゃしょうがしゃないアナウンスをする",
+                "hiragana": "しゃしょうがしゃないアナウンスをします",
                 "kanji": "車掌が車内アナウンスをする",
                 "vietnamese": "người điều hành thông báo trên tàu",
-                "info": "v"
+                "info": "tha, 掌 (chưởng: chấp) 手 (thủ) 口 (khẩu) 龸 () "
             },
             {
-                "hiragana": "けいたいでんわのしようをひかえる",
-                "kanji": "携帯電話の使用を控える",
+                "hiragana": "けいたいでんわのしようをひかえます",
+                "kanji": "けいたい電話の使用を控える",
                 "vietnamese": "hạn chế dùng di động",
-                "info": "v"
+                "info": "tha, 控 (khống: chế) 空 (không) 扌 (thủ) "
             },
             {
-                "hiragana": "（お）としよりにせきをゆずる",
+                "hiragana": "（お）としよりにせきをゆずります",
                 "kanji": "（お）年寄りに席をゆずる",
                 "vietnamese": "nhường ghế cho người cao tuổi",
-                "info": "v"
-            },
-            {
-                "hiragana": "ろうじんにせきをゆずる",
-                "kanji": "老人に席をゆずる",
-                "vietnamese": "nhường ghế cho người già",
-                "info": "v"
+                "info": "tha, 寄 (kí: phó thác) 奇 (kì: lạ) 大 (đại) 可 (khả)  宀 (miên) 席 (tịch: chiếu) 廿 (nhập) 巾 (cân) 广 (nghiễm) "
             },
             {
                 "hiragana": "ゆうせんせき",
                 "kanji": "優先席",
                 "vietnamese": "ghế ưu tiên",
-                "info": "n"
+                "info": "n, 優 (ưu: tiên) 憂 (ưu: phiền) 心 (tâm) 夏 (hạ)  亻 (nhân) 席 (tịch: chiếu) 廿 (nhập) 巾 (cân) 广 (nghiễm)"
             },
             {
                 "hiragana": "からだのふじゆうなひと",
                 "kanji": "体の不自由な人",
                 "vietnamese": "người khuyết tật",
                 "info": "n"
-            },
-            {
-                "hiragana": "ちかんにあう",
-                "kanji": "ちかんにあう",
-                "vietnamese": "bị gạ gẫm, bị làm phiền",
-                "info": "v"
             },
             {
                 "hiragana": "えきのばいてん",
