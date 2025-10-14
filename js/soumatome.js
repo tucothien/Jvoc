@@ -1278,184 +1278,94 @@ data_vocabulary = [
         "lesson": "sou w2 d4",
         "vocabulary": [
             {
-                "hiragana": "フロントガラス",
-                "kanji": "フロントガラス",
-                "vietnamese": "kính trước",
-                "info": "n"
-            },
-            {
-                "hiragana": "ワイパー",
-                "kanji": "ワイパー",
-                "vietnamese": "cần gạt nước (kính xe ô tô)",
-                "info": "n"
-            },
-            {
-                "hiragana": "ボンネット",
-                "kanji": "ボンネット",
-                "vietnamese": "bạt mui xe",
-                "info": "n"
-            },
-            {
-                "hiragana": "ライト",
-                "kanji": "ライト",
-                "vietnamese": "đèn ô tô",
-                "info": "n"
-            },
-            {
-                "hiragana": "バックミラー",
-                "kanji": "バックミラー",
-                "vietnamese": "kính chiếu hậu",
-                "info": "n"
-            },
-            {
-                "hiragana": "トランク",
-                "kanji": "トランク",
-                "vietnamese": "thùng xe",
-                "info": "n"
-            },
-            {
-                "hiragana": "サイドミラー",
-                "kanji": "サイドミラー",
-                "vietnamese": "kính chiếu hậu gắn 2 bên",
-                "info": "n"
-            },
-            {
                 "hiragana": "じょしゅせき",
                 "kanji": "助手席",
                 "vietnamese": "ghế bên cạnh ghế của người cầm lái",
-                "info": "n"
-            },
-            {
-                "hiragana": "タイヤ",
-                "kanji": "タイヤ",
-                "vietnamese": "bánh xe",
-                "info": "n"
-            },
-            {
-                "hiragana": "カーナビ",
-                "kanji": "カーナビ",
-                "vietnamese": "hệ thống dẫn đường ô tô",
-                "info": "n"
-            },
-            {
-                "hiragana": "ハンドル",
-                "kanji": "ハンドル",
-                "vietnamese": "tay lái",
-                "info": "n"
+                "info": "n, 助 (trợ) 且 (thả) 力 (lực) |手 (thủ) 席 (tịch) 廿 (nhập) 巾 (cân) |广 (nghiễm) "
             },
             {
                 "hiragana": "うんてんせき",
                 "kanji": "運転席",
                 "vietnamese": "ghế người lái",
-                "info": "n"
-            },
-            {
-                "hiragana": "キー",
-                "kanji": "キー",
-                "vietnamese": "chìa khóa",
-                "info": "n"
+                "info": "n, 運 (vận) 軍 (quân) ⻌ () |転 (chuyển) 云 (vân) 車 (xa)| 席 (tịch) 廿 (nhập)| 巾 (cân) 广 (nghiễm) "
             },
             {
                 "hiragana": "うんてんめんきょしょう",
                 "kanji": "運転免許証",
                 "vietnamese": "bằng lái xe",
-                "info": ""
+                "info": "n, 運 (vận) 軍 (quân) ⻌ () 転 (chuyển)| 云 (vân) 車 (xa) |免 (miễn: bỏ) 丨 (cổn) 口 (khẩu) |⺈ () 儿 (nhân) 許 (hứa: hẹn) 午 (ngọ) |言 (ngôn) 証 (chứng) |正 (chánh) 言 (ngôn) "
             },
             {
-                "hiragana": "ドライブ（を）する",
-                "kanji": "ドライブ（を）する",
-                "vietnamese": "lái xe",
-                "info": ""
-            },
-            {
-                "hiragana": "レンタカーをかりる",
+                "hiragana": "レンタカーをかります",
                 "kanji": "レンタカーを借りる",
                 "vietnamese": "thuê xe",
-                "info": ""
+                "info": "tha, 借 (tá) 昔 (tích: xưa) |日 (nhật) 龷 (nhập)  亻 (nhân) "
             },
             {
-                "hiragana": "トランクににもつをつむ",
+                "hiragana": "トランクににもつをつみます",
                 "kanji": "トランクに荷物を積む",
                 "vietnamese": "chất hành lý vào thùng xe",
-                "info": ""
+                "info": "tha, 荷 (hà: bạc) 何 (hà: sao)| 艹 (thảo) 物 (vật) 勿 (vật) |牜 () 積 (tích: góp) 禾 (hòa)| 責 (trách: nhiệm) 貝 (bối) 龶 ()  "
             },
             {
-                "hiragana": "ひとをのせる",
-                "kanji": "人を乗せる",
-                "vietnamese": "cho người lên",
-                "info": ""
-            },
-            {
-                "hiragana": "シートベルトをしめる",
+                "hiragana": "シートベルトをしめます",
                 "kanji": "シートベルトをしめる",
                 "vietnamese": "thắt dây an toàn",
-                "info": ""
+                "info": "tha"
             },
             {
-                "hiragana": "エンジンをかける",
+                "hiragana": "エンジンをかけます",
                 "kanji": "エンジンをかける",
                 "vietnamese": "khởi động động cơ",
-                "info": ""
+                "info": "tha"
             },
             {
-                "hiragana": "バックミラーでかくにん（を）する",
-                "kanji": "バックミラーで確認（を）する",
-                "vietnamese": "xác nhận nhìn gương chiếu hậu",
-                "info": ""
-            },
-            {
-                "hiragana": "ハンドルをにぎる",
+                "hiragana": "ハンドルをにぎります",
                 "kanji": "ハンドルをにぎる",
                 "vietnamese": "nắm tay lái",
-                "info": ""
+                "info": "tha"
             },
             {
-                "hiragana": "アクセスをふむ",
+                "hiragana": "アクセスをふみます",
                 "kanji": "アクセスをふむ",
                 "vietnamese": "giậm chân ga",
-                "info": ""
+                "info": "tha"
             },
             {
-                "hiragana": "ブレーキをかける",
+                "hiragana": "ブレーキをかけます",
                 "kanji": "ブレーキをかける",
                 "vietnamese": "giậm thắng",
-                "info": ""
+                "info": "tha"
             },
             {
                 "hiragana": "きゅうブレーキ",
                 "kanji": "急ブレーキ",
                 "vietnamese": "thắng gấp",
-                "info": ""
+                "info": "n"
             },
             {
-                "hiragana": "ライトをつける",
-                "kanji": "ライトをつける",
-                "vietnamese": "bật đèn",
-                "info": ""
-            },
-            {
-                "hiragana": "ワイパーをうごかす",
+                "hiragana": "ワイパーをうごかします",
                 "kanji": "ワイパーを動かす",
                 "vietnamese": "bật cần gạt",
-                "info": ""
+                "info": "tha, 動 (động) |重 (trọng) 力 (lực) "
             },
             {
-                "hiragana": "ガソリンスタンドによる",
+                "hiragana": "ガソリンスタンドによります",
                 "kanji": "ガソリンスタンドに寄る",
                 "vietnamese": "ghé vào trạm đổ xăng",
-                "info": ""
+                "info": "tự, 寄 (kí) 奇 (kì) 宀 (miên) "
             },
             {
-                "hiragana": "こうそく（どうろ）にのる",
+                "hiragana": "こうそく（どうろ）にのります",
                 "kanji": "高速（道路）に乗る",
                 "vietnamese": "vào đường cao tốc",
-                "info": ""
+                "info": "tự, 速 (tốc) 束 (thúc) |⻌ () 道 (đạo, đáo) 首 (thủ) |⻌ () 路 (lộ) 各 (các) |⻊ () 乗 (thừa) 禾 (hòa) "
             },
             {
-                "hiragana": "タイヤがパンクする",
+                "hiragana": "タイヤがパンクします",
                 "kanji": "タイヤがパンクする",
                 "vietnamese": "bánh xe bị bể",
-                "info": ""
+                "info": "tự"
             }
         ]
     },
