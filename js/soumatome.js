@@ -1281,7 +1281,7 @@ data_vocabulary = [
                 "hiragana": "じょしゅせき",
                 "kanji": "助手席",
                 "vietnamese": "ghế bên cạnh ghế của người cầm lái",
-                "info": "n, 助 (trợ) 且 (thả) 力 (lực) |手 (thủ) 席 (tịch) 廿 (nhập) 巾 (cân) |广 (nghiễm) "
+                "info": "n, 助 (trợ) 且 (thả) 力 (lực) |手 (thủ) 席 (tịch) |廿 (nhập) 巾 (cân) |广 (nghiễm) "
             },
             {
                 "hiragana": "うんてんせき",
@@ -1375,212 +1375,164 @@ data_vocabulary = [
             {
                 "hiragana": "つうこうどめ",
                 "kanji": "通行止め",
-                "vietnamese": "không lưu thông",
-                "info": "n"
+                "vietnamese": "cấm lưu thông",
+                "info": "n, 通 (thông) 甬 (dũng) ⻌ () |行 (hành, hạnh, hàng, hạng) |彳 (xích) 一 (nhất) 丁 (đinh) 止 (chỉ) "
             },
             {
-                "hiragana": "しんごう",
-                "kanji": "信号",
-                "vietnamese": "tín hiệu đèn giao thông",
-                "info": "n"
-            },
-            {
-                "hiragana": "よつかど",
-                "kanji": "四つ角",
-                "vietnamese": "ngã tư đường",
-                "info": "n"
-            },
-            {
-                "hiragana": "こうさてん",
-                "kanji": "交差点",
+                "hiragana": "よつかど / こうさてん",
+                "kanji": "四つ角 / 交差点",
                 "vietnamese": "ngã tư",
-                "info": "n"
+                "info": "n, 四 (tứ) 儿 (nhân) 囗 (vi) |角 (giác, giốc) ⺈ () 用 (dụng) 交 (giao) |六 (lục) 父 (phụ) 差 (soa, si, sai, sái) |ノ () 𦍌 () 工 (công) 点 (điểm) |灬 (hỏa) 占 (chiêm) "
             },
             {
                 "hiragana": "こうじちゅう",
                 "kanji": "工事中",
                 "vietnamese": "đang thi công",
-                "info": "n"
+                "info": "n, 工 (công) 事 (sự) "
             },
             {
                 "hiragana": "ふみきり",
                 "kanji": "踏切",
                 "vietnamese": "nơi chắn tàu",
-                "info": "n"
+                "info": "n, 踏 (đạp) ⻊ () 沓 (đạp)| 切 (thiết, thế) 七 (thất) 刀 (đao) "
             },
             {
                 "hiragana": "おうだんほどう",
                 "kanji": "横断歩道",
                 "vietnamese": "vạch dành cho người đi bộ",
-                "info": "n"
+                "info": "n, 横 (hoành, hoạnh, quáng) 木 (mộc) 黄 (hoàng) |断 (đoạn, đoán: đứt) 段(đoạn: thẳng) | 米 (mễ) 𠃊 () 斤 (cân) 歩 (bộ) 少 (thiểu) 止 (chỉ)| 道 (đạo, đáo) 首 (thủ) ⻌ () "
             },
             {
-                "hiragana": "バスてい",
-                "kanji": "バス停",
+                "hiragana": "バスてい (ていりゅうじょ)",
+                "kanji": "バス停 (停留所)",
                 "vietnamese": "trạm xe bus",
-                "info": "n"
-            },
-            {
-                "hiragana": "バスのていりゅうじょ",
-                "kanji": "バスの停留所",
-                "vietnamese": "bến đỗ xe bus",
-                "info": "n"
+                "info": "n, 停 (đình) 亻 (nhân) 亭 (đình) 留 (lưu)| 卯 (mão) 田 (điền) 所 (sở) |斤 (cân) 戸 (hộ) "
             },
             {
                 "hiragana": "いっぽうつうこう",
                 "kanji": "一方通行",
-                "vietnamese": "lưu thông một chiều",
-                "info": "n"
+                "vietnamese": "đường một chiều",
+                "info": "n, 方 (phương) 通 (thông) 甬 (dũng) ⻌ ()| 行 (hành, hạnh, hàng, hạng) |彳 (xích) 一 (nhất) 丁 (đinh) "
             },
             {
                 "hiragana": "せんろ",
                 "kanji": "線路",
                 "vietnamese": "đường ray",
-                "info": "n"
+                "info": "n, 線 (tuyến) 糸 (mịch) 泉 (tuyền)| 路 (lộ) 各 (các) ⻊ () "
             },
             {
-                "hiragana": "じゅうたい",
-                "kanji": "渋滞",
-                "vietnamese": "kẹt xe",
-                "info": "n"
-            },
-            {
-                "hiragana": "どうろがこんでいる",
+                "hiragana": "どうろがこんでいます",
                 "kanji": "道路が混んでいる",
                 "vietnamese": "đường đông xe",
-                "info": ""
+                "info": "tự, 道 (đạo, đáo) 首 (thủ) ⻌ () 路 (lộ)| 各 (các) ⻊ () 混 (hỗn, cổn) |昆 (côn) 氵 (thủy) "
             },
             {
-                "hiragana": "どうろがじゅうたいしている",
+                "hiragana": "どうろがじゅうたいしています",
                 "kanji": "道路が渋滞している",
                 "vietnamese": "đường kẹt xe",
-                "info": ""
+                "info": "tự 道 (đạo, đáo) 首 (thủ) ⻌ () 路 (lộ) |各 (các) ⻊ () 渋 (sáp: co rút) 止 (chỉ)| ⺢ () 氵 (thủy) 滞 (trệ: đình) |帯 (đới: nhiệt) 氵 (thủy) "
             },
             {
-                "hiragana": "どうろがすいている",
+                "hiragana": "どうろがすいています",
                 "kanji": "道路がすいている",
                 "vietnamese": "đường trống",
-                "info": ""
+                "info": "tự, 道 (đạo, đáo) 首 (thủ) ⻌ () |路 (lộ) 各 (các) ⻊ () "
             },
             {
-                "hiragana": "まわりみちをする",
+                "hiragana": "まわりみちをします",
                 "kanji": "回り道（を）する",
                 "vietnamese": "đi đường vòng",
-                "info": ""
+                "info": "tha, 回 (hồi, hối) 口 (khẩu) 囗 (vi)| 道 (đạo, đáo) 首 (thủ) ⻌ () "
             },
             {
-                "hiragana": "とおまわし（を）する",
+                "hiragana": "とおまわし（を）します",
                 "kanji": "遠回し（を）する",
                 "vietnamese": "đi vòng vòng",
-                "info": ""
+                "info": "tha, 遠 (viễn, viển) 袁 (viên) ⻌ ()| 回 (hồi, hối) 口 (khẩu) 囗 (vi) "
             },
             {
-                "hiragana": "ちかみち（を）する",
+                "hiragana": "ちかみち（を）します",
                 "kanji": "近道（を）する",
                 "vietnamese": "đi đường tắt",
-                "info": ""
+                "info": "tha, 近 (cận, cấn, kí) 斤 (cân) ⻌ () |道 (đạo, đáo) 首 (thủ) ⻌ () "
             },
             {
-                "hiragana": "つきあたりをひだりにまがる",
-                "kanji": "突き当りを左に",
+                "hiragana": "つきあたりをひだりにまがります",
+                "kanji": "突き当りを左に曲がる",
                 "vietnamese": "quẹo trái ở cuối đường",
-                "info": ""
+                "info": "tha, 突 (đột) 穴 (huyệt) 大 (đại) |当 (đương, đang, đáng) ⺌ () ヨ () |左 (tả, tá) 𠂇 () 工 (công) 曲 (khúc) "
             },
             {
-                "hiragana": "バスがていしゃする",
+                "hiragana": "バスがていしゃします",
                 "kanji": "バスが停車する",
                 "vietnamese": "xe bus dừng",
-                "info": ""
+                "info": "tự, 停 (đình) 亻 (nhân) 亭 (đình) 車 (xa) "
             },
             {
-                "hiragana": "せんろをこえる",
+                "hiragana": "せんろをこえます",
                 "kanji": "線路を越える",
                 "vietnamese": "vượt qua đường ray",
-                "info": ""
+                "info": "tha, 線 (tuyến) 糸 (mịch) 泉 (tuyền)| 路 (lộ) 各 (các) ⻊ () |越 (việt, hoạt) 走 (tẩu) 戉 () "
             },
             {
-                "hiragana": "トラックをおいこす",
+                "hiragana": "トラックをおいこします",
                 "kanji": "トラックを追い越す",
                 "vietnamese": "vượt qua xe tải",
-                "info": ""
+                "info": "tha, 追 (truy: đuổi) 𠂤 () |⻌ () 越 (việt, hoạt) 走 (tẩu) 戉 () "
             },
             {
-                "hiragana": "じそく100キロではしる",
+                "hiragana": "じそく100キロではしります",
                 "kanji": "時速１００キロで走る",
                 "vietnamese": "chạy tốc độ 100 km/h",
-                "info": ""
+                "info": "tự, 時 (thì, thời) 日 (nhật) 寺 (tự) |速 (tốc) 束 (thúc) ⻌ () 走 (tẩu) "
             },
             {
-                "hiragana": "スピードいはんでつかまる",
+                "hiragana": "スピードいはんでつかまります",
                 "kanji": "スピード違反で捕まる",
                 "vietnamese": "bị bắt vì vi phạm tốc độ",
-                "info": ""
+                "info": "tự, 違 (vi: phạm) 韋 (vi) ⻌ ()| 反 (phản, phiên) 又 (hựu) 厂 (hán)| 捕 (bộ: bắt) 甫 (phủ) 扌 (thủ) "
             },
             {
-                "hiragana": "ちゅうしゃいはんをする",
+                "hiragana": "ちゅうしゃいはんをします",
                 "kanji": "駐車違反をする",
                 "vietnamese": "vi phạm việc đậu xe",
-                "info": ""
+                "info": "tha, 駐 (trú) 主 (chủ) 馬 (mã) 車 (xa) |違 (vi: phạm) 韋 (vi) ⻌ () |反 (phản, phiên) 又 (hựu) 厂 (hán)"
             },
             {
-                "hiragana": "しんごうをむしする",
+                "hiragana": "しんごうをむしします",
                 "kanji": "信号を無視する",
                 "vietnamese": "lờ đi tín hiệu giao thông",
-                "info": ""
+                "info": "tha, 信 (tín) 亻 (nhân) 言 (ngôn) |号 (hào, hiệu) 丂 (khảo) 口 (khẩu) |無 (vô, mô) 視 (thị) 見 (kiến) 礻 (thị) "
             },
             {
-                "hiragana": "しんごうむし",
-                "kanji": "信号無視",
-                "vietnamese": "lờ đi tín hiệu giao thông",
-                "info": ""
+                "hiragana": "くるまをぶつけます/くるまがぶつかります",
+                "kanji": "車をぶつける/車がぶつかる",
+                "vietnamese": "va chạm xe/xe bị va chạm",
+                "info": "tha/tự"
             },
             {
-                "hiragana": "くるまをぶつける",
-                "kanji": "車をぶつける",
-                "vietnamese": "va chạm xe",
-                "info": ""
-            },
-            {
-                "hiragana": "くるまがぶつかる",
-                "kanji": "車がぶつかる",
-                "vietnamese": "xe bị va chạm",
-                "info": ""
-            },
-            {
-                "hiragana": "ねこをひく",
+                "hiragana": "ねこをひきます",
                 "kanji": "猫をひく",
-                "vietnamese": "cán con mèo",
-                "info": ""
+                "vietnamese": "đâm trúng mèo",
+                "info": "tha, 猫 (miêu) 苗 (miêu: lúa non) |犭 (khuyển) "
             },
             {
-                "hiragana": "ねこがくるまにひかれる",
-                "kanji": "猫が車にひかれる",
-                "vietnamese": "con mèo bị xe cán",
-                "info": ""
-            },
-            {
-                "hiragana": "（こうつう）じこにあう",
+                "hiragana": "（こうつう）じこにあいます",
                 "kanji": "（交通）事故にあう",
                 "vietnamese": "gặp tai nạn giao thông",
-                "info": ""
+                "info": "tự, 交 (giao) 六 (lục) 父 (phụ) |通 (thông) 甬 (dũng) ⻌ () |事 (sự) 故 (cố) 古 (cổ) 攵 (phộc) "
             },
             {
-                "hiragana": "くるまにきをつける",
-                "kanji": "車に気をつける",
-                "vietnamese": "chú ý xe",
-                "info": ""
-            },
-            {
-                "hiragana": "ななめにおうだんする",
+                "hiragana": "ななめにおうだんします",
                 "kanji": "ななめに横断する",
                 "vietnamese": "băng chéo qua đường",
-                "info": ""
+                "info": "tự, 横 (hoành, hoạnh, quáng) 木 (mộc) |黄 (hoàng) 断 (đoạn, đoán) |米 (mễ) 𠃊 () 斤 (cân) "
             },
             {
-                "hiragana": "どうろをよこぎる",
+                "hiragana": "どうろをよこぎります",
                 "kanji": "道路を横切る",
                 "vietnamese": "chạy ngang qua đường",
-                "info": ""
+                "info": "tự, 道 (đạo, đáo) 首 (thủ) ⻌ () 路 (lộ) |各 (các) ⻊ () 横 (hoành, hoạnh, quáng) 木 (mộc)| 黄 (hoàng) 切 (thiết, thế) 七 (thất) 刀 (đao) "
             }
         ]
     },
