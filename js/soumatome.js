@@ -1540,220 +1540,148 @@ data_vocabulary = [
         "lesson": "sou w2 d6",
         "vocabulary": [
             {
-                "hiragana": "つうちょう",
-                "kanji": "通帳",
-                "vietnamese": "sổ tài khoản",
-                "info": "n"
-            },
-            {
-                "hiragana": "（キャッシュ）カード",
-                "kanji": "（キャッシュ）カード",
-                "vietnamese": "thẻ tín dụng",
-                "info": "n"
-            },
-            {
-                "hiragana": "はんこ",
-                "kanji": "はんこ",
-                "vietnamese": "con dấu",
-                "info": "n"
-            },
-            {
                 "hiragana": "いんかん",
                 "kanji": "印鑑",
-                "vietnamese": "con dấu",
-                "info": "n"
+                "vietnamese": "con dấu (quan trọng)",
+                "info": "n, 印 (ấn) 卩 (tiết) 鑑 (giám: gương soi)| 監 (giam, giám: ngục) 金 (kim) "
             },
             {
-                "hiragana": "サイン",
-                "kanji": "サイン",
-                "vietnamese": "chữ ký",
-                "info": "n"
-            },
-            {
-                "hiragana": "せんえんさつ",
-                "kanji": "千円札",
-                "vietnamese": "tờ 1000 yên",
-                "info": "n"
-            },
-            {
-                "hiragana": "しへい",
-                "kanji": "紙幣",
-                "vietnamese": "tiền giấy",
-                "info": "n"
-            },
-            {
-                "hiragana": "（お）さつ",
-                "kanji": "（お）札",
-                "vietnamese": "tiền giấy",
-                "info": "n"
+                "hiragana": "しへい/（お）さつ",
+                "kanji": "紙幣/（お）札",
+                "vietnamese": "tiền giấy (ngân hàng / thường ngày)",
+                "info": "n, 紙 (chỉ: giấy) 氏 (thị) 糸 (mịch)| 幣 (tệ: lụa) 敝 (tệ: nát) 攵 (phộc) |㡀 ()  巾 (cân) 札 (trát: thẻ) 乚 () 木 (mộc) "
             },
             {
                 "hiragana": "ひゃくえんだま",
                 "kanji": "百円玉",
                 "vietnamese": "đồng xu 100 yên",
-                "info": "n"
+                "info": "n, 百 (bách, bá, mạch) 白 (bạch) 一 (nhất)| 円 (viên) 玉 (ngọc, túc) 王 (vương) 丶 (chủ) "
             },
             {
                 "hiragana": "こうか",
                 "kanji": "硬貨",
                 "vietnamese": "tiền xu",
-                "info": "n"
+                "info": "n, 硬 (ngạnh: cứng) 石 (thạch) |更 (canh: đổi, 5) 貨 (hóa: của) |貝 (bối) 化 (hóa)  "
             },
             {
-                "hiragana": "おかねをためる",
-                "kanji": "お金をためる",
-                "vietnamese": "để dành tiền",
-                "info": ""
+                "hiragana": "おかねをためます/ちょきんします",
+                "kanji": "お金をためる/貯金する",
+                "vietnamese": "để dành tiền (thông dụng / ngân hàng)",
+                "info": "tha, 貯 (trữ: lưu) 丁 (đinh) 宀 (miên) | 貝 (bối) 金 (kim) 𠆢 () 丷 () |王 (vương) "
             },
             {
-                "hiragana": "ちょきんする",
-                "kanji": "貯金する",
-                "vietnamese": "để dành tiền",
-                "info": ""
+                "hiragana": "よきんします/ぎんこうにおかねをあずけます",
+                "kanji": "預金する/銀行にお金を預ける",
+                "vietnamese": "gửi tiền vào tk (ngân hàng/đời thường)",
+                "info": "tha, 預 (dự: can, bị) 頁 (hiệt) 予 (dư) |金 (kim) 𠆢 () 丷 () 王 (vương) 銀 (ngân) "
             },
             {
-                "hiragana": "よきんする",
-                "kanji": "預金する",
-                "vietnamese": "gửi tiền",
-                "info": ""
+                "hiragana": "(きゅうりょうを) ひきだします/おろします",
+                "kanji": "(給料を) 引き出す/下ろす",
+                "vietnamese": "rút tiền lương (trung tính / đời thường)",
+                "info": "tha, 給 (cấp: cung) 糸 (mịch) 合 (hợp)| 料 (liêu, liệu) 米 (mễ) 斗 (đấu)| 引 (dẫn, dấn) 弓 (cung) 丨 (cổn) |出 (xuất, xúy) 下 (hạ, há) "
             },
             {
-                "hiragana": "ぎんこうにおかねをあずける",
-                "kanji": "銀行にお金を",
-                "vietnamese": "gửi tiền ở ngân hàng",
-                "info": ""
-            },
-            {
-                "hiragana": "きゅうりょうをひきだす",
-                "kanji": "給料を引き出す",
-                "vietnamese": "rút tiền lương",
-                "info": ""
-            },
-            {
-                "hiragana": "きゅうりょうをおろす",
-                "kanji": "給料を下ろす",
-                "vietnamese": "rút tiền lương",
-                "info": ""
-            },
-            {
-                "hiragana": "つうちょうきにゅうをする",
-                "kanji": "通帳記入をする",
+                "hiragana": "つうちょうきにゅうをします／つうちょうにきにゅうします",
+                "kanji": "通帳記入をする／通帳に記入する",
                 "vietnamese": "kí sổ (ngân hàng)",
-                "info": ""
-            },
-            {
-                "hiragana": "つうちょうにきにゅうする",
-                "kanji": "通帳に記入する",
-                "vietnamese": "kí sổ (ngân hàng)",
-                "info": ""
+                "info": "tha, 通 (thông) 甬 (dũng) ⻌ ()| 帳 (trướng) 長 (trường) 巾 (cân) |記 (kí) 言 (ngôn) 己 (kỉ) 入 (nhập) "
             },
             {
                 "hiragana": "あんしょうばんごう",
                 "kanji": "暗証番号",
                 "vietnamese": "số pin",
-                "info": ""
+                "info": "n, 暗 (ám: tối) 日 (nhật) |音 (âm) 証 (chứng: cớ) 正 (chánh) 言 (ngôn) |番 (phiên, phan, ba, bà) 釆 (biện) 田 (điền)| 号 (hào, hiệu) 丂 (khảo) 口 (khẩu) "
             },
             {
                 "hiragana": "ぎんこうのほんてん",
                 "kanji": "銀行の本店",
                 "vietnamese": "cơ sở chính ngân hàng",
-                "info": ""
+                "info": "n, 銀 (ngân) 艮 (cấn) 金 (kim) |行 (hành, hạnh, hàng, hạng) 彳 (xích) 一 (nhất)|丁 (đinh) 本 (bổn, bản) 一 (nhất)| 木 (mộc) 店 (điếm) 占 (chiêm) 广 (nghiễm) "
             },
             {
                 "hiragana": "ぎんこうのしてん",
                 "kanji": "銀行の支店",
                 "vietnamese": "chi nhánh ngân hàng",
-                "info": ""
+                "info": "n, 銀 (ngân) 艮 (cấn) 金 (kim) |行 (hành, hạnh, hàng, hạng) 彳 (xích) |一 (nhất) 丁 (đinh) 支 (chi) 十 (thập) 又 (hựu)| 店 (điếm) 占 (chiêm) 广 (nghiễm) "
             },
             {
-                "hiragana": "こうざをひらく",
+                "hiragana": "こうざをひらきます",
                 "kanji": "口座を開く",
                 "vietnamese": "mở tài khoản",
-                "info": ""
+                "info": "tha, 口 (khẩu) 座 (tọa) 坐 (tọa)| 广 (nghiễm) 開 (khai) 开 (khai) 門 (môn) "
             },
             {
-                "hiragana": "やちんをふりこむ",
+                "hiragana": "やちんをふりこみます",
                 "kanji": "家賃を振り込む",
                 "vietnamese": "chuyển khoản thanh toán tiền thuê nhà",
-                "info": ""
+                "info": "tha, 家 (gia, cô) 豕 (thỉ) 宀 (miên)| 賃 (nhẫm: thuê) 貝 (bối) 任 (nhiệm: trách)| 振 (chấn: chỉnh) 辰 (thìn) |扌 (thủ) 込 () ⻌ () 入 (nhập) "
             },
             {
-                "hiragana": "ふりこみ",
-                "kanji": "振り込み",
-                "vietnamese": "chuyển khoản",
-                "info": ""
-            },
-            {
-                "hiragana": "こうきょうりょうきんをしはらう",
+                "hiragana": "こうきょうりょうきんをしはらいます",
                 "kanji": "公共料金を支払う",
-                "vietnamese": "trả cước công cộng",
-                "info": ""
+                "vietnamese": "trả cước sinh hoạt",
+                "info": "tha, 公 (công) ハ () 厶 (khư) 共 (cộng, cung) |艹 (thảo) 一 (nhất) ハ () 料 (liêu, liệu)| 米 (mễ) 斗 (đấu) 金 (kim) 𠆢 () 丷 () 王 (vương) |支 (chi) 十 (thập) 又 (hựu) 払 (phất: trả)| 厶 (khư) 扌 (thủ) "
             },
             {
-                "hiragana": "しはらい",
-                "kanji": "支払い",
-                "vietnamese": "thanh toán",
-                "info": ""
-            },
-            {
-                "hiragana": "しょうひんのだいきんをはらう",
+                "hiragana": "しょうひんのだいきんをはらいます",
                 "kanji": "商品の代金を払う",
                 "vietnamese": "thanh toán tiền mua hàng",
-                "info": ""
+                "info": "tha, 商 (thương: buôn, lượng) 立 (lập) |冏 (quýnh) 品 (phẩm) 代 (đại) 弋 (dặc) |亻 (nhân) 金 (kim) 𠆢 () 丷 () |王 (vương) 払 (phất: trả) 厶 (khư) 扌 (thủ) "
             },
             {
                 "hiragana": "あてな",
                 "kanji": "あて名",
                 "vietnamese": "tên và địa chỉ người nhận",
-                "info": ""
+                "info": "n, 名 (danh) 夕 (tịch) 口 (khẩu) "
             },
             {
-                "hiragana": "まどぐちでりょうがえをする",
+                "hiragana": "まどぐちでりょうがえをします",
                 "kanji": "窓口で両替をする",
-                "vietnamese": "đổi tiền ở quầy dịch vụ",
-                "info": ""
+                "vietnamese": "đổi tiền ở quầy",
+                "info": "tha, 窓 (song: cửa sổ) 穴 (huyệt) 厶 (khư)| 心 (tâm) 口 (khẩu) 両 (lưỡng, lạng) |一 (nhất) 山 (san) 冂 (quynh) |替 (thế: thay) 夫 (phu) 日 (nhật)  "
             },
             {
                 "hiragana": "さしだしにんめい",
                 "kanji": "差出人名",
-                "vietnamese": "người gửi",
-                "info": ""
+                "vietnamese": "tên người gửi",
+                "info": "n, 差 (sai) ノ () 𦍌 () 工 (công)| 出 (xuất, xúy) 人 (nhân) 名 (danh)| 夕 (tịch) 口 (khẩu) "
             },
             {
-                "hiragana": "そうきんする",
+                "hiragana": "そうきんします",
                 "kanji": "送金する",
-                "vietnamese": "gửi tiền",
-                "info": ""
+                "vietnamese": "chuyển tiền",
+                "info": "tha, 送 (tống) 关 (quan) ⻌ () |金 (kim) 𠆢 () 丷 () 王 (vương) "
             },
             {
-                "hiragana": "てがみをそくたつでだす",
+                "hiragana": "てがみをそくたつでだします",
                 "kanji": "手紙を速達で出す",
                 "vietnamese": "gửi thư chuyển phát nhanh",
-                "info": ""
+                "info": "tha, 手 (thủ) 紙 (chỉ: giấy) 氏 (thị)| 糸 (mịch) 速 (tốc) 束 (thúc) ⻌ () |達 (đạt: dachi) 羊 (dương) 土 (thổ) ⻌ () "
             },
             {
-                "hiragana": "しおくりする",
+                "hiragana": "しおくりします",
                 "kanji": "仕送りする",
                 "vietnamese": "gửi tiền, chu cấp",
-                "info": ""
+                "info": "tha, 仕 (sĩ: quan) 亻 (nhân) 士 (sĩ)| 送 (tống: tiễn) 关 (quan) ⻌ () "
             },
             {
                 "hiragana": "こづつみ",
                 "kanji": "小包",
                 "vietnamese": "bưu phẩm",
-                "info": ""
+                "info": "n, 小 (tiểu) 包 (bao: bọc) 勹 (bao) 己 (kỉ) "
             },
             {
-                "hiragana": "てすうりょうがかかる",
+                "hiragana": "てすうりょうがかかります",
                 "kanji": "手数料がかかる",
-                "vietnamese": "tốn tiền dịch vụ",
-                "info": ""
+                "vietnamese": "tốn phí dịch vụ (môi giới)",
+                "info": "tự, 手 (thủ) 数 (sổ, số, sác, xúc) 女 (nữ) |米 (mễ) 攵 (phộc) 料 (liêu, liệu)| 米 (mễ) 斗 (đấu) "
             },
             {
-                "hiragana": "そうりょうがかかる",
+                "hiragana": "そうりょうがかかります",
                 "kanji": "送料がかかる",
-                "vietnamese": "tốn cước",
-                "info": ""
+                "vietnamese": "tốn cước gửi",
+                "info": "tự, 送 (tống) 关 (quan) ⻌ () |料 (liêu, liệu) 米 (mễ) 斗 (đấu) "
             }
         ]
     },
