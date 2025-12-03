@@ -1689,220 +1689,88 @@ data_vocabulary = [
         "lesson": "sou w3 d1",
         "vocabulary": [
             {
-                "hiragana": "たなかさんとこうさいする",
-                "kanji": "田中さんと交際する",
-                "vietnamese": "giao du với anh Tanaka",
-                "info": "v"
+                "hiragana": "Aさん をいやがります / がいやになります / がきらいになります",
+                "kanji": "Aさん を嫌がる / がいやになる / がきらいになる",
+                "vietnamese": "không ưa, ghét A-san",
+                "info": "tha, adj, 嫌 (hiềm) 兼 (kiêm: gồm) |女 (nữ) "
             },
             {
-                "hiragana": "たなかさんとつきあう",
-                "kanji": "田中さんと付き合う",
-                "vietnamese": "kết giao với anh Tanaka",
-                "info": "v"
+                "hiragana": "Aさんをふります",
+                "kanji": "Aさんを振る",
+                "vietnamese": "từ chối A-san",
+                "info": "tha, 振 (chấn: chỉnh) 辰 (thần: thìn) 扌 (thủ) "
             },
             {
-                "hiragana": "たなかさんとけんかする",
-                "kanji": "田中さんとけんかする",
-                "vietnamese": "cãi nhau với anh Tanaka",
-                "info": "v"
+                "hiragana": "Aさんとこうさいします",
+                "kanji": "Aさんと交際する",
+                "vietnamese": "giao du với A-san",
+                "info": "v (suru), 交 (giao) 六 (lục) 父 (phụ) |際 (tế: thực) ⻖ () 祭 (tế: cúng) "
             },
             {
-                "hiragana": "たなかさんとなかなおりする",
-                "kanji": "田中さんと仲直りする",
-                "vietnamese": "hòa giải với anh Tanaka",
-                "info": "v"
+                "hiragana": "Aさんとつきあいます",
+                "kanji": "Aさんと付き合う",
+                "vietnamese": "kết giao với A-san",
+                "info": "v, 付 (phó) 寸 (thốn) 亻 (nhân) |合 (hợp, cáp, hiệp) 亼 () 口 (khẩu) "
             },
             {
-                "hiragana": "たなかさんなかがいい",
-                "kanji": "田中さんと仲がいい",
-                "vietnamese": "thân thiết với anh Tanaka",
-                "info": "v"
+                "hiragana": "Aさんとなかなおりします",
+                "kanji": "Aさんと仲直りする",
+                "vietnamese": "làm lành với A-san",
+                "info": "v (suru), 仲 (trọng: giữa) 亻 (nhân) |中 (trung) 直 (trực: thẳng) 十 (thập) 目 (mục) 𠃊 () "
             },
             {
-                "hiragana": "たなかさんとなかよしだ",
-                "kanji": "田中さんと仲良しだ",
-                "vietnamese": "có quan hệ tốt với anh Tanaka",
-                "info": "v"
+                "hiragana": "Aさんと なかがいい/となかよしです",
+                "kanji": "Aさんと 仲がいい/仲良しだ",
+                "vietnamese": "thân thiết với A-san",
+                "info": "adj, 仲 (trọng: giữa) 亻 (nhân) 中 (trung)| 良 (lương) "
             },
             {
-                "hiragana": "たなかさんをコンサートにさそう",
-                "kanji": "田中さんをコンサートにさそう",
-                "vietnamese": "rủ anh Tanaka đi xem hòa nhạc",
-                "info": "v"
+                "hiragana": "Aさんをコンサートにさそいます",
+                "kanji": "Aさんをコンサートに誘う",
+                "vietnamese": "rủ A-san đi xem hòa nhạc",
+                "info": "tha, 誘 (dụ: dỗ) 秀 (tú: tài) |乃 (nãi) 禾 (hòa)  言 (ngôn) "
             },
             {
-                "hiragana": "たなかさんをいやがる",
-                "kanji": "田中さんをいやがる",
-                "vietnamese": "không ưa anh Tanaka",
-                "info": "v"
+                "hiragana": "Aさん（のこと）がきになります/きがあります",
+                "kanji": "Aさん（のこと）が気になる/気がある",
+                "vietnamese": "để ý/thích A-san",
+                "info": "adj, 気 (khí) 一 (nhất) 𠂉 () ⺄ () 㐅 () "
             },
             {
-                "hiragana": "たなかさんをふる",
-                "kanji": "田中さんをふる",
-                "vietnamese": "không chơi với anh Tanaka",
-                "info": "v"
+                "hiragana": "Aさん（のこと）が羨ましいです",
+                "kanji": "Aさん（のこと）がうらやましい",
+                "vietnamese": "ganh tỵ với A-san",
+                "info": "adj, 羨 (tiện: tham muốn) 㳄 () |次(thứ) 欠 (khiếm) 𦍌 () "
             },
             {
-                "hiragana": "たなかさん（のこと）がきになる",
-                "kanji": "田中さん（のこと）が気になる",
-                "vietnamese": "để ý anh Tanaka",
-                "info": "v"
+                "hiragana": "Aさんに憧れます",
+                "kanji": "Aさんにあこがれる",
+                "vietnamese": "ngưỡng mộ A-san",
+                "info": "tự, 憧 (sung: ngưỡng mộ) 童 (đồng: trẻ thơ)| 立 (lập) 里 (lí)  忄 (tâm) "
             },
             {
-                "hiragana": "たなかさん（のこと）がすきになる",
-                "kanji": "田中さん（のこと）が好きになる",
-                "vietnamese": "thích anh Tanaka",
-                "info": "v"
+                "hiragana": "Aさんにむちゅうになります",
+                "kanji": "Aさんに夢中になる",
+                "vietnamese": "mê mệt A-san",
+                "info": "adj, 夢 (mộng) 夕 (tịch) 冖 (mịch)| 罒 (võng) 艹 (thảo) 中 (trung, trúng)| 口 (khẩu) 丨 (cổn) "
             },
             {
-                "hiragana": "たなかさん（のこと）きらいになる",
-                "kanji": "田中さん（のこと）がきらいになる",
-                "vietnamese": "ghét anh Tanaka",
-                "info": "v"
+                "hiragana": "（お）たがいにきにいります",
+                "kanji": "（お）互いに気に入る",
+                "vietnamese": "song phương cùng hài lòng",
+                "info": "tự, 互 (hỗ: trợ) 気 (khí) 一 (nhất)| 𠂉 () ⺄ () 㐅 () 入"
             },
             {
-                "hiragana": "たなかさん（のこと）がいやになる",
-                "kanji": "田中さん（のこと）がいやになる",
-                "vietnamese": "không ưa anh Tanaka",
-                "info": "v"
-            },
-            {
-                "hiragana": "たなかさん（のこと）がうらやましい",
-                "kanji": "田中さん（のこと）がうらやましい",
-                "vietnamese": "ganh tỵ với anh Tanaka",
-                "info": "v"
-            },
-            {
-                "hiragana": "たなかさんにすかれる",
-                "kanji": "田中さんに好かれる",
-                "vietnamese": "được anh Tanaka yêu mến",
-                "info": "v"
-            },
-            {
-                "hiragana": "たなかさんにきらわれる",
-                "kanji": "田中さんにきらわれる",
-                "vietnamese": "bị anh Tanaka ghét",
-                "info": "v"
-            },
-            {
-                "hiragana": "たなかさんにいやがられる",
-                "kanji": "田中さんにいやがられる",
-                "vietnamese": "bị anh Tanaka không ưa",
-                "info": "v"
-            },
-            {
-                "hiragana": "たなかさんにふられる",
-                "kanji": "田中さんにふられる",
-                "vietnamese": "bị anh Tanaka nghỉ chơi",
-                "info": "v"
-            },
-            {
-                "hiragana": "たなかさんにきがある",
-                "kanji": "田中さんに気がある",
-                "vietnamese": "thích anh Tanaka",
-                "info": "v"
-            },
-            {
-                "hiragana": "たなかさんにあこがれる",
-                "kanji": "田中さんにあこがれる",
-                "vietnamese": "ngưỡng mộ anh Tanaka",
-                "info": "v"
-            },
-            {
-                "hiragana": "たなかさんにむちゅうになる",
-                "kanji": "田中さんに夢中になる",
-                "vietnamese": "mê mệt anh Tanaka",
-                "info": "v"
-            },
-            {
-                "hiragana": "たなかさんにこいをする",
-                "kanji": "田中さんに恋をする",
-                "vietnamese": "yêu anh Tanaka",
-                "info": "v"
-            },
-            {
-                "hiragana": "じょせいにもてる",
-                "kanji": "女性にもてる",
-                "vietnamese": "được các cô gái yêu thích",
-                "info": ""
-            },
-            {
-                "hiragana": "（お）たがいにきにいる",
-                "kanji": "（お）互いに入る",
-                "vietnamese": "cùng hài lòng",
-                "info": ""
-            },
-            {
-                "hiragana": "あいてのよていをきく",
+                "hiragana": "あいてのよていをききます",
                 "kanji": "相手の予定を聞く",
                 "vietnamese": "hỏi về dự định của đối phương",
-                "info": ""
+                "info": "tha, 相 (tương, tướng) 目 (mục) 木 (mộc)| 手 (thủ) 予 (dư, dữ) マ () |丁 (đinh) 定 (định, đính) 疋 (sơ)| 宀 (miên) 聞 (văn, vấn, vặn)| 耳 (nhĩ) 門 (môn) "
             },
             {
-                "hiragana": "つごうをつける",
-                "kanji": "都合をつける",
-                "vietnamese": "sắp xếp lịch trình cho thỏa đáng",
-                "info": ""
-            },
-            {
-                "hiragana": "つごうがつく",
-                "kanji": "都合がつく",
-                "vietnamese": "lịch trình được sắp xếp thỏa đáng",
-                "info": ""
-            },
-            {
-                "hiragana": "つきあい",
-                "kanji": "付き合い",
-                "vietnamese": "kết giao",
-                "info": ""
-            },
-            {
-                "hiragana": "かいものにつきあう",
-                "kanji": "買い物にう",
-                "vietnamese": "mối quan hệ làm ăn, buôn bán",
-                "info": ""
-            },
-            {
-                "hiragana": "こいびと",
-                "kanji": "恋人",
-                "vietnamese": "người yêu",
-                "info": ""
-            },
-            {
-                "hiragana": "たなかさんのかれ",
-                "kanji": "田中さんの彼",
-                "vietnamese": "người yêu của chị Tanaka",
-                "info": ""
-            },
-            {
-                "hiragana": "たなかさんのかれし",
-                "kanji": "田中さんの彼氏",
-                "vietnamese": "người yêu của chị Tanaka",
-                "info": ""
-            },
-            {
-                "hiragana": "かのじょ",
-                "kanji": "彼女",
-                "vietnamese": "bạn gái",
-                "info": ""
-            },
-            {
-                "hiragana": "けっこんをもうしこむ",
-                "kanji": "結婚を申し込む",
-                "vietnamese": "cầu hôn",
-                "info": ""
-            },
-            {
-                "hiragana": "けっこんをことわる",
-                "kanji": "結婚を断る",
-                "vietnamese": "từ hôn",
-                "info": ""
-            },
-            {
-                "hiragana": "あいまいなへんじをする",
-                "kanji": "あいまいな返事をする",
-                "vietnamese": "trả lời không rõ ràng",
-                "info": ""
+                "hiragana": "つごうをつけます/つごうがつきます",
+                "kanji": "都合をつける/都合がつく",
+                "vietnamese": "sắp xếp lịch trình cho thỏa đáng / lịch trình được sắp xếp thỏa đáng",
+                "info": "tha/tự, 都 (đô) ⻏ () |者 (giả) 合 (hợp, cáp, hiệp) 亼 () 口 (khẩu) "
             }
         ]
     },
