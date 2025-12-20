@@ -1779,37 +1779,37 @@ data_vocabulary = [
         "vocabulary": [
             {
                 "hiragana": "ひたい",
-                "kanji": "額",
+                "kanji": "額, ひたい",
                 "vietnamese": "trán",
                 "info": "n, 額 (ngạch: trán) 頁 (hiệt) 客 (khách) "
             },
             {
                 "hiragana": "まつげ",
-                "kanji": "睫毛",
+                "kanji": "睫毛,まつげ",
                 "vietnamese": "lông mi",
                 "info": "n, 睫 (tiệp: mi) 目 (mục) 疌 () 毛 (mao, mô) "
             },
             {
                 "hiragana": "ほお/ほほ",
-                "kanji": "頬",
+                "kanji": "頬, ほほ",
                 "vietnamese": "cái má",
                 "info": "n, 頬 (giáp: má) 夹 (giáp) 頁 (hiệt) "
             },
             {
                 "hiragana": "くちびる",
-                "kanji": "唇",
+                "kanji": "唇, くちびる",
                 "vietnamese": "môi",
                 "info": "n, 唇 (thần: môi) 辰 (thần: thìn) 口 (khẩu) "
             },
             {
                 "hiragana": "まゆ / まゆげ",
-                "kanji": "眉 / 眉毛",
+                "kanji": "眉 / 眉毛,まゆげ",
                 "vietnamese": "lông mày",
                 "info": "n, 眉 (mi: mày) 丨 (cổn) 尸 (thi) |目 (mục) 毛 (mao, mô) "
             },
             {
                 "hiragana": "まぶた",
-                "kanji": "瞼",
+                "kanji": "瞼, まぶた",
                 "vietnamese": "mí mắt",
                 "info": "n, 瞼 (kiểm) 吅 (huyên) 从 (tòng)| 亼 ()  目 (mục) "
             },
@@ -1841,7 +1841,7 @@ data_vocabulary = [
                 "hiragana": "ドライヤーでかみをかわかします",
                 "kanji": "ドライヤーで髪を乾かす",
                 "vietnamese": "làm khô tóc bằng máy sấy",
-                "info": "tha, 髪 (phát: tóc)| 友 (hữu) 髟 (tiêu: tóc dài) "
+                "info": "tha, 髪 (phát: tóc)| 友 (hữu) 髟 (tiêu: tóc dài) 乾 (kiền)"
             },
             {
                 "hiragana": "かみを ときます/とかします",
