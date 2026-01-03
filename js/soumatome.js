@@ -2067,212 +2067,140 @@ data_vocabulary = [
             {
                 "hiragana": "かぞくそろって",
                 "kanji": "家族そろって",
-                "vietnamese": "tập trung gia đình lại",
-                "info": ""
+                "vietnamese": "cả gia đình cùng nhau",
+                "info": "adv, 家 (gia, cô) 豕 (thỉ) 宀 (miên) |族 (tộc) 𠂉 () 方 (phương)| 矢 (thỉ) "
             },
             {
-                "hiragana": "こどもをつれる",
-                "kanji": "子どもを",
+                "hiragana": "こどもをつれます / こどもをつれ",
+                "kanji": "子どもを連れる / 子どもを連れ",
                 "vietnamese": "dẫn theo trẻ em",
-                "info": ""
+                "info": "tha, n, 連 (liên) 車 (xa) ⻌ () "
             },
             {
-                "hiragana": "こどもづれ",
-                "kanji": "子ども",
-                "vietnamese": "dẫn theo trẻ em",
-                "info": ""
-            },
-            {
-                "hiragana": "はらがへる",
-                "kanji": "腹がへる",
+                "hiragana": "はらがへります",
+                "kanji": "腹が減る",
                 "vietnamese": "đói bụng",
-                "info": ""
+                "info": "tự, 腹 (phúc: bụng) ⺼ () |复 (phục: lại) "
             },
             {
-                "hiragana": "がいしょくをする",
+                "hiragana": "がいしょくをします",
                 "kanji": "外食をする",
                 "vietnamese": "đi ăn ngoài",
-                "info": ""
+                "info": "tự, 外 (ngoại) 夕 (tịch) 卜 (bặc)| 食 (thực, tự) 良 (lương) 𠆢 () "
             },
             {
-                "hiragana": "おひるをたべる",
-                "kanji": "お昼を",
+                "hiragana": "おひるをたべます / ちゅうしょくをとります",
+                "kanji": "お昼を食べる / 昼食をとる",
                 "vietnamese": "ăn trưa",
-                "info": ""
-            },
-            {
-                "hiragana": "ちゅうしょくをとる",
-                "kanji": "昼食をとる",
-                "vietnamese": "ăn trưa",
-                "info": ""
-            },
-            {
-                "hiragana": "ランチ",
-                "kanji": "ランチ",
-                "vietnamese": "bữa trưa",
-                "info": ""
+                "info": "tha, 昼 (trú: trưa) 尺 (xích) 旦 (đán)| 食 (thực, tự) 良 (lương)"
             },
             {
                 "hiragana": "ふんいきのいいみせ",
                 "kanji": "雰囲気のいい店",
                 "vietnamese": "tiệm có bầu không khí tốt",
-                "info": ""
+                "info": "n, 雰 (phân) ⻗ () 分 (phân) 囲 (vi: chu vi) |井 (tỉnh) 囗 (vi) 気 (khí) 一 (nhất) 𠂉 () ⺄ () 㐅 ()| 店 (điếm) 占 (chiêm) 广 (nghiễm) "
             },
             {
                 "hiragana": "まんせき",
                 "kanji": "満席",
                 "vietnamese": "không còn chỗ trống",
-                "info": ""
+                "info": "n, 満 (mãn: nguyện) 両 (lưỡng) 艹 (thảo) |氵 (thủy) 席 (tịch) 廿 (nhập)| 巾 (cân) 广 (nghiễm) "
             },
             {
-                "hiragana": "すいている",
-                "kanji": "すいている",
+                "hiragana": "すいています",
+                "kanji": "空いている",
                 "vietnamese": "trống",
-                "info": ""
+                "info": "tự, 空 (không, khống, khổng) |工 (công) 穴 (huyệt) "
             },
             {
-                "hiragana": "れつにならぶ",
+                "hiragana": "れつにならびます",
                 "kanji": "列に並ぶ",
                 "vietnamese": "xếp thành hàng dọc",
-                "info": ""
+                "info": "tự, 列 (liệt) 刂 (đao) 歹 (ngạt)| 並 (tịnh: gồm) 立 (lập) "
             },
             {
-                "hiragana": "ぎょうれつができる",
+                "hiragana": "ぎょうれつができます",
                 "kanji": "行列ができる",
-                "vietnamese": "người xếp thành hàng",
-                "info": ""
+                "vietnamese": "hàng người được hình thành",
+                "info": "tự, 行 (hành, hạnh, hàng, hạng) |彳 (xích) 一 (nhất) 丁 (đinh)  列 (liệt) |刂 (đao) 歹 (ngạt)"
             },
             {
-                "hiragana": "きんえんせき",
-                "kanji": "禁煙席",
-                "vietnamese": "ghế cấm hút thuốc",
-                "info": ""
+                "hiragana": "きんえんせき / きつえんせき",
+                "kanji": "禁煙席 / 喫煙席",
+                "vietnamese": "ghế cấm/được hút thuốc",
+                "info": "n, 禁 (cấm, câm) 示 (kì)| 林 (lâm) 煙 (yên: khói) 覀 () 土 (thổ) 火 (hỏa)| 席 (tịch) 廿 (nhập) 巾 (cân)| 广 (nghiễm) 喫 (khiết: ăn uống) |口 (khẩu) 契 (khế: ước) 㓞 () 大 (đại)  "
             },
             {
-                "hiragana": "きつえんせき",
-                "kanji": "喫煙席",
-                "vietnamese": "ghế được phép hút thuốc",
-                "info": ""
-            },
-            {
-                "hiragana": "ウエートレスにおすすめをきく",
-                "kanji": "ウエートレスにおすすめを聞く",
-                "vietnamese": "hỏi người phục vụ giới thiệu món",
-                "info": ""
-            },
-            {
-                "hiragana": "りょうがおおい",
-                "kanji": "量が多い",
-                "vietnamese": "lượng nhiều",
-                "info": ""
-            },
-            {
-                "hiragana": "りょうがすくない",
-                "kanji": "量が少ない",
-                "vietnamese": "lượng ít",
-                "info": ""
-            },
-            {
-                "hiragana": "ちゅうもんがきまる",
+                "hiragana": "ちゅうもんがきまります",
                 "kanji": "注文が決まる",
                 "vietnamese": "quyết định gọi món",
-                "info": ""
+                "info": "tự, 注 (chú) 主 (chủ) 氵 (thủy)| 文 (văn, vấn) 決 (quyết) 氵 (thủy) |夬 (quái) "
             },
             {
-                "hiragana": "ちゅうもんする",
+                "hiragana": "ちゅうもんします",
                 "kanji": "注文する",
                 "vietnamese": "gọi món",
-                "info": ""
+                "info": "tha, 注 (chú) 主 (chủ)| 氵 (thủy) 文 (văn, vấn)"
             },
             {
-                "hiragana": "ちゅうもんをとる",
-                "kanji": "注文を取る",
+                "hiragana": "ちゅうもんを とります/うけます",
+                "kanji": "注文を 取る/受ける",
                 "vietnamese": "nhận món",
-                "info": ""
+                "info": "tha, 注 (chú) 主 (chủ) 氵 (thủy) |文 (văn, vấn) 取 (thủ) 耳 (nhĩ) |又 (hựu) 受 (thụ) 又 (hựu) 冖 (mịch) ⺤ () "
             },
             {
-                "hiragana": "ちゅうもんをうける",
-                "kanji": "注文を受ける",
-                "vietnamese": "nhận món",
-                "info": ""
-            },
-            {
-                "hiragana": "デザートをついかする",
+                "hiragana": "デザートをついかします",
                 "kanji": "デザートを追加する",
                 "vietnamese": "thêm món tráng miệng",
-                "info": ""
+                "info": "tha, 追 (truy: đuổi)| 𠂤 () ⻌ () 加 (gia) 力 (lực) |口 (khẩu) "
             },
             {
-                "hiragana": "コーヒーのおかわり",
-                "kanji": "コーヒーのおかわり",
-                "vietnamese": "thay café bằng cái khác",
-                "info": ""
-            },
-            {
-                "hiragana": "むりょう",
-                "kanji": "無料",
+                "hiragana": "むりょう / ただ",
+                "kanji": "無料 / ただ",
                 "vietnamese": "miễn phí",
-                "info": ""
+                "info": "無 (vô, mô) 料 (liêu, liệu) 米 (mễ)| 斗 (đấu) "
             },
             {
-                "hiragana": "ただ",
-                "kanji": "ただ",
-                "vietnamese": "miễn phí",
-                "info": ""
-            },
-            {
-                "hiragana": "しょっきをさげる",
+                "hiragana": "しょっきをさげます",
                 "kanji": "食器を下げる",
                 "vietnamese": "dọn chén bát xuống",
-                "info": ""
+                "info": "tha, 食 (thực, tự) 良 (lương) 𠆢 () |器 (khí) 口 (khẩu) 大 (đại)| 下 (hạ, há) "
             },
             {
-                "hiragana": "りょうりをのこす",
+                "hiragana": "りょうりをのこします",
                 "kanji": "料理を残す",
                 "vietnamese": "chừa đồ ăn lại",
-                "info": ""
+                "info": "tha, 料 (liêu, liệu) 米 (mễ)| 斗 (đấu) 理 (lí) 里 (lí) 王 (vương)| 残 (tàn) 㦮 () 歹 (ngạt) "
             },
             {
                 "hiragana": "もったいない",
-                "kanji": "もったいない",
+                "kanji": "勿体ない (もったいない)",
                 "vietnamese": "lãng phí",
-                "info": ""
+                "info": "い, 勿 (vật) 豕 (thỉ) |体 (thể) 本 (bổn) 亻 (nhân) "
             },
             {
                 "hiragana": "なんめいさまですか",
                 "kanji": "何名様ですか",
                 "vietnamese": "có mấy vị ạ",
-                "info": ""
-            },
-            {
-                "hiragana": "ふたりです",
-                "kanji": "二人です",
-                "vietnamese": "2 người",
-                "info": ""
+                "info": "exp, 何 (hà) 可 (khả) |亻 (nhân) 名 (danh) 夕 (tịch)| 口 (khẩu) 様 (dạng) 𦍌 () |水 (thủy) 木 (mộc) "
             },
             {
                 "hiragana": "もうしわけありません",
                 "kanji": "申し訳ありません",
                 "vietnamese": "xin lỗi",
-                "info": ""
+                "info": "exp, 申 (thân) 丨 (cổn) 日 (nhật)| 訳 (dịch: phiên) 尺 (xích) 言 (ngôn) "
             },
             {
                 "hiragana": "もうしょうしょうおまちください",
                 "kanji": "もう少々お待ちください",
                 "vietnamese": "xin đợi một chút",
-                "info": ""
+                "info": "exp, 少 (thiểu, thiếu) |ノ () 小 (tiểu) 待 (đãi)| 彳 (xích) 寺 (tự) "
             },
             {
-                "hiragana": "おまたせいたしました",
-                "kanji": "お待たせいたしました",
+                "hiragana": "おまたせいたしました / おまちどおさま",
+                "kanji": "お待たせいたしました / お待ちどおさま",
                 "vietnamese": "xin lỗi đã bắt quý khách đợi",
-                "info": ""
-            },
-            {
-                "hiragana": "おまちどおさま",
-                "kanji": "お待ちどおさま",
-                "vietnamese": "xin lỗi đã bắt quý khách đợi",
-                "info": ""
+                "info": "exp, 待 (đãi) 彳 (xích) 寺 (tự) "
             }
         ]
     },
@@ -2280,220 +2208,106 @@ data_vocabulary = [
         "lesson": "sou w3 d5",
         "vocabulary": [
             {
-                "hiragana": "えんかいをひらく",
+                "hiragana": "えんかいをひらきます",
                 "kanji": "宴会を開く",
                 "vietnamese": "mở tiệc",
-                "info": ""
+                "info": "tha, 宴 (yến: thiết)| 女 (nữ) 日 (nhật) 宀 (miên)| 会 (hội, cối) 𠆢 () 云 (vân) 開 (khai)| 开 (khai) 門 (môn) "
             },
             {
                 "hiragana": "のみかい",
                 "kanji": "飲み会",
                 "vietnamese": "tiệc nhậu",
-                "info": ""
+                "info": "n, 飲 (ẩm, ấm) 欠 (khiếm) |飠 (thực) 会 (hội, cối)| 𠆢 () 云 (vân) "
             },
             {
                 "hiragana": "そうべつかい",
                 "kanji": "送別会",
                 "vietnamese": "tiệc chia tay",
-                "info": ""
+                "info": "n, 送 (tống) 关 (quan)| ⻌ () , 別 (biệt) 勹 (bao)| 口 (khẩu) 刂 (đao) 会 (hội, cối) |𠆢 () 云 (vân)  "
             },
             {
                 "hiragana": "かんげいかい",
                 "kanji": "歓迎会",
                 "vietnamese": "tiệc nghênh đón",
-                "info": ""
+                "info": "n, 歓 (hoan) 𠂉 ()| 一 (nhất) 隹 (chuy) 欠 (khiếm) |迎 (nghênh, nghịnh) 卬 (ngang: ta) ⻌ () |会 (hội, cối) 𠆢 () 云 (vân) "
             },
             {
-                "hiragana": "のみほうだい",
-                "kanji": "飲み放題",
-                "vietnamese": "uống hết sức",
-                "info": ""
+                "hiragana": "のみ/たべ ほうだい",
+                "kanji": "飲み/食べ 放題",
+                "vietnamese": "gói ăn/uống thỏa thích",
+                "info": "n, 飲 (ẩm, ấm) 欠 (khiếm) 飠 (thực) |食 (thực, tự) 良 (lương) 𠆢 ()| 放 (phóng: túng) 方 (phương)| 攵 (phộc) 題 (đề) 頁 (hiệt)| 是 (thị) "
             },
             {
-                "hiragana": "たべほうだい",
-                "kanji": "食べ放題",
-                "vietnamese": "ăn hết sức",
-                "info": ""
-            },
-            {
-                "hiragana": "（お）さけをつぐ",
+                "hiragana": "（お）さけをつぎます",
                 "kanji": "（お）酒を注ぐ",
                 "vietnamese": "rót rượu",
-                "info": ""
+                "info": "tha, 酒 (tửu) 氵 (thủy) |酉 (dậu) 注 (chú) 主 (chủ) |氵 (thủy) "
             },
             {
-                "hiragana": "（お）ゆをそそぐ",
-                "kanji": "（お）湯を注ぐ",
-                "vietnamese": "đổ nước nóng",
-                "info": ""
-            },
-            {
-                "hiragana": "かんぱいする",
-                "kanji": "乾杯する",
-                "vietnamese": "cụng ly",
-                "info": ""
-            },
-            {
-                "hiragana": "もりあがる",
+                "hiragana": "もりあがります",
                 "kanji": "盛り上がる",
-                "vietnamese": "phấn khích, nhảy dựng lên",
-                "info": ""
-            },
-            {
-                "hiragana": "つちがもりあがる",
-                "kanji": "土が上がる",
-                "vietnamese": "đất lồi lên",
-                "info": ""
+                "vietnamese": "trở nên sôi động",
+                "info": "tự, 盛 (thịnh: đầy đủ)|皿 (mãnh) 成 (thành) |上 (thượng, thướng) "
             },
             {
                 "hiragana": "ビールのあわ",
                 "kanji": "ビールの泡",
                 "vietnamese": "bọt bia",
-                "info": ""
+                "info": "n, 泡 (phao: bọt nước) 包 (bao) |氵 (thủy) "
             },
             {
-                "hiragana": "あふれる",
-                "kanji": "あふれる",
+                "hiragana": "あふれます",
+                "kanji": "溢れる",
                 "vietnamese": "ngập, tràn đầy",
-                "info": ""
+                "info": "tự, 溢 (dật: tràn) 氵 (thủy)| 益 (ích: thêm, lợi) "
             },
             {
-                "hiragana": "こぼす",
-                "kanji": "こぼす",
-                "vietnamese": "làm đổ",
-                "info": ""
+                "hiragana": "こぼします / こぼれます",
+                "kanji": "零す / 零れる",
+                "vietnamese": "làm đổ / bị đổ",
+                "info": "tha, tự, 零 (linh: rơi) |令 (lệnh) ⻗ () "
             },
             {
-                "hiragana": "こぼれる",
-                "kanji": "こぼれる",
-                "vietnamese": "bị tràn, bị đổ",
-                "info": ""
-            },
-            {
-                "hiragana": "ビールをいっきにのむ",
-                "kanji": "ビールを一気に",
+                "hiragana": "ビールをいっきにのみます",
+                "kanji": "ビールを一気に飲む",
                 "vietnamese": "uống 1 hơi bia",
-                "info": ""
+                "info": "tha, 気 (khí) 一 (nhất) 𠂉 () ⺄ () |㐅 () 飲 (ẩm, ấm) 欠 (khiếm) |飠 (thực) "
             },
             {
-                "hiragana": "ウィスキーのみずわり",
-                "kanji": "ウィスキーの水割り",
-                "vietnamese": "pha loãng rượu wisky",
-                "info": ""
+                "hiragana": "（お）さけにようます / よっぱらいます/ よっぱらい",
+                "kanji": "（お）酒に酔う / 酔っ払う / 酔っ払い",
+                "vietnamese": "say rượu (nhẹ), say xỉn",
+                "info": "tự, tự, n, 酒 (tửu) 氵 (thủy) |酉 (dậu) 酔 (túy: say) 卆 () |酉 (dậu) 払 (phất) 厶 (khư) |扌 (thủ) "
             },
             {
-                "hiragana": "（お）つまみのチーズ",
-                "kanji": "（お）つまみのチーズ",
-                "vietnamese": "pho mát (mồi)",
-                "info": ""
-            },
-            {
-                "hiragana": "（お）さけによう",
-                "kanji": "（お）酒によう",
-                "vietnamese": "say rượu",
-                "info": ""
-            },
-            {
-                "hiragana": "よっぱらう",
-                "kanji": "よっぱらう",
-                "vietnamese": "say xỉn",
-                "info": ""
-            },
-            {
-                "hiragana": "よっぱらい",
-                "kanji": "よっぱらい",
-                "vietnamese": "say xỉn",
-                "info": ""
-            },
-            {
-                "hiragana": "あばれる",
-                "kanji": "あばれる",
+                "hiragana": "あばれます",
+                "kanji": "暴れる",
                 "vietnamese": "nổi xung",
-                "info": ""
+                "info": "tự, 暴 (bạo: lực) ⺢ () |共 (cộng) 日 (nhật) "
             },
             {
-                "hiragana": "にぎやかな",
-                "kanji": "にぎやかな",
-                "vietnamese": "huyên náo",
-                "info": ""
+                "hiragana": "やかましい / そうぞうしい / さわがしい",
+                "kanji": "喧しい / 騒々しい / 騒がしい",
+                "vietnamese": "ồn chói / rất ồn / ồn",
+                "info": "い, 喧 (huyên: náo) 口 (khẩu) |宣 (tuyên: bố) 騒 (tao: làm ồn) |馬 (mã) 虫 (trùng) 又 (hựu) "
             },
             {
-                "hiragana": "やかましい",
-                "kanji": "やかましい",
-                "vietnamese": "ồn ào",
-                "info": ""
-            },
-            {
-                "hiragana": "さわがしい",
-                "kanji": "さわがしい",
-                "vietnamese": "inh ỏi",
-                "info": ""
-            },
-            {
-                "hiragana": "さわぐ",
-                "kanji": "さわぐ",
+                "hiragana": "さわぎます",
+                "kanji": "騒ぐ",
                 "vietnamese": "làm ồn",
-                "info": ""
-            },
-            {
-                "hiragana": "そうぞうしい",
-                "kanji": "そうぞうしい",
-                "vietnamese": "ồn ào, sôi nổi",
-                "info": ""
+                "info": "tự, 騒 (tao: làm ồn) |馬 (mã) 虫 (trùng) 又 (hựu)"
             },
             {
                 "hiragana": "たばこのけむり",
                 "kanji": "たばこの煙",
                 "vietnamese": "khói thuốc",
-                "info": ""
+                "info": "n, 煙 (yên) 覀 () 土 (thổ)| 火 (hỏa) "
             },
             {
-                "hiragana": "けむい",
-                "kanji": "煙い",
-                "vietnamese": "khói mù mịt",
-                "info": ""
-            },
-            {
-                "hiragana": "けむたい",
-                "kanji": "煙たい",
-                "vietnamese": "ngột ngạt (vì khói)",
-                "info": ""
-            },
-            {
-                "hiragana": "グラスをわる",
-                "kanji": "グラスを割る",
-                "vietnamese": "làm vỡ cốc thủy tinh",
-                "info": ""
-            },
-            {
-                "hiragana": "グラスがわれる",
-                "kanji": "グラスが割れる",
-                "vietnamese": "cốc bị vỡ",
-                "info": ""
-            },
-            {
-                "hiragana": "ビールびんをたおす",
-                "kanji": "ビールびんを倒す",
-                "vietnamese": "làm ngã cốc bia",
-                "info": ""
-            },
-            {
-                "hiragana": "ビールびんがたおれる",
-                "kanji": "ビールびんが倒れる",
-                "vietnamese": "cốc bia bị ngã",
-                "info": ""
-            },
-            {
-                "hiragana": "ほかのきゃくにめいわくをかける",
-                "kanji": "ほかの客に迷惑をかける",
-                "vietnamese": "làm phiền vị khách khác",
-                "info": ""
-            },
-            {
-                "hiragana": "めいわくがかかる",
-                "kanji": "迷惑がかかる",
-                "vietnamese": "bị làm phiền",
-                "info": ""
+                "hiragana": "けむい / けむたい",
+                "kanji": "煙い / 煙たい",
+                "vietnamese": "khói mù mịt / ngột ngạt (khói)",
+                "info": "い, 煙 (yên) 覀 () 土 (thổ) |火 (hỏa)"
             }
         ]
     },

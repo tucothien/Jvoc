@@ -37,7 +37,7 @@
 		//============================================================
 		// Init
 		//============================================================
-		INIT_LESSON = String(14) // w3 d3
+		INIT_LESSON = String(15) // w3 d4
 
 		function shuffleArray(array) {
 			if (isShuffle) {
@@ -136,7 +136,7 @@
 		//============================================================
 		function clearWords(){$('#mainText').html("");}
 		function showWords(word=null, mode='all') { //mode 'kanji', 'vietnamese', 'hiragana'
-			if (word===null){$('#mainText').html(''); return}
+			if (word===null){$('#mainText').html('<br/><br/><br/>'); return}
 			switch (mode) {
 				case 'all':
 					displayText=word['kanji']
@@ -159,7 +159,7 @@
 				case 'kanji':
 				case 'vietnamese':
 				case 'hiragana':
-					displayText = word[mode]
+					displayText = word[mode]+'<br/><br/><br/>'
 			}
 			$('#mainText').html(displayText);
 			if (isShowMessage) {isShowMessage=false;} else {$('#message').html('');}
