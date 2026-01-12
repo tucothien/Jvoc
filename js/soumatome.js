@@ -2315,100 +2315,100 @@ data_vocabulary = [
         "lesson": "sou w3 d6",
         "vocabulary": [
             {
-                "hiragana": "かんじょうをすませます",
-                "kanji": "勘定を済ませる",
+                "hiragana": "かんじょう",
+                "kanji": "勘定",
                 "vietnamese": "thanh toán xong",
-                "info": "v"
+                "info": "n, 勘 (khám: định) 甚 (thậm: chí) 甘 (cam) 匹 (thất)  力 (lực) 定 (định, đính) 疋 (sơ) 宀 (miên) "
             },
             {
                 "hiragana": "べつべつにはらいます",
                 "kanji": "別々に払う",
                 "vietnamese": "trả riêng (phần ai nấy trả)",
-                "info": "v"
+                "info": "v, 別 (biệt) 勹 (bao) 口 (khẩu) 刂 (đao) 払 (phất) 厶 (khư) 扌 (thủ) "
             },
             {
                 "hiragana": "わりかんにします",
                 "kanji": "割り勘にする",
                 "vietnamese": "chia riêng (tính tiền)",
-                "info": "v"
+                "info": "v, 割 (cát: cắt) 害 (hại: hãm) 刂 (đao) 勘 (khám: định) 甚 (thậm: chí) 甘 (cam) 匹 (thất)  力 (lực)"
             },
             {
                 "hiragana": "おごります / おごり",
                 "kanji": "奢る / 奢り",
                 "vietnamese": "bao, mời, đãi",
-                "info": "v, n"
+                "info": "v, n, 奢 (xa: xỉ) 大 (đại) 者 (giả) "
             },
             {
                 "hiragana": "カードのゆうこうきげん",
                 "kanji": "カードの有効期限",
                 "vietnamese": "thời hạn còn hiệu lực của thẻ",
-                "info": "n"
+                "info": "n, 有 (hữu, dựu) 𠂇 () 月 (nguyệt) 効 (hiệu) 力 (lực) 交 (giao) 期 (kì: hạn) 其 (kì: ấy) 月 (nguyệt) 限 (hạn: giới) 艮 (cấn) ⻖ () "
             },
             {
                 "hiragana": "（お）さつをくずします",
-                "kanji": "（お）札をくずす",
+                "kanji": "（お）札を崩す(くずす)",
                 "vietnamese": "đổi tiền lẻ",
-                "info": "v"
+                "info": "v, 札 (trát) 乚 () 木 (mộc) 崩 (băng: lở núi) 山 (san) 朋 (bằng: bạn bè) "
             },
             {
                 "hiragana": "りょうしゅうしょ",
                 "kanji": "領収書",
                 "vietnamese": "biên lai",
-                "info": "n"
-            },
-            {
-                "hiragana": "ぜいたくをします",
-                "kanji": "ぜいたくをする",
-                "vietnamese": "tiêu xài xa xỉ",
-                "info": "v"
-            },
-            {
-                "hiragana": "むだづかいをします",
-                "kanji": "むだづかいをする",
-                "vietnamese": "lãng phí (thời gian, tiên...)",
-                "info": "v"
+                "info": "n, 領 (lĩnh: giáo, nhận) 頁 (hiệt) 令 (lệnh) 収 (thu: nhập) 丩 () 又 (hựu) 書 (thư) 聿 (duật) 日 (nhật) "
             },
             {
                 "hiragana": "せいきゅうしょ",
                 "kanji": "請求書",
                 "vietnamese": "hóa đơn",
-                "info": "n"
+                "info": "n, 請 (thỉnh: cầu) 青 (thanh) 言 (ngôn) 求 (cầu: xin) 一 (nhất) 丶 (chủ) 水 (thủy) 書 (thư) 聿 (duật) 日 (nhật) "
+            },
+            {
+                "hiragana": "ぜいたくをします",
+                "kanji": "贅沢をする (ぜいたく)",
+                "vietnamese": "tiêu xài xa xỉ",
+                "info": "v, 贅 (chuế: dư) 貝 (bối) 敖 (ngao) 沢 (trạch: đầm lầy) 尺 (xích) 氵 (thủy) "
+            },
+            {
+                "hiragana": "むだづかいをします",
+                "kanji": "無駄遣いをする (むだづかい)",
+                "vietnamese": "lãng phí (thời gian, tiên...)",
+                "info": "v, 無 (vô, mô) 駄 (đà: thồ hàng) 太 (thái) 馬 (mã) 遣 (khiển: điều, dùng) 中 (trung) 一 (nhất) 㠯 (dĩ) ⻌ () "
             },
             {
                 "hiragana": "ひようがかかります",
                 "kanji": "費用がかかる",
                 "vietnamese": "tốn phí",
-                "info": "v"
+                "info": "v, 費 (phí: tổn) 貝 (bối) 弗 (phất: trừ) 用 (dụng) "
             },
             {
                 "hiragana": "せいかつひ / こうつうひ / しょくひ",
                 "kanji": "生活費 / 交通費 / 食費",
                 "vietnamese": "phí sinh hoạt / phí đi lại / phí ăn uống",
-                "info": "n"
+                "info": "n, 生 (sanh, sinh) 活 (hoạt, quạt) 舌 (thiệt) 氵 (thủy) 費 (phí: tổn) 貝 (bối) 弗 (phất: trừ) 用 (dụng) 交 (giao) 六 (lục) 父 (phụ) 通 (thông) 甬 (dũng) ⻌ () 食 (thực, tự) 良 (lương) 𠆢 () "
             },
             {
                 "hiragana": "むだをはぶきます / むだをなくします",
                 "kanji": "無駄を省く / 無駄をなくす",
                 "vietnamese": "cắt giảm lãng phí / xóa bỏ lãng phí",
-                "info": "v"
+                "info": "v, 無 (vô, mô) 駄 (đà: thồ hàng) 太 (thái) 馬 (mã) 省 (tỉnh: coi xét) 少 (thiểu) 目 (mục) "
             },
             {
                 "hiragana": "びんぼう / まずしい",
                 "kanji": "貧乏 / 貧しい",
                 "vietnamese": "nghèo",
-                "info": "n / a-i"
+                "info": "n / a-i, 貧 (bần) 分 (phân) 貝 (bối) 乏 (phạp: thiếu) ノ () 之 (chi: của no) "
             },
             {
                 "hiragana": "（お）かねもち",
                 "kanji": "（お）金持ち",
                 "vietnamese": "người giàu",
-                "info": "n"
+                "info": "n, 金 (kim) 𠆢 () 丷 () 王 (vương) 持 (trì) 扌 (thủ) 寺 (tự) "
             },
             {
                 "hiragana": "しゃっきんをします",
                 "kanji": "借金をする",
                 "vietnamese": "vay tiền",
-                "info": "v"
+                "info": "v, 借 (tá: mượn) 昔 (tích) 亻 (nhân) 金 (kim) 𠆢 () 丷 () 王 (vương) "
             }
         ]
     },
