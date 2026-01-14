@@ -2317,7 +2317,7 @@ data_vocabulary = [
             {
                 "hiragana": "かんじょう",
                 "kanji": "勘定",
-                "vietnamese": "thanh toán xong",
+                "vietnamese": "khoảng thanh toán, bill",
                 "info": "n, 勘 (khám: định) 甚 (thậm: chí) 甘 (cam) 匹 (thất)  力 (lực) 定 (định, đính) 疋 (sơ) 宀 (miên) "
             },
             {
@@ -2329,7 +2329,7 @@ data_vocabulary = [
             {
                 "hiragana": "わりかんにします",
                 "kanji": "割り勘にする",
-                "vietnamese": "chia riêng (tính tiền)",
+                "vietnamese": "chia riêng hóa đơn",
                 "info": "v, 割 (cát: cắt) 害 (hại: hãm) 刂 (đao) 勘 (khám: định) 甚 (thậm: chí) 甘 (cam) 匹 (thất)  力 (lực)"
             },
             {
@@ -2353,13 +2353,13 @@ data_vocabulary = [
             {
                 "hiragana": "りょうしゅうしょ",
                 "kanji": "領収書",
-                "vietnamese": "biên lai",
+                "vietnamese": "biên lai (receipt)",
                 "info": "n, 領 (lĩnh: giáo, nhận) 頁 (hiệt) 令 (lệnh) 収 (thu: nhập) 丩 () 又 (hựu) 書 (thư) 聿 (duật) 日 (nhật) "
             },
             {
                 "hiragana": "せいきゅうしょ",
                 "kanji": "請求書",
-                "vietnamese": "hóa đơn",
+                "vietnamese": "hóa đơn (invoice)",
                 "info": "n, 請 (thỉnh: cầu) 青 (thanh) 言 (ngôn) 求 (cầu: xin) 一 (nhất) 丶 (chủ) 水 (thủy) 書 (thư) 聿 (duật) 日 (nhật) "
             },
             {
@@ -2371,7 +2371,7 @@ data_vocabulary = [
             {
                 "hiragana": "むだづかいをします",
                 "kanji": "無駄遣いをする (むだづかい)",
-                "vietnamese": "lãng phí (thời gian, tiên...)",
+                "vietnamese": "sử dụng lãng phí (thời gian, tiền)",
                 "info": "v, 無 (vô, mô) 駄 (đà: thồ hàng) 太 (thái) 馬 (mã) 遣 (khiển: điều, dùng) 中 (trung) 一 (nhất) 㠯 (dĩ) ⻌ () "
             },
             {
