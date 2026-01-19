@@ -2416,154 +2416,142 @@ data_vocabulary = [
         "lesson": "sou w4 d1",
         "vocabulary": [
             {
-                "hiragana": "かもく",
-                "kanji": "科目",
-                "vietnamese": "môn học",
-                "info": "n"
-            },
-            {
-                "hiragana": "きょうか",
-                "kanji": "教科",
-                "vietnamese": "môn học",
-                "info": "n"
+                "hiragana": "きょうか / かもく",
+                "kanji": "教科 / 科目",
+                "vietnamese": "nhóm môn học / môn",
+                "info": "n, 教 (giáo, giao) 孝 (hiếu) 攵 (phộc) 科 (khoa) 禾 (hòa) 斗 (đấu) 目 (mục) "
             },
             {
                 "hiragana": "とくい",
                 "kanji": "得意",
                 "vietnamese": "giỏi",
-                "info": "na"
+                "info": "na, 得 (đắc) 彳 (xích) 㝵 () 意 (ý) 音 (âm) 心 (tâm) "
             },
             {
                 "hiragana": "にがて",
                 "kanji": "苦手",
-                "vietnamese": "dở",
-                "info": "na"
+                "vietnamese": "yếu kém, không giỏi (lĩnh vực)",
+                "info": "na, 苦 (khổ: đắng) 古 (cổ) 艹 (thảo) 手 (thủ) "
             },
             {
                 "hiragana": "こくご",
                 "kanji": "国語",
                 "vietnamese": "quốc ngữ (môn tiếng Nhật)",
-                "info": "n"
+                "info": "n, 国 (quốc) 玉 (ngọc) 囗 (vi) 語 (ngữ, ngứ) 言 (ngôn) 五 (ngũ) "
             },
             {
                 "hiragana": "さんすう",
                 "kanji": "算数",
                 "vietnamese": "môn số học",
-                "info": "n"
+                "info": "n, 算 (toán) 廾 (củng) 目 (mục) ⺮ () 数 (sổ, số, sác, xúc) 女 (nữ) 米 (mễ) 攵 (phộc) "
             },
             {
                 "hiragana": "りか",
                 "kanji": "理科",
                 "vietnamese": "khoa học tự nhiên",
-                "info": "n"
+                "info": "n, 理 (lí) 里 (lí) 王 (vương) 科 (khoa) 禾 (hòa) 斗 (đấu) "
             },
             {
                 "hiragana": "しゃかい",
                 "kanji": "社会",
                 "vietnamese": "môn xã hội",
-                "info": "n"
+                "info": "n, 社 (xã) 礻 (thị) 土 (thổ) 会 (hội, cối) 𠆢 () 云 (vân) "
             },
             {
                 "hiragana": "たいいく",
                 "kanji": "体育",
                 "vietnamese": "môn thể dục",
-                "info": "n"
+                "info": "n, 体 (thể) 本 (bổn) 亻 (nhân) 育 (dục) 𠫓 (đột) 月 (nguyệt) "
             },
             {
                 "hiragana": "きゅうしょく",
                 "kanji": "給食",
                 "vietnamese": "suất ăn tập thể (ở trường, cơ quan)",
-                "info": "n"
+                "info": "n, 給 (cấp) 糸 (mịch) 合 (hợp) 食 (thực, tự) 良 (lương) 𠆢 () "
             },
             {
                 "hiragana": "じかんわり",
                 "kanji": "時間割",
                 "vietnamese": "thời gian biểu (làm việc, nghỉ ngơi)",
-                "info": "n"
+                "info": "n, 時 (thì, thời) 日 (nhật) 寺 (tự) 間 (gian) 日 (nhật) 門 (môn) 割 (cát) 害 (hại) 刂 (đao) "
             },
             {
                 "hiragana": "けっせきします / しゅっせきします",
                 "kanji": "欠席する / 出席する",
                 "vietnamese": "vắng mặt / tham dự",
-                "info": "v"
+                "info": "v, 欠 (khiếm) 人 (nhân) ⺈ () 席 (tịch) 廿 (nhập) 巾 (cân) 广 (nghiễm) 出 (xuất, xúy) "
             },
             {
                 "hiragana": "１/２/３がっき",
                 "kanji": "１/２/３学期",
                 "vietnamese": "học kỳ 1, 2, 3",
-                "info": "n"
+                "info": "n, 学 (học) 子 (tử) 龸 () 期 (kì, ki) 其 (kì) 月 (nguyệt) "
             },
             {
                 "hiragana": "ぜんき / こんがっき / こうき",
                 "kanji": "前期 / 今学期 / 後期",
                 "vietnamese": "học kỳ trước/này/sau",
-                "info": "n"
+                "info": "n, 前 (tiền) 刖 (ngoạt) 䒑 () 期 (kì, ki) 其 (kì) 月 (nguyệt) 今 (kim) 亼 () ㇇ () 後 (hậu, hấu) 幺 (yêu) 彳 (xích) 夂 (tri) "
             },
             {
                 "hiragana": "おなじがくねん",
                 "kanji": "同じ学年",
                 "vietnamese": "cùng khối, cùng niên khóa",
-                "info": "n"
+                "info": "n, 同 (đồng) 一 (nhất) 冋 () 学 (học) 子 (tử) 龸 () 年 (niên) 𠂉 () ヰ () "
             },
             {
                 "hiragana": "じしゅうします",
                 "kanji": "自習する",
                 "vietnamese": "tự học",
-                "info": "v"
+                "info": "v, 自 (tự) 習 (tập) 白 (bạch) 羽 (vũ) "
             },
             {
                 "hiragana": "えんぴつをけずります",
                 "kanji": "鉛筆を削る",
                 "vietnamese": "gọt bút chì",
-                "info": "v"
+                "info": "v, 鉛 (duyên, diên) 金 (kim) 㕣 () 筆 (bút) ⺮ () 聿 (duật) 削 (tước: vót) 肖 (tiếu) 刂 (đao) "
             },
             {
-                "hiragana": "ものさし",
-                "kanji": "物差し",
-                "vietnamese": "thước kẻ",
+                "hiragana": "ものさし / じょうぎで",
+                "kanji": "物差し / 定規",
+                "vietnamese": "thước đo / thước (dụng cụ)",
                 "info": "n"
-            },
-            {
-                "hiragana": "じょうぎではかります",
-                "kanji": "定規で測る",
-                "vietnamese": "đo bằng thước kẻ",
-                "info": "v"
             },
             {
                 "hiragana": "ごうけいをだします",
                 "kanji": "合計を出す",
                 "vietnamese": "tính tổng",
-                "info": "v"
+                "info": "v, 合 (hợp, cáp, hiệp) 亼 () 口 (khẩu) 計 (kế, kê) 十 (thập) 言 (ngôn) "
             },
             {
                 "hiragana": "けいさん",
                 "kanji": "計算",
                 "vietnamese": "tính toán",
-                "info": "n"
+                "info": "n, 計 (kế, kê) 十 (thập) 言 (ngôn) 算 (toán) 廾 (củng) 目 (mục) ⺮ () "
             },
             {
                 "hiragana": "たしざん / たします",
                 "kanji": "足し算 / 足す",
                 "vietnamese": "phép cộng / cộng",
-                "info": "n, v"
+                "info": "n, v, 足 (túc) 算 (toán) 廾 (củng) 目 (mục) ⺮ () "
             },
             {
                 "hiragana": "ひきざん / ひきます",
                 "kanji": "引き算 / 引く",
                 "vietnamese": "phép trừ, trừ",
-                "info": "n, v"
+                "info": "n, v, 引 (dẫn, dấn) 弓 (cung) 丨 (cổn) 算 (toán) 廾 (củng) 目 (mục) ⺮ () "
             },
             {
                 "hiragana": "かけざん / かけます",
                 "kanji": "掛け算 / 掛ける",
                 "vietnamese": "phép nhân / nhân",
-                "info": "n, v"
+                "info": "n, v, 掛 (quải) 扌 (thủ) 卜 (bặc) 圭 (khuê) 算 (toán) 廾 (củng) 目 (mục) ⺮ () "
             },
             {
                 "hiragana": "わりざん / わります",
                 "kanji": "割り算 / 割る",
                 "vietnamese": "phép chia / chia",
-                "info": "n, v"
+                "info": "n, v, 割 (cát) 害 (hại) 刂 (đao) 算 (toán) 廾 (củng) 目 (mục) ⺮ () "
             }
         ]
     },
