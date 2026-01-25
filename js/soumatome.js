@@ -2561,236 +2561,152 @@ data_vocabulary = [
             {
                 "hiragana": "がくぶ",
                 "kanji": "学部",
-                "vietnamese": "bộ môn, khoa (đại học)",
-                "info": "n"
+                "vietnamese": "khoa (đại học)",
+                "info": "n, 学 (học) 子 (tử) 龸 ()| 部 (bộ) 咅 () ⻏ () "
             },
             {
                 "hiragana": "じゅけんします",
                 "kanji": "受験する",
                 "vietnamese": "dự thi",
-                "info": "v"
+                "info": "v, 受 (thụ) 又 (hựu) |冖 (mịch) ⺤ () |験 (nghiệm) 㑒 () 馬 (mã)  "
             },
             {
                 "hiragana": "ぶんがくぶ",
                 "kanji": "文学部",
                 "vietnamese": "khoa văn",
-                "info": "n"
-            },
-            {
-                "hiragana": "けいざいがくぶ",
-                "kanji": "経済学部",
-                "vietnamese": "khoa kinh tế",
-                "info": "n"
+                "info": "n, 文 (văn, vấn) 学 (học)| 子 (tử) 龸 () 部 (bộ) |咅 () ⻏ () "
             },
             {
                 "hiragana": "ほうがくぶ",
                 "kanji": "法学部",
                 "vietnamese": "khoa luật",
-                "info": "n"
+                "info": "n, 法 (pháp) 去 (khứ) |氵 (thủy) 学 (học) 子 (tử)| 龸 () 部 (bộ) 咅 () ⻏ () "
             },
             {
                 "hiragana": "りこうがくぶ",
                 "kanji": "理工学部",
                 "vietnamese": "khoa khoa học kỹ thuật",
-                "info": "n"
+                "info": "n, 理 (lí) 里 (lí) 王 (vương) |工 (công) 学 (học) 子 (tử) 龸 () |部 (bộ) 咅 () ⻏ () "
             },
             {
                 "hiragana": "いがくぶ",
                 "kanji": "医学部",
                 "vietnamese": "khoa y",
-                "info": "n"
+                "info": "n, 医 (y) 矢 (thỉ) 匚 (phương)|学 (học) 子 (tử) 龸 ()  |部 (bộ) 咅 () ⻏ () "
             },
             {
                 "hiragana": "がっか",
                 "kanji": "学科",
                 "vietnamese": "ngành học / chuyên ngành",
-                "info": "n"
+                "info": "n, 学 (học) 子 (tử) 龸 () 科 (khoa) |禾 (hòa) 斗 (đấu) "
             },
             {
                 "hiragana": "せんこうします",
                 "kanji": "専攻する",
                 "vietnamese": "theo học chuyên ngành",
-                "info": "v"
+                "info": "v, 専 (chuyên) 寸 (thốn) 一 (nhất)| 由 (do) 攻 (công: kích) 工 (công) |攵 (phộc) "
             },
             {
                 "hiragana": "けいざいがく",
                 "kanji": "経済学",
                 "vietnamese": "kinh tế học",
-                "info": "n"
+                "info": "n, 経 (kinh) 糸 (mịch) 圣 (thánh)| 済 (tế) 斉 (tề) 氵 (thủy) 学 (học)| 子 (tử) 龸 () "
             },
             {
                 "hiragana": "せいじがく",
                 "kanji": "政治学",
                 "vietnamese": "chính trị học",
-                "info": "n"
+                "info": "n, 政 (chánh, chính) 正 (chánh)| 攵 (phộc) 治 (trì, trị) 台 (thai) |氵 (thủy) 学 (học) 子 (tử) 龸 () "
             },
             {
                 "hiragana": "しんりがく",
                 "kanji": "心理学",
                 "vietnamese": "tâm lý học",
-                "info": "n"
+                "info": "n, 心 (tâm) 理 (lí) 里 (lí) 王 (vương)| 学 (học) 子 (tử) 龸 () "
             },
             {
                 "hiragana": "げんごがく",
                 "kanji": "言語学",
                 "vietnamese": "ngôn ngữ học",
-                "info": "n"
+                "info": "n, 言 (ngôn, ngân) 一 (nhất) 口 (khẩu)| 語 (ngữ, ngứ) 言 (ngôn) 五 (ngũ)| 学 (học) 子 (tử) 龸 () "
             },
             {
                 "hiragana": "ぶつりがく",
                 "kanji": "物理学",
                 "vietnamese": "vật lý học",
-                "info": "n"
+                "info": "n, 物 (vật) 勿 (vật) 牜 () 理 (lí)| 里 (lí) 王 (vương) 学 (học) 子 (tử)| 龸 () "
             },
             {
-                "hiragana": "たんいをとります",
-                "kanji": "単位をとる",
-                "vietnamese": "lấy tín chỉ",
-                "info": "v"
+                "hiragana": "こうぎ",
+                "kanji": "講義",
+                "vietnamese": "lecture",
+                "info": "n, 講 (giảng) 言 (ngôn) 冓 (cấu)| 義 (nghĩa) 我 (ngã) 𦍌 () "
             },
             {
-                "hiragana": "こうぎをうけます",
-                "kanji": "講義を受ける",
-                "vietnamese": "tham gia lecture",
-                "info": "v"
+                "hiragana": "ほしゅう",
+                "kanji": "補習",
+                "vietnamese": "buổi học bổ túc",
+                "info": "v, 補 (bổ: sung) 甫 (phủ) 衤 (y) |習 (tập) 白 (bạch) 羽 (vũ) "
             },
             {
-                "hiragana": "ほしゅうをうけます",
-                "kanji": "補習を受ける",
-                "vietnamese": "tham gia học bổ túc",
-                "info": "v"
+                "hiragana": "ほこう",
+                "kanji": "補講",
+                "vietnamese": "buổi học bù",
+                "info": "v, 補 (bổ: sung) 甫 (phủ) 衤 (y) |講 (giảng) 言 (ngôn) 冓 (cấu) "
             },
             {
-                "hiragana": "ほこうをうけます",
-                "kanji": "補講を受ける",
-                "vietnamese": "tham gia buổi học bù",
-                "info": "v"
+                "hiragana": "しんがく",
+                "kanji": "進学",
+                "vietnamese": "học lên bậc cao hơn",
+                "info": "n, 進 (tiến) 隹 (chuy) ⻌ () |学 (học) 子 (tử) 龸 () "
             },
             {
-                "hiragana": "しんがくをきぼうします",
-                "kanji": "進学を希望する",
-                "vietnamese": "mong muốn học lên bậc cao hơn",
-                "info": "v"
+                "hiragana": "ごうかくはっぴょう",
+                "kanji": "合格発表",
+                "vietnamese": "công bố kết quả trúng tuyển",
+                "info": "n, 合 (hợp, cáp, hiệp) 亼 () |口 (khẩu) 格 (cách, các) 各 (các) |木 (mộc)  発 (phát) 癶 (bát) 二 (nhị)| 儿 (nhân) 表 (biểu) 龶 () 𧘇 () "
             },
             {
-                "hiragana": "ごうかくはっぴょうをみにいきます",
-                "kanji": "合格発表を見に行く",
-                "vietnamese": "đi xem kết quả thi đỗ/rớt",
-                "info": "v"
-            },
-            {
-                "hiragana": "ごうかくします",
-                "kanji": "合格する",
+                "hiragana": "ごうかくします / うかります",
+                "kanji": "合格する / 受かる",
                 "vietnamese": "thi đỗ",
-                "info": "v"
-            },
-            {
-                "hiragana": "うかります",
-                "kanji": "受かる",
-                "vietnamese": "thi đỗ",
-                "info": "v"
+                "info": "v, 合 (hợp, cáp, hiệp) 亼 () |口 (khẩu) 格 (cách, các) 各 (các) |木 (mộc) 受 (thụ: nhận) 又 (hựu) |冖 (mịch) ⺤ () "
             },
             {
                 "hiragana": "ふごうかくになります / おちます",
                 "kanji": "不合格になる / 落ちる",
                 "vietnamese": "thi rớt",
-                "info": "v"
+                "info": "v, 不 (bất, phầu, phủ, phi) 合 (hợp, cáp, hiệp) 亼 () 口 (khẩu)| 格 (cách, các) 各 (các) 木 (mộc) |落 (lạc) 艹 (thảo) 洛 (lạc) "
             },
             {
-                "hiragana": "じゅぎょうりょうをはらいます",
-                "kanji": "授業料を払う",
-                "vietnamese": "trả học phí",
-                "info": "v"
+                "hiragana": "じゅぎょうりょう / がくひ",
+                "kanji": "授業料 / 学費",
+                "vietnamese": "học phí",
+                "info": "n, 授 (thụ: truyền) 扌 (thủ) 受 (thụ) |業 (nghiệp) 业 (nghiệp) 䒑 () 未 (vị)| 料 (liêu, liệu) 米 (mễ) 斗 (đấu)| 学 (học) 子 (tử) 龸 () 費 (phí, bỉ) 貝 (bối)| 弗 (phất) "
             },
             {
-                "hiragana": "がくひをはらいます",
-                "kanji": "学費を払う",
-                "vietnamese": "trả học phí",
-                "info": "v"
-            },
-            {
-                "hiragana": "しょうがくきんをもらいます",
-                "kanji": "奨学金をもらう",
-                "vietnamese": "nhận học bổng",
-                "info": "v"
+                "hiragana": "しょうがくきん",
+                "kanji": "奨学金",
+                "vietnamese": "học bổng",
+                "info": "n, 奨 (tưởng: thưởng) 大 (đại) ⺤ () |寸 (thốn) 丬 (phiến)  学 (học) 子 (tử)| 龸 () 金 (kim) 𠆢 () 丷 () |王 (vương) "
             },
             {
                 "hiragana": "だいがくきょうじゅ",
                 "kanji": "大学教授",
                 "vietnamese": "giáo sư đại học",
-                "info": "n"
+                "info": "n, 大 (đại, thái) 一 (nhất) 人 (nhân) |学 (học) 子 (tử) 龸 () 教 (giáo, giao) 孝 (hiếu) 攵 (phộc) 授 (thụ: truyền)| 扌 (thủ) 受 (thụ: nhận) "
             },
             {
-                "hiragana": "がくしゃ",
-                "kanji": "学者",
-                "vietnamese": "học giả",
-                "info": "n"
+                "hiragana": "せいせき",
+                "kanji": "成績",
+                "vietnamese": "thành tích học tập",
+                "info": "n, 成 (thành) |戈 (qua) 勹 (bao) 績 (tích)| 責 (trách) 糸 (mịch)  "
             },
             {
-                "hiragana": "こうぎにまにあいます",
-                "kanji": "講義に間に合う",
-                "vietnamese": "kịp giờ học",
-                "info": "v"
-            },
-            {
-                "hiragana": "こうぎにおくれます",
-                "kanji": "講義に遅れる",
-                "vietnamese": "trễ giờ học",
-                "info": "v"
-            },
-            {
-                "hiragana": "こうぎにちこくします",
-                "kanji": "講義に遅刻する",
-                "vietnamese": "đi trễ giờ học",
-                "info": "v"
-            },
-            {
-                "hiragana": "せいせきがいい",
-                "kanji": "成績がいい",
-                "vietnamese": "thành tích học tập tốt",
-                "info": ""
-            },
-            {
-                "hiragana": "せいせきがわるい",
-                "kanji": "成績が悪い",
-                "vietnamese": "thành tích học tập kém",
-                "info": ""
-            },
-            {
-                "hiragana": "じゅぎょうちゅうにいねむりをします",
-                "kanji": "授業中に居眠りをする",
-                "vietnamese": "ngủ gật trong giờ học",
-                "info": "v"
-            },
-            {
-                "hiragana": "じゅぎょうをサボります",
-                "kanji": "授業をサボる",
-                "vietnamese": "trốn học",
-                "info": "v"
-            },
-            {
-                "hiragana": "たんいをおとします",
-                "kanji": "単位を落とす",
-                "vietnamese": "rớt tín chỉ",
-                "info": "v"
-            },
-            {
-                "hiragana": "たんいをとります",
-                "kanji": "単位をとる",
-                "vietnamese": "lấy tín chỉ",
-                "info": "v"
-            },
-            {
-                "hiragana": "きゅうがくします",
-                "kanji": "休学する",
-                "vietnamese": "nghỉ học (tạm thời)",
-                "info": "v"
-            },
-            {
-                "hiragana": "りゅうがくします",
-                "kanji": "留学する",
-                "vietnamese": "du học",
-                "info": "v"
+                "hiragana": "たんい",
+                "kanji": "単位",
+                "vietnamese": "tín chỉ",
+                "info": "n, 単 (đơn: cô) 十 (thập) ⺍ () 田 (điền) 位 (vị) |亻 (nhân) 立 (lập) "
             }
         ]
     },
