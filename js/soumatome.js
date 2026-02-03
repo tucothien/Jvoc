@@ -2512,7 +2512,7 @@ data_vocabulary = [
                 "info": "v, 鉛 (duyên, diên) 金 (kim) 㕣 () 筆 (bút) ⺮ () 聿 (duật) 削 (tước: vót) 肖 (tiếu) 刂 (đao) "
             },
             {
-                "hiragana": "ものさし / じょうぎで",
+                "hiragana": "ものさし / じょうぎ",
                 "kanji": "物差し / 定規",
                 "vietnamese": "thước đo / thước (dụng cụ)",
                 "info": "n"
@@ -2714,172 +2714,82 @@ data_vocabulary = [
         "lesson": "sou w4 d3",
         "vocabulary": [
             {
-                "hiragana": "こたえをきにゅうします",
-                "kanji": "答えを記入する",
-                "vietnamese": "ghi đáp án",
-                "info": "v"
+                "hiragana": "しあげます (レポートを)",
+                "kanji": "仕上げる (レポートを)",
+                "vietnamese": "hoàn thành (báo cáo)",
+                "info": "tha, 仕 (sĩ) 亻 (nhân) 士 (sĩ)| 上 (thượng, thướng) "
             },
             {
-                "hiragana": "こたえをみなおします",
-                "kanji": "答えを見直す",
-                "vietnamese": "xem lại đáp án",
-                "info": "v"
-            },
-            {
-                "hiragana": "みなおし",
-                "kanji": "見直し",
-                "vietnamese": "sự xem lại",
-                "info": "n"
-            },
-            {
-                "hiragana": "こたえをまちがえます",
-                "kanji": "答えを間違える",
-                "vietnamese": "nhầm đáp án",
-                "info": "v"
-            },
-            {
-                "hiragana": "かきなおします",
-                "kanji": "書き直す",
-                "vietnamese": "viết lại",
-                "info": "v"
-            },
-            {
-                "hiragana": "レポートをまとめます",
-                "kanji": "レポートをまとめる",
-                "vietnamese": "tổng hợp báo cáo",
-                "info": "v"
-            },
-            {
-                "hiragana": "レポートをしあげます",
-                "kanji": "レポートを仕上げる",
-                "vietnamese": "hoàn thành báo cáo",
-                "info": "v"
-            },
-            {
-                "hiragana": "レポートをていしゅつします",
-                "kanji": "レポートを提出する",
-                "vietnamese": "nộp báo cáo",
-                "info": "v"
+                "hiragana": "ていしゅつします (レポートを)",
+                "kanji": "提出する (レポートを)",
+                "vietnamese": "nộp (báo cáo)",
+                "info": "tha, 提 (đề: cử, nâng lên) 扌 (thủ)| 是 (thị) 出 (xuất, xúy) |題(đề mondai)| hẹp hơn, trang trong hơn 出す"
             },
             {
                 "hiragana": "たんとうのせんせい",
                 "kanji": "担当の先生",
                 "vietnamese": "giáo viên phụ trách",
-                "info": "n"
-            },
-            {
-                "hiragana": "せんせいにおそわります",
-                "kanji": "先生に教わる",
-                "vietnamese": "được thầy cô dạy",
-                "info": "v"
-            },
-            {
-                "hiragana": "なんどもくりかえします",
-                "kanji": "何度もくり返す",
-                "vietnamese": "lặp đi lặp lại nhiều lần",
-                "info": "v"
+                "info": "n, 担 (đam, đảm) 旦 (đán) 扌 (thủ)| 当 (đương, đang, đáng) ⺌ () ヨ () "
             },
             {
                 "hiragana": "くりかえし",
                 "kanji": "くり返し",
                 "vietnamese": "sự lặp lại",
-                "info": "n"
+                "info": "n, 返 (phản) 反 (phản) ⻌ () "
             },
             {
                 "hiragana": "あんきします",
                 "kanji": "暗記する",
                 "vietnamese": "ghi nhớ; học thuộc lòng",
-                "info": "v"
-            },
-            {
-                "hiragana": "しけんでとわれます",
-                "kanji": "試験で問われる",
-                "vietnamese": "được hỏi trong kì thi",
-                "info": "v"
+                "info": "tha, 暗 (ám) 日 (nhật) 音 (âm)| 記 (kí) 言 (ngôn) 己 (kỉ) "
             },
             {
                 "hiragana": "とい",
                 "kanji": "問い",
                 "vietnamese": "câu hỏi",
-                "info": "n"
+                "info": "n, 問 (vấn) 口 (khẩu) 門 (môn) |trang trọng hơn 問題"
             },
             {
-                "hiragana": "おちついてかんがえます",
-                "kanji": "落ち着いて考える",
-                "vietnamese": "suy nghĩ bình tĩnh",
-                "info": "v"
+                "hiragana": "きにゅうします (こたえを)",
+                "kanji": "記入する (答えを)",
+                "vietnamese": "ghi (đáp án)",
+                "info": "tha, 記 (kí) 言 (ngôn) 己 (kỉ) |入 (nhập) "
             },
             {
-                "hiragana": "ききなおします",
-                "kanji": "聞き直す",
-                "vietnamese": "nghe lại",
-                "info": "v"
-            },
-            {
-                "hiragana": "いいなおします",
-                "kanji": "言い直す",
-                "vietnamese": "nói lại",
-                "info": "v"
+                "hiragana": "み/かき/きき/いい + なおします/なおし",
+                "kanji": "見/書き/聞き/言い + 直す/直し",
+                "vietnamese": "xem lại (đáp án) v/n",
+                "info": "tha, n,直 (trực) 十 (thập) 目 (mục)| 𠃊 () 見 (kiến, hiện) 目 (mục) 儿 (nhân) 書 (thư) |聿 (duật) 日 (nhật) 聞 (văn, vấn, vặn)| 耳 (nhĩ) 門 (môn) |言 (ngôn, ngân) 一 (nhất) 口 (khẩu) "
             },
             {
                 "hiragana": "ききとります / ききとり",
                 "kanji": "聞き取る / 聞き取り",
-                "vietnamese": "nghe và nắm nội dung",
-                "info": "v, n"
+                "vietnamese": "nghe hiểu",
+                "info": "tha/n, 聞 (văn, vấn, vặn) 耳 (nhĩ)| 門 (môn) 取 (thủ) 耳 (nhĩ) 又 (hựu) "
             },
             {
                 "hiragana": "かきとります / かきとり",
                 "kanji": "書き取る / 書き取り",
                 "vietnamese": "nghe rồi chép lại",
-                "info": "v, n"
+                "info": "tha/n, 書 (thư) 聿 (duật) 日 (nhật) |取 (thủ) 耳 (nhĩ)| 又 (hựu) "
             },
             {
-                "hiragana": "ついています",
-                "kanji": "ついている",
-                "vietnamese": "gặp may",
-                "info": "v"
-            },
-            {
-                "hiragana": "ついていません",
-                "kanji": "ついていない",
-                "vietnamese": "không may",
-                "info": "v"
-            },
-            {
-                "hiragana": "しけんがすみます",
-                "kanji": "試験が済む",
-                "vietnamese": "thi cử xong",
-                "info": "v"
-            },
-            {
-                "hiragana": "しけんのけっか",
-                "kanji": "試験の結果",
-                "vietnamese": "kết quả thi",
-                "info": "n"
-            },
-            {
-                "hiragana": "カンニングします",
-                "kanji": "カンニングする",
-                "vietnamese": "quay cóp bài",
-                "info": "v"
+                "hiragana": "すみます (しけんが)",
+                "kanji": "済む (試験が)",
+                "vietnamese": "kết thúc, hoàn tất (kỳ thi)",
+                "info": "tự, 済 (tế: kinh) 斉 (tề: nhất) |氵 (thủy) 試 (thí) |言 (ngôn) 式 (thức) 験 (nghiệm)| 㑒 () 馬 (mã) "
             },
             {
                 "hiragana": "レポートのしたがきをします",
                 "kanji": "レポートの下書きをする",
                 "vietnamese": "viết nháp",
-                "info": "v"
+                "info": "tha, 下 (hạ, há)| 書 (thư) 聿 (duật)| 日 (nhật) "
             },
             {
                 "hiragana": "せいしょします",
                 "kanji": "清書する",
-                "vietnamese": "copy sạch",
-                "info": "v"
-            },
-            {
-                "hiragana": "ていしゅつきげんをまもります",
-                "kanji": "提出期限を守る",
-                "vietnamese": "giữ đúng kì hạn nộp",
-                "info": "v"
+                "vietnamese": "viết lại bản nháp sạch sẽ",
+                "info": "tha, 清 (thanh: trong) |青 (thanh: xanh) 氵 (thủy) |書 (thư) 聿 (duật) |日 (nhật) "
             }
         ]
     },
