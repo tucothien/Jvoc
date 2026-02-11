@@ -2752,13 +2752,13 @@ data_vocabulary = [
             {
                 "hiragana": "きにゅうします (こたえを)",
                 "kanji": "記入する (答えを)",
-                "vietnamese": "ghi (đáp án)",
+                "vietnamese": "điền (đáp án)",
                 "info": "tha, 記 (kí) 言 (ngôn) 己 (kỉ) |入 (nhập) "
             },
             {
                 "hiragana": "み/かき/きき/いい + なおします/なおし",
                 "kanji": "見/書き/聞き/言い + 直す/直し",
-                "vietnamese": "xem lại (đáp án) v/n",
+                "vietnamese": "xem/viết/nghe/nói lại (đáp án) v/n",
                 "info": "tha, n,直 (trực) 十 (thập) 目 (mục)| 𠃊 () 見 (kiến, hiện) 目 (mục) 儿 (nhân) 書 (thư) |聿 (duật) 日 (nhật) 聞 (văn, vấn, vặn)| 耳 (nhĩ) 門 (môn) |言 (ngôn, ngân) 一 (nhất) 口 (khẩu) "
             },
             {
@@ -2797,196 +2797,112 @@ data_vocabulary = [
         "lesson": "sou w4 d4",
         "vocabulary": [
             {
-                "hiragana": "レストランでバイトをしています",
-                "kanji": "レストランでバイトをしています",
-                "vietnamese": "làm thêm ở nhà hàng",
-                "info": "v"
-            },
-            {
-                "hiragana": "レストランでアルバイトをしています",
-                "kanji": "レストランでアルバイトをしています",
-                "vietnamese": "làm thêm ở nhà hàng",
-                "info": "v"
-            },
-            {
-                "hiragana": "こうじょうでパートをしています",
-                "kanji": "工場でパートをしています",
-                "vietnamese": "làm bán thời gian ở nhà máy",
-                "info": "v"
-            },
-            {
-                "hiragana": "コンビニのてんいんをしています",
-                "kanji": "コンビニの店員をしています",
-                "vietnamese": "làm nhân viên bán hàng",
-                "info": "v"
-            },
-            {
-                "hiragana": "えいかいわこうしをしています",
-                "kanji": "英会話講師をしています",
-                "vietnamese": "giáo viên tiếng Anh giao tiếp",
-                "info": "v"
-            },
-            {
                 "hiragana": "ほんやくします",
                 "kanji": "翻訳する",
                 "vietnamese": "biên dịch",
-                "info": "v"
-            },
-            {
-                "hiragana": "つうやくのしごとをしています",
-                "kanji": "通訳の仕事をしています",
-                "vietnamese": "làm nghề thông dịch",
-                "info": "v"
+                "info": "tha, 翻 (phiên) 番 (phiên) 羽 (vũ)| 訳 (dịch) 尺 (xích) 言 (ngôn) "
             },
             {
                 "hiragana": "つうやくします",
                 "kanji": "通訳する",
                 "vietnamese": "thông dịch",
-                "info": "v"
+                "info": "tha, 通 (thông) 甬 (dũng) ⻌ ()| 訳 (dịch) 尺 (xích) 言 (ngôn) "
             },
             {
                 "hiragana": "じむのてつだいをしています",
-                "kanji": "事務の手伝いをしています",
+                "kanji": "事務の手伝いをしている",
                 "vietnamese": "làm giúp việc văn phòng",
-                "info": "v"
-            },
-            {
-                "hiragana": "ホームヘルパーをしています",
-                "kanji": "ホームヘルパーをしています",
-                "vietnamese": "làm công việc chăm sóc tại nhà (người già, bệnh)",
-                "info": "v"
+                "info": "tha, 事 (sự) 務 (vụ: việc) 力 (lực) |攵 (phộc) 矛 (mâu: giáo) 手 (thủ) |伝 (truyền) 亻 (nhân) 云 (vân) "
             },
             {
                 "hiragana": "しごとをさがします",
                 "kanji": "仕事を探す",
                 "vietnamese": "tìm việc",
-                "info": "v"
+                "info": "tha, 仕 (sĩ) 亻 (nhân) 士 (sĩ) |事 (sự) 探 (tham, thám) 扌 (thủ)| 罙 () "
             },
             {
-                "hiragana": "きゅうりょう",
-                "kanji": "給料",
-                "vietnamese": "tiền lương",
-                "info": "n"
+                "hiragana": "りれきしょ",
+                "kanji": "履歴書",
+                "vietnamese": "sơ yếu lý lịch",
+                "info": "tha, 履 (lí) 尸 (thi) 復 (phục: lại)| 歴 (lịch: sử) 止 (chỉ) 麻 (ma) 書 (thư)| 聿 (duật) 日 (nhật) "
             },
             {
-                "hiragana": "りれきしょをかきます",
-                "kanji": "履歴書を書く",
-                "vietnamese": "viết sơ yếu lý lịch",
-                "info": "v"
-            },
-            {
-                "hiragana": "じきゅう１２００えん",
-                "kanji": "時給１２００円",
-                "vietnamese": "lương theo giờ 1200 yên",
-                "info": "n"
+                "hiragana": "じきゅう",
+                "kanji": "時給",
+                "vietnamese": "lương theo giờ",
+                "info": "n, 時 (thì, thời) 日 (nhật) 寺 (tự) |給 (cấp: cung) 糸 (mịch)| 合 (hợp) "
             },
             {
                 "hiragana": "めんせつをします",
                 "kanji": "面接をする",
                 "vietnamese": "tham gia phỏng vấn",
-                "info": "v"
+                "info": "tha, 面 (diện, miến) 百 (bách)| 口 (khẩu) 接 (tiếp: liền)| 扌 (thủ) 妾 (thiếp) "
             },
             {
-                "hiragana": "ボーナス",
-                "kanji": "ボーナス",
-                "vietnamese": "tiền thưởng",
-                "info": "n"
-            },
-            {
-                "hiragana": "ホテルのじゅうぎょういん",
-                "kanji": "ホテルの従業員",
-                "vietnamese": "nhân viên khách sạn",
-                "info": "n"
-            },
-            {
-                "hiragana": "こうつうひがでます",
-                "kanji": "交通費が出る",
-                "vietnamese": "được trả chi phí đi lại",
-                "info": "v"
+                "hiragana": "じゅうぎょういん",
+                "kanji": "従業員",
+                "vietnamese": "nhân viên (chính thức, hợp đồng...)",
+                "info": "n, 従 (tùng: phục) 丷 () |疋 (sơ) 彳 (xích) 業 (nghiệp) 业 (nghiệp) 䒑 () |未 (vị) 員 (viên, vân) 貝 (bối) |口 (khẩu) "
             },
             {
                 "hiragana": "しごとなかま",
                 "kanji": "仕事仲間",
                 "vietnamese": "đồng nghiệp",
-                "info": "n"
+                "info": "n, 仕 (sĩ) 亻 (nhân) 士 (sĩ)|事 (sự) 仲 (trọng: giữa) 亻 (nhân)| 中 (trung) 間 (gian) |日 (nhật) 門 (môn) "
             },
             {
                 "hiragana": "きんむじかん",
                 "kanji": "勤務時間",
                 "vietnamese": "thời gian làm việc",
-                "info": "n"
+                "info": "n, 勤 (cần: siêng) 菫 (cận) 力 (lực)| 務 (vụ, vũ) 力 (lực) 攵 (phộc) 矛 (mâu) 時 (thì, thời) |日 (nhật) 寺 (tự) 間 (gian) 日 (nhật)| 門 (môn) "
             },
             {
-                "hiragana": "やといます",
-                "kanji": "雇う",
-                "vietnamese": "thuê, mướn",
-                "info": "v"
-            },
-            {
-                "hiragana": "やとわれます",
-                "kanji": "雇われる",
-                "vietnamese": "được thuê",
-                "info": "v"
+                "hiragana": "やといます / やとわれます",
+                "kanji": "雇う / 雇われる",
+                "vietnamese": "thuê, mướn / được thuê",
+                "info": "tha, tự, 雇 (cố: thuê) 隹 (chuy)| 戸 (hộ) "
             },
             {
                 "hiragana": "きついしごと",
                 "kanji": "きつい仕事",
                 "vietnamese": "công việc khắc nghiệt",
-                "info": "n"
+                "info": "n, きつい(chật, nặng, căng), 仕 (sĩ) |亻 (nhân) 士 (sĩ) 事 (sự) "
             },
             {
                 "hiragana": "つらいしごと",
                 "kanji": "つらい仕事",
                 "vietnamese": "công việc mệt mỏi tinh thần",
-                "info": "n"
+                "info": "n, つらい (khổ đau, khó chịu), 仕 (sĩ) |亻 (nhân) 士 (sĩ) 事 (sự) "
             },
             {
                 "hiragana": "おかねをかせぎます",
                 "kanji": "お金を稼ぐ",
-                "vietnamese": "kiếm tiền",
-                "info": "v"
+                "vietnamese": "kiếm tiền (từ công việc)",
+                "info": "tha, 金 (kim) 𠆢 () 丷 () |王 (vương) 稼 (giá: cấy lúa)| 禾 (hòa) 家 (gia) "
             },
             {
-                "hiragana": "おかねをもうけます",
-                "kanji": "お金を儲ける",
-                "vietnamese": "kiếm tiền, sinh lời",
-                "info": "v"
-            },
-            {
-                "hiragana": "おかねがもうかります",
-                "kanji": "お金が儲かる",
-                "vietnamese": "có lời",
-                "info": "v"
-            },
-            {
-                "hiragana": "しごとをすませます",
-                "kanji": "仕事を済ませる",
-                "vietnamese": "làm xong công việc",
-                "info": "v"
+                "hiragana": "おかねをもうけます / おかねがもうかります",
+                "kanji": "お金を儲ける / お金が儲かる",
+                "vietnamese": "kiếm lời, có lợi nhuận",
+                "info": "tha, 金 (kim) 𠆢 () 丷 () 王 (vương)| 儲 (trữ: tích) 亻 (nhân) 諸 (chư) "
             },
             {
                 "hiragana": "なまけもの",
-                "kanji": "なまけ者",
+                "kanji": "怠け者",
                 "vietnamese": "người lười biếng",
-                "info": "n"
+                "info": "n, 怠 (đãi: lười) 心 (tâm) 台 (đài) |者 (giả) 日 (nhật) 耂 () "
             },
             {
                 "hiragana": "はたらきもの",
                 "kanji": "働き者",
                 "vietnamese": "người siêng năng",
-                "info": "n"
+                "info": "n, 働 (động: lao) 亻 (nhân)| 動 (động: vận) 者 (giả) 日 (nhật) |耂 () "
             },
             {
-                "hiragana": "くびになります",
-                "kanji": "首になる",
-                "vietnamese": "bị sa thải",
-                "info": "v"
-            },
-            {
-                "hiragana": "やめさせられます",
-                "kanji": "やめさせられる",
-                "vietnamese": "bị đuổi việc",
-                "info": "v"
+                "hiragana": "くびになります / やめさせられます",
+                "kanji": "首になる / やめさせられる",
+                "vietnamese": "bị sa thải / ép thôi việc",
+                "info": "tự, 首 (thủ: cổ, đầu) |自 (tự) 䒑 () "
             }
         ]
     },
@@ -2994,148 +2910,52 @@ data_vocabulary = [
         "lesson": "sou w4 d5",
         "vocabulary": [
             {
-                "hiragana": "ノートパソコン",
-                "kanji": "ノートパソコン",
-                "vietnamese": "máy tính xách tay",
-                "info": "n"
-            },
-            {
-                "hiragana": "キーボード",
-                "kanji": "キーボード",
-                "vietnamese": "bàn phím",
-                "info": "n"
-            },
-            {
-                "hiragana": "マウス",
-                "kanji": "マウス",
-                "vietnamese": "chuột (máy tính)",
-                "info": "n"
-            },
-            {
-                "hiragana": "デスクトップ（パソコン）",
-                "kanji": "デスクトップ（パソコン）",
-                "vietnamese": "máy tính để bàn",
-                "info": "n"
-            },
-            {
-                "hiragana": "はじめてパソコンをさわります",
-                "kanji": "初めてパソコンをさわる",
-                "vietnamese": "lần đầu chạm vào máy tính",
-                "info": "v"
-            },
-            {
                 "hiragana": "しょしんしゃ",
                 "kanji": "初心者",
                 "vietnamese": "người mới bắt đầu",
-                "info": "n"
+                "info": "n, 初 (sơ) 衤 (y) 刀 (đao)| 心 (tâm) 者 (giả) 日 (nhật)| 耂 () "
             },
             {
-                "hiragana": "にゅうもんこうざをうけます",
-                "kanji": "入門講座を受ける",
-                "vietnamese": "tham gia lớp học nhập môn",
-                "info": "v"
-            },
-            {
-                "hiragana": "パソコンになれます",
-                "kanji": "パソコンに慣れる",
-                "vietnamese": "quen với máy tính",
-                "info": "v"
-            },
-            {
-                "hiragana": "しんせいひん",
-                "kanji": "新製品",
-                "vietnamese": "sản phẩm mới",
-                "info": "n"
-            },
-            {
-                "hiragana": "しんぴん",
-                "kanji": "新品",
-                "vietnamese": "hàng mới",
-                "info": "n"
+                "hiragana": "にゅうもんこうざ",
+                "kanji": "入門講座",
+                "vietnamese": "lớp học nhập môn",
+                "info": "n, 入 (nhập) 門 (môn) 講 (giảng)| 言 (ngôn) 冓 (cấu) 座 (tọa)| 坐 (tọa) 广 (nghiễm) "
             },
             {
                 "hiragana": "ちゅうこ",
                 "kanji": "中古",
                 "vietnamese": "hàng second-hand",
-                "info": "n"
+                "info": "n, 中 (trung, trúng) 口 (khẩu)| 丨 (cổn) 古 (cổ) 十 (thập)| 口 (khẩu) "
             },
             {
-                "hiragana": "がめんをみます",
-                "kanji": "画面を見る",
-                "vietnamese": "nhìn màn hình",
-                "info": "v"
+                "hiragana": "がめん",
+                "kanji": "画面",
+                "vietnamese": "màn hình",
+                "info": "n, 画 (họa, hoạch) 一 (nhất) |由 (do) 凵 (khảm) 面 (diện, miến)| 百 (bách) 口 (khẩu) "
             },
             {
-                "hiragana": "スタートボタンをクリックします",
-                "kanji": "スタートボタンをクリックする",
-                "vietnamese": "nhấp chuột vào nút start",
-                "info": "v"
+                "hiragana": "ねんがじょう",
+                "kanji": "年賀状",
+                "vietnamese": "thiệp chúc tết",
+                "info": "n, 年 (niên) 𠂉 () ヰ () 賀 (hạ: chúc tụng) |加 (gia) 貝 (bối) 状 (trạng: hình) |犬 (khuyển) 丬 (phiến) "
             },
             {
-                "hiragana": "ファイルをひらきます",
-                "kanji": "ファイルを開く",
-                "vietnamese": "mở tập tin",
-                "info": "v"
-            },
-            {
-                "hiragana": "ファイルをとじます",
-                "kanji": "ファイルを閉じる",
-                "vietnamese": "đóng tập tin",
-                "info": "v"
-            },
-            {
-                "hiragana": "ねんがじょうをつくります",
-                "kanji": "年賀状を作る",
-                "vietnamese": "làm thiệp chúc tết",
-                "info": "v"
-            },
-            {
-                "hiragana": "（インター）ネットにつなぎます",
-                "kanji": "（インター）ネットにつなぐ",
+                "hiragana": "ネットにつなぎます",
+                "kanji": "ネットに繋ぐ (つなぎます)",
                 "vietnamese": "kết nối internet",
-                "info": "v"
-            },
-            {
-                "hiragana": "せかいじゅうとつながります",
-                "kanji": "世界中とつながる",
-                "vietnamese": "kết nối với thế giới",
-                "info": "v"
+                "info": "tha, 繋 (hệ: kết nối) 車 (xa) |殳 (thù) 糸 (mịch) "
             },
             {
                 "hiragana": "じょうほうをえます",
                 "kanji": "情報を得る",
                 "vietnamese": "thu nhận thông tin",
-                "info": "v"
-            },
-            {
-                "hiragana": "オークションにさんかします",
-                "kanji": "オークションに参加する",
-                "vietnamese": "tham gia đấu giá",
-                "info": "v"
-            },
-            {
-                "hiragana": "オークションにしなものをだします",
-                "kanji": "オークションに品物を出す",
-                "vietnamese": "đưa sản phẩm ra đấu giá",
-                "info": "v"
+                "info": "tha, 情 (tình) 忄 (tâm) 青 (thanh) |報 (báo) 幸 (hạnh) 𠬝 () | 得 (đắc) 彳 (xích) 㝵 () "
             },
             {
                 "hiragana": "しゅっぴんします",
                 "kanji": "出品する",
                 "vietnamese": "đăng bán hàng",
-                "info": "v"
-            },
-            {
-                "hiragana": "ホームページをつくります",
-                "kanji": "ホームページを作る",
-                "vietnamese": "tạo website",
-                "info": "v"
-            },
-            {
-                "hiragana": "ブログをはじめます",
-                "kanji": "ブログを始める",
-                "vietnamese": "tạo blog",
-                "info": "v"
+                "info": "tha, 出 (xuất, xúy) 品 (phẩm) "
             }
         ]
     },
@@ -3146,79 +2966,79 @@ data_vocabulary = [
                 "hiragana": "メールをじゅしんします",
                 "kanji": "メールを受信する",
                 "vietnamese": "nhận mail",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "メールをそうしんします",
                 "kanji": "メールを送信する",
                 "vietnamese": "gửi mail",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "メールをへんしんします",
                 "kanji": "メールを返信する",
                 "vietnamese": "hồi âm mail",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "メールをてんそうします",
                 "kanji": "メールを転送する",
                 "vietnamese": "chuyển tiếp mail",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "メールをしんきさくせいします",
                 "kanji": "メールを新規作成する",
                 "vietnamese": "tạo mail mới",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "メールをまとめておくります",
                 "kanji": "メールをまとめて送る",
                 "vietnamese": "gửi gộp mail",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "メールをせいりします",
                 "kanji": "メールを整理する",
                 "vietnamese": "chỉnh sửa mail",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "メールをチェックします",
                 "kanji": "メールをチェックする",
                 "vietnamese": "kiểm tra mail",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "もじをにゅうりょくします",
                 "kanji": "文字を入力する",
                 "vietnamese": "nhập chữ",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "もじをローマじでにゅうりょくします",
                 "kanji": "文字をローマ字で入力する",
                 "vietnamese": "nhập chữ romaji",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "もじをかんじにへんかんします",
                 "kanji": "文字を漢字に変換する",
                 "vietnamese": "chuyển đổi sang Hán tự",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "もじをそうにゅうします",
                 "kanji": "文字を挿入する",
                 "vietnamese": "chèn chữ vào",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "もじをさくじょします",
                 "kanji": "文字を削除する",
                 "vietnamese": "xóa chữ",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "あてさき",
@@ -3242,25 +3062,25 @@ data_vocabulary = [
                 "hiragana": "メールのやりとりをします",
                 "kanji": "メールのやり取りをする",
                 "vietnamese": "trao đổi mail",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "しゃしんをてんぷします",
                 "kanji": "写真を添付する",
                 "vietnamese": "đính kèm hình",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "かいぎょうします",
                 "kanji": "改行する",
                 "vietnamese": "xuống dòng",
-                "info": "v"
+                "info": "tự,"
             },
             {
                 "hiragana": "そうしんしゃの（メール）アドレスをとうろくします",
                 "kanji": "送信者の（メール）アドレスを登録する",
                 "vietnamese": "lưu người gửi vào danh bạ",
-                "info": "v"
+                "info": "tha,"
             },
             {
                 "hiragana": "アドレスちょう",
@@ -3272,7 +3092,7 @@ data_vocabulary = [
                 "hiragana": "そうしんがかんりょうします",
                 "kanji": "送信が完了する",
                 "vietnamese": "việc gửi hoàn tất",
-                "info": "v"
+                "info": "tự,"
             }
         ]
     },
