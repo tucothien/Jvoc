@@ -2963,136 +2963,118 @@ data_vocabulary = [
         "lesson": "sou w4 d6",
         "vocabulary": [
             {
-                "hiragana": "メールをじゅしんします",
+                "hiragana": "メールを じゅしんします",
                 "kanji": "メールを受信する",
                 "vietnamese": "nhận mail",
-                "info": "tha,"
+                "info": "tha, 受 (thụ) 又 (hựu) 冖 (mịch)| ⺤ () 信 (tín) 亻 (nhân) 言 (ngôn) "
             },
             {
-                "hiragana": "メールをそうしんします",
+                "hiragana": "メールを そうしんします",
                 "kanji": "メールを送信する",
                 "vietnamese": "gửi mail",
-                "info": "tha,"
+                "info": "tha, 送 (tống) 关 (quan) ⻌ ()| 信 (tín) 亻 (nhân) 言 (ngôn) "
             },
             {
-                "hiragana": "メールをへんしんします",
-                "kanji": "メールを返信する",
+                "hiragana": "メールに へんしんします",
+                "kanji": "メールに返信する",
                 "vietnamese": "hồi âm mail",
-                "info": "tha,"
+                "info": "tha, 返 (phản) 反 (phản) ⻌ () |信 (tín) 亻 (nhân) 言 (ngôn) "
             },
             {
-                "hiragana": "メールをてんそうします",
+                "hiragana": "メールを てんそうします",
                 "kanji": "メールを転送する",
                 "vietnamese": "chuyển tiếp mail",
-                "info": "tha,"
+                "info": "tha, 転 (chuyển) 云 (vân) |車 (xa) 送 (tống) 关 (quan) |⻌ () "
             },
             {
-                "hiragana": "メールをしんきさくせいします",
+                "hiragana": "メールを しんき さくせいします",
                 "kanji": "メールを新規作成する",
                 "vietnamese": "tạo mail mới",
-                "info": "tha,"
+                "info": "tha, 新 (tân) 亲 (thân) 斤 (cân) |規 (quy: tắc) 見 (kiến) 夫 (phu) 作 (tác)| 乍 (sạ) 亻 (nhân) 成 (thành: công)| 戈 (qua) 勹 (bao) "
             },
             {
                 "hiragana": "メールをまとめておくります",
                 "kanji": "メールをまとめて送る",
-                "vietnamese": "gửi gộp mail",
-                "info": "tha,"
+                "vietnamese": "gửi hàng loạt mail",
+                "info": "tha, 送 (tống) 关 (quan) ⻌ () "
             },
             {
                 "hiragana": "メールをせいりします",
                 "kanji": "メールを整理する",
-                "vietnamese": "chỉnh sửa mail",
-                "info": "tha,"
-            },
-            {
-                "hiragana": "メールをチェックします",
-                "kanji": "メールをチェックする",
-                "vietnamese": "kiểm tra mail",
-                "info": "tha,"
+                "vietnamese": "sắp xếp, dọn dẹp mail",
+                "info": "tha, 整 (chỉnh) 敕 (sắc: lệnh) 攵 (phộc) |束 (thúc: bó yakusoko)  正 (chánh)| 理 (lí) 里 (lí) 王 (vương) "
             },
             {
                 "hiragana": "もじをにゅうりょくします",
                 "kanji": "文字を入力する",
                 "vietnamese": "nhập chữ",
-                "info": "tha,"
+                "info": "tha, 文 (văn, vấn) 字 (tự) 子 (tử) 宀 (miên)| 入 (nhập) 力 (lực) "
             },
             {
-                "hiragana": "もじをローマじでにゅうりょくします",
-                "kanji": "文字をローマ字で入力する",
-                "vietnamese": "nhập chữ romaji",
-                "info": "tha,"
-            },
-            {
-                "hiragana": "もじをかんじにへんかんします",
+                "hiragana": "もじを かんじに へんかんします",
                 "kanji": "文字を漢字に変換する",
-                "vietnamese": "chuyển đổi sang Hán tự",
-                "info": "tha,"
+                "vietnamese": "chuyển chữ sang Kanji",
+                "info": "tha, 文 (văn, vấn) 字 (tự) 子 (tử) 漢 (hán) 𦰩 ()| 氵 (thủy) 字 (tự) 子 (tử) 宀 (miên)| 変 (biến) 夂 (tri) 亦 (diệc) 換 (hoán: đổi)| 奐 (hoán) 扌 (thủ) "
             },
             {
-                "hiragana": "もじをそうにゅうします",
+                "hiragana": "もじを そうにゅうします",
                 "kanji": "文字を挿入する",
                 "vietnamese": "chèn chữ vào",
-                "info": "tha,"
+                "info": "tha, 文 (văn, vấn) 字 (tự) 子 (tử)| 挿 (sáp: cho vào) 扌 (thủ) 申 (thân) |千 (thiên) 入 (nhập) "
             },
             {
-                "hiragana": "もじをさくじょします",
+                "hiragana": "もじを さくじょします",
                 "kanji": "文字を削除する",
                 "vietnamese": "xóa chữ",
-                "info": "tha,"
+                "info": "tha, 文 (văn, vấn) 字 (tự) |子 (tử) 削 (tước: vót, chức) 肖 (tiếu) |刂 (đao) 除 (trừ) 余 (dư) ⻖ () "
             },
             {
                 "hiragana": "あてさき",
-                "kanji": "あて先",
+                "kanji": "宛先",
                 "vietnamese": "người nhận (địa chỉ người nhận)",
-                "info": ""
+                "info": "n, 宛 (uyển: dùng trong địa chỉ nhật) |宀 (miên) 夗 () 先 (tiên, tiến) ⺧ ()| 儿 (nhân) "
             },
             {
                 "hiragana": "さしだしにん",
                 "kanji": "差出人",
                 "vietnamese": "người gửi",
-                "info": ""
+                "info": "n, 差 (soa, si, sai, sái) ノ () |𦍌 () 工 (công) 出 (xuất, xúy)| 人 (nhân) "
             },
             {
                 "hiragana": "けんめい",
                 "kanji": "件名",
                 "vietnamese": "tiêu đề",
-                "info": ""
+                "info": "n, 件 (kiện: bưu) 亻 (nhân)| 牛 (ngưu) 名 (danh) 夕 (tịch) |口 (khẩu) "
             },
             {
                 "hiragana": "メールのやりとりをします",
                 "kanji": "メールのやり取りをする",
                 "vietnamese": "trao đổi mail",
-                "info": "tha,"
+                "info": "tha, 取 (thủ) 耳 (nhĩ) 又 (hựu) |(やりとり: trao đổi)"
             },
             {
                 "hiragana": "しゃしんをてんぷします",
                 "kanji": "写真を添付する",
-                "vietnamese": "đính kèm hình",
-                "info": "tha,"
+                "vietnamese": "đính kèm ảnh",
+                "info": "tha, 写 (tả) 与 (dữ) 冖 (mịch) 真 (chân) |十 (thập) 目 (mục) 丌 (kì) |添 (thiêm: thêm, đính) 夭 (yêu) ⺗ () | 氵 (thủy) 付 (phó) |寸 (thốn) 亻 (nhân) "
             },
             {
                 "hiragana": "かいぎょうします",
                 "kanji": "改行する",
                 "vietnamese": "xuống dòng",
-                "info": "tự,"
-            },
-            {
-                "hiragana": "そうしんしゃの（メール）アドレスをとうろくします",
-                "kanji": "送信者の（メール）アドレスを登録する",
-                "vietnamese": "lưu người gửi vào danh bạ",
-                "info": "tha,"
+                "info": "tự, 改 (cải: đổi) 攵 (phộc) 己 (kỉ) |行 (hành, hạnh, hàng, hạng) 彳 (xích)| 一 (nhất) 丁 (đinh) "
             },
             {
                 "hiragana": "アドレスちょう",
                 "kanji": "アドレス帳",
                 "vietnamese": "danh bạ",
-                "info": ""
+                "info": "n, 帳 (trướng: màn, sổ) 長 (trường) |巾 (cân) "
             },
             {
-                "hiragana": "そうしんがかんりょうします",
-                "kanji": "送信が完了する",
-                "vietnamese": "việc gửi hoàn tất",
-                "info": "tự,"
+                "hiragana": "かんりょうします",
+                "kanji": "完了する",
+                "vietnamese": "hoàn tất",
+                "info": "tự, 完 (hoàn) 元 (nguyên) |宀 (miên) 了 (liễu) 子 (tử) "
             }
         ]
     },
