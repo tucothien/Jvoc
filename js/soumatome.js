@@ -3082,130 +3082,94 @@ data_vocabulary = [
         "lesson": "sou w5 d1",
         "vocabulary": [
             {
-                "hiragana": "ちょうなん",
-                "kanji": "長男",
-                "vietnamese": "trưởng nam",
-                "info": "n"
+                "hiragana": "ちょうなん / ちょうじょ",
+                "kanji": "長男 / 長女",
+                "vietnamese": "trưởng nam/ nữ",
+                "info": "n, 長 (trường, trưởng, trướng) 男 (nam) 力 (lực) 田 (điền) 女 (nữ, nứ, nhữ) "
             },
             {
-                "hiragana": "ちょうじょ",
-                "kanji": "長女",
-                "vietnamese": "trưởng nữ",
-                "info": "n"
+                "hiragana": "じなん / じじょ",
+                "kanji": "次男 / 次女",
+                "vietnamese": "thứ nam/nữ",
+                "info": "n, 次 (thứ) 欠 (khiếm) 冫 (băng) 男 (nam) 力 (lực) 田 (điền) 女 (nữ, nứ, nhữ) "
             },
             {
-                "hiragana": "じなん",
-                "kanji": "次男",
-                "vietnamese": "con trai thứ",
-                "info": "n"
-            },
-            {
-                "hiragana": "じじょ",
-                "kanji": "次女",
-                "vietnamese": "con gái thứ",
-                "info": "n"
-            },
-            {
-                "hiragana": "さんなん",
-                "kanji": "三男",
-                "vietnamese": "con trai thứ 3",
-                "info": "n"
+                "hiragana": "さんなん / さんじょ",
+                "kanji": "三男 / 三女",
+                "vietnamese": "con trai/gái thứ 3",
+                "info": "n, 三 (tam, tám) 男 (nam) 力 (lực) 田 (điền) 女 (nữ, nứ, nhữ) "
             },
             {
                 "hiragana": "すえっこ",
                 "kanji": "末っ子",
                 "vietnamese": "con út",
-                "info": "n"
+                "info": "n, 末 (mạt) 子 (tử, tí) "
             },
             {
-                "hiragana": "おじ",
-                "kanji": "おじ",
-                "vietnamese": "cậu; chú",
-                "info": "n"
-            },
-            {
-                "hiragana": "おば",
-                "kanji": "おば",
-                "vietnamese": "dì, cô",
-                "info": "n"
-            },
-            {
-                "hiragana": "どうりょう / どうぎょう",
-                "kanji": "同僚 / 同業",
-                "vietnamese": "đồng nghiệp cty/nghề",
-                "info": "n"
-            },
-            {
-                "hiragana": "じょうし",
-                "kanji": "上司",
-                "vietnamese": "sếp",
-                "info": "n"
-            },
-            {
-                "hiragana": "ぶか",
-                "kanji": "部下",
-                "vietnamese": "cấp dưới",
-                "info": "n"
-            },
-            {
-                "hiragana": "せんぱい",
-                "kanji": "先輩",
-                "vietnamese": "đàn anh",
-                "info": "n"
-            },
-            {
-                "hiragana": "こうはい",
-                "kanji": "後輩",
-                "vietnamese": "đàn em",
-                "info": "n"
-            },
-            {
-                "hiragana": "しゅふ",
-                "kanji": "主婦",
-                "vietnamese": "người nội trợ",
-                "info": "n"
-            },
-            {
-                "hiragana": "きょうし",
-                "kanji": "教師",
-                "vietnamese": "giáo viên; giảng viên",
-                "info": "n"
-            },
-            {
-                "hiragana": "しんせき",
-                "kanji": "親せき",
-                "vietnamese": "họ hàng",
-                "info": "n"
-            },
-            {
-                "hiragana": "しんるい",
-                "kanji": "親類",
-                "vietnamese": "họ hàng",
-                "info": "n"
+                "hiragana": "しんせき / しんるい",
+                "kanji": "親せき / 親類",
+                "vietnamese": "họ hàng (trang trọng)",
+                "info": "n, 親 (thân, thấn) 亲 (thân) 見 (kiến) 類 (loại) 頁 (hiệt) 大 (đại) 米 (mễ) "
             },
             {
                 "hiragana": "まご",
                 "kanji": "孫",
                 "vietnamese": "cháu (kêu mình bằng ông bà)",
-                "info": "n"
+                "info": "n, 孫 (tôn, tốn) 系 (hệ: thế) 孑 (kiết) "
             },
             {
                 "hiragana": "おい",
-                "kanji": "おい",
-                "vietnamese": "cháu trai (con của anh chị em mình)",
-                "info": "n"
+                "kanji": "甥",
+                "vietnamese": "cháu trai (con anh chị em)",
+                "info": "n, 甥 (sanh) 生 (sanh) 男 (nam) "
             },
             {
                 "hiragana": "めい",
-                "kanji": "めい",
-                "vietnamese": "cháu gái (con của anh chị em mình)",
-                "info": "n"
+                "kanji": "姪",
+                "vietnamese": "cháu gái (con anh chị em)",
+                "info": "n, 姪 (điệt) 女 (nữ) 至 (chí) "
             },
             {
                 "hiragana": "いとこ",
-                "kanji": "いとこ",
+                "kanji": "従兄弟",
                 "vietnamese": "anh em họ",
-                "info": "n"
+                "info": "n, 従 (tùng: phục) 丷 () 疋 (sơ) 彳 (xích) 兄 (huynh) 口 (khẩu) 儿 (nhân) 弟 (đệ, đễ) ノ () 弔 (điếu: viếng) 丷 () "
+            },
+            {
+                "hiragana": "どうりょう / どうぎょう",
+                "kanji": "同僚 / 同業",
+                "vietnamese": "đồng nghiệp cty/nghề",
+                "info": "n, 同 (đồng) 一 (nhất) 冋 () 僚 (liêu: người bằng vai) 尞 () 亻 (nhân) 業 (nghiệp) 业 (nghiệp) 䒑 () 未 (vị) "
+            },
+            {
+                "hiragana": "じょうし",
+                "kanji": "上司",
+                "vietnamese": "sếp",
+                "info": "n, 上 (thượng, thướng) 司 (ti, tư: cục) 可 (khả) "
+            },
+            {
+                "hiragana": "ぶか",
+                "kanji": "部下",
+                "vietnamese": "cấp dưới",
+                "info": "n, 部 (bộ) 咅 () ⻏ () 下 (hạ, há) "
+            },
+            {
+                "hiragana": "せんぱい / こうはい",
+                "kanji": "先輩 / 後輩",
+                "vietnamese": "đàn anh / em",
+                "info": "n, 先 (tiên, tiến) ⺧ () 儿 (nhân) 後 (hậu, hấu) 幺 (yêu) 彳 (xích) 夂 (tri) 輩 (bối) 非 (phi) 車 (xa) "
+            },
+            {
+                "hiragana": "しゅふ",
+                "kanji": "主婦",
+                "vietnamese": "người nội trợ",
+                "info": "n, 主 (chủ, chúa) 王 (vương) 丶 (chủ) 婦 (phụ: phu) 女 (nữ) 帚 (trửu, chửu: chổi) ⺕ () 冖 (mịch) 巾 (cân)  "
+            },
+            {
+                "hiragana": "きょうし",
+                "kanji": "教師",
+                "vietnamese": "giáo viên; giảng viên",
+                "info": "n, 教 (giáo, giao) 孝 (hiếu) 攵 (phộc) 師 (sư) 𠂤 () 帀 (táp) "
             }
         ]
     },
@@ -3412,7 +3376,7 @@ data_vocabulary = [
             {
                 "hiragana": "じゅんすいなきもち",
                 "kanji": "純粋な気持ち",
-                "vietnamese": "quan điểm thật",
+                "vietnamese": "cảm xúc thật",
                 "info": "n"
             },
             {
@@ -3424,7 +3388,7 @@ data_vocabulary = [
             {
                 "hiragana": "かっこわるい",
                 "kanji": "かっこ悪い",
-                "vietnamese": "xấu trai",
+                "vietnamese": "kém ngầu",
                 "info": "i"
             },
             {
@@ -3494,12 +3458,6 @@ data_vocabulary = [
                 "info": "n"
             },
             {
-                "hiragana": "スマートな",
-                "kanji": "スマートな",
-                "vietnamese": "thanh thoát; yểu điệu; xinh đẹp",
-                "info": "na"
-            },
-            {
                 "hiragana": "いじわるな",
                 "kanji": "意地悪な",
                 "vietnamese": "tâm địa xấu; xấu bụng",
@@ -3532,7 +3490,7 @@ data_vocabulary = [
             {
                 "hiragana": "「ずるい！」",
                 "kanji": "「ずるい！」",
-                "vietnamese": "chơi không đẹp",
+                "vietnamese": "khôn lỏi, láu cá",
                 "info": "i"
             },
             {
@@ -3550,7 +3508,7 @@ data_vocabulary = [
             {
                 "hiragana": "しつこくちゅういする",
                 "kanji": "しつこく注意する",
-                "vietnamese": "chú ý hoài",
+                "vietnamese": "cảnh báo dai dẳng",
                 "info": "tha"
             },
             {
