@@ -3339,158 +3339,98 @@ data_vocabulary = [
         "vocabulary": [
             {
                 "hiragana": "かしこい",
-                "kanji": "かしこい",
+                "kanji": "賢い",
                 "vietnamese": "khôn ngoan",
-                "info": "i"
+                "info": "i, 賢 (hiền: đức hạnh) |臣 (thần) 又 (hựu) 貝 (bối)"
             },
             {
                 "hiragana": "れいぎただしい",
                 "kanji": "礼儀正しい",
                 "vietnamese": "lễ phép; lễ độ; lịch sự",
-                "info": "i"
+                "info": "i, 礼 (lễ) 礻 (thị) 乚,| 儀 (nghi: uy) 亻 (nhân) 義 (nghĩa),| 正 (chánh, chính) 止 (chỉ) 一 (nhất)"
             },
             {
-                "hiragana": "しょうじきな",
-                "kanji": "正直な",
+                "hiragana": "しょうじき",
+                "kanji": "正直",
                 "vietnamese": "chính trực; thành thực",
-                "info": "na"
+                "info": "na, 正 (chánh, chính) 止 (chỉ) 一 (nhất)| 直 (trực) 十 (thập) 目 (mục) 𠃊"
             },
             {
-                "hiragana": "しょうじきにいうと",
-                "kanji": "正直に言うと",
-                "vietnamese": "nói thiệt là",
-                "info": "tha"
-            },
-            {
-                "hiragana": "すなおな",
-                "kanji": "素直な",
+                "hiragana": "すなお",
+                "kanji": "素直",
                 "vietnamese": "dễ bảo; ngoan ngoãn",
-                "info": "na"
+                "info": "na, 素 (tố: trắng, tố tâm, nguyên tố)| 龶 糸 (mịch), 直 (trực) 十 (thập) 目 (mục) 𠃊"
             },
             {
-                "hiragana": "じゅんすいな",
-                "kanji": "純粋な",
-                "vietnamese": "ngây thơ",
-                "info": "na"
+                "hiragana": "じゅんすい",
+                "kanji": "純粋",
+                "vietnamese": "thuần khiết, trong sáng",
+                "info": "na, 純 (thuần: túy) 糸 (mịch) |屯 (truân: gian) 粋 (túy: tinh) 卆 米 (mễ)"
             },
             {
-                "hiragana": "じゅんすいなきもち",
-                "kanji": "純粋な気持ち",
-                "vietnamese": "cảm xúc thật",
+                "hiragana": "ゆうき",
+                "kanji": "勇気",
+                "vietnamese": "dũng khí",
+                "info": "n, 勇 (dũng: sĩ) 男 (nam)| マ 気 (khí) 一 (nhất) 𠂉 ⺄ 㐅"
+            },
+            {
+                "hiragana": "ユーモア",
+                "kanji": "ユーモア",
+                "vietnamese": "hài hước",
                 "info": "n"
             },
             {
-                "hiragana": "かっこいい",
-                "kanji": "かっこいい",
-                "vietnamese": "phong độ",
-                "info": "i"
-            },
-            {
-                "hiragana": "かっこわるい",
-                "kanji": "かっこ悪い",
-                "vietnamese": "kém ngầu",
-                "info": "i"
-            },
-            {
-                "hiragana": "ゆうきのある",
-                "kanji": "勇気のある",
-                "vietnamese": "có dũng khí",
-                "info": "tha"
-            },
-            {
-                "hiragana": "ユーモアのある",
-                "kanji": "ユーモアのある",
-                "vietnamese": "hài hước",
-                "info": "tha"
-            },
-            {
-                "hiragana": "せっきょくてきな",
-                "kanji": "積極的な",
+                "hiragana": "せっきょくてき",
+                "kanji": "積極的",
                 "vietnamese": "tích cực",
-                "info": "na"
+                "info": "na, 積 (tích: trữ) 禾 (hòa) |責 (trách: nhiệm) 極 (cực: bắc, cùng) 木 (mộc) 丂 (khảo) |一 (nhất) 口 (khẩu) 又 (hựu) 的 (đích, để) |白 (bạch) 勺 (chước)"
             },
             {
-                "hiragana": "しょうきょくてきな",
-                "kanji": "消極的な",
+                "hiragana": "しょうきょくてき",
+                "kanji": "消極的",
                 "vietnamese": "tiêu cực",
-                "info": "na"
+                "info": "na, 消 (tiêu) 肖 (tiếu) 氵 (thủy) |極 (cực) 木 (mộc) 木 (mộc) 丂 (khảo) 一 (nhất)| 口 (khẩu) 又 (hựu) 的 (đích, để)| 白 (bạch) 勺 (chước)"
             },
             {
                 "hiragana": "おちついている",
                 "kanji": "落ち着いている",
                 "vietnamese": "bình tâm, bình tĩnh",
-                "info": "tự"
-            },
-            {
-                "hiragana": "おちつく",
-                "kanji": "落ち着く",
-                "vietnamese": "bình tâm, bình tĩnh",
-                "info": "tự"
+                "info": "tự, 落 (lạc: rơi) 艹 (thảo) |氵 (thủy) 各 (các) 着 (trứ, trước, trữ) ノ 𦍌 |目 (mục)"
             },
             {
                 "hiragana": "おとなしい",
-                "kanji": "おとなしい",
+                "kanji": "大人しい",
                 "vietnamese": "dịu dàng; hiền lành",
-                "info": "i"
+                "info": "i, 大 (đại, thái) 一 (nhất)| 人 (nhân) 人 (nhân)"
             },
             {
-                "hiragana": "まじめな",
-                "kanji": "まじめな",
-                "vietnamese": "nghiêm túc",
-                "info": "na"
+                "hiragana": "まじめ",
+                "kanji": "真面目",
+                "vietnamese": "chăm chỉ, nghiêm túc",
+                "info": "na, 真 (chân) 十 (thập) |目 (mục) 丌 (kì) 面 (diện, miến)| 百 (bách) 口 (khẩu) 目 (mục)"
             },
             {
-                "hiragana": "のんきな",
-                "kanji": "のんきな",
+                "hiragana": "のんき",
+                "kanji": "呑気",
                 "vietnamese": "vô tư, lạc quan",
-                "info": "na"
+                "info": "na, 呑 (thôn: nuốt, tính) |夭 (yêu) 口 (khẩu) 気 (khí)| 一 (nhất) 𠂉 ⺄ 㐅"
             },
             {
-                "hiragana": "ハンサムな",
-                "kanji": "ハンサムな",
-                "vietnamese": "đẹp trai",
-                "info": "na"
-            },
-            {
-                "hiragana": "びじん",
-                "kanji": "美人",
-                "vietnamese": "mỹ nhân; người đẹp",
-                "info": "n"
-            },
-            {
-                "hiragana": "いじわるな",
-                "kanji": "意地悪な",
+                "hiragana": "いじわる",
+                "kanji": "意地悪",
                 "vietnamese": "tâm địa xấu; xấu bụng",
-                "info": "na"
+                "info": "na, 意 (ý) 音 (âm)| 心 (tâm) 地 (địa) 也 (dã) |土 (thổ) 悪 (ác) 心 (tâm) |亜 (á)"
             },
             {
-                "hiragana": "いじわるをする",
-                "kanji": "意地悪をする",
-                "vietnamese": "hiểm độc",
+                "hiragana": "うそをつく / うそつき",
+                "kanji": "うそをつく / うそつき",
+                "vietnamese": "nói xạo / người nói xạo",
                 "info": "tha"
-            },
-            {
-                "hiragana": "うそをつく",
-                "kanji": "うそをつく",
-                "vietnamese": "nói xạo",
-                "info": "tha"
-            },
-            {
-                "hiragana": "うそつき",
-                "kanji": "うそつき",
-                "vietnamese": "kẻ nói dối; kẻ nói láo",
-                "info": "n"
             },
             {
                 "hiragana": "ずるい",
                 "kanji": "ずるい",
                 "vietnamese": "ranh mãnh; quỷ quyệt; láu cá",
-                "info": "i"
-            },
-            {
-                "hiragana": "「ずるい！」",
-                "kanji": "「ずるい！」",
-                "vietnamese": "khôn lỏi, láu cá",
                 "info": "i"
             },
             {
@@ -3506,46 +3446,28 @@ data_vocabulary = [
                 "info": "i"
             },
             {
-                "hiragana": "しつこくちゅういする",
-                "kanji": "しつこく注意する",
-                "vietnamese": "cảnh báo dai dẳng",
-                "info": "tha"
-            },
-            {
                 "hiragana": "だらしない",
                 "kanji": "だらしない",
                 "vietnamese": "bừa bãi; lôi thôi",
                 "info": "i"
             },
             {
-                "hiragana": "けちな",
-                "kanji": "けちな",
+                "hiragana": "けち",
+                "kanji": "けち",
                 "vietnamese": "keo kiệt",
                 "info": "na"
             },
             {
-                "hiragana": "いいかげんな",
-                "kanji": "いいかげんな",
+                "hiragana": "いいかげん",
+                "kanji": "いい加減",
+                "vietnamese": "qua loa, cẩu thả",
+                "info": "na, 加 (gia) 力 (lực) 口 (khẩu) |減 (giảm) 咸 (hàm: bao) |戊 (mậu) 一 (nhất) 口 (khẩu) |氵 (thủy)"
+            },
+            {
+                "hiragana": "むせきにん",
+                "kanji": "無責任",
                 "vietnamese": "thiếu trách nhiệm",
-                "info": "na"
-            },
-            {
-                "hiragana": "いいかげんなことをいう",
-                "kanji": "いいかげんなことを言う",
-                "vietnamese": "nói chuyện vô lý",
-                "info": "tha"
-            },
-            {
-                "hiragana": "いいかげんにしろ",
-                "kanji": "いいかげんにしろ",
-                "vietnamese": "thôi đủ rồi đó",
-                "info": "tha"
-            },
-            {
-                "hiragana": "むせきにんな",
-                "kanji": "無責任な",
-                "vietnamese": "thiếu trách nhiệm",
-                "info": "na"
+                "info": "na, 無 (vô, mô) 責 (trách, trái) |貝 (bối) 龶 任 (nhâm, nhậm, nhiệm) 亻 (nhân) |壬 (nhâm)"
             }
         ]
     },
