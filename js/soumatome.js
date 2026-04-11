@@ -3479,7 +3479,7 @@ data_vocabulary = [
                 "kanji": "調子/具合",
                 "vietnamese": "tình trạng (tổng thể/chi tiết, triệu chứng)",
                 "info": "n, 調 (điều, điệu) 周 (chu) 言 (ngôn) 子 (tử, tí) 具 (cụ: dụng) 目 (mục) 丌 (kì) 合 (hợp, cáp, hiệp) 亼 口 (khẩu)"
-            }
+            },
             {
                 "hiragana": "めまいがします",
                 "kanji": "目眩がする",
