@@ -3475,148 +3475,82 @@ data_vocabulary = [
         "lesson": "sou w5 d4",
         "vocabulary": [
             {
-                "hiragana": "からだのちょうしがわるい",
-                "kanji": "体の調子が悪い",
-                "vietnamese": "không khỏe",
-                "info": "i"
-            },
-            {
-                "hiragana": "からだのぐあいがわるい",
-                "kanji": "体の具合が悪い",
-                "vietnamese": "không khỏe",
-                "info": "i"
-            },
+                "hiragana": "ちょうし/ぐあい",
+                "kanji": "調子/具合",
+                "vietnamese": "tình trạng (tổng thể/chi tiết, triệu chứng)",
+                "info": "n, 調 (điều, điệu) 周 (chu) 言 (ngôn) 子 (tử, tí) 具 (cụ: dụng) 目 (mục) 丌 (kì) 合 (hợp, cáp, hiệp) 亼 口 (khẩu)"
+            }
             {
                 "hiragana": "めまいがします",
-                "kanji": "めまいがする",
+                "kanji": "目眩がする",
                 "vietnamese": "chóng mặt",
-                "info": "tự"
+                "info": "tự, 目 (mục) 眩 (huyễn: hoặc, hoa mắt) 玄 (huyền: đen) 目 (mục)"
             },
             {
                 "hiragana": "とうつうがします",
                 "kanji": "頭痛がする",
                 "vietnamese": "đau đầu",
-                "info": "tự"
+                "info": "tự, 頭 (đầu) 頁 (hiệt) 豆 (đậu) 痛 (thống) 疒 (nạch) 用 (dụng) マ"
             },
             {
-                "hiragana": "いがいたい",
-                "kanji": "胃が痛い",
-                "vietnamese": "đau dạ dày",
-                "info": "i"
-            },
-            {
-                "hiragana": "こしがいたい",
-                "kanji": "腰が痛い",
-                "vietnamese": "đau lưng",
-                "info": "i"
+                "hiragana": "こし",
+                "kanji": "腰",
+                "vietnamese": "lưng",
+                "info": "n, 腰 (yêu: lưng) ⺼ 要 (yếu: thiết)"
             },
             {
                 "hiragana": "いきがくるしい",
                 "kanji": "息が苦しい",
                 "vietnamese": "khó thở",
-                "info": "i"
+                "info": "i, 息 (tức: khí, hơi thở, con trai) 自 (tự) 心 (tâm) 苦 (khổ: đắng) 古 (cổ) 艹 (thảo)"
             },
             {
                 "hiragana": "くるしみます",
                 "kanji": "苦しむ",
                 "vietnamese": "đau đớn; đau khổ",
-                "info": "tự"
+                "info": "tự, 苦 (khổ: đắng) 古 (cổ) 艹 (thảo)"
             },
             {
                 "hiragana": "はながつまります",
                 "kanji": "鼻がつまる",
                 "vietnamese": "nghẹt mũi",
-                "info": "tự"
+                "info": "tự, 鼻 (tị: mũi) 自 (tự) 廾 (củng) 田 (điền)"
             },
             {
                 "hiragana": "はなをかみます",
                 "kanji": "鼻をかむ",
                 "vietnamese": "hỉ mũi",
-                "info": "tha"
+                "info": "tha, 鼻 (tị: mũi) 自 (tự) 廾 (củng) 田 (điền)"
             },
             {
-                "hiragana": "はきけがします",
-                "kanji": "吐きする",
-                "vietnamese": "buồn nôn",
-                "info": "tha"
-            },
-            {
-                "hiragana": "きぶんがわるい",
-                "kanji": "気分が悪い",
-                "vietnamese": "khó chịu trong người",
-                "info": "i"
-            },
-            {
-                "hiragana": "きもち（が）わるい",
-                "kanji": "気持ち（が）悪い",
-                "vietnamese": "khó chịu trong người",
-                "info": "i"
-            },
-            {
-                "hiragana": "はきます",
-                "kanji": "吐く",
-                "vietnamese": "nôn; mửa",
-                "info": "tha"
+                "hiragana": "はきけ がします / はきます",
+                "kanji": "吐き気 がする / 吐く",
+                "vietnamese": "buồn nôn, nôn",
+                "info": "tha, 吐 (thổ: huyết) 土 (thổ) 口 (khẩu) 気 (khí) 一 (nhất) 𠂉 ⺄ 㐅"
             },
             {
                 "hiragana": "めがかゆい",
-                "kanji": "目がかゆい",
-                "vietnamese": "nhức mắt",
-                "info": "i"
+                "kanji": "目が痒い",
+                "vietnamese": "ngứa, nhức mắt",
+                "info": "i, 目 (mục) 痒 (dương: ngứa) 疒 (nạch) 羊 (dương)"
             },
             {
                 "hiragana": "めをこすります",
                 "kanji": "目をこする",
-                "vietnamese": "dụi mắt",
-                "info": "tha"
+                "vietnamese": "gãi mắt",
+                "info": "tha, 目 (mục) "
             },
             {
                 "hiragana": "めをかきます",
                 "kanji": "目をかく",
                 "vietnamese": "dụi mắt",
-                "info": "tha"
+                "info": "tha, 目 (mục) "
             },
             {
-                "hiragana": "かぜをひいてつらい",
-                "kanji": "風邪を引いてつらい",
-                "vietnamese": "khổ sở vì cảm",
-                "info": "i"
-            },
-            {
-                "hiragana": "アレルギーがあります",
-                "kanji": "アレルギーがある",
-                "vietnamese": "dị ứng",
-                "info": "tự"
-            },
-            {
-                "hiragana": "かんじゃ「おせわになりました。」",
-                "kanji": "患者「お世話になりました。」",
-                "vietnamese": "cảm ơn đã giúp đỡ",
-                "info": "n"
-            },
-            {
-                "hiragana": "かんごし「おだいじに。」",
-                "kanji": "看護師「お大事に。」",
-                "vietnamese": "bảo trọng nhé",
-                "info": "n"
-            },
-            {
-                "hiragana": "せんもんのいしにみてもらいます",
-                "kanji": "専門の医師にみてもらう",
-                "vietnamese": "được bác sĩ chuyên khoa khám",
-                "info": "tha"
-            },
-            {
-                "hiragana": "かふんしょうになります",
-                "kanji": "花粉症になる",
+                "hiragana": "かふんしょう になります",
+                "kanji": "花粉症 になる",
                 "vietnamese": "dị ứng với phấn hoa",
-                "info": "tự"
-            },
-            {
-                "hiragana": "いしのしんさつをうけます",
-                "kanji": "医師の診察を受ける",
-                "vietnamese": "được bác sĩ khám bệnh",
-                "info": "tha"
+                "info": "tự, 花 (hoa) 艹 (thảo) 化 (hóa) 粉 (phấn) 分 (phân) 米 (mễ) 症 (chứng: bệnh) 正 (chánh) 疒 (nạch)"
             },
             {
                 "hiragana": "うがいをします",
@@ -3625,76 +3559,34 @@ data_vocabulary = [
                 "info": "tha"
             },
             {
-                "hiragana": "はいしゃにかかります",
-                "kanji": "歯医者にかかる",
-                "vietnamese": "gặp bác sĩ nha khoa",
-                "info": "tự"
-            },
-            {
-                "hiragana": "けがをなおします",
-                "kanji": "けがを治す",
-                "vietnamese": "chữa lành vết thương",
-                "info": "tha"
-            },
-            {
-                "hiragana": "インフルエンザにかかります",
-                "kanji": "インフルエンザにかかる",
-                "vietnamese": "cảm cúm",
-                "info": "tự"
-            },
-            {
                 "hiragana": "てのきず",
                 "kanji": "手の傷",
-                "vietnamese": "bị thương ở tay",
-                "info": "n"
+                "vietnamese": "vết thuong ở tay",
+                "info": "n, 手 (thủ) 傷 (thương) 亻 (nhân) 昜 (dương) 𠂉"
             },
             {
-                "hiragana": "びょうきのしょうじょう",
-                "kanji": "病気の症状",
-                "vietnamese": "triệu chứng bệnh",
-                "info": "n"
+                "hiragana": "しょうじょう (びょうきの)",
+                "kanji": "症状 (病気の)",
+                "vietnamese": "triệu chứng (bệnh)",
+                "info": "n, 症 (chứng) 正 (chánh) 疒 (nạch) 状 (trạng) 犬 (khuyển) 丬 (phiến)"
             },
             {
                 "hiragana": "やけどをします",
-                "kanji": "やけどをする",
+                "kanji": "火傷をする",
                 "vietnamese": "bị bỏng",
-                "info": "tha"
+                "info": "tha, 火 (hỏa) 丷 人 (nhân) 傷 (thương) 亻 (nhân) 昜 (dương) 𠂉"
             },
             {
-                "hiragana": "ちゅうしゃをしてもらいます",
-                "kanji": "注射をしてもらう",
-                "vietnamese": "bị tiêm",
-                "info": "tha"
+                "hiragana": "ちゅうしゃ",
+                "kanji": "注射",
+                "vietnamese": "sự tiêm chủng",
+                "info": "n, 注 (chú) 主 (chủ) 氵 (thủy) 射 (xạ: bắn) 寸 (thốn) 身 (thân)"
             },
             {
-                "hiragana": "たいしたことがない",
-                "kanji": "大したことがない",
-                "vietnamese": "không nghiêm trọng",
-                "info": "i"
-            },
-            {
-                "hiragana": "しゅじゅつをうけます",
-                "kanji": "手術を受ける",
+                "hiragana": "しゅじゅつ",
+                "kanji": "手術",
                 "vietnamese": "phẫu thuật",
-                "info": "tha"
-            },
-            {
-                "hiragana": "ましになります",
-                "kanji": "ましになる",
-                "vietnamese": "đỡ hơn (bệnh)",
-                "info": "tự"
-            },
-            {
-                "hiragana": "いたみをがまんします",
-                "kanji": "痛みをがまんする",
-                "vietnamese": "chịu đau",
-                "info": "tha"
-            },
-            {
-                "hiragana": "（お）みまいにいきます",
-                "kanji": "（お）見舞いに",
-                "vietnamese": "đi thăm bệnh",
-                "info": "tự"
+                "info": "n, 手 (thủ) 術 (thuật) 朮 (truật) 行 (hành)"
             }
         ]
     },
