@@ -3487,13 +3487,13 @@ data_vocabulary = [
                 "info": "i"
             },
             {
-                "hiragana": "めまいがする",
+                "hiragana": "めまいがします",
                 "kanji": "めまいがする",
                 "vietnamese": "chóng mặt",
                 "info": "tự"
             },
             {
-                "hiragana": "とうつうがする",
+                "hiragana": "とうつうがします",
                 "kanji": "頭痛がする",
                 "vietnamese": "đau đầu",
                 "info": "tự"
@@ -3517,25 +3517,25 @@ data_vocabulary = [
                 "info": "i"
             },
             {
-                "hiragana": "くるしむ",
+                "hiragana": "くるしみます",
                 "kanji": "苦しむ",
                 "vietnamese": "đau đớn; đau khổ",
                 "info": "tự"
             },
             {
-                "hiragana": "はながつまる",
+                "hiragana": "はながつまります",
                 "kanji": "鼻がつまる",
                 "vietnamese": "nghẹt mũi",
                 "info": "tự"
             },
             {
-                "hiragana": "はなをかむ",
+                "hiragana": "はなをかみます",
                 "kanji": "鼻をかむ",
                 "vietnamese": "hỉ mũi",
                 "info": "tha"
             },
             {
-                "hiragana": "はきけがする",
+                "hiragana": "はきけがします",
                 "kanji": "吐きする",
                 "vietnamese": "buồn nôn",
                 "info": "tha"
@@ -3553,7 +3553,7 @@ data_vocabulary = [
                 "info": "i"
             },
             {
-                "hiragana": "はく",
+                "hiragana": "はきます",
                 "kanji": "吐く",
                 "vietnamese": "nôn; mửa",
                 "info": "tha"
@@ -3565,13 +3565,13 @@ data_vocabulary = [
                 "info": "i"
             },
             {
-                "hiragana": "めをこする",
+                "hiragana": "めをこすります",
                 "kanji": "目をこする",
                 "vietnamese": "dụi mắt",
                 "info": "tha"
             },
             {
-                "hiragana": "めをかく",
+                "hiragana": "めをかきます",
                 "kanji": "目をかく",
                 "vietnamese": "dụi mắt",
                 "info": "tha"
@@ -3583,7 +3583,7 @@ data_vocabulary = [
                 "info": "i"
             },
             {
-                "hiragana": "アレルギーがある",
+                "hiragana": "アレルギーがあります",
                 "kanji": "アレルギーがある",
                 "vietnamese": "dị ứng",
                 "info": "tự"
@@ -3601,43 +3601,43 @@ data_vocabulary = [
                 "info": "n"
             },
             {
-                "hiragana": "せんもんのいしにみてもらう",
+                "hiragana": "せんもんのいしにみてもらいます",
                 "kanji": "専門の医師にみてもらう",
                 "vietnamese": "được bác sĩ chuyên khoa khám",
                 "info": "tha"
             },
             {
-                "hiragana": "かふんしょうになる",
+                "hiragana": "かふんしょうになります",
                 "kanji": "花粉症になる",
                 "vietnamese": "dị ứng với phấn hoa",
                 "info": "tự"
             },
             {
-                "hiragana": "いしのしんさつをうける",
+                "hiragana": "いしのしんさつをうけます",
                 "kanji": "医師の診察を受ける",
                 "vietnamese": "được bác sĩ khám bệnh",
                 "info": "tha"
             },
             {
-                "hiragana": "うがいをする",
+                "hiragana": "うがいをします",
                 "kanji": "うがいをする",
                 "vietnamese": "súc miệng",
                 "info": "tha"
             },
             {
-                "hiragana": "はいしゃにかかる",
+                "hiragana": "はいしゃにかかります",
                 "kanji": "歯医者にかかる",
                 "vietnamese": "gặp bác sĩ nha khoa",
                 "info": "tự"
             },
             {
-                "hiragana": "けがをなおす",
+                "hiragana": "けがをなおします",
                 "kanji": "けがを治す",
                 "vietnamese": "chữa lành vết thương",
                 "info": "tha"
             },
             {
-                "hiragana": "インフルエンザにかかる",
+                "hiragana": "インフルエンザにかかります",
                 "kanji": "インフルエンザにかかる",
                 "vietnamese": "cảm cúm",
                 "info": "tự"
@@ -3655,13 +3655,13 @@ data_vocabulary = [
                 "info": "n"
             },
             {
-                "hiragana": "やけどをする",
+                "hiragana": "やけどをします",
                 "kanji": "やけどをする",
                 "vietnamese": "bị bỏng",
                 "info": "tha"
             },
             {
-                "hiragana": "ちゅうしゃをしてもらう",
+                "hiragana": "ちゅうしゃをしてもらいます",
                 "kanji": "注射をしてもらう",
                 "vietnamese": "bị tiêm",
                 "info": "tha"
@@ -3673,25 +3673,25 @@ data_vocabulary = [
                 "info": "i"
             },
             {
-                "hiragana": "しゅじゅつをうける",
+                "hiragana": "しゅじゅつをうけます",
                 "kanji": "手術を受ける",
                 "vietnamese": "phẫu thuật",
                 "info": "tha"
             },
             {
-                "hiragana": "ましになる",
+                "hiragana": "ましになります",
                 "kanji": "ましになる",
                 "vietnamese": "đỡ hơn (bệnh)",
                 "info": "tự"
             },
             {
-                "hiragana": "いたみをがまんする",
+                "hiragana": "いたみをがまんします",
                 "kanji": "痛みをがまんする",
                 "vietnamese": "chịu đau",
                 "info": "tha"
             },
             {
-                "hiragana": "（お）みまいにいく",
+                "hiragana": "（お）みまいにいきます",
                 "kanji": "（お）見舞いに",
                 "vietnamese": "đi thăm bệnh",
                 "info": "tự"
@@ -3702,43 +3702,43 @@ data_vocabulary = [
         "lesson": "sou w5 d5",
         "vocabulary": [
             {
-                "hiragana": "はな（みず）がでる",
+                "hiragana": "はな（みず）がでます",
                 "kanji": "鼻（水）が出る",
                 "vietnamese": "sổ mũi",
                 "info": "tự"
             },
             {
-                "hiragana": "ためいきがでる",
+                "hiragana": "ためいきがでます",
                 "kanji": "ため息が",
                 "vietnamese": "thở dài",
                 "info": "tự"
             },
             {
-                "hiragana": "ためいきをつく",
+                "hiragana": "ためいきをつきます",
                 "kanji": "ため息をつく",
                 "vietnamese": "thở dài",
                 "info": "tha"
             },
             {
-                "hiragana": "なみだがでる",
+                "hiragana": "なみだがでます",
                 "kanji": "涙が出る",
                 "vietnamese": "rơi lệ",
                 "info": "tự"
             },
             {
-                "hiragana": "なみだをながす",
+                "hiragana": "なみだをながします",
                 "kanji": "涙を流す",
                 "vietnamese": "khóc lóc",
                 "info": "tha"
             },
             {
-                "hiragana": "あせがでる",
+                "hiragana": "あせがでます",
                 "kanji": "汗が出る",
                 "vietnamese": "ra mồ hôi",
                 "info": "tự"
             },
             {
-                "hiragana": "あせをかく",
+                "hiragana": "あせをかきます",
                 "kanji": "汗をかく",
                 "vietnamese": "toát mồ hôi",
                 "info": "tha"
@@ -3756,187 +3756,187 @@ data_vocabulary = [
                 "info": "n"
             },
             {
-                "hiragana": "せきがでる",
+                "hiragana": "せきがでます",
                 "kanji": "せきが出る",
                 "vietnamese": "ho",
                 "info": "tự"
             },
             {
-                "hiragana": "せきをする",
+                "hiragana": "せきをします",
                 "kanji": "せきをする",
                 "vietnamese": "ho",
                 "info": "tha"
             },
             {
-                "hiragana": "しゃっくりがでる",
+                "hiragana": "しゃっくりがでます",
                 "kanji": "しゃっくりが出る",
                 "vietnamese": "nấc cụt",
                 "info": "tự"
             },
             {
-                "hiragana": "しゃっくりをする",
+                "hiragana": "しゃっくりをします",
                 "kanji": "しゃっくりをする",
                 "vietnamese": "nấc cụt",
                 "info": "tha"
             },
             {
-                "hiragana": "くしゃみがでる",
+                "hiragana": "くしゃみがでます",
                 "kanji": "くしゃみが出る",
                 "vietnamese": "hắt xì hơi",
                 "info": "tự"
             },
             {
-                "hiragana": "くしゃみをする",
+                "hiragana": "くしゃみをします",
                 "kanji": "くしゃみをする",
                 "vietnamese": "hắt xì hơi",
                 "info": "tha"
             },
             {
-                "hiragana": "あくびがでる",
+                "hiragana": "あくびがでます",
                 "kanji": "あくびが出る",
                 "vietnamese": "ngáp",
                 "info": "tự"
             },
             {
-                "hiragana": "あくびをする",
+                "hiragana": "あくびをします",
                 "kanji": "あくびをする",
                 "vietnamese": "ngáp",
                 "info": "tha"
             },
             {
-                "hiragana": "げっぷがでる",
+                "hiragana": "げっぷがでます",
                 "kanji": "げっぷが出る",
                 "vietnamese": "ợ",
                 "info": "tự"
             },
             {
-                "hiragana": "げっぷをする",
+                "hiragana": "げっぷをします",
                 "kanji": "げっぷをする",
                 "vietnamese": "ợ",
                 "info": "tha"
             },
             {
-                "hiragana": "おならがでる",
+                "hiragana": "おならがでます",
                 "kanji": "おならが出る",
                 "vietnamese": "đánh rắm",
                 "info": "tự"
             },
             {
-                "hiragana": "おならをする",
+                "hiragana": "おならをします",
                 "kanji": "おならをする",
                 "vietnamese": "đánh rắm",
                 "info": "tha"
             },
             {
-                "hiragana": "たいじゅうがふえる",
+                "hiragana": "たいじゅうがふえます",
                 "kanji": "体重が増える",
                 "vietnamese": "lên cân",
                 "info": "tự"
             },
             {
-                "hiragana": "たいじゅうをふやす",
+                "hiragana": "たいじゅうをふやします",
                 "kanji": "体重を増やす",
                 "vietnamese": "làm tăng cân",
                 "info": "tha"
             },
             {
-                "hiragana": "たいじゅうがへる",
+                "hiragana": "たいじゅうがへります",
                 "kanji": "体重が減る",
                 "vietnamese": "giảm cân",
                 "info": "tự"
             },
             {
-                "hiragana": "たいじゅうをへらす",
+                "hiragana": "たいじゅうをへらします",
                 "kanji": "体重を減らす",
                 "vietnamese": "làm giảm cân",
                 "info": "tha"
             },
             {
-                "hiragana": "ダイエットをする",
+                "hiragana": "ダイエットをします",
                 "kanji": "ダイエットをする",
                 "vietnamese": "ăn kiêng",
                 "info": "tha"
             },
             {
-                "hiragana": "いびきをかく",
+                "hiragana": "いびきをかきます",
                 "kanji": "いびきをかく",
                 "vietnamese": "ngáy",
                 "info": "tha"
             },
             {
-                "hiragana": "あしがしびれる",
+                "hiragana": "あしがしびれます",
                 "kanji": "足がしびれる",
                 "vietnamese": "tê chân",
                 "info": "tự"
             },
             {
-                "hiragana": "からだがふるえる",
+                "hiragana": "からだがふるえます",
                 "kanji": "体がふるえる",
                 "vietnamese": "run rẩy",
                 "info": "tự"
             },
             {
-                "hiragana": "かたがこる",
+                "hiragana": "かたがこります",
                 "kanji": "肩がこる",
                 "vietnamese": "ê ẩm vai",
                 "info": "tự"
             },
             {
-                "hiragana": "くせがつく",
+                "hiragana": "くせがつきます",
                 "kanji": "くせがつく",
                 "vietnamese": "tật xấu",
                 "info": "tự"
             },
             {
-                "hiragana": "くせになる",
+                "hiragana": "くせになります",
                 "kanji": "くせになる",
                 "vietnamese": "tật xấu",
                 "info": "tự"
             },
             {
-                "hiragana": "ストレスがたまる",
+                "hiragana": "ストレスがたまります",
                 "kanji": "ストレスがたまる",
                 "vietnamese": "căng thẳng; bị áp lực",
                 "info": "tự"
             },
             {
-                "hiragana": "としをとる",
+                "hiragana": "としをとります",
                 "kanji": "年を取る",
                 "vietnamese": "lớn tuổi",
                 "info": "tự"
             },
             {
-                "hiragana": "つめがのびる",
+                "hiragana": "つめがのびます",
                 "kanji": "つめが伸びる",
                 "vietnamese": "móng tay dài ra",
                 "info": "tự"
             },
             {
-                "hiragana": "ひげがはえる",
+                "hiragana": "ひげがはえます",
                 "kanji": "ひげが生える",
                 "vietnamese": "mọc râu",
                 "info": "tự"
             },
             {
-                "hiragana": "はがはえる",
+                "hiragana": "はがはえます",
                 "kanji": "歯が生える",
                 "vietnamese": "mọc răng",
                 "info": "tự"
             },
             {
-                "hiragana": "かみのけがぬける",
+                "hiragana": "かみのけがぬけます",
                 "kanji": "髪の毛が",
                 "vietnamese": "rụng tóc",
                 "info": "tự"
             },
             {
-                "hiragana": "はげる",
+                "hiragana": "はげます",
                 "kanji": "はげる",
                 "vietnamese": "rụng tóc",
                 "info": "tự"
             },
             {
-                "hiragana": "かみをそめる",
+                "hiragana": "かみをそめます",
                 "kanji": "髪をそめる",
                 "vietnamese": "nhuộm tóc",
                 "info": "tha"
@@ -3947,25 +3947,25 @@ data_vocabulary = [
         "lesson": "sou w5 d6",
         "vocabulary": [
             {
-                "hiragana": "はながさく",
+                "hiragana": "はながさきます",
                 "kanji": "花が咲く",
                 "vietnamese": "hoa nở",
                 "info": "tự"
             },
             {
-                "hiragana": "はながちる",
+                "hiragana": "はながちります",
                 "kanji": "花が散る",
                 "vietnamese": "hoa rụng",
                 "info": "tự"
             },
             {
-                "hiragana": "きがかれる",
+                "hiragana": "きがかれます",
                 "kanji": "木が枯れる",
                 "vietnamese": "cây héo úa",
                 "info": "tự"
             },
             {
-                "hiragana": "やまがくずれる",
+                "hiragana": "やまがくずれます",
                 "kanji": "山がくずれる",
                 "vietnamese": "lở núi",
                 "info": "tự"
@@ -3983,25 +3983,25 @@ data_vocabulary = [
                 "info": "n"
             },
             {
-                "hiragana": "はこがつぶれる",
+                "hiragana": "はこがつぶれます",
                 "kanji": "箱がつぶれる",
                 "vietnamese": "cái hộp bị bẹp",
                 "info": "tự"
             },
             {
-                "hiragana": "つぶす",
+                "hiragana": "つぶします",
                 "kanji": "つぶす",
                 "vietnamese": "nghiền; làm bẹp",
                 "info": "tha"
             },
             {
-                "hiragana": "うく",
+                "hiragana": "うきます",
                 "kanji": "浮く",
                 "vietnamese": "nổi; lơ lửng",
                 "info": "tự"
             },
             {
-                "hiragana": "しずむ",
+                "hiragana": "しずみます",
                 "kanji": "沈む",
                 "vietnamese": "chìm; đắm",
                 "info": "tự"
@@ -4013,25 +4013,25 @@ data_vocabulary = [
                 "info": "a-i"
             },
             {
-                "hiragana": "くさる",
+                "hiragana": "くさります",
                 "kanji": "くさる",
                 "vietnamese": "mục nát; thối rữa",
                 "info": "tự"
             },
             {
-                "hiragana": "かびがはえる",
+                "hiragana": "かびがはえます",
                 "kanji": "かびが生える",
                 "vietnamese": "nấm mốc",
                 "info": "tự"
             },
             {
-                "hiragana": "へんなにおいがする",
+                "hiragana": "へんなにおいがします",
                 "kanji": "変なにおいがする",
                 "vietnamese": "có mùi lạ",
                 "info": "tự"
             },
             {
-                "hiragana": "におう",
+                "hiragana": "においます",
                 "kanji": "におう",
                 "vietnamese": "có mùi; bốc mùi",
                 "info": "tự"
@@ -4079,7 +4079,7 @@ data_vocabulary = [
                 "info": "n"
             },
             {
-                "hiragana": "さびる",
+                "hiragana": "さびます",
                 "kanji": "さびる",
                 "vietnamese": "bị gỉ",
                 "info": "tự"
@@ -4127,7 +4127,7 @@ data_vocabulary = [
                 "info": "n"
             },
             {
-                "hiragana": "くわしくせつめいする",
+                "hiragana": "くわしくせつめいします",
                 "kanji": "くわしく説明する",
                 "vietnamese": "giải thích tường tận",
                 "info": "tha"
@@ -4139,7 +4139,7 @@ data_vocabulary = [
                 "info": "n"
             },
             {
-                "hiragana": "でたらめにこたえる",
+                "hiragana": "でたらめにこたえます",
                 "kanji": "でたらめに答える",
                 "vietnamese": "trả lời linh tinh",
                 "info": "tha"
