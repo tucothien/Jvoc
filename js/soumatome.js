@@ -3512,15 +3512,15 @@ data_vocabulary = [
             },
             {
                 "hiragana": "はながつまります",
-                "kanji": "鼻がつまる",
+                "kanji": "鼻が詰まる",
                 "vietnamese": "nghẹt mũi",
-                "info": "tự, 鼻 (tị: mũi) 自 (tự) 廾 (củng) 田 (điền)"
+                "info": "tự, 鼻 (tị: mũi) 自 (tự) 廾 (củng) 田 (điền) 詰 (cật) 吉(cát)"
             },
             {
                 "hiragana": "はなをかみます",
                 "kanji": "鼻をかむ",
                 "vietnamese": "hỉ mũi",
-                "info": "tha, 鼻 (tị: mũi) 自 (tự) 廾 (củng) 田 (điền)"
+                "info": "tha, 鼻 (tị: mũi) 自 (tự) 廾 (củng) 田 (điền) 言 (ngôn) "
             },
             {
                 "hiragana": "はきけ がします / はきます",
@@ -3536,15 +3536,15 @@ data_vocabulary = [
             },
             {
                 "hiragana": "めをこすります",
-                "kanji": "目をこする",
-                "vietnamese": "gãi mắt",
-                "info": "tha, 目 (mục) "
+                "kanji": "目をこする (擦る)",
+                "vietnamese": "dụi mắt",
+                "info": "tha, 目 (mục) 擦 (sát, xát) 祭 (tế) 宀 miên"
             },
             {
                 "hiragana": "めをかきます",
-                "kanji": "目をかく",
-                "vietnamese": "dụi mắt",
-                "info": "tha, 目 (mục) "
+                "kanji": "目をかく (掻く)",
+                "vietnamese": "gãi mắt",
+                "info": "tha, 目 (mục) 掻 (tao: gãi, cào) 騒(tao: ồn) 虫 (trùng) 又 (hựu)"
             },
             {
                 "hiragana": "かふんしょう になります",
