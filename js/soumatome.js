@@ -3597,241 +3597,133 @@ data_vocabulary = [
                 "hiragana": "はな（みず）がでます",
                 "kanji": "鼻（水）が出る",
                 "vietnamese": "sổ mũi",
-                "info": "tự"
+                "info": "tự, 鼻 (tị: mũi) 自 (tự) 廾 (củng) 田 (điền)"
             },
             {
-                "hiragana": "ためいきがでます",
-                "kanji": "ため息が",
-                "vietnamese": "thở dài",
-                "info": "tự"
+                "hiragana": "ためいきがでます / ためいきをつきます",
+                "kanji": "ため息が出る / ため息をつく",
+                "vietnamese": "thở dài (tự/tha)",
+                "info": "tự/tha, 息 (tức: tử, khí) 自 (tự) 心 (tâm)"
             },
             {
-                "hiragana": "ためいきをつきます",
-                "kanji": "ため息をつく",
-                "vietnamese": "thở dài",
-                "info": "tha"
+                "hiragana": "なみだがでます/なみだをながします",
+                "kanji": "涙が出る / 涙を流す",
+                "vietnamese": "rơi nước mắt / khóc",
+                "info": "tự/tha, 涙 (lệ) 氵 (thủy) 戻 (lệ: quay lại) 流 (lưu: hải) 氵 (thủy) 㐬"
             },
             {
-                "hiragana": "なみだがでます",
-                "kanji": "涙が出る",
-                "vietnamese": "rơi lệ",
-                "info": "tự"
-            },
-            {
-                "hiragana": "なみだをながします",
-                "kanji": "涙を流す",
-                "vietnamese": "khóc lóc",
-                "info": "tha"
-            },
-            {
-                "hiragana": "あせがでます",
-                "kanji": "汗が出る",
-                "vietnamese": "ra mồ hôi",
-                "info": "tự"
-            },
-            {
-                "hiragana": "あせをかきます",
-                "kanji": "汗をかく",
-                "vietnamese": "toát mồ hôi",
-                "info": "tha"
-            },
-            {
-                "hiragana": "あせくさい",
-                "kanji": "汗くさい",
-                "vietnamese": "toát mồ hôi",
-                "info": "i"
+                "hiragana": "あせがでます / あせをかきます / あせくさい",
+                "kanji": "汗が出る / 汗をかく / 汗臭い",
+                "vietnamese": "ra mồ hôi (xuất hiện/đổ/có mùi)",
+                "info": "tự/tha/i, 汗 (hãn: mồ hôi) 氵 (thủy) 干 (kiền: khô) 臭 (xú, khứu) 自 (tự) 大 (đại)"
             },
             {
                 "hiragana": "よだれ",
-                "kanji": "よだれ",
+                "kanji": "(よだれ) 涎",
                 "vietnamese": "nước dãi",
-                "info": "n"
+                "info": "n, 涎 (tiên, diện, duyên) ノ 止 (chỉ) 廴 (dẫn) 氵 (thủy)"
             },
             {
-                "hiragana": "せきがでます",
-                "kanji": "せきが出る",
-                "vietnamese": "ho",
-                "info": "tự"
+                "hiragana": "せきがでます / せきをします",
+                "kanji": "(せき) 咳が出る / 咳をする",
+                "vietnamese": "ho (tự/tha)",
+                "info": "tự/tha, 咳 (khái: ho) 亥 (hợi) 口 (khẩu) 刻 (khắc)"
             },
             {
-                "hiragana": "せきをします",
-                "kanji": "せきをする",
-                "vietnamese": "ho",
-                "info": "tha"
+                "hiragana": "しゃっくりがでます / しゃっくりをします",
+                "kanji": "(しゃっくり) 吃逆が出る / 吃逆をする",
+                "vietnamese": "nấc cụt (tự/tha)",
+                "info": "tự/tha, 吃 (cật: nói lắp) 乞 (khất: xin, thực) 口 (khẩu) 逆 (nghịch: ngược) 屰 ⻌"
             },
             {
-                "hiragana": "しゃっくりがでます",
-                "kanji": "しゃっくりが出る",
-                "vietnamese": "nấc cụt",
-                "info": "tự"
+                "hiragana": "くしゃみがでます/くしゃみをします",
+                "kanji": "(くしゃみ) 嚏が出る/嚏をする ",
+                "vietnamese": "hắt xì hơi (tự/tha)",
+                "info": "tự/tha, 嚏 (đế, sí: hắt hơi)"
             },
             {
-                "hiragana": "しゃっくりをします",
-                "kanji": "しゃっくりをする",
-                "vietnamese": "nấc cụt",
-                "info": "tha"
+                "hiragana": "あくびがでます / あくびをします",
+                "kanji": "(あくび) 欠伸が出る / 欠伸をする",
+                "vietnamese": "ngáp (tự/tha)",
+                "info": "tự, 欠 (khiếm) 人 (nhân) ⺈ 伸 (thân: duỗi) 亻 (nhân) 申 (thân: khỉ)"
             },
             {
-                "hiragana": "くしゃみがでます",
-                "kanji": "くしゃみが出る",
-                "vietnamese": "hắt xì hơi",
-                "info": "tự"
+                "hiragana": "たいじゅうがふえます / たいじゅうをふやします",
+                "kanji": "体重が増える / 体重を増やす",
+                "vietnamese": "lên cân / làm tăng cân",
+                "info": "tự/tha, 体 (thể) 本 (bổn) 亻 (nhân) 重 (trọng, trùng) 増 (tăng) 丷 田 (điền) 日 (nhật) 土 (thổ)"
             },
             {
-                "hiragana": "くしゃみをします",
-                "kanji": "くしゃみをする",
-                "vietnamese": "hắt xì hơi",
-                "info": "tha"
-            },
-            {
-                "hiragana": "あくびがでます",
-                "kanji": "あくびが出る",
-                "vietnamese": "ngáp",
-                "info": "tự"
-            },
-            {
-                "hiragana": "あくびをします",
-                "kanji": "あくびをする",
-                "vietnamese": "ngáp",
-                "info": "tha"
-            },
-            {
-                "hiragana": "げっぷがでます",
-                "kanji": "げっぷが出る",
-                "vietnamese": "ợ",
-                "info": "tự"
-            },
-            {
-                "hiragana": "げっぷをします",
-                "kanji": "げっぷをする",
-                "vietnamese": "ợ",
-                "info": "tha"
-            },
-            {
-                "hiragana": "おならがでます",
-                "kanji": "おならが出る",
-                "vietnamese": "đánh rắm",
-                "info": "tự"
-            },
-            {
-                "hiragana": "おならをします",
-                "kanji": "おならをする",
-                "vietnamese": "đánh rắm",
-                "info": "tha"
-            },
-            {
-                "hiragana": "たいじゅうがふえます",
-                "kanji": "体重が増える",
-                "vietnamese": "lên cân",
-                "info": "tự"
-            },
-            {
-                "hiragana": "たいじゅうをふやします",
-                "kanji": "体重を増やす",
-                "vietnamese": "làm tăng cân",
-                "info": "tha"
-            },
-            {
-                "hiragana": "たいじゅうがへります",
-                "kanji": "体重が減る",
-                "vietnamese": "giảm cân",
-                "info": "tự"
-            },
-            {
-                "hiragana": "たいじゅうをへらします",
-                "kanji": "体重を減らす",
-                "vietnamese": "làm giảm cân",
-                "info": "tha"
-            },
-            {
-                "hiragana": "ダイエットをします",
-                "kanji": "ダイエットをする",
-                "vietnamese": "ăn kiêng",
-                "info": "tha"
+                "hiragana": "たいじゅうがへります / たいじゅうをへらします",
+                "kanji": "体重が減る / 体重を減らす",
+                "vietnamese": "giảm cân / làm giảm cân",
+                "info": "tự/tha, 体 (thể) 本 (bổn) 亻 (nhân) 重 (trọng, trùng) 減 (giảm) 咸 (hàm: chứa) 戊 (mậu: kỉ) 一 (nhất) 口 (khẩu) 氵 (thủy)"
             },
             {
                 "hiragana": "いびきをかきます",
-                "kanji": "いびきをかく",
+                "kanji": "(いびき) 鼾をかく",
                 "vietnamese": "ngáy",
-                "info": "tha"
+                "info": "tha, 鼾 (hãn: ngáy) 干 (kiền) 鼻 (tị: mũi)"
             },
             {
                 "hiragana": "あしがしびれます",
-                "kanji": "足がしびれる",
+                "kanji": "足が痺れる (しびれる)",
                 "vietnamese": "tê chân",
-                "info": "tự"
+                "info": "tự, 足 (túc) 痺 (tý: tê) 卑 (ti: hèn, tiện) ノ 十 (thập) 甶 疒 (nạch)"
             },
             {
                 "hiragana": "からだがふるえます",
-                "kanji": "体がふるえる",
+                "kanji": "体が震える",
                 "vietnamese": "run rẩy",
-                "info": "tự"
+                "info": "tự, 体 (thể) 本 (bổn) 亻 (nhân) 震 (chấn: động) ⻗ 辰 (thần: thìn)"
             },
             {
                 "hiragana": "かたがこります",
-                "kanji": "肩がこる",
-                "vietnamese": "ê ẩm vai",
-                "info": "tự"
+                "kanji": "肩が凝る (こる)",
+                "vietnamese": "vai cứng đơ",
+                "info": "tự, 肩 (kiên: vai) ⺼ 戸 (hộ) 凝 (ngưng: đọng) 疑 (nghi: ngờ) 匕 (chủy) 矢 (thỉ: mũi tên) マ 疋 (sơ) 冫 (băng)"
             },
             {
-                "hiragana": "くせがつきます",
-                "kanji": "くせがつく",
-                "vietnamese": "tật xấu",
-                "info": "tự"
-            },
-            {
-                "hiragana": "くせになります",
-                "kanji": "くせになる",
-                "vietnamese": "tật xấu",
-                "info": "tự"
+                "hiragana": "くせがつきます / くせになります",
+                "kanji": "癖がつく / 癖になる",
+                "vietnamese": "thành thói quen, nghiện (tích cực/tiêu cực)",
+                "info": "tự, 癖 (phích, tích) 口 (khẩu) 尸 (thi) 辛 (tân) 疒 (nạch)"
             },
             {
                 "hiragana": "ストレスがたまります",
-                "kanji": "ストレスがたまる",
+                "kanji": "ストレスが溜まる (たまる)",
                 "vietnamese": "căng thẳng; bị áp lực",
-                "info": "tự"
-            },
-            {
-                "hiragana": "としをとります",
-                "kanji": "年を取る",
-                "vietnamese": "lớn tuổi",
-                "info": "tự"
+                "info": "tự, 溜 (lựu: thu góp) 留 (lưu: lại) 卯 (mão: mèo) 田 (điền) 氵 (thủy)"
             },
             {
                 "hiragana": "つめがのびます",
-                "kanji": "つめが伸びる",
+                "kanji": "爪が伸びる (のびる)",
                 "vietnamese": "móng tay dài ra",
-                "info": "tự"
+                "info": "tự, 爪 (trảo) 伸 (thân: duỗi) 亻 (nhân) 申 (thân)"
             },
             {
-                "hiragana": "ひげがはえます",
-                "kanji": "ひげが生える",
-                "vietnamese": "mọc râu",
-                "info": "tự"
-            },
-            {
-                "hiragana": "はがはえます",
-                "kanji": "歯が生える",
-                "vietnamese": "mọc răng",
-                "info": "tự"
+                "hiragana": "ひげ/は がはえます",
+                "kanji": "髭/歯 が生える",
+                "vietnamese": "mọc râu/răng",
+                "info": "tự, 髭 (tì: râu) 止 (chỉ) 匕 (chủy) 镸 彡 (sam) 歯 (xỉ: răng) 止 (chỉ) 米 (mễ) 凵 (khảm) 生 (sanh, sinh)"
             },
             {
                 "hiragana": "かみのけがぬけます",
-                "kanji": "髪の毛が",
+                "kanji": "髪の毛が抜ける (ぬける)",
                 "vietnamese": "rụng tóc",
-                "info": "tự"
+                "info": "tự, 髪 (phát: tóc) 友 (hữu) 镸 彡 (sam) 毛 (mao, mô) 抜 (bạt: rớt ra) 扌 (thủ) 友 (hữu)"
             },
             {
                 "hiragana": "はげます",
-                "kanji": "はげる",
-                "vietnamese": "rụng tóc",
-                "info": "tự"
+                "kanji": "剥げる (はげる)",
+                "vietnamese": "bị hói",
+                "info": "tự, 剥 (bác: bóc, gọt) 录 (lục) 刂 (đao)"
             },
             {
                 "hiragana": "かみをそめます",
-                "kanji": "髪をそめる",
+                "kanji": "髪を染める (そめる)",
                 "vietnamese": "nhuộm tóc",
-                "info": "tha"
+                "info": "tha, 髪 (phát: tóc) 友 (hữu) 镸 彡 (sam) 染 (nhiễm: độc) 九 (cửu) 氵 (thủy) 木 (mộc)"
             }
         ]
     },
