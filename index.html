@@ -142,32 +142,43 @@
 			// Use empty + non-breaking space to force a fresh paint on some mobile browsers.
 			$('#mainText').empty().html('&nbsp;');
 		}
+
+		function formatMixedText(text, viClass='viText', jpClass='jpText') {
+			const jpChunkRegex = /([\u3040-\u30ff\u31f0-\u31ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\u3005\u30fc]+)/g;
+			const jpOnlyRegex = /^[\u3040-\u30ff\u31f0-\u31ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\u3005\u30fc]+$/;
+			return String(text)
+				.split(jpChunkRegex)
+				.filter(part => part !== '')
+				.map(part => jpOnlyRegex.test(part) ? '<span class="' + jpClass + '">' + part + '</span>' : '<span class="' + viClass + '">' + part + '</span>')
+				.join('');
+		}
+
 		function showWords(word=null, mode='all') { //mode 'kanji', 'vietnamese', 'hiragana'
 			if (word===null){clearWords(); return}
 			let displayText = '';
 			switch (mode) {
 				case 'all':
-					displayText=word['kanji']
-					if ('hiragana' in word && word['hiragana'] !== "") {displayText+='<br/>'+word['hiragana']}
-					displayText += '<br/>'+word['vietnamese']
+					displayText='<span class="jpText">'+word['kanji']+'</span>'
+					if ('hiragana' in word && word['hiragana'] !== "") {displayText+='<br/><span class="hiraText">'+word['hiragana']+'</span>'}
+					displayText += '<br/><span class="viText">'+word['vietnamese']+'</span>'
 					if ('examples' in word && Array.isArray(word['examples'])) {
-						displayText+='<br/>'+word['examples'].join('<br/>')
+						displayText+='<br/>'+word['examples'].map(example => formatMixedText(example, 'infoViText', 'infoJpText')).join('<br/>')
 					}
-					if ('onyomi' in word && word['onyomi'] !== "") {displayText+='<br/>On: '+word['onyomi']}
-					if ('kunyomi' in word && word['kunyomi'] !== "") {displayText+='<br/>Kun: '+word['kunyomi']}
+					if ('onyomi' in word && word['onyomi'] !== "") {displayText+='<br/><span class="infoViText">On: </span>'+formatMixedText(word['onyomi'], 'infoViText', 'infoJpText')}
+					if ('kunyomi' in word && word['kunyomi'] !== "") {displayText+='<br/><span class="infoViText">Kun: </span>'+formatMixedText(word['kunyomi'], 'infoViText', 'infoJpText')}
 
 					if ('info' in word) {
 						const infoRaw = Array.isArray(word['info']) ? word['info'].join(' ') : String(word['info']);
 						const infoClean = infoRaw.replace(/\|/g, '').replace(/\s+/g, ' ').trim();
 						if (infoClean !== '') {
-							displayText+='<br/>'+infoClean;
+							displayText+='<br/>'+formatMixedText(infoClean, 'infoViText', 'infoJpText');
 						}
 					}
 					break;
 				case 'kanji':
 				case 'vietnamese':
 				case 'hiragana':
-					displayText = word[mode]+'<br/><br/><br/><br/><br/><br/>'
+					displayText = (mode === 'kanji' ? '<span class="jpText">'+word[mode]+'</span>' : mode === 'hiragana' ? '<span class="hiraText">'+word[mode]+'</span>' : '<span class="viText">'+word[mode]+'</span>')+'<br/><br/><br/><br/><br/><br/>'
 			}
 			$('#mainText').html(displayText);
 			if (isShowMessage) {isShowMessage=false;} else {$('#message').html('');}
@@ -394,6 +405,8 @@
 
 </body>
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600;700&display=swap');
+
 	:root {
 		--bg-top: #e8f7ff;
 		--bg-mid: #c8e9ff;
@@ -402,6 +415,10 @@
 		--card-border: rgba(255, 255, 255, 0.95);
 		--text-main: #1a2b3f;
 		--text-soft: #36506b;
+		--hira-color: #355a99;
+		--vi-color: #2f665a;
+		--info-vi-color: #5d6473;
+		--info-jp-color: #59658a;
 		--accent: #2c8fd6;
 		--accent-strong: #1f6fb4;
 		--focus-ring: rgba(44, 143, 214, 0.28);
@@ -501,6 +518,39 @@
 		max-width: min(95vw, 1040px);
 		margin: 0 auto;
 		text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);
+	}
+
+	.jpText {
+		font-family: "Yu Mincho", "Hiragino Mincho ProN", "MS Mincho", "Noto Serif JP", serif;
+		letter-spacing: 0.03em;
+		font-weight: 600;
+	}
+
+	.hiraText {
+		font-family: "Yu Mincho", "Hiragino Mincho ProN", "MS Mincho", "Noto Serif JP", serif;
+		letter-spacing: 0.03em;
+		font-weight: 600;
+		color: var(--hira-color);
+	}
+
+	.viText {
+		font-family: "Quicksand", "Segoe UI", Arial, sans-serif;
+		font-weight: 600;
+		letter-spacing: 0.01em;
+	}
+
+	.infoViText {
+		font-family: "Quicksand", "Segoe UI", Arial, sans-serif;
+		font-weight: 500;
+		letter-spacing: 0.01em;
+		color: var(--info-vi-color);
+	}
+
+	.infoJpText {
+		font-family: "Yu Mincho", "Hiragino Mincho ProN", "MS Mincho", "Noto Serif JP", serif;
+		font-weight: 500;
+		letter-spacing: 0.02em;
+		color: var(--info-jp-color);
 	}
 
 	.myButton {
