@@ -101,9 +101,10 @@
 				currentVocList = shuffleArray(currentVocList)
 				currentWord = 0
 				showMessage('-----------Reset vocabulary list: 1/' + currentVocList.length.toString() + '----')
-			} else {
-				showMessage((currentWord+1).toString() + '/' + currentVocList.length.toString());
-			}
+			} 
+			// else {
+				// showMessage((currentWord+1).toString() + '/' + currentVocList.length.toString());
+			// }
 			$('#vIdxList').val(currentWord);
 			//console.log(currentWord)
 		}
@@ -134,9 +135,13 @@
 		//============================================================
 		// Display
 		//============================================================
-		function clearWords(){$('#mainText').html("");}
+		function clearWords(){
+			// Use empty + non-breaking space to force a fresh paint on some mobile browsers.
+			$('#mainText').empty().html('&nbsp;');
+		}
 		function showWords(word=null, mode='all') { //mode 'kanji', 'vietnamese', 'hiragana'
-			if (word===null){$('#mainText').html('<br/><br/><br/><br/><br/>'); return}
+			if (word===null){clearWords(); return}
+			let displayText = '';
 			switch (mode) {
 				case 'all':
 					displayText=word['kanji']
@@ -407,7 +412,7 @@
 		<fieldset style="text-align: center;">
 			<div>
 				<h1 id="mainText" style="font-size: 3em;"></h1>
-			<div>
+			</div>
 		</fieldset>
 	</div>
 	<div id=swipeArea style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"></div>
