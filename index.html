@@ -149,10 +149,10 @@
 					if ('kunyomi' in word && word['kunyomi'] !== "") {displayText+='<br/>Kun: '+word['kunyomi']}
 
 					if ('info' in word) {
-						if (Array.isArray(word['info'])) {
-							displayText+='<br/>'+word['info'].join('<br/>')
-						} else {
-							displayText+='<br/>'+word['info'].split('|').map(str => str.trim()).join('<br/>'); // split by |
+						const infoRaw = Array.isArray(word['info']) ? word['info'].join(' ') : String(word['info']);
+						const infoClean = infoRaw.replace(/\|/g, '').replace(/\s+/g, ' ').trim();
+						if (infoClean !== '') {
+							displayText+='<br/>'+infoClean;
 						}
 					}
 					break;
@@ -474,6 +474,14 @@
 
 
 	table.fixed td { overflow: hidden; }
+
+	#mainText {
+		white-space: normal;
+		overflow-wrap: anywhere;
+		word-break: break-word;
+		max-width: 92vw;
+		margin: 0 auto;
+	}
 
 	html {
 		height: 100%;
