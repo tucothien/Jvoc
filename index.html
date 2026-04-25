@@ -6,7 +6,6 @@
 </head>
 <!-- <script type="text/javascript" src="./lib/jquery.min.js"></script> -->
 <script type="text/javascript" src="js/jquery.min.js"></script>
-<script src="js/jquery.touchSwipe.min.js"></script>
 <script type="text/javascript" src="js/soumatome.js"></script>
 <script type="text/javascript">
 	$(function() {
@@ -327,35 +326,6 @@
 		    }
 		    setTimeout(function() {isSwipe = false;}, 0);
 	    });
-
-	    $("#swipeArea").css({top: $("#textArea").offset().top});
-		$("#swipeArea").swipe({
-            swipe: function(event, direction, distance, duration, fingerCount, fingerData) {
-				// showMessage("You swiped " + direction);
-				switch (direction) {
-					case 'right': // space
-						move(isNext=false);
-						break;
-					case 'left': // space
-						move(isNext=true);
-						break;
-					case 'up':
-						curModeIdx = modeList.indexOf(current_mode)
-						nextMode = (curModeIdx - 1+ modeList.length)%modeList.length
-						$(modeBtnList[nextMode]).click()
-
-						break;
-					case 'down':
-						curModeIdx = modeList.indexOf(current_mode)
-						nextMode = (curModeIdx + 1)%modeList.length
-						$(modeBtnList[nextMode]).click()
-						break;
-
-				}
-				isSwipe = true;
-			},
-			threshold: 200 // Minimum distance (px) for swipe to be detected
-		});
 	});
 
 </script>
