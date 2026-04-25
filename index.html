@@ -117,6 +117,10 @@
 			} else {
 				showWords(currentVocList[currentWord], current_mode)
 			}
+			const textArea = $('#textArea').get(0);
+			if (textArea) {
+				textArea.scrollIntoView({ behavior: 'smooth', block: 'start' });
+			}
 			showAll = !showAll;
 		}
 
@@ -163,7 +167,7 @@
 				case 'kanji':
 				case 'vietnamese':
 				case 'hiragana':
-					displayText = word[mode]+'<br/><br/><br/><br/><br/>'
+					displayText = word[mode]+'<br/><br/><br/><br/><br/><br/>'
 			}
 			$('#mainText').html(displayText);
 			if (isShowMessage) {isShowMessage=false;} else {$('#message').html('');}
