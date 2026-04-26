@@ -116,10 +116,6 @@
 		}
 
 		function move(isNext) { // next move
-			if (isNext && showComponents) {
-				showComponents = false
-				$('#detailsB').removeClass('componentToggleActive')
-			}
 			if (isNext ^ showAll) {
 				moveCurrentWord(isNext);
 			}
@@ -329,12 +325,7 @@
 		$('#detailsB').click(function() {
 			showComponents = !showComponents
 			$(this).toggleClass('componentToggleActive', showComponents)
-			if (currentWord !== -1 && currentVocList[currentWord]) {
-				showWords(currentVocList[currentWord], showAll ? 'all' : current_mode)
-			} else {
-				renderComponents(null)
-			}
-			showMessage(showComponents ? 'Show details' : 'Hide details')
+			renderComponents(showComponents && currentWord !== -1 ? currentVocList[currentWord] : null)
 		});
 		$('#resetAddB').click(function() {
 			notedVocList = new Set()
