@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Learn kanji</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta charset="UTF-8">
 </head>
 <!-- <script type="text/javascript" src="./lib/jquery.min.js"></script> -->
 <script type="text/javascript" src="js/jquery.min.js"></script>
@@ -18,7 +18,11 @@
 					"hiragana": "わたし",
 					"kanji": "わたし",
 					"vietnamese": "tôi",
-					"info": "optional information"
+					"info": "optional information",
+					"details": {
+						"pos": "noun",
+						"components": ["亻",
+									  "厶"]}
 				  },
 				]
 			  },
@@ -78,6 +82,8 @@
 			currentVocList = shuffleArray(structuredClone(selectedVocList))
 			currentWord = -1
 			resetVocIdxList(currentVocList)
+			showComponents = false
+			$('#detailsB').removeClass('componentToggleActive')
 			showAll = false; // first click will display the mode only, second click dislay all
 									// hot fix: this will be counterintuitive as showAll will be flipped in move func
 			$("#lbTotalVoc").text("/" + currentVocList.length);
@@ -89,6 +95,7 @@
 
 		modeList = ['vietnamese', 'hiragana', 'kanji']
 		modeBtnList = ['#vietB', '#hiraB', '#kanjiB']
+		showComponents = false
 
 		//============================================================
 		// Logic
@@ -109,6 +116,10 @@
 		}
 
 		function move(isNext) { // next move
+			if (isNext && showComponents) {
+				showComponents = false
+				$('#detailsB').removeClass('componentToggleActive')
+			}
 			if (isNext ^ showAll) {
 				moveCurrentWord(isNext);
 			}
@@ -141,6 +152,7 @@
 		function clearWords(){
 			// Use empty + non-breaking space to force a fresh paint on some mobile browsers.
 			$('#mainText').empty().html('&nbsp;');
+			$('#componentsText').empty();
 		}
 
 		function formatMixedText(text, viClass='viText', jpClass='jpText') {
@@ -151,6 +163,25 @@
 				.filter(part => part !== '')
 				.map(part => jpOnlyRegex.test(part) ? '<span class="' + jpClass + '">' + part + '</span>' : '<span class="' + viClass + '">' + part + '</span>')
 				.join('');
+		}
+
+		function renderComponents(word=null) {
+			if (!showComponents || word === null) {
+				$('#componentsText').empty();
+				return;
+			}
+			const pos = String(word?.details?.pos ?? '').trim();
+			const components = word?.details?.components;
+			const hasComponents = Array.isArray(components) && components.length > 0;
+			if (pos === '' && !hasComponents) {
+				$('#componentsText').empty();
+				return;
+			}
+			const posLine = pos !== '' ? '<div class="componentLine"><span class="infoViText">POS: </span><span class="viText">' + pos + '</span></div>' : '';
+			const componentLines = hasComponents ? components
+				.map(line => '<div class="componentLine">' + formatMixedText(line, 'infoViText', 'infoJpText') + '</div>')
+				.join('') : '';
+			$('#componentsText').html('<div class="componentsTitle">Details</div>' + posLine + componentLines);
 		}
 
 		function showWords(word=null, mode='all') { //mode 'kanji', 'vietnamese', 'hiragana'
@@ -181,6 +212,7 @@
 					displayText = (mode === 'kanji' ? '<span class="jpText">'+word[mode]+'</span>' : mode === 'hiragana' ? '<span class="hiraText">'+word[mode]+'</span>' : '<span class="viText">'+word[mode]+'</span>')+'<br/><br/><br/><br/><br/><br/>'
 			}
 			$('#mainText').html(displayText);
+			renderComponents(word);
 			if (isShowMessage) {isShowMessage=false;} else {$('#message').html('');}
 		}
 		isShowMessage=false
@@ -274,7 +306,7 @@
 					showMessage('Currently in noted list ('+ notedVocList.size +'): ' + currentVocList[currentWord]['vietnamese'] + ' | '  + currentVocList[currentWord]['kanji']);
 				} else {
 					notedVocList.add(currentVocList[currentWord])
-					showMessage('Added to noted list ('+ notedVocList.size +'): ' + currentVocList[currentWord]['vietnamese'] + ' | '  + currentVocList[currentWord]['kanji']);
+					showMessage('Added to noted  list ('+ notedVocList.size +'): ' + currentVocList[currentWord]['vietnamese'] + ' | '  + currentVocList[currentWord]['kanji']);
 				}
 
 				// console.log(currentVocList[currentWord])
@@ -292,6 +324,17 @@
 				}
 			}
 			// console.log(notedVocList)
+		});
+
+		$('#detailsB').click(function() {
+			showComponents = !showComponents
+			$(this).toggleClass('componentToggleActive', showComponents)
+			if (currentWord !== -1 && currentVocList[currentWord]) {
+				showWords(currentVocList[currentWord], showAll ? 'all' : current_mode)
+			} else {
+				renderComponents(null)
+			}
+			showMessage(showComponents ? 'Show details' : 'Hide details')
 		});
 		$('#resetAddB').click(function() {
 			notedVocList = new Set()
@@ -324,23 +367,25 @@
     	});
 
 
-		$("#swipeArea").css({top: $("#textArea").offset().top});
-		var clickCount = 0;
-
-	    // Single click event handler
 	    isSwipe=false
-	    $("#swipeArea").on('click', function() {
-	    	if (!isSwipe) {
-		        clickCount++;
-		        setTimeout(function() {
-		            if (clickCount === 1) {
-		                move(isNext=true);
-		            }
-		            clickCount = 0;
-		        }, 300); // Adjust the delay time (in milliseconds) as needed
-		    }
-		    setTimeout(function() {isSwipe = false;}, 0);
-	    });
+		let clickTimer = null;
+		$('body').on('click', function(e) {
+			if (isSwipe) {
+				setTimeout(function() {isSwipe = false;}, 0);
+				return;
+			}
+			const $target = $(e.target);
+			if ($target.closest('.clickExclusive, button, select, input, label, option, a').length) {
+				return;
+			}
+			if (clickTimer !== null) {
+				clearTimeout(clickTimer);
+			}
+			clickTimer = setTimeout(function() {
+				move(isNext=true);
+				clickTimer = null;
+			}, 100);
+		});
 	});
 
 </script>
@@ -389,6 +434,7 @@
 		<!-- <button id = "playB" class="myButton clickExclusive">Play audio</button> -->
 		<button id = "addB" class="myButton clickExclusive">Note</button>
 		<button id = "removeB" class="myButton clickExclusive">Remove</button>
+		<button id = "detailsB" class="myButton clickExclusive">Details</button>
 		<!-- <button id = "resetAddB" class="myButton clickExclusive">Reset Note</button> -->
 		<br/><br/>
 	</div>
@@ -397,6 +443,7 @@
 		<fieldset style="text-align: center;">
 			<div>
 				<h1 id="mainText" style="font-size: 3em;"></h1>
+				<div id="componentsText"></div>
 			</div>
 		</fieldset>
 	</div>
@@ -520,6 +567,31 @@
 		text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);
 	}
 
+	#componentsText {
+		margin: 14px auto 0;
+		padding-top: 12px;
+		border-top: 1px dashed rgba(53, 90, 153, 0.28);
+		max-width: min(95vw, 960px);
+		text-align: left;
+	}
+
+	.componentsTitle {
+		font-family: "Quicksand", "Segoe UI", Arial, sans-serif;
+		font-size: clamp(0.95rem, 1.2vw, 1.05rem);
+		font-weight: 700;
+		letter-spacing: 0.03em;
+		text-transform: uppercase;
+		color: var(--text-soft);
+		margin-bottom: 6px;
+	}
+
+	.componentLine {
+		white-space: pre-wrap;
+		line-height: 1.4;
+		font-size: clamp(1rem, 1.6vw, 1.18rem);
+		margin: 2px 0;
+	}
+
 	.jpText {
 		font-family: "Yu Mincho", "Hiragino Mincho ProN", "MS Mincho", "Noto Serif JP", serif;
 		letter-spacing: 0.03em;
@@ -535,7 +607,7 @@
 
 	.viText {
 		font-family: "Quicksand", "Segoe UI", Arial, sans-serif;
-		font-weight: 600;
+		font-weight: 550;
 		letter-spacing: 0.01em;
 	}
 
@@ -576,6 +648,11 @@
 
 	.myButton:active {
 		transform: translateY(1px) scale(0.99);
+	}
+
+	.componentToggleActive {
+		background: linear-gradient(180deg, #2c8fd6 0%, #1f6fb4 100%);
+		box-shadow: 0 10px 24px rgba(31, 111, 180, 0.42);
 	}
 
 	.selectClass,
@@ -620,6 +697,7 @@
 
 	#swipeArea {
 		touch-action: pan-y;
+		pointer-events: none;
 	}
 
 	@media (max-width: 900px) {

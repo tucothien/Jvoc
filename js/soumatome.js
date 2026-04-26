@@ -6,151 +6,511 @@ data_vocabulary = [
                 "hiragana": "だいどころ/キッチン",
                 "kanji": "台所/キッチン",
                 "vietnamese": "nhà bếp",
-                "info": "n, 台 (đài) 厶 (khư) 口 (khẩu) 所 (sở) 斤 (cân) 戸 (hộ)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "台 Thai, Đài, Di  ▶ pedestal, a stand, counter for machines and vehicles",
+                        "  厶 Khư  ▶ I, myself, katakana mu radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "所 Sở  ▶ place, extent",
+                        "  戸 Hộ, Họ  ▶ door, counter for houses, door radical",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical"
+                    ]
+                }
             },
             {
                 "hiragana": "レンジ",
                 "kanji": "電子レンジ",
                 "vietnamese": "lò vi ba",
-                "info": "n, 電 (điện) ⻗ (vũ) 子 (tử, tí)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "電 Điện  ▶ electricity",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "ゆのみ",
                 "kanji": "湯飲み",
                 "vietnamese": "cốc uống trà",
-                "info": "n, 湯 (thang: nước nóng) 昜 (dương) 氵 (thủy) 飲 (ẩm, ấm) 欠 (khiếm) 飠 (thực) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "湯 Thang, Sương, Thãng  ▶ hot water, bath, hot spring",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  昜 Dương  ▶ open, sun",
+                        "    旦 Đán  ▶ daybreak, dawn, morning",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    勿 Vật  ▶ not, must not, do not, be not",
+                        "      勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "飲 Ấm, Ẩm, Hẩm, Ỡm  ▶ drink, smoke, take",
+                        "  飠 (食)   ▶ eat, food, radical number 184",
+                        "  欠 Khiếm  ▶ lack, gap, fail, yawning radical"
+                    ]
+                }
             },
             {
                 "hiragana": "れいぞうこ",
                 "kanji": "冷蔵庫",
                 "vietnamese": "tủ lạnh",
-                "info": "n, 冷 (lãnh) 令 (lệnh) 冫 (băng) 蔵 (tàng) 臣 (thần) 茂 (mậu: tốt đẹp) 戊 (mậu) 艹 (thảo)  庫 (khố) 車 (xa) 广 (nghiễm) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "冷 Lãnh  ▶ cool, cold (beer, person), chill",
+                        "  冫 (氷) Băng  ▶ two-stroke water radical or ice radical",
+                        "  令 Lệnh, Linh  ▶ orders, laws, command, decree, good",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      マ",
+                        "蔵 Tàng, Tạng  ▶ storehouse, hide, own, have, possess",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    臣 Thần  ▶ retainer, subject",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        丶 Chủ  ▶ dot, tick or dot radical",
+                        "庫 Khố  ▶ warehouse, storehouse",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  車 Xa  ▶ car"
+                    ]
+                }
             },
             {
                 "hiragana": "ながし",
                 "kanji": "流し",
-                "vietnamese": "bồn rửa; chậu rửa",
-                "info": "n, 流 (lưu: hải) 氵 (thủy) 㐬 () "
+                "vietnamese": "bồn rửa, chậu rửa",
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "流 Lưu  ▶ current, a sink, flow, forfeit",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  㐬   ▶ a cup with pendants, a pennant, wild, barren, uncultivated",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    川 (巛) Xuyên  ▶ stream, river, river or three-stroke river radical"
+                    ]
+                }
             },
             {
                 "hiragana": "いま/リビング",
                 "kanji": "居間/リビング",
                 "vietnamese": "phòng khách",
-                "info": "n, 居 (cư, kí) 古 (cổ) 尸 (thi) 間 (gian) 日 (nhật) 門 (môn) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "間 Gian  ▶ interval, space",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "居 Cư, Kí  ▶ reside, to be, exist, live with",
+                        "  尸 Thi  ▶ corpse, remains, flag radical",
+                        "  古 Cổ  ▶ old",
+                        "    十 Thập  ▶ ten",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "まどガラス",
                 "kanji": "窓ガラス",
                 "vietnamese": "cửa sổ bằng kính",
-                "info": "n, 窓 (song: cửa sổ) 穴 (huyệt: hang) 厶 (khư) 心 (tâm) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "窓 Song  ▶ window, pane",
+                        "  穴 Huyệt  ▶ hole, aperture, slit, cave, den",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "あまど",
                 "kanji": "雨戸",
                 "vietnamese": "cửa trượt bảo vệ",
-                "info": "n, 雨 (vũ) 戸 (hộ) 一 (nhất) 尸 (thi) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "戸 Hộ, Họ  ▶ door, counter for houses, door radical",
+                        "雨 Vũ, Vú  ▶ rain"
+                    ]
+                }
             },
             {
                 "hiragana": "あみど",
                 "kanji": "網戸",
                 "vietnamese": "cửa lưới (côn trùng)",
-                "info": "n, 網 (võng) 糸 (mịch) 罔 (võng) 戸 (hộ) 一 (nhất) 尸 (thi) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "網 Võng  ▶ netting, network",
+                        "  糸 Mịch  ▶ thread",
+                        "  罔 Võng  ▶ net",
+                        "    罒 (网) Võng  ▶ net radical variant",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "    亡 Vong, Vô  ▶ deceased, the late, dying, perish",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "        匸 (匚) Hệ  ▶ hiding enclosure radical",
+                        "      匸 (匚) Hệ  ▶ hiding enclosure radical",
+                        "戸 Hộ, Họ  ▶ door, counter for houses, door radical"
+                    ]
+                }
             },
             {
                 "hiragana": "てんじょう",
                 "kanji": "天井",
                 "vietnamese": "trần nhà",
-                "info": "n, 天 (thiên) 井 (tỉnh: giếng) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "天 Thiên  ▶ heavens, sky, imperial",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  大 Đại, Thái  ▶ large, big",
+                        "井 Tỉnh  ▶ well, well crib, town, community",
+                        "  二 Nhị  ▶ two, two radical",
+                        "  廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "    二 Nhị  ▶ two, two radical",
+                        "      十 Thập  ▶ ten",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten"
+                    ]
+                }
             },
             {
                 "hiragana": "ゆか",
                 "kanji": "床",
                 "vietnamese": "sàn nhà",
-                "info": "n, 床 (sàng) 木 (mộc) 广 (nghiễm) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "床 Sàng  ▶ bed, counter for beds, floor, padding, tatami",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  木 Mộc  ▶ tree, wood"
+                    ]
+                }
             },
             {
                 "hiragana": "じゅうたん/カーペット",
                 "kanji": "絨毯/カーペット",
                 "vietnamese": "thảm trải nền nhà",
-                "info": "n, 絨 (nhung: vải) 戎 (nhung: đồ binh) 𠂇 () 戈 (mác)  糸 (mịch) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "毯 Thảm  ▶ wool rug",
+                        "  毛 Mao, Mô  ▶ fur, hair, feather, down",
+                        "  炎 Viêm, Đàm, Diễm  ▶ inflammation, flame, blaze",
+                        "    火 Hỏa  ▶ fire",
+                        "    火 Hỏa  ▶ fire",
+                        "絨 Nhung  ▶ wool cloth",
+                        "  糸 Mịch  ▶ thread",
+                        "  戎 Nhung  ▶ warrior, arms, barbarian, Ainu",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "    十 Thập  ▶ ten",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "すいどう",
                 "kanji": "水道",
                 "vietnamese": "nước máy",
-                "info": "水 (thủy) 道 (đạo, đáo) 首 (thủ) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "道 Đạo, Đáo  ▶ road-way, street, district, journey, course, moral, teachings",
+                        "  首 Thủ, Thú  ▶ neck, counter for songs and poems",
+                        "    自 Tự  ▶ oneself",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  ⻌ (辶)",
+                        "水 Thủy  ▶ water"
+                    ]
+                }
             },
             {
                 "hiragana": "じゃぐち",
                 "kanji": "蛇口",
                 "vietnamese": "vòi nước",
-                "info": "蛇 (xà: rắn) 虫 (trùng) 它 (tha) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "蛇 Xà, Di  ▶ snake, serpent, hard drinker",
+                        "  虫 Trùng  ▶ insect, bug, temper",
+                        "    中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "      口 Khẩu  ▶ mouth",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  它 Tha, Xà  ▶ other",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "こおる (みずが)",
                 "kanji": "凍る (水が)",
                 "vietnamese": "đóng băng (nước )",
-                "info": "凍 (đống: nước đá) 冫 (băng) 東 (đông: hướng) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "凍 Đống  ▶ frozen, congeal, refrigerate",
+                        "  冫 (氷) Băng  ▶ two-stroke water radical or ice radical",
+                        "  東 Đông  ▶ east",
+                        "    木 Mộc  ▶ tree, wood",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    木 Mộc  ▶ tree, wood",
+                        "水 Thủy  ▶ water"
+                    ]
+                }
             },
             {
                 "hiragana": "こおり",
                 "kanji": "氷",
                 "vietnamese": "thành nước đá",
-                "info": "氷 (băng) 丶 (chủ) 水 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "氷 Băng  ▶ icicle, ice, hail, freeze, congeal",
+                        "  水 Thủy  ▶ water",
+                        "  丶 Chủ  ▶ dot, tick or dot radical",
+                        "  水 Thủy  ▶ water"
+                    ]
+                }
             },
             {
                 "hiragana": "れいとうする",
                 "kanji": "冷凍する",
                 "vietnamese": "ướp lạnh",
-                "info": "冷 (lãnh) 令 (lệnh) 冫 (băng) 凍 (đống: nước đá) 冫 (băng) 東 (đông: hướng) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "冷 Lãnh  ▶ cool, cold (beer, person), chill",
+                        "  冫 (氷) Băng  ▶ two-stroke water radical or ice radical",
+                        "  令 Lệnh, Linh  ▶ orders, laws, command, decree, good",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      マ",
+                        "凍 Đống  ▶ frozen, congeal, refrigerate",
+                        "  冫 (氷) Băng  ▶ two-stroke water radical or ice radical",
+                        "  東 Đông  ▶ east",
+                        "    木 Mộc  ▶ tree, wood",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    木 Mộc  ▶ tree, wood"
+                    ]
+                }
             },
             {
                 "hiragana": "ほぞんする",
                 "kanji": "保存する",
                 "vietnamese": "bảo quản",
-                "info": "保 (bảo) 亻 (nhân) 呆 (ngốc: dại) 存 (tồn) 𠂇 () 丨 (cổn) 子 (tử) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "保 Bảo  ▶ protect, guarantee, keep, preserve, sustain, support",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  呆 Ngốc  ▶ be amazed, disgusted, shocked",
+                        "    口 Khẩu  ▶ mouth",
+                        "    木 Mộc  ▶ tree, wood",
+                        "存 Tồn  ▶ exist, suppose, be aware of, believe, feel",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+                    ]
+                }
             },
             {
                 "hiragana": "のこりもの",
                 "kanji": "残り物",
                 "vietnamese": "đồ còn lại",
-                "info": "残 (tàn) 㦮 () 歹 (ngạt) 物 (vật) 勿 (vật) 牜 () "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "残 Tàn  ▶ remainder, leftover, balance",
+                        "  歹 Ngạt, Đãi  ▶ bare bone, bad, wrong, death radical (n. 78)",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    夕 Tịch  ▶ evening",
+                        "  戋 (戔)",
+                        "    三 Tam, Tám  ▶ three",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        三 Tam, Tám  ▶ three",
+                        "          一 Nhất  ▶ one, one radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "あたためる",
                 "kanji": "温める/暖める",
                 "vietnamese": "hâm nóng đồ ăn",
-                "info": "温 (ôn, uẩn) 氵 (thủy) 皿 (mãnh) 日 (nhật) 暖 (noãn) 爰 (viên) 日 (nhật) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "温 Ôn, Uẩn, Ồn, Ổn, Un  ▶ warm",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  昷 Ôn  ▶ to feed a prisoner",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    皿 Mãnh  ▶ dish, a helping, plate",
+                        "暖 Noãn  ▶ warmth",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  爰 Viên  ▶ lead on to, therefore, then",
+                        "    ⺤ (爪)",
+                        "      友 Hữu  ▶ friend",
+                        "        又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "ひやす/ひえる",
                 "kanji": "冷やす/冷える",
                 "vietnamese": "làm lạnh/lạnh",
-                "info": "冷 (lãnh) 令 (lệnh) 冫 (băng) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "冷 Lãnh  ▶ cool, cold (beer, person), chill",
+                        "  冫 (氷) Băng  ▶ two-stroke water radical or ice radical",
+                        "  令 Lệnh, Linh  ▶ orders, laws, command, decree, good",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      マ"
+                    ]
+                }
             },
             {
                 "hiragana": "しく (じゅうたんを)",
                 "kanji": "敷く (じゅうたんを)",
                 "vietnamese": "trải (thảm)",
-                "info": "敷 (phu: bày, mở) 甫 (phủ) 方 (phương)  攵 (phộc) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "敷 Phu  ▶ spread, pave, sit, promulgate",
+                        "  旉 Chu, Phu  ▶ to state to, to announce",
+                        "    甫 Phủ  ▶ for the first time, not until",
+                        "      用 Dụng  ▶ utilize, business, service, use, employ",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "    方 Phương  ▶ direction, person, alternative",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "だんぼう/れいぼう",
                 "kanji": "暖房/冷房",
                 "vietnamese": "phòng nóng, phòng lạnh",
-                "info": "暖 (noãn) 爰 (viên) 日 (nhật) 房 (phòng, bàng) 戸 (hộ) 方 (phương) 冷 (lãnh) 令 (lệnh) 冫 (băng) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "房 Phòng, Bàng  ▶ tassel, tuft, fringe, bunch, lock (hair), segment (orange), house, room",
+                        "  戸 Hộ, Họ  ▶ door, counter for houses, door radical",
+                        "  方 Phương  ▶ direction, person, alternative",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "冷 Lãnh  ▶ cool, cold (beer, person), chill",
+                        "  冫 (氷) Băng  ▶ two-stroke water radical or ice radical",
+                        "  令 Lệnh, Linh  ▶ orders, laws, command, decree, good",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      マ",
+                        "暖 Noãn  ▶ warmth",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  爰 Viên  ▶ lead on to, therefore, then",
+                        "    ⺤ (爪)",
+                        "      友 Hữu  ▶ friend",
+                        "        又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "きく (れいぼうが)",
                 "kanji": "効く (冷房が)",
                 "vietnamese": "đang hoạt động (máy lạnh )",
-                "info": "効 (hiệu: công hiệu) 力 (lực) 交 (giao) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "効 Hiệu  ▶ merit, efficacy, efficiency, benefit",
+                        "  交 Giao  ▶ mingle, mixing, association, coming & going",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    父 Phụ, Phủ  ▶ father",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "房 Phòng, Bàng  ▶ tassel, tuft, fringe, bunch, lock (hair), segment (orange), house, room",
+                        "  戸 Hộ, Họ  ▶ door, counter for houses, door radical",
+                        "  方 Phương  ▶ direction, person, alternative",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "冷 Lãnh  ▶ cool, cold (beer, person), chill",
+                        "  冫 (氷) Băng  ▶ two-stroke water radical or ice radical",
+                        "  令 Lệnh, Linh  ▶ orders, laws, command, decree, good",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      マ"
+                    ]
+                }
             },
             {
                 "hiragana": "ひあたり",
                 "kanji": "日当たり",
                 "vietnamese": "nơi có ánh nắng chiếu vào",
-                "info": "n, 日 (nhật, nhựt) 当 (đương, đang, đáng) ⺌ () ヨ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "当 Đang, Đáng, Đương  ▶ hit, right, appropriate, himself",
+                        "  ⺌ (小)",
+                        "  ⺕ (彑)"
+                    ]
+                }
             }
         ]
     },
@@ -161,133 +521,385 @@ data_vocabulary = [
                 "hiragana": "にくじゃが",
                 "kanji": "肉じゃが",
                 "vietnamese": "món thịt hầm khoai tây",
-                "info": "n, 肉 (nhục, nhụ, nậu) 内 (nội) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "肉 Nhục, Nhụ, Nậu  ▶ meat"
+                    ]
+                }
             },
             {
                 "hiragana": "ざいりょう",
                 "kanji": "材料",
                 "vietnamese": "nguyên liệu",
-                "info": "n, 材 (tài) 才 (tài) 木 (mộc) 料 (liêu, liệu) 米 (mễ) 斗 (đấu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "料 Liêu, Liệu  ▶ fee, materials",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "材 Tài  ▶ lumber, log, timber, wood, materials, ingredients, talent",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  才 Tài  ▶ genius, years old, cubic shaku",
+                        "    扌 (手) Thủ  ▶ hand, hand radical",
+                        "      亅 Quyết  ▶ feathered stick, barb radical"
+                    ]
+                }
             },
             {
                 "hiragana": "じゃがいも",
                 "kanji": "じゃがいも",
                 "vietnamese": "khoai tây",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ちょうみりょう",
                 "kanji": "調味料",
                 "vietnamese": "gia vị",
-                "info": "n, 調 (điều, điệu) 周 (chu) 言 (ngôn) 味 (vị) 未 (vị) 口 (khẩu)  料 (liêu, liệu) 米 (mễ) 斗 (đấu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "味 Vị  ▶ flavor, taste",
+                        "  口 Khẩu  ▶ mouth",
+                        "  未 Vị, Mùi  ▶ un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+                        "    木 Mộc  ▶ tree, wood",
+                        "料 Liêu, Liệu  ▶ fee, materials",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "調 Điều, Điệu  ▶ tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  周 Chu  ▶ circumference, circuit, lap",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    吉 Cát  ▶ good luck, joy, congratulations",
+                        "      士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "      口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "さとう",
                 "kanji": "砂糖",
                 "vietnamese": "đường (ăn)",
-                "info": "n, 砂 (sa: cát) 少 (thiểu) 石 (thạch) 糖 (đường: ăn) 米 (mễ) 唐 (đường) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "糖 Đường  ▶ sugar",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  唐 Đường  ▶ T'ang, China, foreign",
+                        "    广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "      厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      ⺕ (彑)",
+                        "      口 Khẩu  ▶ mouth",
+                        "砂 Sa  ▶ sand",
+                        "  石 Thạch  ▶ stone",
+                        "    口 Khẩu  ▶ mouth",
+                        "  少 Thiểu, Thiếu  ▶ few, little",
+                        "    小 Tiểu  ▶ little, small",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しお",
                 "kanji": "塩",
                 "vietnamese": "muối",
-                "info": "n, 塩 (diêm) 土 (thổ) 皿 (mãnh) 口 (khẩu) 𠂉 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "塩 Diêm  ▶ salt",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    𠂉",
+                        "    口 Khẩu  ▶ mouth",
+                        "    皿 Mãnh  ▶ dish, a helping, plate"
+                    ]
+                }
             },
             {
                 "hiragana": "す",
                 "kanji": "酢",
                 "vietnamese": "giấm",
-                "info": "n, 酢 (tạc: thù) 乍 (sạ) 酉 (dậu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "酢 Tạc  ▶ vinegar, sour, acid, tart",
+                        "  酉 Dậu  ▶ west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "  乍 Sạ  ▶ though, notwithstanding, while, during, both, all",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "おおさじ",
                 "kanji": "大さじ",
                 "vietnamese": "muỗng canh",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "～ばい",
                 "kanji": "～杯",
-                "vietnamese": "~ cốc; chén",
-                "info": "suf, 杯 (bôi) 不 (bất) 木 (mộc) "
+                "vietnamese": "~ cốc, chén",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "杯 Bôi  ▶ counter for cupfuls, wine glass, glass, toast",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  不 Bất, Phầu, Phủ, Phi  ▶ negative, non-, bad, ugly, clumsy",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "サラダゆ/てんぷらあぶら",
                 "kanji": "サラダ油/天ぷら油",
                 "vietnamese": "dầu xà lách/tempura",
-                "info": "n, 油 (du) 氵 (thủy) 由 (do) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "油 Du  ▶ oil, fat",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  由 Do  ▶ wherefore, a reason",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "天 Thiên  ▶ heavens, sky, imperial",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "(～センチ) はば",
                 "kanji": "(～センチ) 幅",
                 "vietnamese": "chiều rộng ~ cm",
-                "info": "suf, 幅 (phúc, bức) 巾 (cân) 畐 () "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "幅 Phúc, Bức  ▶ hanging scroll, width",
+                        "  巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "  畐 Phúc  ▶ to fill, roll of cloth",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    田 Điền  ▶ rice field, rice paddy"
+                    ]
+                }
             },
             {
                 "hiragana": "ゆうしょく",
                 "kanji": "夕食",
-                "vietnamese": "cơm chiều; cơm tối",
-                "info": "n, 夕 (tịch) タ () 食 (thực, tự) 良 (lương) 𠆢 () "
+                "vietnamese": "cơm chiều, cơm tối",
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "夕 Tịch  ▶ evening",
+                        "食 Thực, Tự  ▶ eat, food"
+                    ]
+                }
             },
             {
                 "hiragana": "おかず",
                 "kanji": "おかず",
                 "vietnamese": "thức ăn",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": []
+                }
             },
             {
                 "hiragana": "こさじ",
                 "kanji": "小さじ",
                 "vietnamese": "muỗng trà",
-                "info": "n, 小 (tiểu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "小 Tiểu  ▶ little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "むきます",
                 "kanji": "剥く",
-                "vietnamese": "bóc; gọt",
-                "info": "v, 剥 (bác) 录 (lục) 刂 (đao) 緑 (lục: xanh) 録 (lục: đăng ký)"
+                "vietnamese": "bóc, gọt",
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "剥 Bác, Phốc, Bóc  ▶ come off, peel, fade, discolor",
+                        "    ⺕ (彑)",
+                        "    氺 (水) Thủy  ▶ water radical variant",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ほうちょう",
                 "kanji": "包丁",
                 "vietnamese": "dao thái thịt",
-                "info": "n, 包 (bao) 勹 (bao) 己 (kỉ) 丁 (đinh, chênh, tranh) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "包 Bao  ▶ wrap, pack up, cover, conceal",
+                        "  勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  己 Kỷ  ▶ self"
+                    ]
+                }
             },
             {
                 "hiragana": "まないた",
                 "kanji": "まな板",
                 "vietnamese": "cái thớt",
-                "info": "n, 板 (bản: ván mỏng) 反 (phản) 木 (mộc) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "板 Bản  ▶ plank, board, plate, stage",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  反 Phản, Phiên  ▶ anti-",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "はかり/たいじゅうけい",
                 "kanji": "秤/体重計",
                 "vietnamese": "cái cân/cân cơ thể",
-                "info": "n, 秤 (xứng: cân) 平 (bình) 禾 (hòa) 体 (thể) 本 (bổn) 亻 (nhân) 重 (trọng, trùng) 計 (kế, kê) 十 (thập) 言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "重 Trọng, Trùng  ▶ heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold",
+                        "  千 Thiên  ▶ thousand",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten",
+                        "  里 Lý  ▶ ri, village, parent's home, league",
+                        "    千 Thiên  ▶ thousand",
+                        "      十 Thập  ▶ ten",
+                        "計 Kế, Kê  ▶ plot, plan, scheme, measure",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  十 Thập  ▶ ten",
+                        "秤 Xứng  ▶ balances, scales, steelyard",
+                        "  禾 Hòa  ▶ two-branch tree radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  平 Bình, Biền  ▶ even, flat, peace",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "      十 Thập  ▶ ten",
+                        "体 Thể  ▶ body, substance, object, reality, counter for images",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  本 Bổn, Bản  ▶ book, present, main, origin, true, real, counter for long cylindrical things",
+                        "    木 Mộc  ▶ tree, wood"
+                    ]
+                }
             },
             {
                 "hiragana": "えいよう",
                 "kanji": "栄養",
                 "vietnamese": "dinh dưỡng",
-                "info": "n, 栄 (vinh: quan) 木 (mộc) 龸 ()  養 (dưỡng) 食 (thực) 𦍌 () 羊 (dê)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "養 Dưỡng, Dượng  ▶ foster, bring up, rear, develop, nurture",
+                        "  羊 Dương  ▶ sheep",
+                        "    䒑   ▶ grass, straw, herbs, weeds",
+                        "  食 Thực, Tự  ▶ eat, food",
+                        "栄 Vinh  ▶ flourish, prosperity, honor, glory, splendor",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  木 Mộc  ▶ tree, wood"
+                    ]
+                }
             },
             {
                 "hiragana": "かわ",
                 "kanji": "皮",
                 "vietnamese": "vỏ",
-                "info": "n, 皮 (bì) 丨 (cổn) 厂 (hán) 又 (hựu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "皮 Bì  ▶ pelt, skin, hide, leather, skin radical"
+                    ]
+                }
             },
             {
                 "hiragana": "(ざいりょうを)きざみます",
                 "kanji": "(材料を)刻む",
                 "vietnamese": "thái (rau, quả)",
-                "info": "v, 刻 (khắc) 亥 (hợi) 刂 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "料 Liêu, Liệu  ▶ fee, materials",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "刻 Khắc  ▶ engrave, cut fine, chop, hash, mince, time, carving",
+                        "  亥 Hợi  ▶ sign of the hog, 9-11PM, twelfth sign of the Chinese zodiac",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    人 Nhân  ▶ person",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "材 Tài  ▶ lumber, log, timber, wood, materials, ingredients, talent",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  才 Tài  ▶ genius, years old, cubic shaku",
+                        "    扌 (手) Thủ  ▶ hand, hand radical",
+                        "      亅 Quyết  ▶ feathered stick, barb radical"
+                    ]
+                }
             },
             {
                 "hiragana": "みそしる",
                 "kanji": "みそ汁",
                 "vietnamese": "súp miso (Nhật)",
-                "info": "n, 汁 (trấp: nước) 十 (thập) 氵 (thủy) 汗 (hãn: mồ hôi)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "汁 Trấp, Hiệp  ▶ soup, juice, broth, sap, gravy, pus",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  十 Thập  ▶ ten"
+                    ]
+                }
             }
         ]
     },
@@ -298,151 +910,477 @@ data_vocabulary = [
                 "hiragana": "ふた",
                 "kanji": "蓋",
                 "vietnamese": "cái nắp nồi",
-                "info": "n, 蓋 (cái: vung) 艹 (thảo) 去 (khứ) 皿 (mãnh) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "蓋 Cái  ▶ cover, lid, flap",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  盍 Hạp  ▶ come together, congregate, meet, cover",
+                        "    去 Khứ, Khu  ▶ gone, past, quit, leave, elapse, eliminate, divorce",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    皿 Mãnh  ▶ dish, a helping, plate"
+                    ]
+                }
             },
             {
                 "hiragana": "なべ",
                 "kanji": "鍋",
                 "vietnamese": "cái nồi",
-                "info": "n, 鍋 (oa) 金 (kim) 咼 (qua) 過 (quá, qua)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "鍋 Oa  ▶ pot, pan, kettle",
+                        "  金 Kim  ▶ gold",
+                        "  咼 Oa, Oai, Qua, Quai, Òa, Ua, Ùa, Ủa, Ụa  ▶ crooked mouth, evil, dishonest",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "すいはんき",
                 "kanji": "炊飯器",
                 "vietnamese": "nồi cơm điện",
-                "info": "n, 炊 (xuy: thổi nấu) 欠 (khiếm) 火 (hỏa) 飯 (phạn: cơm) 反 (phản) 飠 (thực) 器 (khí) 口 (khẩu) 大 (đại) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "炊 Xuy, Xúy  ▶ cook, boil",
+                        "  火 Hỏa  ▶ fire",
+                        "  欠 Khiếm  ▶ lack, gap, fail, yawning radical",
+                        "器 Khí  ▶ utensil, vessel, receptacle, implement, instrument, ability, container, tool, set",
+                        "    口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "    口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "飯 Phạn, Phãn  ▶ meal, boiled rice",
+                        "  飠 (食)   ▶ eat, food, radical number 184",
+                        "  反 Phản, Phiên  ▶ anti-",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "おたま",
                 "kanji": "お玉",
                 "vietnamese": "cái gáo",
-                "info": "n, 玉 (ngọc) 王 (vương) 丶 (chủ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "玉 Ngọc, Túc  ▶ jewel, ball",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "  丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しゃもじ",
                 "kanji": "しゃもじ",
                 "vietnamese": "cái giá múc cơm",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": []
+                }
             },
             {
                 "hiragana": "フライがえし",
                 "kanji": "フライ返し",
                 "vietnamese": "dụng cụ đảo thức ăn khi rán",
-                "info": "n, 返 (phản: trả lại) 反 (phản) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "返 Phản  ▶ return, answer, fade, repay",
+                        "  反 Phản, Phiên  ▶ anti-",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "（おゆを）わかします/（おゆが）わきます",
                 "kanji": "（お湯を）沸かす/(お湯が）沸く",
                 "vietnamese": "đun nước sôi/sôi",
-                "info": "tha, tự, 湯 (thang) 昜 (dương) 氵 (thủy) 沸 (phí, phất) 弗 (phất) 氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "湯 Thang, Sương, Thãng  ▶ hot water, bath, hot spring",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  昜 Dương  ▶ open, sun",
+                        "    旦 Đán  ▶ daybreak, dawn, morning",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    勿 Vật  ▶ not, must not, do not, be not",
+                        "      勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "沸 Phí, Phất  ▶ seethe, boil, ferment, uproar, breed",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  弗 Phất  ▶ dollar",
+                        "    弓 Cung  ▶ bow, bow (archery, violin)",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "（おゆを）さます/（おゆが）さめります",
                 "kanji": "（お湯を）冷ます/（お湯が）冷める",
                 "vietnamese": "làm nguội nước/nước nguội",
-                "info": "tha, tự, 冷 (lãnh) 令 (lệnh) 冫 (băng) 湯 (thang) 昜 (dương) 氵 (thủy)"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "冷 Lãnh  ▶ cool, cold (beer, person), chill",
+                        "  冫 (氷) Băng  ▶ two-stroke water radical or ice radical",
+                        "  令 Lệnh, Linh  ▶ orders, laws, command, decree, good",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      マ",
+                        "湯 Thang, Sương, Thãng  ▶ hot water, bath, hot spring",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  昜 Dương  ▶ open, sun",
+                        "    旦 Đán  ▶ daybreak, dawn, morning",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    勿 Vật  ▶ not, must not, do not, be not",
+                        "      勹 Bao  ▶ wrapping enclosure, wrapping radical"
+                    ]
+                }
             },
             {
                 "hiragana": "みずをきります",
                 "kanji": "水を切る",
                 "vietnamese": "làm ráo nước",
-                "info": "水 (thủy) 切 (thiết, thế) 七 (thất) 刀 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "水 Thủy  ▶ water",
+                        "切 Thiết, Thế  ▶ cut, cutoff, be sharp",
+                        "  七 Thất  ▶ seven",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  刀 Đao  ▶ sword, saber, knife"
+                    ]
+                }
             },
             {
                 "hiragana": "(なべを)ひにかけます",
                 "kanji": "(なべを)火に掛ける",
                 "vietnamese": "làm nóng chảo",
-                "info": "掛 (quải) 扌 (thủ) 卜 (bặc) 圭 (khuê) 火 (hỏa) 丷 () 人 (nhân) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "火 Hỏa  ▶ fire",
+                        "掛 Quải  ▶ hang, suspend, depend, arrive at, tax, pour",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  卦 Quái  ▶ a divination sign",
+                        "    圭 Khuê  ▶ square jewel, corner, angle, edge",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "あぶらをねっします",
                 "kanji": "油を熱する",
                 "vietnamese": "làm nóng dầu",
-                "info": "油 (du: dầu) 氵 (thủy) 由 (do) 熱 (nhiệt) 灬 (hỏa) 埶 (nghệ) 丸 (hoàn) 坴 ()  "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "油 Du  ▶ oil, fat",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  由 Do  ▶ wherefore, a reason",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "熱 Nhiệt  ▶ heat, temperature, fever, mania, passion",
+                        "  埶 Nghệ, Thế, Đệm  ▶ art",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "      儿 (八) Nhân  ▶ legs radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    丸 Hoàn  ▶ round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away",
+                        "      九 Cửu, Cưu  ▶ nine",
+                        "        乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical"
+                    ]
+                }
             },
             {
                 "hiragana": "(ごはんを)たきます",
                 "kanji": "(ご飯を)炊く",
                 "vietnamese": "nấu cơm",
-                "info": "炊 (xuy: thổi nấu) 欠 (khiếm) 火 (hỏa) 飯 (phạn, phãn) 反 (phản) 飠 (thực) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "飯 Phạn, Phãn  ▶ meal, boiled rice",
+                        "  飠 (食)   ▶ eat, food, radical number 184",
+                        "  反 Phản, Phiên  ▶ anti-",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "炊 Xuy, Xúy  ▶ cook, boil",
+                        "  火 Hỏa  ▶ fire",
+                        "  欠 Khiếm  ▶ lack, gap, fail, yawning radical"
+                    ]
+                }
             },
             {
                 "hiragana": "(あぶらで)あげます",
                 "kanji": "(油で)揚げる",
                 "vietnamese": "rán (bằng dầu)",
-                "info": "揚 (dương: giơ lên) 昜 (dương) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "揚 Dương  ▶ raise, elevate, hoist, praise, extol, fry in deep fat",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  昜 Dương  ▶ open, sun",
+                        "    旦 Đán  ▶ daybreak, dawn, morning",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    勿 Vật  ▶ not, must not, do not, be not",
+                        "      勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "油 Du  ▶ oil, fat",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  由 Do  ▶ wherefore, a reason",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "にます",
                 "kanji": "煮る",
                 "vietnamese": "nấu",
-                "info": "tha, 煮 (chử: nấu) 者 (giả: hành) 灬 (hỏa) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "煮 Chử  ▶ boil, cook",
+                        "  者 Giả  ▶ someone, person",
+                        "    耂 (老)   ▶ variant of radical 125",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ゆでます",
                 "kanji": "茹でる",
                 "vietnamese": "luộc",
-                "info": "tha, 茹 (như: luộc) 如 (như) 艹 (thảo) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "茹 Như, Nhự  ▶ boil, seethe",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  如 Như  ▶ likeness, like, such as, as if, better, best, equal",
+                        "    女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "いためます",
                 "kanji": "炒める",
                 "vietnamese": "xào",
-                "info": "tha, 炒 (sao: rang, xào) 少 (thiểu) 火 (hỏa) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "炒 Sao  ▶ broil, parch, roast, fry",
+                        "  火 Hỏa  ▶ fire",
+                        "  少 Thiểu, Thiếu  ▶ few, little",
+                        "    小 Tiểu  ▶ little, small",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "むします",
                 "kanji": "蒸す",
                 "vietnamese": "hấp",
-                "info": "tha, 蒸 (chưng: cất) 艹 (thảo) 丞 (thừa: tướng, giúp đỡ) 一 (nhất) 氶 ()  灬 (hỏa) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "蒸 Chưng  ▶ steam, heat, sultry, foment, get musty",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  烝 Chưng, Chứng  ▶ many, offer, dedicate, to steam",
+                        "      丞 Thừa, Chưng  ▶ help",
+                        "        了 Liễu  ▶ complete, finish",
+                        "          亅 Quyết  ▶ feathered stick, barb radical",
+                        "        水 Thủy  ▶ water",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical"
+                    ]
+                }
             },
             {
                 "hiragana": "まぜます",
                 "kanji": "混ぜる",
                 "vietnamese": "trộn",
-                "info": "tha, 混 (hỗn: tạp) 昆 (côn: trùng) 氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "混 Hỗn, Cổn  ▶ mix, blend, confuse",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  昆 Côn  ▶ descendants, elder brother, insect",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    比 Bỉ, Bí, Bì, Tỉ  ▶ compare, race, ratio, Philippines",
+                        "      匕 Chủy  ▶ spoon, spoon or katakana hi radical"
+                    ]
+                }
             },
             {
                 "hiragana": "こげます",
                 "kanji": "焦げる",
                 "vietnamese": "bị cháy, khê",
-                "info": "tự, 焦 (tiêu: cháy) 隹 (chuy) 灬 (hỏa) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "焦 Tiêu, Tiều  ▶ char, hurry, impatient, irritate, burn, scorch, singe",
+                        "  隹 Chuy  ▶ bird, old bird radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ひっくりかえします",
                 "kanji": "ひっくり返す",
-                "vietnamese": "đảo lộn; lật ngược hoàn toàn (vật trạng thái)",
-                "info": "tha, 返 (phản) 反 (phản) ⻌ () "
+                "vietnamese": "đảo lộn, lật ngược hoàn toàn (vật trạng thái)",
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "返 Phản  ▶ return, answer, fade, repay",
+                        "  反 Phản, Phiên  ▶ anti-",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "うらがえします",
                 "kanji": "裏返す",
                 "vietnamese": "lật để thấy mặt kia (vật)",
-                "info": "tha, 裏 (lí) 𧘇 () 里 (lí) 亠 (đầu) 返 (phản) 反 (phản) ⻌ ()"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "裏 Lý  ▶ back, amidst, in, reverse, inside, palm, sole, rear, lining, wrong side",
+                        "  衣 Y, Ý  ▶ garment, clothes, dressing",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    里 Lý  ▶ ri, village, parent's home, league",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    衣 Y, Ý  ▶ garment, clothes, dressing",
+                        "返 Phản  ▶ return, answer, fade, repay",
+                        "  反 Phản, Phiên  ▶ anti-",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "あじをつけます",
                 "kanji": "味をつける",
                 "vietnamese": "cho gia vị",
-                "info": "味 (vị) 未 (vị) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "味 Vị  ▶ flavor, taste",
+                        "  口 Khẩu  ▶ mouth",
+                        "  未 Vị, Mùi  ▶ un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+                        "    木 Mộc  ▶ tree, wood"
+                    ]
+                }
             },
             {
                 "hiragana": "しおをくわえます",
                 "kanji": "塩を加える",
                 "vietnamese": "thêm muối",
-                "info": "塩 (diêm) 土 (thổ) 皿 (mãnh) 口 (khẩu) 𠂉 () 加 (gia: thêm) 力 (lực) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "塩 Diêm  ▶ salt",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    𠂉",
+                        "    口 Khẩu  ▶ mouth",
+                        "    皿 Mãnh  ▶ dish, a helping, plate",
+                        "加 Gia  ▶ add, addition, increase, join, include, Canada",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "こしょうをふります",
                 "kanji": "胡椒を振る",
                 "vietnamese": "rắc tiêu",
-                "info": "胡 (hồ) 古 (cổ) 月 (nguyệt) 椒 (tiêu: hạt) 叔 (thúc: chú) 又 (hựu) 尗 (thục) chú 木 (mộc) 振 (chấn: chỉnh) 辰 (thần: thìn) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "胡 Hồ  ▶ barbarian, foreign",
+                        "  古 Cổ  ▶ old",
+                        "    十 Thập  ▶ ten",
+                        "    口 Khẩu  ▶ mouth",
+                        "  月 (肉) Nguyệt  ▶ month, moon",
+                        "振 Chấn, Chân  ▶ shake, wave, wag, swing",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  辰 Thần, Thìn  ▶ sign of the dragon, 7-9AM, fifth sign of Chinese zodiac, shin dragon radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "椒 Tiêu  ▶ Japanese pepper tree",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  叔 Thúc  ▶ uncle, youth",
+                        "    尗 Thúc, Trần, Thảm  ▶ younger of brothers, father's younger brother, younger brother of a husband",
+                        "      上 Thượng, Thướng  ▶ above, up",
+                        "        卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "        一 Nhất  ▶ one, one radical",
+                        "      小 Tiểu  ▶ little, small",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "あじみをします",
                 "kanji": "味見をする",
                 "vietnamese": "nếm thử",
-                "info": "味 (vị) 未 (vị) 口 (khẩu) 見 (kiến, hiện) 目 (mục) 儿 (nhân) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "味 Vị  ▶ flavor, taste",
+                        "  口 Khẩu  ▶ mouth",
+                        "  未 Vị, Mùi  ▶ un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+                        "    木 Mộc  ▶ tree, wood",
+                        "見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  儿 Nhân  ▶ legs radical"
+                    ]
+                }
             }
         ]
     },
@@ -453,121 +1391,416 @@ data_vocabulary = [
                 "hiragana": "ほこり",
                 "kanji": "埃",
                 "vietnamese": "bụi, dust",
-                "info": "n, 埃 (ai: trần) 厶 (khư) 矢 (thỉ)  土 (thổ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "埃 Ai  ▶ dust",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  矣 Hĩ  ▶ sentence particle",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    矢 Thỉ  ▶ dart, arrow",
+                        "      天 Thiên  ▶ heavens, sky, imperial",
+                        "        大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "ほうき",
                 "kanji": "箒",
                 "vietnamese": "cái chổi, broom",
-                "info": "n, 箒 (trửu, chửu) ⺮ () 帚 (trửu) 掃 (tảo: quét dọn)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "箒 Trửu  ▶ broom",
+                        "  竹 Trúc  ▶ bamboo",
+                        "  帚 Trửu  ▶ broom",
+                        "    ⺕ (彑)",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      巾 Cân  ▶ towel, hanging scroll, width, cloth radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ちりとり",
                 "kanji": "ちり取り",
                 "vietnamese": "đồ hốt rác, dustpan",
-                "info": "n, 取 (thủ) 耳 (nhĩ) 又 (hựu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "ぞうきん",
                 "kanji": "ぞうきん",
                 "vietnamese": "khăn lau, dust cloth, rag",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": []
+                }
             },
             {
                 "hiragana": "どけます/どきます（ソファーを/が）",
                 "kanji": "退ける/退く（ソファーを/が）",
                 "vietnamese": "đẩy ra/tránh ra (ghế salông)",
-                "info": "tha/tự, 退 (thối, thoái) 艮 (cấn: quẻ) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "退 Thối, Thoái  ▶ retreat, withdraw, retire, resign, repel, expel, reject",
+                        "  艮 Cấn  ▶ northeast (Oriental zodiac), stopping, good radical",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "ちらかします/ちらかります（へやを/が）",
                 "kanji": "散らかす/散らかる（部屋を/が）",
                 "vietnamese": "bày bừa/đồ đạc bừa bãi trong phòng",
-                "info": "tha/tự, 散 (tán: tan) 攵 (phộc) 月 (nguyệt) 龷 () "
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "散 Tán, Tản  ▶ scatter, disperse, spend, squander",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "部 Bộ  ▶ section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+                        "  咅 Phẫu, Phôi, Phủ, Thấu  ▶ to spit out",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻏ (邑)",
+                        "屋 Ốc  ▶ roof, house, shop, dealer, seller",
+                        "  尸 Thi  ▶ corpse, remains, flag radical",
+                        "  至 Chí  ▶ climax, arrive, proceed, reach, attain, result in",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey"
+                    ]
+                }
             },
             {
                 "hiragana": "こぼす (ジュースを/が)",
                 "kanji": "零す/零れる (ジュースを/が)",
                 "vietnamese": "làm đổ (tràn) nước trái cây",
-                "info": "tha/tự, 零 (linh: rơi) 令 (lệnh) ⻗ () "
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "零 Linh  ▶ zero, spill, overflow, nothing, cipher",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "  令 Lệnh, Linh  ▶ orders, laws, command, decree, good",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      マ"
+                    ]
+                }
             },
             {
                 "hiragana": "ためます/たまります（ほこりを/が）",
                 "kanji": "溜める/溜まる（埃を/が）",
                 "vietnamese": "tích tụ/đọng (bụi, đồ giặt)",
-                "info": "tha/tự, 溜 (lựu: thu góp) 留 (lưu: lại) 卯 (mão) 田 (điền)  氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "溜 Lựu, Lưu, Rượu  ▶ collect, gather, be in arrears",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  留 Lưu  ▶ detain, fasten, halt, stop",
+                        "    卯 Mão  ▶ sign of the hare or rabbit, fourth sign of Chinese zodiac, 5-7AM, east",
+                        "      卩 (刀) Tiết  ▶ seal radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "埃 Ai  ▶ dust",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  矣 Hĩ  ▶ sentence particle",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    矢 Thỉ  ▶ dart, arrow",
+                        "      天 Thiên  ▶ heavens, sky, imperial",
+                        "        大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "つみます/つもります（ほこりを/が）",
-                  "kanji": "積む/積もる（埃を/が）",
+                "kanji": "積む/積もる（埃を/が）",
                 "vietnamese": "chất lên, chồng chất/(bụi) phủ dày, đóng đầy bụi",
-                "info": "tha/tự, 積 (tích: góp) 禾 (hòa) 責 (trách: nhiệm) "
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "積 Tích, Tí  ▶ volume, product (x*y), acreage, contents, pile up, stack, load, amass",
+                        "  禾 Hòa  ▶ two-branch tree radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  責 Trách, Trái  ▶ blame, condemn, censure",
+                        "    龶",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "埃 Ai  ▶ dust",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  矣 Hĩ  ▶ sentence particle",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    矢 Thỉ  ▶ dart, arrow",
+                        "      天 Thiên  ▶ heavens, sky, imperial",
+                        "        大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "かけます（そうじきを）",
                 "kanji": "かける（掃除機を）",
                 "vietnamese": "dùng (máy hút bụi)",
-                "info": "tha, 掃 (tảo) 扌 (thủ) 帚 (trửu) 除 (trừ) 余 (dư: ta) ⻖ () 機 (ki, cơ) 幾 (ki) 木 (mộc) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "機 Ky, Cơ  ▶ loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  幾 Ki, Kỉ, Kí  ▶ how many, how much, how far, how long, some, several",
+                        "    幺 Yêu  ▶ short thread radical",
+                        "    幺 Yêu  ▶ short thread radical",
+                        "    戍 (戌) Thú  ▶ protection",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "          厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      人 Nhân  ▶ person",
+                        "        厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "        一 Nhất  ▶ one, one radical",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "          丶 Chủ  ▶ dot, tick or dot radical",
+                        "掃 Tảo  ▶ sweep, brush",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  帚 Trửu  ▶ broom",
+                        "    ⺕ (彑)",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "除 Trừ  ▶ exclude, division (x/3), remove, abolish, cancel, except",
+                        "  ⻖ (阜)",
+                        "  余 Dư  ▶ too much, myself, surplus, other, remainder",
+                        "    人 Nhân  ▶ person",
+                        "      小 Tiểu  ▶ little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "ふきます（ゆかを）",
                 "kanji": "拭く（床を）",
                 "vietnamese": "lau (sàn)",
-                "info": "tha, 拭 (thức: lau) 式 (thức) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "床 Sàng  ▶ bed, counter for beds, floor, padding, tatami",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  木 Mộc  ▶ tree, wood",
+                        "拭 Thức  ▶ wipe, mop, swab",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  式 Thức  ▶ style, ceremony, rite, function, method, system, form, expression",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "    工 Công  ▶ craft, construction, katakana e radical",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "      丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "はきます（ほうきで）",
                 "kanji": "掃く（ほうきで）",
                 "vietnamese": "quét (bằng chổi)",
-                "info": "tha, 掃 (tảo: quét) 扌 (thủ) 帚 (trửu: chổi) ⺕ () 冖 (mịch) 巾 (cân)  "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "掃 Tảo  ▶ sweep, brush",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  帚 Trửu  ▶ broom",
+                        "    ⺕ (彑)",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      巾 Cân  ▶ towel, hanging scroll, width, cloth radical"
+                    ]
+                }
             },
             {
                 "hiragana": "くみます（みずを）",
                 "kanji": "汲む（水を）",
                 "vietnamese": "múc (nước)",
-                "info": "tha, 汲 (cấp: múc) 氵 (thủy) 及 (cập: kịp) 吸(hấp)"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "水 Thủy  ▶ water",
+                        "汲 Cấp  ▶ draw (water), ladle, scoop, pump",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  及 Cập  ▶ reach out, exert, exercise, cause",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "ぬらします/ぬれます（ぞうきんを/が）",
                 "kanji": "濡らす/濡れる（雑巾を/が）",
                 "vietnamese": "làm ướt/bị ướt (giẻ lau)",
-                "info": "tha/tự, 濡 (nhu: ướt) 需 (nhu: đợi) 而 (nhi: mà) ⻗ ()  氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "雑 Tạp  ▶ miscellaneous",
+                        "    九 Cửu, Cưu  ▶ nine",
+                        "      乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  隹 Chuy  ▶ bird, old bird radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "濡 Nhu, Nhi  ▶ get wet, damp, make love",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  需 Nhu  ▶ demand, request, need",
+                        "    雨 Vũ, Vú  ▶ rain",
+                        "    而 Nhi  ▶ and yet, and then, but, however, nevertheless",
+                        "        冂 Quynh  ▶ upside-down box radical",
+                        "巾 Cân  ▶ towel, hanging scroll, width, cloth radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しぼります（ぞうきんを）",
                 "kanji": "絞る（雑巾を）",
                 "vietnamese": "vắt (giẻ lau)",
-                "info": "tha, 絞 (giảo: vắt) 交 (giao) 糸 (mịch) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "雑 Tạp  ▶ miscellaneous",
+                        "    九 Cửu, Cưu  ▶ nine",
+                        "      乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  隹 Chuy  ▶ bird, old bird radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "絞 Giảo, Hào  ▶ strangle, constrict, wring",
+                        "  糸 Mịch  ▶ thread",
+                        "  交 Giao  ▶ mingle, mixing, association, coming & going",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    父 Phụ, Phủ  ▶ father"
+                    ]
+                }
             },
             {
                 "hiragana": "みがきます（かぐを）",
                 "kanji": "磨く（家具を）",
                 "vietnamese": "đánh bóng (đồ nội thất)",
-                "info": "tha, 磨 (ma: sát) 麻 (ma) 石 (thạch) 魔 (ma quỷ)"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "磨 Ma, Má  ▶ grind, polish, scour, improve, brush (teeth)",
+                        "  麻 Ma  ▶ hemp, flax, numb",
+                        "    广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "      厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    林 Lâm  ▶ grove, forest",
+                        "      木 Mộc  ▶ tree, wood",
+                        "      木 Mộc  ▶ tree, wood",
+                        "  石 Thạch  ▶ stone",
+                        "    口 Khẩu  ▶ mouth",
+                        "具 Cụ  ▶ tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "家 Gia, Cô  ▶ house, home, family, professional, expert, performer",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  豕 Thỉ  ▶ pig, hog, pig radical"
+                    ]
+                }
             },
             {
                 "hiragana": "なまごみ",
                 "kanji": "生ゴミ",
                 "vietnamese": "rác nhà bếp",
-                "info": "生 (sanh, sinh) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "生 Sanh, Sinh  ▶ life, genuine, birth"
+                    ]
+                }
             },
             {
                 "hiragana": "もえる/もえない ごみ",
                 "kanji": "燃える/燃えない ゴミ",
                 "vietnamese": "rác cháy/không",
-                "info": "燃 (nhiên: đốt) 火 (hỏa) 然 (nhiên) 犬 (khuyển) ⺼ () 灬 (hỏa)  "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "燃 Nhiên  ▶ burn, blaze, glow",
+                        "  火 Hỏa  ▶ fire",
+                        "  然 Nhiên  ▶ sort of thing, so, if so, in that case, well",
+                        "      月 Nguyệt  ▶ month, moon",
+                        "      犬 Khuyển  ▶ dog",
+                        "        大 Đại, Thái  ▶ large, big",
+                        "        丶 Chủ  ▶ dot, tick or dot radical",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical"
+                    ]
+                }
             },
             {
                 "hiragana": "そろえます/そろいます（スリッパを/が）",
                 "kanji": "揃える/揃う（スリッパを/が）",
                 "vietnamese": "xếp gọn/được xếp gọn (dép đi trong nhà)",
-                "info": "tha/tự, 揃 (tiễn: hoàn tất) 前 (tiền) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "揃 Tiên, Tiễn  ▶ be complete, uniform, all present",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  前 Tiền  ▶ in front, before",
+                        "      月 Nguyệt  ▶ month, moon",
+                        "      刂 (刀) Đao  ▶ knife, standing sword radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しまいます（ものおきに）",
                 "kanji": "仕舞う（物置に）",
                 "vietnamese": "cất (đồ vào kho)",
-                "info": "tha, 仕 (sĩ) 亻 (nhân) 士 (sĩ) 舞 (vũ: múa) 無 (vô) 舛 (suyễn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "仕 Sĩ  ▶ attend, doing, official, serve",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "置 Trí  ▶ placement, put, set, deposit, leave behind, keep, employ, pawn",
+                        "  罒 (网) Võng  ▶ net radical variant",
+                        "  直 Trực  ▶ straightaway, honesty, frankness, fix, repair",
+                        "    十 Thập  ▶ ten",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "舞 Vũ  ▶ dance, flit, circle, wheel",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  舛 Suyễn  ▶ dancing radical",
+                        "    夕 Tịch  ▶ evening",
+                        "    㐄"
+                    ]
+                }
             }
         ]
     },
@@ -578,290 +1811,271 @@ data_vocabulary = [
                 "hiragana": "しめらせます/しめっています（せんたくものを/が）",
                 "kanji": "湿らせる/湿っている（洗濯物を/が）",
                 "vietnamese": "làm ẩm/ẩm ướt (đồ giặt)",
-                "info": "tha/tự, 湿 (thấp: ẩm) 显 (hiển) 氵 (thủy) 洗 (tẩy, tiển) 氵 (thủy) 先 (tiên) 濯 (trạc: giặc) 翟 (địch) 氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "洗 Tẩy, Tiển  ▶ wash, inquire into, probe",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  先 Tiên, Tiến  ▶ before, ahead, previous, future, precedence",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "湿 Chập, Sấp, Thấp  ▶ damp, wet, moist",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    业",
+                        "濯 Trạc  ▶ laundry, wash, pour on, rinse",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  翟 Địch, Trác, Trạch  ▶ surname, kind of pheasant",
+                        "    羽 Vũ  ▶ feathers, counter for birds, rabbits",
+                        "    隹 Chuy  ▶ bird, old bird radical",
+                        "      亻 (人)   ▶ radical number 9"
+                    ]
+                }
             },
             {
                 "hiragana": "かわかします/かわきます（せんたくもの を/が）",
                 "kanji": "乾かす/乾く（洗濯物が）",
                 "vietnamese": "làm khô (đồ giặt)/khô (đồ giặt)",
-                "info": "tha/tự, 乾 (kiền: khô) 乞 (khất: thực) 𠦝 () 洗 (tẩy, tiển) 氵 (thủy) 先 (tiên) 濯 (trạc: giặc) 翟 (địch) 氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "洗 Tẩy, Tiển  ▶ wash, inquire into, probe",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  先 Tiên, Tiến  ▶ before, ahead, previous, future, precedence",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "乾 Kiền, Can  ▶ drought, dry, desiccate, drink up, heaven, emperor",
+                        "  𠦝",
+                        "    十 Thập  ▶ ten",
+                        "    早 Tảo  ▶ early, fast",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      十 Thập  ▶ ten",
+                        "  乞 Khất, Khí  ▶ beg, invite, ask",
+                        "    乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "濯 Trạc  ▶ laundry, wash, pour on, rinse",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  翟 Địch, Trác, Trạch  ▶ surname, kind of pheasant",
+                        "    羽 Vũ  ▶ feathers, counter for birds, rabbits",
+                        "    隹 Chuy  ▶ bird, old bird radical",
+                        "      亻 (人)   ▶ radical number 9"
+                    ]
+                }
             },
             {
                 "hiragana": "ほします（せんたくものを）",
                 "kanji": "干す（洗濯物を）",
                 "vietnamese": "phơi (quần áo)",
-                "info": "tha, 干 (kiền, can, càn, cán: khô) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "  十 Thập  ▶ ten",
+                        "洗 Tẩy, Tiển  ▶ wash, inquire into, probe",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  先 Tiên, Tiến  ▶ before, ahead, previous, future, precedence",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "濯 Trạc  ▶ laundry, wash, pour on, rinse",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  翟 Địch, Trác, Trạch  ▶ surname, kind of pheasant",
+                        "    羽 Vũ  ▶ feathers, counter for birds, rabbits",
+                        "    隹 Chuy  ▶ bird, old bird radical",
+                        "      亻 (人)   ▶ radical number 9"
+                    ]
+                }
             },
             {
                 "hiragana": "たたみます（せんたくものを）",
                 "kanji": "畳む（洗濯物を）",
                 "vietnamese": "xếp (quần áo)",
-                "info": "tha, 畳 (điệp: chiếu) 且 (thả) 田 (điền) 冖 (mịch) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "畳 Điệp  ▶ tatami mat, counter for tatami mats, fold, shut up, do away with",
+                        "  田 Điền  ▶ rice field, rice paddy",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    且 Thả, Thư  ▶ moreover, also, furthermore",
+                        "      月 Nguyệt  ▶ month, moon",
+                        "      一 Nhất  ▶ one, one radical",
+                        "濯 Trạc  ▶ laundry, wash, pour on, rinse",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  翟 Địch, Trác, Trạch  ▶ surname, kind of pheasant",
+                        "    羽 Vũ  ▶ feathers, counter for birds, rabbits",
+                        "    隹 Chuy  ▶ bird, old bird radical",
+                        "      亻 (人)   ▶ radical number 9",
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "洗 Tẩy, Tiển  ▶ wash, inquire into, probe",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  先 Tiên, Tiến  ▶ before, ahead, previous, future, precedence",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "よごします/よごれます（ふく を/が）",
                 "kanji": "汚す/汚れる（服 を/が）",
                 "vietnamese": "làm dơ (đồ)/bị dơ (đồ)",
-                "info": "tha/tự, 汚 (ô) 丂 (khảo) 一 (nhất) 氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "服 Phục  ▶ clothing, admit, obey, discharge",
+                        "  月 (肉) Nguyệt  ▶ month, moon",
+                        "    卩 Tiết  ▶ seal radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "汚 Ô, Ố, Phiếm  ▶ dirty, pollute, disgrace, rape, defile",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "    二 Nhị  ▶ two, two radical"
+                    ]
+                }
             },
             {
                 "hiragana": "せんざい （だいどころよう/せんたくよう）",
                 "kanji": "洗剤 （台所用/洗濯用）",
                 "vietnamese": "(nhà bếp/giặt giũ) chất tẩy rửa",
-                "info": "洗 (tẩy, tiển) 氵 (thủy) 先 (tiên) 剤 (tễ: dịch) 斉 (tề: chỉnh) 刂 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "洗 Tẩy, Tiển  ▶ wash, inquire into, probe",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  先 Tiên, Tiến  ▶ before, ahead, previous, future, precedence",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "所 Sở  ▶ place, extent",
+                        "  戸 Hộ, Họ  ▶ door, counter for houses, door radical",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical",
+                        "濯 Trạc  ▶ laundry, wash, pour on, rinse",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  翟 Địch, Trác, Trạch  ▶ surname, kind of pheasant",
+                        "    羽 Vũ  ▶ feathers, counter for birds, rabbits",
+                        "    隹 Chuy  ▶ bird, old bird radical",
+                        "      亻 (人)   ▶ radical number 9",
+                        "用 Dụng  ▶ utilize, business, service, use, employ",
+                        "剤 Tề  ▶ dose, medicine, drug",
+                        "  斉 (齊) Tế, Tề, Tày, Tầy, Tè  ▶ adjusted, alike, equal, similar variety of",
+                        "    文 Văn, Vấn  ▶ sentence, literature, style, art, decoration, figures, plan, literary radical",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "      二 Nhị  ▶ two, two radical",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "台 Thai, Đài, Di  ▶ pedestal, a stand, counter for machines and vehicles",
+                        "  厶 Khư  ▶ I, myself, katakana mu radical",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "つるします（ふく を）",
                 "kanji": "吊るす（服 を）",
                 "vietnamese": "treo (đồ lên)/được treo (đồ)",
-                "info": "tha, 吊 (điếu) 口 (khẩu) 巾 (cân) 服 (phục) ⺼ () 𠬝 () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "服 Phục  ▶ clothing, admit, obey, discharge",
+                        "  月 (肉) Nguyệt  ▶ month, moon",
+                        "    卩 Tiết  ▶ seal radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "吊 Điếu  ▶ suspend, hang, wear (sword)",
+                        "  口 Khẩu  ▶ mouth",
+                        "  巾 Cân  ▶ towel, hanging scroll, width, cloth radical"
+                    ]
+                }
             },
             {
                 "hiragana": "かけます（ワイシャツにアイロンを）",
                 "kanji": "かける（ワイシャツにアイロンを）",
                 "vietnamese": "ủi (áo sơ mi)",
-                "info": "tha"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": []
+                }
             },
             {
                 "hiragana": "のばします/のびます（しわ を/が）",
                 "kanji": "伸ばす/伸びる（しわ を/が）",
                 "vietnamese": "làm thẳng (nếp gấp)/được làm thẳng (nếp gấp)",
-                "info": "tha/tự, 伸 (thân: duỗi) 亻 (nhân) 申 (thân: khỉ) "
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "伸 Thân  ▶ expand, stretch, extend, lengthen, increase",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  申 Thân  ▶ have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ちぢみます（ウールのセーターが）",
                 "kanji": "縮む（ウールのセーターが）",
                 "vietnamese": "co lại (áo len)",
-                "info": "tự, 縮 (súc: rụt) 宿 (túc: tá) 糸 (mịch) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "縮 Súc  ▶ shrink, contract, shrivel, wrinkle, reduce",
+                        "  糸 Mịch  ▶ thread",
+                        "  宿 Túc, Tú  ▶ inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    佰 Bách  ▶ hundred, leader of 100 men, east-west path between paddies",
+                        "      亻 (人)   ▶ radical number 9",
+                        "      百 Bách, Bá, Mạch  ▶ hundred",
+                        "        白 Bạch  ▶ white",
+                        "          日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "おちます（ジーンズのいろが）",
                 "kanji": "落ちる（ジーンズの色が）",
                 "vietnamese": "phai màu (quần jean)",
-                "info": "tự, 落 (lạc: rơi) 艹 (thảo) 洛 (lạc) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "色 Sắc  ▶ color",
+                        "  𠂊 (勹)",
+                        "  巴 Ba  ▶ comma-design",
+                        "    己 (巳) Kỷ  ▶ self",
+                        "落 Lạc  ▶ fall, drop, come down, village, hamlet",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  洛 Lạc  ▶ Kyoto, the capital",
+                        "    氵 (水) Thủy  ▶ water, water radical",
+                        "    各 Các  ▶ each, every, either",
+                        "      夂 Tri  ▶ late, delayed, winter radical",
+                        "      口 Khẩu  ▶ mouth"
+                    ]
+                }
             }
         ]
     },
     {
         "lesson": "sou w1 d6",
-        "vocabulary": [
-            // {
-            //     "hiragana": "かわいらしい（こども）",
-            //     "kanji": "かわいらしい（子ども）",
-            //     "vietnamese": "đáng yêu (đứa trẻ)",
-            //     "info": "adj"
-            // },
-            // {
-            //     "hiragana": "かわいそうな（こども）",
-            //     "kanji": "かわいそうな（子ども）",
-            //     "vietnamese": "tội nghiệp (đứa trẻ)",
-            //     "info": "adj"
-            // },
-            // {
-            //     "hiragana": "ぎょうぎがいい（こども）",
-            //     "kanji": "行儀がいい（子ども）",
-            //     "vietnamese": "lễ phép (đứa trẻ)",
-            //     "info": "adj"
-            // },
-            // {
-            //     "hiragana": "りこうな（こども）",
-            //     "kanji": "利口な（子供）",
-            //     "vietnamese": "lanh lợi (đứa trẻ)",
-            //     "info": "adj"
-            // },
-            // {
-            //     "hiragana": "かしこい（こども）",
-            //     "kanji": "かしこい（子ども）",
-            //     "vietnamese": "khôn ngoan (đứa trẻ)",
-            //     "info": "adj"
-            // },
-            // {
-            //     "hiragana": "ひとなつこい（こども）",
-            //     "kanji": "人なつこい（子ども）",
-            //     "vietnamese": "đứa trẻ hòa đồng",
-            //     "info": "adj"
-            // },
-            // {
-            //     "hiragana": "わがままな（こども）",
-            //     "kanji": "わがままな（子ども）",
-            //     "vietnamese": "ích kỷ (đứa trẻ)",
-            //     "info": "adj-na"
-            // },
-            // {
-            //     "hiragana": "なまいきな（こども）",
-            //     "kanji": "生意気な（子ども）",
-            //     "vietnamese": "xấc xược (đứa trẻ)",
-            //     "info": "adj-na"
-            // },
-            // {
-            //     "hiragana": "たいど",
-            //     "kanji": "態度",
-            //     "vietnamese": "thái độ",
-            //     "info": "n"
-            // },
-            // {
-            //     "hiragana": "こどもをあまやかします",
-            //     "kanji": "子どもを甘やかす",
-            //     "vietnamese": "nuông chiều con",
-            //     "info": "tha"
-            // },
-            // {
-            //     "hiragana": "こどもをかわいがります",
-            //     "kanji": "子どもをかわいがる",
-            //     "vietnamese": "yêu thương con",
-            //     "info": "tha"
-            // },
-            // {
-            //     "hiragana": "こどもをおんぶします",
-            //     "kanji": "子どもをおんぶする",
-            //     "vietnamese": "cõng con",
-            //     "info": "tha"
-            // },
-            // {
-            //     "hiragana": "こどもをだっこします/こどもをうでにだきます",
-            //     "kanji": "子どもをだっこする/子どもを腕に抱く",
-            //     "vietnamese": "bế con",
-            //     "info": "tha"
-            // },
-            // {
-            //     "hiragana": "いぬがほえます",
-            //     "kanji": "犬がほえる",
-            //     "vietnamese": "chó sủa",
-            //     "info": "tự"
-            // },
-            // {
-            //     "hiragana": "いぬがしっぽをふります",
-            //     "kanji": "犬がしっぽを振る",
-            //     "vietnamese": "chó vẫy đuôi",
-            //     "info": "tự"
-            // },
-            // {
-            //     "hiragana": "いぬがひとになれます",
-            //     "kanji": "犬が人になれる",
-            //     "vietnamese": "chó quen (thân thiện) với người",
-            //     "info": "tự"
-            // },
-            // {
-            //     "hiragana": "いぬがうなります",
-            //     "kanji": "犬がうなる",
-            //     "vietnamese": "chó gầm gừ",
-            //     "info": "tự"
-            // },
-            // {
-            //     "hiragana": "いぬがあなをほります",
-            //     "kanji": "犬が穴をほる",
-            //     "vietnamese": "chó đào lỗ",
-            //     "info": "tự"
-            // },
-            // {
-            //     "hiragana": "いぬがあなをうめます",
-            //     "kanji": "犬が穴をうめる",
-            //     "vietnamese": "chó lấp lỗ",
-            //     "info": "tha"
-            // },
-            // {
-            //     "hiragana": "いくじ/こそだて",
-            //     "kanji": "育児/子育て",
-            //     "vietnamese": "chăm sóc trẻ",
-            //     "info": "n"
-            // },
-            // {
-            //     "hiragana": "ようじ",
-            //     "kanji": "幼児",
-            //     "vietnamese": "trẻ con; đứa trẻ",
-            //     "info": "n"
-            // },
-            // {
-            //     "hiragana": "おさないこども",
-            //     "kanji": "幼い子ども",
-            //     "vietnamese": "trẻ con; đứa trẻ",
-            //     "info": "adj"
-            // },
-            // {
-            //     "hiragana": "こどもがせいちょうします",
-            //     "kanji": "子どもが成長する",
-            //     "vietnamese": "đứa trẻ lớn dần",
-            //     "info": "tự"
-            // },
-            // {
-            //     "hiragana": "わがままにそだちます",
-            //     "kanji": "わがままに育つ",
-            //     "vietnamese": "dạy làm hư đứa trẻ",
-            //     "info": "tự"
-            // },
-            // {
-            //     "hiragana": "えらい",
-            //     "kanji": "えらい",
-            //     "vietnamese": "tuyệt vời; giỏi",
-            //     "info": "adj"
-            // },
-            // {
-            //     "hiragana": "あたまをなでます",
-            //     "kanji": "頭をなでる",
-            //     "vietnamese": "xoa đầu",
-            //     "info": "tha"
-            // },
-            // {
-            //     "hiragana": "おしりをたたきます/おしりをぶちます",
-            //     "kanji": "お尻をたたく/お尻をぶつ",
-            //     "vietnamese": "đánh mông",
-            //     "info": "tha"
-            // },
-            // {
-            //     "hiragana": "いたずらをします",
-            //     "kanji": "いたずらをする",
-            //     "vietnamese": "tinh nghịch",
-            //     "info": "tự"
-            // },
-            // {
-            //     "hiragana": "いたずらな",
-            //     "kanji": "いたずらな",
-            //     "vietnamese": "nghịch ngợm",
-            //     "info": "adj-na"
-            // },
-            // {
-            //     "hiragana": "てをつなぎます",
-            //     "kanji": "手をつなぐ",
-            //     "vietnamese": "nắm tay",
-            //     "info": "tha"
-            // },
-            // {
-            //     "hiragana": "てをはなします",
-            //     "kanji": "手をはなす",
-            //     "vietnamese": "buông tay",
-            //     "info": "tha"
-            // },
-            // {
-            //     "hiragana": "こどもがまいごになります",
-            //     "kanji": "子どもが迷子になる",
-            //     "vietnamese": "đứa trẻ bị lạc",
-            //     "info": "tự"
-            // },
-            // {
-            //     "hiragana": "こどもがははおやのあとをついていきます",
-            //     "kanji": "子どもが母親の後をついていく",
-            //     "vietnamese": "đứa trẻ đi theo sau mẹ",
-            //     "info": "tự"
-            // },
-            // {
-            //     "hiragana": "いぬをかいます",
-            //     "kanji": "犬を飼う",
-            //     "vietnamese": "nuôi chó",
-            //     "info": "tha"
-            // },
-            // {
-            //     "hiragana": "さんぽにつれていきます",
-            //     "kanji": "散歩に連れていく",
-            //     "vietnamese": "dẫn đi bộ",
-            //     "info": "tha"
-            // },
-            // {
-            //     "hiragana": "いぬにえさをやります/いぬにえさをあたえます",
-            //     "kanji": "犬にえさをやる/犬にえさを与える",
-            //     "vietnamese": "cho chó ăn",
-            //     "info": "tha"
-            // }
-        ]
+        "vocabulary": []
     },
     {
         "lesson": "sou w2 d1",
@@ -870,163 +2084,599 @@ data_vocabulary = [
                 "hiragana": "さきおととい",
                 "kanji": "先一昨日",
                 "vietnamese": "hôm kìa",
-                "info": "n, 先 (tiên, tiến) ⺧ () 儿 (nhân) 昨 (tạc: hôm qua) 乍 (sạ) 日 (nhật) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "先 Tiên, Tiến  ▶ before, ahead, previous, future, precedence",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "一 Nhất  ▶ one, one radical",
+                        "昨 Tạc  ▶ yesterday, previous",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  乍 Sạ  ▶ though, notwithstanding, while, during, both, all",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "いっさくじつ",
                 "kanji": "一昨日",
                 "vietnamese": "hôm kia",
-                "info": "n, 昨 (tạc: hôm qua) 乍 (sạ) 日 (nhật)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "一 Nhất  ▶ one, one radical",
+                        "昨 Tạc  ▶ yesterday, previous",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  乍 Sạ  ▶ though, notwithstanding, while, during, both, all",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "さくじつ",
                 "kanji": "昨日",
                 "vietnamese": "hôm qua",
-                "info": "n, 昨 (tạc: hôm qua) 乍 (sạ) 日 (nhật)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "昨 Tạc  ▶ yesterday, previous",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  乍 Sạ  ▶ though, notwithstanding, while, during, both, all",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "あす",
                 "kanji": "明日",
                 "vietnamese": "ngày mai",
-                "info": "n, 明 (minh) 日 (nhật) 月 (nguyệt) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "明 Minh  ▶ bright, light",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  月 Nguyệt  ▶ month, moon",
+                        "日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "あさって",
                 "kanji": "あさって",
                 "vietnamese": "ngày mốt",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": []
+                }
             },
             {
                 "hiragana": "しあさって",
                 "kanji": "しあさって",
                 "vietnamese": "ngày kìa/３ ngày sau",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": []
+                }
             },
             {
                 "hiragana": "がんじつ/がんたん",
                 "kanji": "元日/元旦",
                 "vietnamese": "mùng một Tết",
-                "info": "n, 元 (nguyên) 二 (nhị) 儿 (nhân) , 旦 (đán) 日 (nhật) 一 (nhất) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "旦 Đán  ▶ daybreak, dawn, morning",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  一 Nhất  ▶ one, one radical",
+                        "元 Nguyên  ▶ beginning, former time, origin",
+                        "  二 Nhị  ▶ two, two radical",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "じょうじゅん/しょじゅん",
                 "kanji": "上旬/初旬",
                 "vietnamese": "10 ngày đầu của tháng",
-                "info": "n, 旬 (tuần: 10 ngày) 日 (nhật) 勹 (bao), 初 (sơ) 衤 (y) 刀 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "初 Sơ  ▶ first time, beginning",
+                        "  衤 (衣) Y, Ý, I, Í  ▶ clothes, clothing radical (no. 145",
+                        "  刀 Đao  ▶ sword, saber, knife",
+                        "旬 Tuần, Quân  ▶ decameron, ten-day period, season (for specific products)",
+                        "  勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "ちゅうじゅん",
                 "kanji": "中旬",
                 "vietnamese": "10 ngày giữa một tháng",
-                "info": "n, 旬 (tuần: 10 ngày) 日 (nhật) 勹 (bao)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "旬 Tuần, Quân  ▶ decameron, ten-day period, season (for specific products)",
+                        "  勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "  口 Khẩu  ▶ mouth",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "げじゅん",
                 "kanji": "下旬",
                 "vietnamese": "10 ngày cuối một tháng",
-                "info": "n, 下 (hạ, há), 旬 (tuần: 10 ngày) 日 (nhật) 勹 (bao)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "旬 Tuần, Quân  ▶ decameron, ten-day period, season (for specific products)",
+                        "  勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しゅくじつ/さいじつ",
                 "kanji": "祝日/祭日",
                 "vietnamese": "ngày lễ",
-                "info": "祝 (chúc, chú) 兄 (huynh) 礻 (thị) 祭 (tế: cúng) 示 (kì) ⺼ () 又 (hựu) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "祭 Tế, Sái  ▶ ritual, offer prayers, celebrate, deify, enshrine, worship",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "  示 Kì, Thị  ▶ show, indicate, point out, express, display",
+                        "祝 Chúc, Chú  ▶ celebrate, congratulate",
+                        "  礻 (示) Kỳ, Thị, Kì  ▶ cult, showing radical",
+                        "  兄 Huynh  ▶ elder brother, big brother",
+                        "    口 Khẩu  ▶ mouth",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "いっさくねん",
                 "kanji": "一昨年",
                 "vietnamese": "năm kia",
-                "info": "昨 (tạc: hôm qua) 乍 (sạ) 日 (nhật)"
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "年 Niên  ▶ year, counter for years",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    十 Thập  ▶ ten",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "一 Nhất  ▶ one, one radical",
+                        "昨 Tạc  ▶ yesterday, previous",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  乍 Sạ  ▶ though, notwithstanding, while, during, both, all",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "さくねん",
                 "kanji": "昨年",
                 "vietnamese": "năm trước",
-                "info": "昨 (tạc: hôm qua) 乍 (sạ) 日 (nhật)"
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "年 Niên  ▶ year, counter for years",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    十 Thập  ▶ ten",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "昨 Tạc  ▶ yesterday, previous",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  乍 Sạ  ▶ though, notwithstanding, while, during, both, all",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "せんせん げつ/しゅう",
                 "kanji": "先々月/週",
                 "vietnamese": "hai tháng/tuần trước",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "先 Tiên, Tiến  ▶ before, ahead, previous, future, precedence",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "週 Chu  ▶ week",
+                        "  周 Chu  ▶ circumference, circuit, lap",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    吉 Cát  ▶ good luck, joy, congratulations",
+                        "      士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "  ⻌ (辶)",
+                        "月 Nguyệt  ▶ month, moon"
+                    ]
+                }
             },
             {
                 "hiragana": "せんじつ",
                 "kanji": "先日",
                 "vietnamese": "hôm trước",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "先 Tiên, Tiến  ▶ before, ahead, previous, future, precedence",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "さらい しゅう/げつ/ねん",
                 "kanji": "再来 週/月/年",
                 "vietnamese": "hai tuần/tháng/năm sau",
-                "info": "再 (tái) 来 (lai, lãi) 丷 () 未 (vị) 週 (chu) 周 (chu) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "月 Nguyệt  ▶ month, moon",
+                        "来 Lai, Lãi, Lay, Lơi, Ray, Rơi  ▶ come, due, next, cause, become",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "    木 Mộc  ▶ tree, wood",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "年 Niên  ▶ year, counter for years",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    十 Thập  ▶ ten",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "週 Chu  ▶ week",
+                        "  周 Chu  ▶ circumference, circuit, lap",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    吉 Cát  ▶ good luck, joy, congratulations",
+                        "      士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "  ⻌ (辶)",
+                        "再 Tái  ▶ again, twice, second time",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  冉 Nhiễm  ▶ red, tan",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey"
+                    ]
+                }
             },
             {
                 "hiragana": "くれ",
                 "kanji": "暮れ",
                 "vietnamese": "cuối năm",
-                "info": "暮 (mộ: tối, cuối) 日 (nhật) 莫 (mạc) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "暮 Mộ  ▶ evening, twilight, season's end, livelihood, make a living, spend time",
+                        "  莫 Mạc, Mộ, Mạch, Bá  ▶ must not, do not, be not",
+                        "    艹 (艸)   ▶ grass, radical number 140",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "ねんまつねんし",
                 "kanji": "年末年始",
                 "vietnamese": "29/12-1/3",
-                "info": "年 (niên) 𠂉 () ヰ () 末 (mạt) 始 (thủy, thí) 女 (nữ) 台 (đài) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "年 Niên  ▶ year, counter for years",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    十 Thập  ▶ ten",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "末 Mạt  ▶ end, close, tip, powder, posterity",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "始 Thủy, Thí  ▶ commence, begin",
+                        "  女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "  台 Thai, Đài, Di  ▶ pedestal, a stand, counter for machines and vehicles",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "ちょうせいする (よていを)",
                 "kanji": "調整する (予定を)",
                 "vietnamese": "điều chỉnh (kế hoạch)",
-                "info": "調 (điều, điệu) 周 (chu) 言 (ngôn) 整 (chỉnh) 敕 (sắc: lệnh) 攵 (phộc) 束 (thúc: buộc)  正 (chánh) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "予 Dư, Dữ  ▶ beforehand, previous, myself, I",
+                        "  マ",
+                        "  了 Liễu  ▶ complete, finish",
+                        "    亅 Quyết  ▶ feathered stick, barb radical",
+                        "定 Định, Đính  ▶ determine, fix, establish, decide",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "    龰",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "      人 Nhân  ▶ person",
+                        "整 Chỉnh  ▶ organize, arranging, tune, tone, meter, key (music)",
+                        "  敕 Sắc  ▶ an imperial order or decree",
+                        "    束 Thúc, Thú  ▶ bundle, sheaf, ream, tie in bundles, govern, manage, control",
+                        "      木 Mộc  ▶ tree, wood",
+                        "      口 Khẩu  ▶ mouth",
+                        "      木 Mộc  ▶ tree, wood",
+                        "    攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "      𠂉",
+                        "      乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  正 Chánh, Chính  ▶ correct, justice, righteous, 10**40",
+                        "    止 Chỉ  ▶ stop, halt",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "調 Điều, Điệu  ▶ tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  周 Chu  ▶ circumference, circuit, lap",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    吉 Cát  ▶ good luck, joy, congratulations",
+                        "      士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "      口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "へんこうする (ひにちを)",
                 "kanji": "変更する (日にちを)",
                 "vietnamese": "thay đổi (ngày tháng/lịch trình/lịch trình)",
-                "info": "変 (biến) 夂 (tri) 亦 (diệc) 更 (canh: 5) 一 (nhất) 日 (nhật) 乂 (nghệ) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "更 Canh, Cánh  ▶ grow late, night watch, sit up late, of course, renew, renovate, again, more and more, further",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "変 Biến, Bén, Biếng  ▶ unusual, change, strange",
+                        "  亦 Diệc  ▶ also, again",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      亅 Quyết  ▶ feathered stick, barb radical",
+                        "  夂 Tri  ▶ late, delayed, winter radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ずらす (にっていを/スケジュールを)",
                 "kanji": "ずらす (日程を/スケジュールを)",
                 "vietnamese": "hoãn/kéo dài (lịch trình/lịch trình)",
-                "info": "程 (trình: chương) 禾 (hòa) 呈 (trình: lên) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "程 Trình  ▶ extent, degree, law, formula, distance, limits, amount",
+                        "  禾 Hòa  ▶ two-branch tree radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  呈 Trình  ▶ display, offer, present, send, exhibit",
+                        "    口 Khẩu  ▶ mouth",
+                        "    王 (玉) Vương, Vượng  ▶ king, rule, magnate"
+                    ]
+                }
             },
             {
                 "hiragana": "とる (きゅうかを)",
                 "kanji": "取る (休暇を)",
                 "vietnamese": "lấy (phép nghỉ)",
-                "info": "休 (hưu) 亻 (nhân) 木 (mộc) 暇 (hạ: nhàn) 叚 (giả) 日 (nhật) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "休 Hưu  ▶ rest, day off, retire, sleep",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  木 Mộc  ▶ tree, wood",
+                        "暇 Hạ  ▶ spare time, rest, leisure, time, leave of absence",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  叚 Giả  ▶ false",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "とりけす/キャンセルする (よやくを)",
                 "kanji": "取り消す/キャンセルする (予約を)",
                 "vietnamese": "hủy (đặt trước)",
-                "info": "消 (tiêu) 肖 (tiếu: giống) 氵 (thủy) 予 (dư, dữ) マ () 丁 (đinh) 約 (ước) 勺 (chước) 糸 (mịch) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "予 Dư, Dữ  ▶ beforehand, previous, myself, I",
+                        "  マ",
+                        "  了 Liễu  ▶ complete, finish",
+                        "    亅 Quyết  ▶ feathered stick, barb radical",
+                        "約 Ước  ▶ promise, approximately, shrink",
+                        "  糸 Mịch  ▶ thread",
+                        "  勺 Chước, Thược  ▶ ladle, one tenth of a go, dip",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "消 Tiêu  ▶ extinguish, blow out, turn off, neutralize, cancel",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  肖 Tiếu, Tiêu  ▶ resemblance",
+                        "    ⺌ (小)",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "つめる (にもつを)",
                 "kanji": "つめる (荷物を)",
                 "vietnamese": "đóng (hành lý)",
-                "info": "荷 (hà, hạ) 何 (hà) 艹 (thảo) 物 (vật) 勿 (vật) 牜 () "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "荷 Hà  ▶ baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  何 Hà  ▶ what",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    可 Khả, Khắc  ▶ can, passable, approval",
+                        "      丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "        一 Nhất  ▶ one, one radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "        亅 Quyết  ▶ feathered stick, barb radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しゅくはくする (りょかんに)",
                 "kanji": "宿泊する (旅館に)",
                 "vietnamese": "lưu trú (tại lữ quán)",
-                "info": "宿 (túc, tú) 佰 (bách) 宀 (miên) 泊 (bạc: ghé vào) 白 (bạch) 氵 (thủy) 旅 (lữ) 𠂉 () 方 (phương) 𧘇 () 館 (quán) 官 (quan) 飠 (thực) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "泊 Bạc, Phách  ▶ overnight stay, put up at, ride at anchor",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  白 Bạch  ▶ white",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "宿 Túc, Tú  ▶ inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  佰 Bách  ▶ hundred, leader of 100 men, east-west path between paddies",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    百 Bách, Bá, Mạch  ▶ hundred",
+                        "      白 Bạch  ▶ white",
+                        "        日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "館 Quán  ▶ building, mansion, large building, palace",
+                        "  飠 (食)   ▶ eat, food, radical number 184",
+                        "  官 Quan  ▶ bureaucrat, the government, organ",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "旅 Lữ  ▶ trip, travel",
+                        "  方 Phương  ▶ direction, person, alternative",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    𠂉",
+                        "    亻 (人)   ▶ radical number 9"
+                    ]
+                }
             },
             {
                 "hiragana": "いく (にはくみっかで/ひがえりで)",
                 "kanji": "行く (二泊三日で/日帰りで)",
                 "vietnamese": "đi (2 đêm 3 ngày / trong ngày)",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "帰 Quy  ▶ homecoming, arrive at, lead to, result in",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "  帚 Trửu  ▶ broom",
+                        "    ⺕ (彑)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "三 Tam, Tám  ▶ three",
+                        "  一 Nhất  ▶ one, one radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "二 Nhị  ▶ two, two radical",
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "泊 Bạc, Phách  ▶ overnight stay, put up at, ride at anchor",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  白 Bạch  ▶ white",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "かいがいりょこう/こくないりょこう",
                 "kanji": "海外旅行/国内旅行",
                 "vietnamese": "du lịch nước ngoài / trong nước",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "外 Ngoại  ▶ outside",
+                        "  夕 Tịch  ▶ evening",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "内 Nạp, Nội, Nói, Nòi, Nồi, Nỗi, Nụi  ▶ inside, within, between, among, house, home",
+                        "  冂 Quynh  ▶ upside-down box radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  人 Nhân  ▶ person",
+                        "旅 Lữ  ▶ trip, travel",
+                        "  方 Phương  ▶ direction, person, alternative",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    𠂉",
+                        "    亻 (人)   ▶ radical number 9",
+                        "海 Hải  ▶ sea, ocean",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  毎 Mỗi  ▶ every",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    毋 (母) Vô, Mưu  ▶ do not, must not, be not, mother radical",
+                        "国 Quốc, Cuốc  ▶ country",
+                        "  囗 Vi  ▶ box, box or enclosure radical",
+                        "  玉 Ngọc, Túc  ▶ jewel, ball",
+                        "    王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "  囗 Vi  ▶ box, box or enclosure radical"
+                    ]
+                }
             }
         ]
     },
@@ -1037,109 +2687,515 @@ data_vocabulary = [
                 "hiragana": "かいだんを のぼります/あがります",
                 "kanji": "階段を 上る/上がる",
                 "vietnamese": "bước lên cầu thang",
-                "info": "tự, 階 (giai: đoạn) 皆 (giai: huynh đệ) 比 (bì) 白 (bạch) 段 (đoạn) 乍 (sạ) 殳 (thù) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "段 Đoạn  ▶ grade, steps, stairs",
+                        "  殳 Thù  ▶ pike, windy-again radical",
+                        "    几 Kỷ  ▶ table, table enclosure, table or windy radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "階 Giai  ▶ storey, stair, counter for storeys of a building",
+                        "  ⻖ (阜)",
+                        "  皆 Giai  ▶ all, everything",
+                        "    比 Bỉ, Bí, Bì, Tỉ  ▶ compare, race, ratio, Philippines",
+                        "      匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "    白 Bạch  ▶ white",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "かいだんをくだります/おります",
                 "kanji": "階段を下る/下りる",
                 "vietnamese": "bước xuống cầu thang",
-                "info": "tự, 階 (giai: đoạn) 皆 (giai: huynh đệ) 比 (bì) 白 (bạch) 段 (đoạn) 乍 (sạ) 殳 (thù)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "段 Đoạn  ▶ grade, steps, stairs",
+                        "  殳 Thù  ▶ pike, windy-again radical",
+                        "    几 Kỷ  ▶ table, table enclosure, table or windy radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "階 Giai  ▶ storey, stair, counter for storeys of a building",
+                        "  ⻖ (阜)",
+                        "  皆 Giai  ▶ all, everything",
+                        "    比 Bỉ, Bí, Bì, Tỉ  ▶ compare, race, ratio, Philippines",
+                        "      匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "    白 Bạch  ▶ white",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "くだりでんしゃ/のぼりでんしゃ",
                 "kanji": "下り電車/上り電車",
                 "vietnamese": "tàu đi về địa phương/ trung tâm (Tokyo)",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "車 Xa  ▶ car",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "電 Điện  ▶ electricity",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "エスカレーターの のぼり/くだり",
                 "kanji": "エスカレーターの 上り/下り",
                 "vietnamese": "thang cuốn đi lên/xuống",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "れっしゃのじこくをしらべます",
                 "kanji": "列車の時刻を調べる",
                 "vietnamese": "tìm kiếm/tra cứu giờ tàu chạy",
-                "info": "tha, 列 (liệt: kê) 刂 (đao) 歹 (ngạt: xương tàn) 死 (tử) 刻 (khắc: chạm) 亥 (hợi) 調 (điều, điệu) 周 (chu)言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "列 Liệt  ▶ file, row, rank, tier, column",
+                        "  歹 Ngạt, Đãi  ▶ bare bone, bad, wrong, death radical (n. 78)",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    夕 Tịch  ▶ evening",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "刻 Khắc  ▶ engrave, cut fine, chop, hash, mince, time, carving",
+                        "  亥 Hợi  ▶ sign of the hog, 9-11PM, twelfth sign of the Chinese zodiac",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    人 Nhân  ▶ person",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "車 Xa  ▶ car",
+                        "調 Điều, Điệu  ▶ tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  周 Chu  ▶ circumference, circuit, lap",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    吉 Cát  ▶ good luck, joy, congratulations",
+                        "      士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "時 Thì, Thời  ▶ time, hour",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "とうきょうはつよこはまいき/ゆき",
                 "kanji": "東京発横浜行き",
                 "vietnamese": "tàu xuất phát từ Tokyo đi đến Yokohama",
-                "info": "n, 発 (phát) 癶 (bát) 二 (nhị) 儿 (nhân) 横 (hoành) 木 (mộc) 黄 (hoàng: vàng) 浜 (banh) 兵 (binh) 氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "東 Đông  ▶ east",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "浜 Banh  ▶ seacoast, beach, seashore",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  兵 Binh  ▶ soldier, private, troops, army, warfare, strategy, tactics",
+                        "    丘 Khâu, Khiêu  ▶ hill, knoll",
+                        "      斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "横 Hoành, Hoạnh, Quáng, Vàng  ▶ sideways, side, horizontal, width, woof, unreasonable, perverse",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  黄 Hoàng  ▶ yellow",
+                        "    龷",
+                        "    由 Do  ▶ wherefore, a reason",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "京 Kinh  ▶ capital, 10**16",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    小 Tiểu  ▶ little, small",
+                        "発 Bát, Phát  ▶ departure, discharge, publish, emit, start from, disclose, counter for gunshots",
+                        "  癶 Bát  ▶ dotted tent radical",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "してつ",
                 "kanji": "私鉄",
                 "vietnamese": "đường sắt tư nhân",
-                "info": "n, 私 (tư) 厶 (khư) 禾 (hòa) 鉄 (thiết) 失 (thất) 金 (kim) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "私 Tư  ▶ private, I, me",
+                        "  禾 Hòa  ▶ two-branch tree radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  厶 Khư  ▶ I, myself, katakana mu radical",
+                        "鉄 Thiết  ▶ iron",
+                        "  金 Kim  ▶ gold",
+                        "  失 Thất  ▶ lose, error, fault, disadvantage, loss",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    夫 Phu, Phù  ▶ husband, man",
+                        "      大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "ざせきをしていします",
                 "kanji": "座席を指定する",
                 "vietnamese": "chọn/đặt ghế chỉ định",
-                "info": "tha, 座 (tọa) 坐 (tọa) 广 (nghiễm) 席 (tịch: chiếu) 廿 (nhập) 巾 (cân) 指 (chỉ) 旨 (chỉ) 扌 (thủ) 定 (định, đính) 疋 (sơ) 宀 (miên) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "席 Tịch  ▶ seat, mat, occasion, place",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "定 Định, Đính  ▶ determine, fix, establish, decide",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "    龰",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "      人 Nhân  ▶ person",
+                        "座 Tọa  ▶ squat, seat, cushion, gathering, sit",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  坐 Tọa  ▶ sit",
+                        "    从 Tòng  ▶ two people",
+                        "      人 Nhân  ▶ person",
+                        "      人 Nhân  ▶ person",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "指 Chỉ  ▶ finger, point to, indicate, put into, play (chess), measure (ruler)",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  旨 Chỉ  ▶ delicious, relish, show a liking for, purport, will, clever, expert",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "していせき/じゆうせき",
                 "kanji": "指定席/自由席",
                 "vietnamese": "ghế chỉ định/ghế tự do",
-                "info": "n, 指 (chỉ) 旨 (chỉ) 扌 (thủ) 定 (định, đính) 疋 (sơ) 宀 (miên) 席 (tịch: chiếu) 廿 (nhập) 广 (nghiễm) 自 (tự) 由 (do) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "席 Tịch  ▶ seat, mat, occasion, place",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "自 Tự  ▶ oneself",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "由 Do  ▶ wherefore, a reason",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "定 Định, Đính  ▶ determine, fix, establish, decide",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "    龰",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "      人 Nhân  ▶ person",
+                        "指 Chỉ  ▶ finger, point to, indicate, put into, play (chess), measure (ruler)",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  旨 Chỉ  ▶ delicious, relish, show a liking for, purport, will, clever, expert",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "まどがわ/つうろがわ",
                 "kanji": "窓側/通路側",
                 "vietnamese": "hướng cửa sổ/hướng lối đi",
-                "info": "n, 窓 (song) 穴 (huyệt) 厶 (khư) 心 (tâm) 側 (trắc) 亻 (nhân) 則 (tắc) 通 (thông) 甬 (dũng) ⻌ () 路 (lộ: đường) 各 (các) ⻊ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "側 Trắc  ▶ side, lean, oppose, regret",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  則 Tắc  ▶ rule, law, follow, based on, model after",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "路 Lộ  ▶ path, route, road, distance",
+                        "  足 Túc  ▶ leg, foot, be sufficient, counter for pairs of footwear",
+                        "    口 Khẩu  ▶ mouth",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "窓 Song  ▶ window, pane",
+                        "  穴 Huyệt  ▶ hole, aperture, slit, cave, den",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "通 Thông  ▶ traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "じょうしゃけん",
                 "kanji": "乗車券",
                 "vietnamese": "vé lên tàu",
-                "info": "n, 乗 (thừa: lên xe) 禾 (hòa) 券 (khoán: hợp đồng) 龹 () 刀 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "乗 Thặng, Thừa  ▶ ride, power, multiplication, record, counter for vehicles, board, mount, join",
+                        "  千 Thiên  ▶ thousand",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    千 Thiên  ▶ thousand",
+                        "      十 Thập  ▶ ten",
+                        "車 Xa  ▶ car",
+                        "券 Khoán  ▶ ticket",
+                        "  𠔉",
+                        "    二 Nhị  ▶ two, two radical",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "      人 Nhân  ▶ person",
+                        "  刀 Đao  ▶ sword, saber, knife"
+                    ]
+                }
             },
             {
                 "hiragana": "かたみちきっぷ",
                 "kanji": "片道切符",
                 "vietnamese": "vé một chiều",
-                "info": "n, 片 (phiến: đá, mỏng phẳng) 道 (đạo, đáo) 首 (thủ) ⻌ () 切 (thiết, thế) 七 (thất) 刀 (đao) 符 (phù: hiệu) 付 (phó) ⺮ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "道 Đạo, Đáo  ▶ road-way, street, district, journey, course, moral, teachings",
+                        "  首 Thủ, Thú  ▶ neck, counter for songs and poems",
+                        "    自 Tự  ▶ oneself",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  ⻌ (辶)",
+                        "符 Phù  ▶ token, sign, mark, tally, charm",
+                        "  竹 Trúc  ▶ bamboo",
+                        "  付 Phó  ▶ adhere, attach, refer to, append",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "片 Phiến  ▶ one-sided, leaf, sheet, right-side kata radical",
+                        "切 Thiết, Thế  ▶ cut, cutoff, be sharp",
+                        "  七 Thất  ▶ seven",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  刀 Đao  ▶ sword, saber, knife"
+                    ]
+                }
             },
             {
                 "hiragana": "おうふくきっぷ",
                 "kanji": "往復切符",
                 "vietnamese": "vé khứ hồi",
-                "info": "n, 往 (vãng: đi) 主 (chủ) 彳 (xích) 復 (phục: lại) 彳 (xích) 复 (phục) 切 (thiết, thế) 七 (thất) 刀 (đao) 符 (phù) 付 (phó) ⺮ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "往 Vãng  ▶ journey, travel, chase away, let go, going, before, formerly",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  主 Chủ  ▶ lord, chief, master, main thing, principal",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "符 Phù  ▶ token, sign, mark, tally, charm",
+                        "  竹 Trúc  ▶ bamboo",
+                        "  付 Phó  ▶ adhere, attach, refer to, append",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "切 Thiết, Thế  ▶ cut, cutoff, be sharp",
+                        "  七 Thất  ▶ seven",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  刀 Đao  ▶ sword, saber, knife",
+                        "復 Phục, Phúc  ▶ restore, return to, revert, resume",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  复   ▶ return, repeat, repeatedly",
+                        "    𠂉",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    夂 Tri  ▶ late, delayed, winter radical"
+                    ]
+                }
             },
             {
                 "hiragana": "とっきゅうけん",
                 "kanji": "特急券",
                 "vietnamese": "vé tàu tốc hành",
-                "info": "n, 特 (đặc) 牜 () 寺 (tự) 急 (cấp) 心 (tâm) ⺈ () ヨ () 券 (khoán: hợp đồng) 龹 () 刀 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "急 Cấp  ▶ hurry, emergency, sudden, steep",
+                        "    𠂊 (勹)",
+                        "    ⺕ (彑)",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "特 Đặc  ▶ special",
+                        "  牛 Ngưu  ▶ cow",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "券 Khoán  ▶ ticket",
+                        "  𠔉",
+                        "    二 Nhị  ▶ two, two radical",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "      人 Nhân  ▶ person",
+                        "  刀 Đao  ▶ sword, saber, knife"
+                    ]
+                }
             },
             {
                 "hiragana": "かいすうけん",
                 "kanji": "回数券",
                 "vietnamese": "vé nhiều lượt (nhiều lần đi cùng tuyến)",
-                "info": "n, 回 (hồi, hối) 口 (khẩu) 囗 (vi) 数 (số) 女 (nữ) 米 (mễ) 攵 (phộc) 券 (khoán: hợp đồng) 龹 () 刀 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "数 Sác, Số, Sổ, Xúc, Sỗ, Sộ, Xọ  ▶ number, strength, fate, law, figures",
+                        "  娄 Lâu, Lu, Lũ, Làu, Lủ, Sau, Sâu  ▶ surname, constellation, to wear",
+                        "    米 Mễ  ▶ rice, USA, metre",
+                        "    女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "回 Hồi, Hối  ▶ -times, round, game, revolve, counter for occurrences",
+                        "  囗 Vi  ▶ box, box or enclosure radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "  囗 Vi  ▶ box, box or enclosure radical",
+                        "券 Khoán  ▶ ticket",
+                        "  𠔉",
+                        "    二 Nhị  ▶ two, two radical",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "      人 Nhân  ▶ person",
+                        "  刀 Đao  ▶ sword, saber, knife"
+                    ]
+                }
             },
             {
                 "hiragana": "ていきけん",
                 "kanji": "定期券",
                 "vietnamese": "vé định kỳ",
-                "info": "n, 定 (định, đính) 疋 (sơ) 宀 (miên) 期 (kì, ki) 其 (kì) 月 (nguyệt) 券 (khoán: hợp đồng) 龹 () 刀 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "定 Định, Đính  ▶ determine, fix, establish, decide",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "    龰",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "      人 Nhân  ▶ person",
+                        "期 Kỳ, Ky  ▶ period, time, date, term",
+                        "  其 Kỳ, Ký, Ki  ▶ that",
+                        "    甘 Cam  ▶ sweet, coax, pamper, be content, sugary",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "        十 Thập  ▶ ten",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  月 Nguyệt  ▶ month, moon",
+                        "券 Khoán  ▶ ticket",
+                        "  𠔉",
+                        "    二 Nhị  ▶ two, two radical",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "      人 Nhân  ▶ person",
+                        "  刀 Đao  ▶ sword, saber, knife"
+                    ]
+                }
             },
             {
                 "hiragana": "かいさつぐちをとおります",
                 "kanji": "改札口を通る",
                 "vietnamese": "qua cổng soát vé",
-                "info": "tự, 改 (cải: tạo) 攵 (phộc) 己 (kỉ) 札 (trát: ther) 乚 () 木 (mộc) 通 (thông) 甬 (dũng) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "改 Cải  ▶ reformation, change, modify, mend, renew, examine, inspect, search",
+                        "  己 Kỷ  ▶ self",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "通 Thông  ▶ traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "  ⻌ (辶)",
+                        "札 Trát  ▶ tag, paper money, counter for bonds, placard, bid",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "はらいもどし",
                 "kanji": "払い戻し",
                 "vietnamese": "hoàn trả (tiền, vé…)",
-                "info": "n, 払 (phất: trả) 厶 (khư) 扌 (thủ) 戻 (lệ: quay lại) 大 (đại) 戸 (hộ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "払 Chàng  ▶ pay, clear out, prune, banish, dispose of",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  厶 Khư  ▶ I, myself, katakana mu radical",
+                        "戻 Lệ  ▶ re-, return, revert, resume, restore, go backwards",
+                        "  戸 Hộ, Họ  ▶ door, counter for houses, door radical",
+                        "  大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             }
         ]
     },
@@ -1150,127 +3206,593 @@ data_vocabulary = [
                 "hiragana": "ホームがこんざつします",
                 "kanji": "ホームが混雑する",
                 "vietnamese": "tắc nghẽn ở chỗ chờ lên tàu",
-                "info": "tự, 混 (hỗn: tạp) 昆 (côn: trùng) 氵 (thủy) 雑 (tạp: chí) 隹 (chuy) 九 (cửu) 木 (mộc) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "混 Hỗn, Cổn  ▶ mix, blend, confuse",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  昆 Côn  ▶ descendants, elder brother, insect",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    比 Bỉ, Bí, Bì, Tỉ  ▶ compare, race, ratio, Philippines",
+                        "      匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "雑 Tạp  ▶ miscellaneous",
+                        "    九 Cửu, Cưu  ▶ nine",
+                        "      乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  隹 Chuy  ▶ bird, old bird radical",
+                        "    亻 (人)   ▶ radical number 9"
+                    ]
+                }
             },
             {
                 "hiragana": "きいろいせんのうちがわにさがります",
                 "kanji": "黄色い線の内側に下がる",
                 "vietnamese": "lùi vào bên trong vạch vàng",
-                "info": "tự, 黄 (hoàng) 共 (cộng) 田 (điền) 線 (tuyến) 糸 (mịch) 泉 (tuyền: suối) 側 (trắc) 亻 (nhân) 則 (tắc) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "色 Sắc  ▶ color",
+                        "  𠂊 (勹)",
+                        "  巴 Ba  ▶ comma-design",
+                        "    己 (巳) Kỷ  ▶ self",
+                        "内 Nạp, Nội, Nói, Nòi, Nồi, Nỗi, Nụi  ▶ inside, within, between, among, house, home",
+                        "  冂 Quynh  ▶ upside-down box radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  人 Nhân  ▶ person",
+                        "側 Trắc  ▶ side, lean, oppose, regret",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  則 Tắc  ▶ rule, law, follow, based on, model after",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "線 Tuyến  ▶ line, track",
+                        "  糸 Mịch  ▶ thread",
+                        "  泉 Tuyền, Toàn  ▶ spring, fountain",
+                        "    白 Bạch  ▶ white",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    水 Thủy  ▶ water",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "黄 Hoàng  ▶ yellow",
+                        "  龷",
+                        "  由 Do  ▶ wherefore, a reason",
+                        "  八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "とっきゅうがつうかします",
                 "kanji": "特急が通過する",
                 "vietnamese": "tàu tốc hành đi qua",
-                "info": "tự, 特 (đặc) 牜 () 寺 (tự) 急 (cấp) 心 (tâm) ⺈ () ヨ () 通 (thông) 甬 (dũng) ⻌ () 過 (quá, qua) 咼 (qua) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "急 Cấp  ▶ hurry, emergency, sudden, steep",
+                        "    𠂊 (勹)",
+                        "    ⺕ (彑)",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "特 Đặc  ▶ special",
+                        "  牛 Ngưu  ▶ cow",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "過 Quá, Qua  ▶ overdo, exceed, go beyond, error",
+                        "  咼 Oa, Oai, Qua, Quai, Òa, Ua, Ùa, Ủa, Ụa  ▶ crooked mouth, evil, dishonest",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻌ (辶)",
+                        "通 Thông  ▶ traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "じょうしゃします/げしゃします",
                 "kanji": "乗車する/下車する",
                 "vietnamese": "lên tàu/xuống tàu",
-                "info": "tự, 乗 (thừa) 禾 (hòa) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "乗 Thặng, Thừa  ▶ ride, power, multiplication, record, counter for vehicles, board, mount, join",
+                        "  千 Thiên  ▶ thousand",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    千 Thiên  ▶ thousand",
+                        "      十 Thập  ▶ ten",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "車 Xa  ▶ car"
+                    ]
+                }
             },
             {
                 "hiragana": "はっしゃします",
                 "kanji": "発車する",
                 "vietnamese": "tàu xuất phát",
-                "info": "tự, 発 (phát) 癶 (bát) 二 (nhị) 儿 (nhân) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "車 Xa  ▶ car",
+                        "発 Bát, Phát  ▶ departure, discharge, publish, emit, start from, disclose, counter for gunshots",
+                        "  癶 Bát  ▶ dotted tent radical",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "からっぽ",
                 "kanji": "空っぽ",
                 "vietnamese": "vắng tanh, trống rỗng",
-                "info": "a-na, 空 (không, khống, khổng) 工 (công) 穴 (huyệt) "
+                "info": "",
+                "details": {
+                    "pos": "a-na",
+                    "components": [
+                        "空 Không, Khống, Khổng  ▶ empty, sky, void, vacant, vacuum",
+                        "  穴 Huyệt  ▶ hole, aperture, slit, cave, den",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  工 Công  ▶ craft, construction, katakana e radical"
+                    ]
+                }
             },
             {
                 "hiragana": "まんいんでんしゃでつうきんします",
                 "kanji": "満員電車で通勤する",
                 "vietnamese": "đi làm trên tàu chật ních người",
-                "info": "tự, 満 (mãn: nguyện) 両 (lưỡng) 艹 (thảo) 氵 (thủy) 員 (viên: nhân) 貝 (bối) 口 (khẩu) 通 (thông) 甬 (dũng) ⻌ () 勤 (cần: chuyên) 主 (chủ) 艹 (thảo) 口 (khẩu)  力 (lực) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "満 Mãn  ▶ full, fullness, enough, satisfy",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "    艹   ▶ grass, radical number 140",
+                        "      十 Thập  ▶ ten",
+                        "    両 Lạng  ▶ both, old Japanese coin, counter for carriages (e.g., in a train), two",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      山 San, Sơn  ▶ mountain",
+                        "員 Viên, Vân  ▶ employee, member, number, the one in charge",
+                        "  口 Khẩu  ▶ mouth",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "車 Xa  ▶ car",
+                        "勤 Cần  ▶ diligence, become employed, serve",
+                        "  菫 Cận  ▶ the violet",
+                        "    艹 (艸)   ▶ grass, radical number 140",
+                        "      三 Tam, Tám  ▶ three",
+                        "        一 Nhất  ▶ one, one radical",
+                        "          一 Nhất  ▶ one, one radical",
+                        "          一 Nhất  ▶ one, one radical",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "電 Điện  ▶ electricity",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "通 Thông  ▶ traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "でんしゃがゆれます",
                 "kanji": "電車が揺れる",
                 "vietnamese": "tàu lảo đảo, rung lắc",
-                "info": "tự, 揺 (dao: động) 扌 (thủ) ⺤ () 缶 (phữu: lon)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "揺 Dao, Đao, Diêu  ▶ swing, shake, sway, rock, tremble, vibrate",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  䍃   ▶ a vase, a pitcher, earthenware",
+                        "    ⺤ (爪)",
+                        "    缶 Phữu, Phẫu, Phũ  ▶ tin can, container, jar radical",
+                        "      山 San, Sơn  ▶ mountain",
+                        "車 Xa  ▶ car",
+                        "電 Điện  ▶ electricity",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "しはつ（でんしゃ）/しゅうでん",
                 "kanji": "始発（電車）/終電",
                 "vietnamese": "chuyến tàu đầu tiên/chuyến tàu cuối cùng trong ngày",
-                "info": "n, 始 (thủy, thí) 女 (nữ) 台 (thai) 発 (phát) 癶 (bát) 二 (nhị) 儿 (nhân) 終 (chung) 糸 (mịch) 冬 (đông) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "始 Thủy, Thí  ▶ commence, begin",
+                        "  女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "  台 Thai, Đài, Di  ▶ pedestal, a stand, counter for machines and vehicles",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "終 Chung  ▶ end, finish",
+                        "  糸 Mịch  ▶ thread",
+                        "  冬 Đông  ▶ winter",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    冫 (氷) Băng  ▶ two-stroke water radical or ice radical",
+                        "車 Xa  ▶ car",
+                        "発 Bát, Phát  ▶ departure, discharge, publish, emit, start from, disclose, counter for gunshots",
+                        "  癶 Bát  ▶ dotted tent radical",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "電 Điện  ▶ electricity",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "しはつえき/しゅうてんえき",
                 "kanji": "始発駅/終点駅",
                 "vietnamese": "ga đầu/ga cuối",
-                "info": "n, 始 (thủy, thí) 女 (nữ) 台 (thai) 発 (phát) 癶 (bát) 二 (nhị) 儿 (nhân) 終 (chung) 糸 (mịch) 冬 (đông) 点 (điểm) 灬 (hỏa) 占 (chiêm) 駅 (dịch) 馬 (mã) 尺 (xích) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "始 Thủy, Thí  ▶ commence, begin",
+                        "  女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "  台 Thai, Đài, Di  ▶ pedestal, a stand, counter for machines and vehicles",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "終 Chung  ▶ end, finish",
+                        "  糸 Mịch  ▶ thread",
+                        "  冬 Đông  ▶ winter",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    冫 (氷) Băng  ▶ two-stroke water radical or ice radical",
+                        "駅 Dịch  ▶ station",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "  尺 Xích  ▶ shaku, Japanese foot, measure, scale, rule",
+                        "    尸 Thi  ▶ corpse, remains, flag radical",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "点 Điểm  ▶ spot, point, mark, speck, decimal point",
+                        "  占 Chiêm, Chiếm  ▶ fortune-telling, divining, forecasting, occupy, hold, have, get, take",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical",
+                        "発 Bát, Phát  ▶ departure, discharge, publish, emit, start from, disclose, counter for gunshots",
+                        "  癶 Bát  ▶ dotted tent radical",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "のりかえ",
                 "kanji": "乗り換え",
                 "vietnamese": "đổi tàu",
-                "info": "n, 乗 (thừa) 禾 (hòa) 換 (hoán: đổi) 奐 (hoán) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "乗 Thặng, Thừa  ▶ ride, power, multiplication, record, counter for vehicles, board, mount, join",
+                        "  千 Thiên  ▶ thousand",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    千 Thiên  ▶ thousand",
+                        "      十 Thập  ▶ ten",
+                        "換 Hoán  ▶ interchange, period, change, convert, replace, renew",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  奐 Hoán  ▶ clear, bright",
+                        "      𠂊 (勹)",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      儿 (八) Nhân  ▶ legs radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "のりおくれます",
                 "kanji": "乗り遅れる",
                 "vietnamese": "lỡ chuyến tàu",
-                "info": "tự, 乗 (thừa) 禾 (hòa) 遅 (trì) 羊 (dương) 尸 (thi) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "乗 Thặng, Thừa  ▶ ride, power, multiplication, record, counter for vehicles, board, mount, join",
+                        "  千 Thiên  ▶ thousand",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    千 Thiên  ▶ thousand",
+                        "      十 Thập  ▶ ten",
+                        "遅 Trì  ▶ slow, late, back, later",
+                        "    尸 Thi  ▶ corpse, remains, flag radical",
+                        "    羊 Dương  ▶ sheep",
+                        "      䒑   ▶ grass, straw, herbs, weeds",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "のりすごします",
                 "kanji": "乗り過ごす",
                 "vietnamese": "đi quá ga cần tới",
-                "info": "tự, 乗 (thừa) 禾 (hòa) 過 (quá, qua) 咼 (qua) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "乗 Thặng, Thừa  ▶ ride, power, multiplication, record, counter for vehicles, board, mount, join",
+                        "  千 Thiên  ▶ thousand",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    千 Thiên  ▶ thousand",
+                        "      十 Thập  ▶ ten",
+                        "過 Quá, Qua  ▶ overdo, exceed, go beyond, error",
+                        "  咼 Oa, Oai, Qua, Quai, Òa, Ua, Ùa, Ủa, Ụa  ▶ crooked mouth, evil, dishonest",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "のりこし",
                 "kanji": "乗り越し",
                 "vietnamese": "đi quá ga cần tới",
-                "info": "n, 乗 (thừa) 禾 (hòa) 越 (việt: vượt) 走 (tẩu) 戉 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "乗 Thặng, Thừa  ▶ ride, power, multiplication, record, counter for vehicles, board, mount, join",
+                        "  千 Thiên  ▶ thousand",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    千 Thiên  ▶ thousand",
+                        "      十 Thập  ▶ ten",
+                        "越 Việt, Hoạt  ▶ surpass, cross over, move to, exceed, Vietnam",
+                        "  走 Tẩu  ▶ run",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    龰",
+                        "  戉 Mậu, Việt  ▶ warrior, arms, savage, Ainu",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "うんちんをせいさんします",
                 "kanji": "運賃を精算する",
                 "vietnamese": "điều chỉnh, tính lại cước phí đi",
-                "info": "tha, 運 (vận) 軍 (quân: lính) ⻌ () 賃 (nhẫm: thuê) 貝 (bối) 任 (nhiệm) 精 (tinh: trắng) 青 (thanh) 米 (mễ) 算 (toán) 廾 (củng) 目 (mục) ⺮ () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "算 Toán  ▶ calculate, divining, number, abacus, probability",
+                        "  竹 Trúc  ▶ bamboo",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      十 Thập  ▶ ten",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten",
+                        "精 Tinh  ▶ refined, ghost, fairy, energy, vitality, semen, excellence, purity, skill",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  青 Thanh  ▶ blue, green",
+                        "    龶",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "運 Vận  ▶ carry, luck, destiny, fate, lot, transport, progress, advance",
+                        "  軍 Quân  ▶ army, force, troops, war, battle",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    車 Xa  ▶ car",
+                        "  ⻌ (辶)",
+                        "賃 Nhẫm  ▶ fare, fee, hire, rent, wages, charge",
+                        "  任 Nhâm, Nhậm  ▶ responsibility, duty, term, entrust to, appoint",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    壬 Nhâm  ▶ 9th calendar sign",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しゃしょうがしゃないアナウンスをします",
                 "kanji": "車掌が車内アナウンスをする",
                 "vietnamese": "người điều hành thông báo trên tàu",
-                "info": "tha, 掌 (chưởng: chấp) 手 (thủ) 口 (khẩu) 龸 () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "内 Nạp, Nội, Nói, Nòi, Nồi, Nỗi, Nụi  ▶ inside, within, between, among, house, home",
+                        "  冂 Quynh  ▶ upside-down box radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  人 Nhân  ▶ person",
+                        "車 Xa  ▶ car",
+                        "掌 Chưởng  ▶ palm of hand, rule, administer, conduct",
+                        "  尚 Thượng, Chuộng, Sượng, Thằng  ▶ esteem, furthermore, still, yet",
+                        "    ⺌ (小)",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "  手 Thủ  ▶ hand"
+                    ]
+                }
             },
             {
                 "hiragana": "けいたいでんわのしようをひかえます",
                 "kanji": "けいたい電話の使用を控える",
                 "vietnamese": "hạn chế dùng di động",
-                "info": "tha, 控 (khống: chế) 空 (không) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "控 Khống  ▶ withdraw, draw in, hold back, refrain from, be moderate",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  空 Không, Khống, Khổng  ▶ empty, sky, void, vacant, vacuum",
+                        "    穴 Huyệt  ▶ hole, aperture, slit, cave, den",
+                        "      宀 Miên  ▶ shaped crown, katakana u radical",
+                        "        冖 Mịch  ▶ wa-shaped crown radical",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    工 Công  ▶ craft, construction, katakana e radical",
+                        "電 Điện  ▶ electricity",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "用 Dụng  ▶ utilize, business, service, use, employ",
+                        "使 Sử, Sứ  ▶ use, send on a mission, order, messenger, envoy, ambassador, cause",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  吏 Lại  ▶ officer, an official",
+                        "    丈 Trượng  ▶ length, ten shaku, measure, Mr., Ms., height, stature, all (one has), only, that's all, merely",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    丈 Trượng  ▶ length, ten shaku, measure, Mr., Ms., height, stature, all (one has), only, that's all, merely",
+                        "      乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "話 Thoại  ▶ tale, talk",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  舌 Thiệt  ▶ tongue, reed, clapper",
+                        "    千 Thiên  ▶ thousand",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "（お）としよりにせきをゆずります",
                 "kanji": "（お）年寄りに席をゆずる",
                 "vietnamese": "nhường ghế cho người cao tuổi",
-                "info": "tha, 寄 (kí: phó thác) 奇 (kì: lạ) 大 (đại) 可 (khả)  宀 (miên) 席 (tịch: chiếu) 廿 (nhập) 巾 (cân) 广 (nghiễm) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "年 Niên  ▶ year, counter for years",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    十 Thập  ▶ ten",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "席 Tịch  ▶ seat, mat, occasion, place",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "寄 Kí  ▶ draw near, stop in, bring near, gather, collect, send, forward",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  奇 Kì, Cơ  ▶ strange, strangeness, curiosity",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "    可 Khả, Khắc  ▶ can, passable, approval",
+                        "      丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "        一 Nhất  ▶ one, one radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "        亅 Quyết  ▶ feathered stick, barb radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ゆうせんせき",
                 "kanji": "優先席",
                 "vietnamese": "ghế ưu tiên",
-                "info": "n, 優 (ưu: tiên) 憂 (ưu: phiền) 心 (tâm) 夏 (hạ)  亻 (nhân) 席 (tịch: chiếu) 廿 (nhập) 巾 (cân) 广 (nghiễm)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "席 Tịch  ▶ seat, mat, occasion, place",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "優 Ưu  ▶ tenderness, excel, surpass, actor, superiority, gentleness",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  憂 Ưu  ▶ melancholy, grieve, lament, be anxious, sad, unhappy",
+                        "      百 Bách, Bá, Mạch  ▶ hundred",
+                        "          日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "      夂 Tri  ▶ late, delayed, winter radical",
+                        "先 Tiên, Tiến  ▶ before, ahead, previous, future, precedence",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "からだのふじゆうなひと",
                 "kanji": "体の不自由な人",
                 "vietnamese": "người khuyết tật",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "自 Tự  ▶ oneself",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "不 Bất, Phầu, Phủ, Phi  ▶ negative, non-, bad, ugly, clumsy",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "由 Do  ▶ wherefore, a reason",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "体 Thể  ▶ body, substance, object, reality, counter for images",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  本 Bổn, Bản  ▶ book, present, main, origin, true, real, counter for long cylindrical things",
+                        "    木 Mộc  ▶ tree, wood",
+                        "人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "えきのばいてん",
                 "kanji": "駅の売店",
                 "vietnamese": "quầy bán hàng ở ga",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "売 Mại, Xác, Xạc  ▶ sell",
+                        "  士 (土) Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "駅 Dịch  ▶ station",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "  尺 Xích  ▶ shaku, Japanese foot, measure, scale, rule",
+                        "    尸 Thi  ▶ corpse, remains, flag radical",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "店 Điếm  ▶ store, shop",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  占 Chiêm, Chiếm  ▶ fortune-telling, divining, forecasting, occupy, hold, have, get, take",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             }
         ]
     },
@@ -1281,91 +3803,300 @@ data_vocabulary = [
                 "hiragana": "じょしゅせき",
                 "kanji": "助手席",
                 "vietnamese": "ghế bên cạnh ghế của người cầm lái",
-                "info": "n, 助 (trợ) 且 (thả) 力 (lực) 手 (thủ) 席 (tịch) 廿 (nhập) 巾 (cân) 广 (nghiễm) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "席 Tịch  ▶ seat, mat, occasion, place",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "助 Trợ  ▶ help, rescue, assist",
+                        "  且 Thả, Thư  ▶ moreover, also, furthermore",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "手 Thủ  ▶ hand"
+                    ]
+                }
             },
             {
                 "hiragana": "うんてんせき",
                 "kanji": "運転席",
                 "vietnamese": "ghế người lái",
-                "info": "n, 運 (vận) 軍 (quân) ⻌ () 転 (chuyển) 云 (vân) 車 (xa) 席 (tịch) 廿 (nhập) 巾 (cân) 广 (nghiễm) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "席 Tịch  ▶ seat, mat, occasion, place",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "転 Chuyển  ▶ revolve, turn around, change",
+                        "  車 Xa  ▶ car",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "運 Vận  ▶ carry, luck, destiny, fate, lot, transport, progress, advance",
+                        "  軍 Quân  ▶ army, force, troops, war, battle",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    車 Xa  ▶ car",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "うんてんめんきょしょう",
                 "kanji": "運転免許証",
                 "vietnamese": "bằng lái xe",
-                "info": "n, 運 (vận) 軍 (quân) ⻌ () 転 (chuyển) 云 (vân) 車 (xa) 免 (miễn: bỏ) 丨 (cổn) 口 (khẩu) ⺈ () 儿 (nhân) 許 (hứa: hẹn) 午 (ngọ) 言 (ngôn) 証 (chứng) 正 (chánh) 言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "証 Chứng  ▶ evidence, proof, certificate",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  正 Chánh, Chính  ▶ correct, justice, righteous, 10**40",
+                        "    止 Chỉ  ▶ stop, halt",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "許 Hứa, Hử, Hổ  ▶ permit, approve",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  午 Ngọ  ▶ noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac",
+                        "      干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "      十 Thập  ▶ ten",
+                        "転 Chuyển  ▶ revolve, turn around, change",
+                        "  車 Xa  ▶ car",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "運 Vận  ▶ carry, luck, destiny, fate, lot, transport, progress, advance",
+                        "  軍 Quân  ▶ army, force, troops, war, battle",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    車 Xa  ▶ car",
+                        "  ⻌ (辶)",
+                        "免 Miễn, Vấn  ▶ excuse, dismissal",
+                        "    𠂊 (勹)",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "レンタカーをかります",
                 "kanji": "レンタカーを借りる",
                 "vietnamese": "thuê xe",
-                "info": "tha, 借 (tá) 昔 (tích: xưa) 日 (nhật) 龷 (nhập)  亻 (nhân) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "借 Tá  ▶ borrow, rent",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  昔 Tích  ▶ once upon a time, antiquity, old times",
+                        "      廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "        十 Thập  ▶ ten",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "        十 Thập  ▶ ten",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "トランクににもつをつみます",
                 "kanji": "トランクに荷物を積む",
                 "vietnamese": "chất hành lý vào thùng xe",
-                "info": "tha, 荷 (hà: bạc) 何 (hà: sao) 艹 (thảo) 物 (vật) 勿 (vật) 牜 () 積 (tích: góp) 禾 (hòa) 責 (trách: nhiệm) 貝 (bối) 龶 ()  "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "積 Tích, Tí  ▶ volume, product (x*y), acreage, contents, pile up, stack, load, amass",
+                        "  禾 Hòa  ▶ two-branch tree radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  責 Trách, Trái  ▶ blame, condemn, censure",
+                        "    龶",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "荷 Hà  ▶ baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  何 Hà  ▶ what",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    可 Khả, Khắc  ▶ can, passable, approval",
+                        "      丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "        一 Nhất  ▶ one, one radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "        亅 Quyết  ▶ feathered stick, barb radical"
+                    ]
+                }
             },
             {
                 "hiragana": "シートベルトをしめます",
                 "kanji": "シートベルトをしめる",
                 "vietnamese": "thắt dây an toàn",
-                "info": "tha"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": []
+                }
             },
             {
                 "hiragana": "エンジンをかけます",
                 "kanji": "エンジンをかける",
                 "vietnamese": "khởi động động cơ",
-                "info": "tha"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ハンドルをにぎります",
                 "kanji": "ハンドルをにぎる",
                 "vietnamese": "nắm tay lái",
-                "info": "tha"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": []
+                }
             },
             {
                 "hiragana": "アクセスをふみます",
                 "kanji": "アクセスをふむ",
                 "vietnamese": "giậm chân ga",
-                "info": "tha"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ブレーキをかけます",
                 "kanji": "ブレーキをかける",
                 "vietnamese": "giậm thắng",
-                "info": "tha"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": []
+                }
             },
             {
                 "hiragana": "きゅうブレーキ",
                 "kanji": "急ブレーキ",
                 "vietnamese": "thắng gấp",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "急 Cấp  ▶ hurry, emergency, sudden, steep",
+                        "    𠂊 (勹)",
+                        "    ⺕ (彑)",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ワイパーをうごかします",
                 "kanji": "ワイパーを動かす",
                 "vietnamese": "bật cần gạt",
-                "info": "tha, 動 (động) 重 (trọng) 力 (lực) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "動 Động  ▶ move, motion, change, confusion, shift, shake",
+                        "  重 Trọng, Trùng  ▶ heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold",
+                        "    千 Thiên  ▶ thousand",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten",
+                        "    里 Lý  ▶ ri, village, parent's home, league",
+                        "      千 Thiên  ▶ thousand",
+                        "        十 Thập  ▶ ten",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert"
+                    ]
+                }
             },
             {
                 "hiragana": "ガソリンスタンドによります",
                 "kanji": "ガソリンスタンドに寄る",
                 "vietnamese": "ghé vào trạm đổ xăng",
-                "info": "tự, 寄 (kí) 奇 (kì) 宀 (miên) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "寄 Kí  ▶ draw near, stop in, bring near, gather, collect, send, forward",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  奇 Kì, Cơ  ▶ strange, strangeness, curiosity",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "    可 Khả, Khắc  ▶ can, passable, approval",
+                        "      丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "        一 Nhất  ▶ one, one radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "        亅 Quyết  ▶ feathered stick, barb radical"
+                    ]
+                }
             },
             {
                 "hiragana": "こうそく（どうろ）にのります",
                 "kanji": "高速（道路）に乗る",
                 "vietnamese": "vào đường cao tốc",
-                "info": "tự, 速 (tốc) 束 (thúc) ⻌ () 道 (đạo, đáo) 首 (thủ) ⻌ () 路 (lộ) 各 (các) ⻊ () 乗 (thừa) 禾 (hòa) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "路 Lộ  ▶ path, route, road, distance",
+                        "  足 Túc  ▶ leg, foot, be sufficient, counter for pairs of footwear",
+                        "    口 Khẩu  ▶ mouth",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "道 Đạo, Đáo  ▶ road-way, street, district, journey, course, moral, teachings",
+                        "  首 Thủ, Thú  ▶ neck, counter for songs and poems",
+                        "    自 Tự  ▶ oneself",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  ⻌ (辶)",
+                        "速 Tốc  ▶ quick, fast",
+                        "  束 Thúc, Thú  ▶ bundle, sheaf, ream, tie in bundles, govern, manage, control",
+                        "    木 Mộc  ▶ tree, wood",
+                        "    口 Khẩu  ▶ mouth",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  ⻌ (辶)",
+                        "乗 Thặng, Thừa  ▶ ride, power, multiplication, record, counter for vehicles, board, mount, join",
+                        "  千 Thiên  ▶ thousand",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    千 Thiên  ▶ thousand",
+                        "      十 Thập  ▶ ten",
+                        "高 Cao  ▶ tall, high, expensive",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  冋 Quynh  ▶ desert, border prairie, the 1st form is radical 13",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "タイヤがパンクします",
                 "kanji": "タイヤがパンクする",
                 "vietnamese": "bánh xe bị bể",
-                "info": "tự"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": []
+                }
             }
         ]
     },
@@ -1376,163 +4107,675 @@ data_vocabulary = [
                 "hiragana": "つうこうどめ",
                 "kanji": "通行止め",
                 "vietnamese": "cấm lưu thông",
-                "info": "n, 通 (thông) 甬 (dũng) ⻌ () 行 (hành, hạnh, hàng, hạng) 彳 (xích) 一 (nhất) 丁 (đinh) 止 (chỉ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "止 Chỉ  ▶ stop, halt",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "通 Thông  ▶ traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "よつかど / こうさてん",
                 "kanji": "四つ角 / 交差点",
                 "vietnamese": "ngã tư",
-                "info": "n, 四 (tứ) 儿 (nhân) 囗 (vi) 角 (giác, giốc) ⺈ () 用 (dụng) 交 (giao) 六 (lục) 父 (phụ) 差 (soa, si, sai, sái) ノ () 𦍌 () 工 (công) 点 (điểm) 灬 (hỏa) 占 (chiêm) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "差 Soa, Si, Sai, Sái  ▶ distinction, difference, variation, discrepancy, margin, balance",
+                        "  羊 Dương  ▶ sheep",
+                        "    䒑   ▶ grass, straw, herbs, weeds",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    工 Công  ▶ craft, construction, katakana e radical",
+                        "角 Giác, Giốc  ▶ angle, corner, square, horn, antlers",
+                        "  𠂊 (勹)",
+                        "点 Điểm  ▶ spot, point, mark, speck, decimal point",
+                        "  占 Chiêm, Chiếm  ▶ fortune-telling, divining, forecasting, occupy, hold, have, get, take",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical",
+                        "四 Tứ  ▶ four",
+                        "  囗 Vi  ▶ box, box or enclosure radical",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  囗 Vi  ▶ box, box or enclosure radical",
+                        "交 Giao  ▶ mingle, mixing, association, coming & going",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  父 Phụ, Phủ  ▶ father"
+                    ]
+                }
             },
             {
                 "hiragana": "こうじちゅう",
                 "kanji": "工事中",
                 "vietnamese": "đang thi công",
-                "info": "n, 工 (công) 事 (sự) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "工 Công  ▶ craft, construction, katakana e radical",
+                        "事 Sự  ▶ matter, thing, fact, business, reason, possibly",
+                        "  口 Khẩu  ▶ mouth",
+                        "  ⺕ (彑)",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "  口 Khẩu  ▶ mouth",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ふみきり",
                 "kanji": "踏切",
                 "vietnamese": "nơi chắn tàu",
-                "info": "n, 踏 (đạp) ⻊ () 沓 (đạp) 切 (thiết, thế) 七 (thất) 刀 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "踏 Đạp  ▶ step, trample, carry through, appraise, evade payment",
+                        "  足 Túc  ▶ leg, foot, be sufficient, counter for pairs of footwear",
+                        "    口 Khẩu  ▶ mouth",
+                        "  沓 Đạp  ▶ shoes, boots",
+                        "    水 Thủy  ▶ water",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "切 Thiết, Thế  ▶ cut, cutoff, be sharp",
+                        "  七 Thất  ▶ seven",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  刀 Đao  ▶ sword, saber, knife"
+                    ]
+                }
             },
             {
                 "hiragana": "おうだんほどう",
                 "kanji": "横断歩道",
                 "vietnamese": "vạch dành cho người đi bộ",
-                "info": "n, 横 (hoành, hoạnh, quáng) 木 (mộc) 黄 (hoàng) 断 (đoạn, đoán: đứt) 段(đoạn: thẳng)  米 (mễ) 𠃊 () 斤 (cân) 歩 (bộ) 少 (thiểu) 止 (chỉ) 道 (đạo, đáo) 首 (thủ) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "横 Hoành, Hoạnh, Quáng, Vàng  ▶ sideways, side, horizontal, width, woof, unreasonable, perverse",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  黄 Hoàng  ▶ yellow",
+                        "    龷",
+                        "    由 Do  ▶ wherefore, a reason",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "断 Đoán, Đoạn, Đón  ▶ severance, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement, cutting",
+                        "    米 Mễ  ▶ rice, USA, metre",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical",
+                        "道 Đạo, Đáo  ▶ road-way, street, district, journey, course, moral, teachings",
+                        "  首 Thủ, Thú  ▶ neck, counter for songs and poems",
+                        "    自 Tự  ▶ oneself",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  ⻌ (辶)",
+                        "歩 Bộ  ▶ walk, counter for steps",
+                        "  止 Chỉ  ▶ stop, halt",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  少 Thiểu, Thiếu  ▶ few, little",
+                        "    小 Tiểu  ▶ little, small",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "バスてい (ていりゅうじょ)",
                 "kanji": "バス停 (停留所)",
                 "vietnamese": "trạm xe bus",
-                "info": "n, 停 (đình) 亻 (nhân) 亭 (đình) 留 (lưu) 卯 (mão) 田 (điền) 所 (sở) 斤 (cân) 戸 (hộ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "所 Sở  ▶ place, extent",
+                        "  戸 Hộ, Họ  ▶ door, counter for houses, door radical",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical",
+                        "停 Đình  ▶ halt, stopping",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  亭 Đình  ▶ pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "        一 Nhất  ▶ one, one radical",
+                        "        亅 Quyết  ▶ feathered stick, barb radical",
+                        "留 Lưu  ▶ detain, fasten, halt, stop",
+                        "  卯 Mão  ▶ sign of the hare or rabbit, fourth sign of Chinese zodiac, 5-7AM, east",
+                        "    卩 (刀) Tiết  ▶ seal radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  田 Điền  ▶ rice field, rice paddy"
+                    ]
+                }
             },
             {
                 "hiragana": "いっぽうつうこう",
                 "kanji": "一方通行",
                 "vietnamese": "đường một chiều",
-                "info": "n, 方 (phương) 通 (thông) 甬 (dũng) ⻌ () 行 (hành, hạnh, hàng, hạng) 彳 (xích) 一 (nhất) 丁 (đinh) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "方 Phương  ▶ direction, person, alternative",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "一 Nhất  ▶ one, one radical",
+                        "通 Thông  ▶ traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "せんろ",
                 "kanji": "線路",
                 "vietnamese": "đường ray",
-                "info": "n, 線 (tuyến) 糸 (mịch) 泉 (tuyền) 路 (lộ) 各 (các) ⻊ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "路 Lộ  ▶ path, route, road, distance",
+                        "  足 Túc  ▶ leg, foot, be sufficient, counter for pairs of footwear",
+                        "    口 Khẩu  ▶ mouth",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "線 Tuyến  ▶ line, track",
+                        "  糸 Mịch  ▶ thread",
+                        "  泉 Tuyền, Toàn  ▶ spring, fountain",
+                        "    白 Bạch  ▶ white",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    水 Thủy  ▶ water"
+                    ]
+                }
             },
             {
                 "hiragana": "どうろがこんでいます",
                 "kanji": "道路が混んでいる",
                 "vietnamese": "đường đông xe",
-                "info": "tự, 道 (đạo, đáo) 首 (thủ) ⻌ () 路 (lộ) 各 (các) ⻊ () 混 (hỗn, cổn) 昆 (côn) 氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "道 Đạo, Đáo  ▶ road-way, street, district, journey, course, moral, teachings",
+                        "  首 Thủ, Thú  ▶ neck, counter for songs and poems",
+                        "    自 Tự  ▶ oneself",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  ⻌ (辶)",
+                        "混 Hỗn, Cổn  ▶ mix, blend, confuse",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  昆 Côn  ▶ descendants, elder brother, insect",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    比 Bỉ, Bí, Bì, Tỉ  ▶ compare, race, ratio, Philippines",
+                        "      匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "路 Lộ  ▶ path, route, road, distance",
+                        "  足 Túc  ▶ leg, foot, be sufficient, counter for pairs of footwear",
+                        "    口 Khẩu  ▶ mouth",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "どうろがじゅうたいしています",
                 "kanji": "道路が渋滞している",
                 "vietnamese": "đường kẹt xe",
-                "info": "tự 道 (đạo, đáo) 首 (thủ) ⻌ () 路 (lộ) 各 (các) ⻊ () 渋 (sáp: co rút) 止 (chỉ) ⺢ () 氵 (thủy) 滞 (trệ: đình) 帯 (đới: nhiệt) 氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "道 Đạo, Đáo  ▶ road-way, street, district, journey, course, moral, teachings",
+                        "  首 Thủ, Thú  ▶ neck, counter for songs and poems",
+                        "    自 Tự  ▶ oneself",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  ⻌ (辶)",
+                        "渋 Sáp  ▶ astringent, hesitate, reluctant, have diarrhea",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "    止 Chỉ  ▶ stop, halt",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "      冫 Băng  ▶ two-stroke water radical or ice radical",
+                        "路 Lộ  ▶ path, route, road, distance",
+                        "  足 Túc  ▶ leg, foot, be sufficient, counter for pairs of footwear",
+                        "    口 Khẩu  ▶ mouth",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "滞 Trệ  ▶ stagnate, be delayed, overdue, arrears",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  帯 Đái, Đới, Đai  ▶ sash, belt, obi, zone, region",
+                        "    丗 Tạp, Thế, Thay  ▶ thirty",
+                        "      卅 Tạp  ▶ thirty",
+                        "        廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "          廿 Nhập, Chấp  ▶ twenty",
+                        "            十 Thập  ▶ ten",
+                        "          川 (巛) Xuyên  ▶ stream, river, river or three-stroke river radical",
+                        "            丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "              廿 Nhập, Chấp  ▶ twenty",
+                        "            十 Thập  ▶ ten",
+                        "              廿 Nhập, Chấp  ▶ twenty",
+                        "        川 (巛) Xuyên  ▶ stream, river, river or three-stroke river radical",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      巾 Cân  ▶ towel, hanging scroll, width, cloth radical"
+                    ]
+                }
             },
             {
                 "hiragana": "どうろがすいています",
                 "kanji": "道路がすいている",
                 "vietnamese": "đường trống",
-                "info": "tự, 道 (đạo, đáo) 首 (thủ) ⻌ () 路 (lộ) 各 (các) ⻊ () "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "道 Đạo, Đáo  ▶ road-way, street, district, journey, course, moral, teachings",
+                        "  首 Thủ, Thú  ▶ neck, counter for songs and poems",
+                        "    自 Tự  ▶ oneself",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  ⻌ (辶)",
+                        "路 Lộ  ▶ path, route, road, distance",
+                        "  足 Túc  ▶ leg, foot, be sufficient, counter for pairs of footwear",
+                        "    口 Khẩu  ▶ mouth",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "まわりみちをします",
                 "kanji": "回り道（を）する",
                 "vietnamese": "đi đường vòng",
-                "info": "tha, 回 (hồi, hối) 口 (khẩu) 囗 (vi) 道 (đạo, đáo) 首 (thủ) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "道 Đạo, Đáo  ▶ road-way, street, district, journey, course, moral, teachings",
+                        "  首 Thủ, Thú  ▶ neck, counter for songs and poems",
+                        "    自 Tự  ▶ oneself",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  ⻌ (辶)",
+                        "回 Hồi, Hối  ▶ -times, round, game, revolve, counter for occurrences",
+                        "  囗 Vi  ▶ box, box or enclosure radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "  囗 Vi  ▶ box, box or enclosure radical"
+                    ]
+                }
             },
             {
                 "hiragana": "とおまわし（を）します",
                 "kanji": "遠回し（を）する",
                 "vietnamese": "đi vòng vòng",
-                "info": "tha, 遠 (viễn, viển) 袁 (viên) ⻌ () 回 (hồi, hối) 口 (khẩu) 囗 (vi) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "遠 Viễn, Viển  ▶ distant, far",
+                        "  袁 Viên  ▶ long kimono",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "      衣 Y, Ý  ▶ garment, clothes, dressing",
+                        "        亠 Đầu  ▶ kettle lid radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      衣 Y, Ý  ▶ garment, clothes, dressing",
+                        "  ⻌ (辶)",
+                        "回 Hồi, Hối  ▶ -times, round, game, revolve, counter for occurrences",
+                        "  囗 Vi  ▶ box, box or enclosure radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "  囗 Vi  ▶ box, box or enclosure radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ちかみち（を）します",
                 "kanji": "近道（を）する",
                 "vietnamese": "đi đường tắt",
-                "info": "tha, 近 (cận, cấn, kí) 斤 (cân) ⻌ () 道 (đạo, đáo) 首 (thủ) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "道 Đạo, Đáo  ▶ road-way, street, district, journey, course, moral, teachings",
+                        "  首 Thủ, Thú  ▶ neck, counter for songs and poems",
+                        "    自 Tự  ▶ oneself",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  ⻌ (辶)",
+                        "近 Cận, Cấn, Ký  ▶ near, early, akin, tantamount",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "つきあたりをひだりにまがります",
                 "kanji": "突き当りを左に曲がる",
                 "vietnamese": "quẹo trái ở cuối đường",
-                "info": "tha, 突 (đột) 穴 (huyệt) 大 (đại) 当 (đương, đang, đáng) ⺌ () ヨ () 左 (tả, tá) 𠂇 () 工 (công) 曲 (khúc) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "当 Đang, Đáng, Đương  ▶ hit, right, appropriate, himself",
+                        "  ⺌ (小)",
+                        "  ⺕ (彑)",
+                        "曲 Khúc  ▶ bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "  廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "    日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "左 Tả, Tá  ▶ left",
+                        "  工 Công  ▶ craft, construction, katakana e radical",
+                        "突 Đột  ▶ stab, protruding, thrust, pierce, prick, collision, sudden",
+                        "  穴 Huyệt  ▶ hole, aperture, slit, cave, den",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "バスがていしゃします",
                 "kanji": "バスが停車する",
                 "vietnamese": "xe bus dừng",
-                "info": "tự, 停 (đình) 亻 (nhân) 亭 (đình) 車 (xa) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "停 Đình  ▶ halt, stopping",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  亭 Đình  ▶ pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "        一 Nhất  ▶ one, one radical",
+                        "        亅 Quyết  ▶ feathered stick, barb radical",
+                        "車 Xa  ▶ car"
+                    ]
+                }
             },
             {
                 "hiragana": "せんろをこえます",
                 "kanji": "線路を越える",
                 "vietnamese": "vượt qua đường ray",
-                "info": "tha, 線 (tuyến) 糸 (mịch) 泉 (tuyền) 路 (lộ) 各 (các) ⻊ () 越 (việt, hoạt) 走 (tẩu) 戉 () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "路 Lộ  ▶ path, route, road, distance",
+                        "  足 Túc  ▶ leg, foot, be sufficient, counter for pairs of footwear",
+                        "    口 Khẩu  ▶ mouth",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "越 Việt, Hoạt  ▶ surpass, cross over, move to, exceed, Vietnam",
+                        "  走 Tẩu  ▶ run",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    龰",
+                        "  戉 Mậu, Việt  ▶ warrior, arms, savage, Ainu",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        丶 Chủ  ▶ dot, tick or dot radical",
+                        "線 Tuyến  ▶ line, track",
+                        "  糸 Mịch  ▶ thread",
+                        "  泉 Tuyền, Toàn  ▶ spring, fountain",
+                        "    白 Bạch  ▶ white",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    水 Thủy  ▶ water"
+                    ]
+                }
             },
             {
                 "hiragana": "トラックをおいこします",
                 "kanji": "トラックを追い越す",
                 "vietnamese": "vượt qua xe tải",
-                "info": "tha, 追 (truy: đuổi) 𠂤 () ⻌ () 越 (việt, hoạt) 走 (tẩu) 戉 () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "追 Truy, Đôi  ▶ chase, drive away, follow, pursue, meanwhile",
+                        "  𠂤   ▶ to store up, to pile up",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  ⻌ (辶)",
+                        "越 Việt, Hoạt  ▶ surpass, cross over, move to, exceed, Vietnam",
+                        "  走 Tẩu  ▶ run",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    龰",
+                        "  戉 Mậu, Việt  ▶ warrior, arms, savage, Ainu",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "じそく100キロではしります",
                 "kanji": "時速１００キロで走る",
                 "vietnamese": "chạy tốc độ 100 km/h",
-                "info": "tự, 時 (thì, thời) 日 (nhật) 寺 (tự) 速 (tốc) 束 (thúc) ⻌ () 走 (tẩu) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "速 Tốc  ▶ quick, fast",
+                        "  束 Thúc, Thú  ▶ bundle, sheaf, ream, tie in bundles, govern, manage, control",
+                        "    木 Mộc  ▶ tree, wood",
+                        "    口 Khẩu  ▶ mouth",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  ⻌ (辶)",
+                        "走 Tẩu  ▶ run",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  龰",
+                        "時 Thì, Thời  ▶ time, hour",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "スピードいはんでつかまります",
                 "kanji": "スピード違反で捕まる",
                 "vietnamese": "bị bắt vì vi phạm tốc độ",
-                "info": "tự, 違 (vi: phạm) 韋 (vi) ⻌ () 反 (phản, phiên) 又 (hựu) 厂 (hán) 捕 (bộ: bắt) 甫 (phủ) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "反 Phản, Phiên  ▶ anti-",
+                        "  厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "違 Vi  ▶ difference, differ",
+                        "  韋 Vi  ▶ tanned leather radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "  ⻌ (辶)",
+                        "捕 Bộ  ▶ catch, capture",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  甫 Phủ  ▶ for the first time, not until",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "    丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ちゅうしゃいはんをします",
                 "kanji": "駐車違反をする",
                 "vietnamese": "vi phạm việc đậu xe",
-                "info": "tha, 駐 (trú) 主 (chủ) 馬 (mã) 車 (xa) 違 (vi: phạm) 韋 (vi) ⻌ () 反 (phản, phiên) 又 (hựu) 厂 (hán)"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "反 Phản, Phiên  ▶ anti-",
+                        "  厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "違 Vi  ▶ difference, differ",
+                        "  韋 Vi  ▶ tanned leather radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "  ⻌ (辶)",
+                        "車 Xa  ▶ car",
+                        "駐 Trú  ▶ stop-over, reside in, resident",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "  主 Chủ  ▶ lord, chief, master, main thing, principal",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    王 (玉) Vương, Vượng  ▶ king, rule, magnate"
+                    ]
+                }
             },
             {
                 "hiragana": "しんごうをむしします",
                 "kanji": "信号を無視する",
                 "vietnamese": "lờ đi tín hiệu giao thông",
-                "info": "tha, 信 (tín) 亻 (nhân) 言 (ngôn) 号 (hào, hiệu) 丂 (khảo) 口 (khẩu) 無 (vô, mô) 視 (thị) 見 (kiến) 礻 (thị) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "号 Hiệu  ▶ nickname, number, item, title, pseudonym, name, call",
+                        "  口 Khẩu  ▶ mouth",
+                        "    一 Nhất  ▶ one, one radical",
+                        "無 Vô, Mô  ▶ nothingness, none, ain't, nothing, nil, not",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical",
+                        "信 Tín  ▶ faith, truth, fidelity, trust",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "視 Thị  ▶ inspection, regard as, see, look at",
+                        "  礻 (示) Kỳ, Thị, Kì  ▶ cult, showing radical",
+                        "  見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    儿 Nhân  ▶ legs radical"
+                    ]
+                }
             },
             {
                 "hiragana": "くるまをぶつけます/くるまがぶつかります",
                 "kanji": "車をぶつける/車がぶつかる",
                 "vietnamese": "va chạm xe/xe bị va chạm",
-                "info": "tha/tự"
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "車 Xa  ▶ car"
+                    ]
+                }
             },
             {
                 "hiragana": "ねこをひきます",
                 "kanji": "猫をひく",
                 "vietnamese": "đâm trúng mèo",
-                "info": "tha, 猫 (miêu) 苗 (miêu: lúa non) 犭 (khuyển) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "猫 Miêu  ▶ cat",
+                        "  ⺨ (犬)",
+                        "  苗 Miêu, Meo, Miều  ▶ seedling, sapling, shoot",
+                        "    艹 (艸)   ▶ grass, radical number 140",
+                        "    田 Điền  ▶ rice field, rice paddy"
+                    ]
+                }
             },
             {
                 "hiragana": "（こうつう）じこにあいます",
                 "kanji": "（交通）事故にあう",
                 "vietnamese": "gặp tai nạn giao thông",
-                "info": "tự, 交 (giao) 六 (lục) 父 (phụ) 通 (thông) 甬 (dũng) ⻌ () 事 (sự) 故 (cố) 古 (cổ) 攵 (phộc) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "事 Sự  ▶ matter, thing, fact, business, reason, possibly",
+                        "  口 Khẩu  ▶ mouth",
+                        "  ⺕ (彑)",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "故 Cố  ▶ happenstance, especially, intentionally, reason, cause, circumstances, the late, therefore, consequently",
+                        "  古 Cổ  ▶ old",
+                        "    十 Thập  ▶ ten",
+                        "    口 Khẩu  ▶ mouth",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "通 Thông  ▶ traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "  ⻌ (辶)",
+                        "交 Giao  ▶ mingle, mixing, association, coming & going",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  父 Phụ, Phủ  ▶ father"
+                    ]
+                }
             },
             {
                 "hiragana": "ななめにおうだんします",
                 "kanji": "ななめに横断する",
                 "vietnamese": "băng chéo qua đường",
-                "info": "tự, 横 (hoành, hoạnh, quáng) 木 (mộc) 黄 (hoàng) 断 (đoạn, đoán) 米 (mễ) 𠃊 () 斤 (cân) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "横 Hoành, Hoạnh, Quáng, Vàng  ▶ sideways, side, horizontal, width, woof, unreasonable, perverse",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  黄 Hoàng  ▶ yellow",
+                        "    龷",
+                        "    由 Do  ▶ wherefore, a reason",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "断 Đoán, Đoạn, Đón  ▶ severance, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement, cutting",
+                        "    米 Mễ  ▶ rice, USA, metre",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical"
+                    ]
+                }
             },
             {
                 "hiragana": "どうろをよこぎります",
                 "kanji": "道路を横切る",
                 "vietnamese": "chạy ngang qua đường",
-                "info": "tự, 道 (đạo, đáo) 首 (thủ) ⻌ () 路 (lộ) 各 (các) ⻊ () 横 (hoành, hoạnh, quáng) 木 (mộc) 黄 (hoàng) 切 (thiết, thế) 七 (thất) 刀 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "道 Đạo, Đáo  ▶ road-way, street, district, journey, course, moral, teachings",
+                        "  首 Thủ, Thú  ▶ neck, counter for songs and poems",
+                        "    自 Tự  ▶ oneself",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  ⻌ (辶)",
+                        "横 Hoành, Hoạnh, Quáng, Vàng  ▶ sideways, side, horizontal, width, woof, unreasonable, perverse",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  黄 Hoàng  ▶ yellow",
+                        "    龷",
+                        "    由 Do  ▶ wherefore, a reason",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "路 Lộ  ▶ path, route, road, distance",
+                        "  足 Túc  ▶ leg, foot, be sufficient, counter for pairs of footwear",
+                        "    口 Khẩu  ▶ mouth",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "切 Thiết, Thế  ▶ cut, cutoff, be sharp",
+                        "  七 Thất  ▶ seven",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  刀 Đao  ▶ sword, saber, knife"
+                    ]
+                }
             }
         ]
     },
@@ -1543,145 +4786,594 @@ data_vocabulary = [
                 "hiragana": "いんかん",
                 "kanji": "印鑑",
                 "vietnamese": "con dấu (quan trọng)",
-                "info": "n, 印 (ấn) 卩 (tiết) 鑑 (giám: gương soi) 監 (giam, giám: ngục) 金 (kim) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "鑑 Giám  ▶ specimen, take warning from, learn from",
+                        "  金 Kim  ▶ gold",
+                        "  監 Giam, Giám  ▶ oversee, official, govt office, rule, administer",
+                        "      臣 Thần  ▶ retainer, subject",
+                        "        𠂉",
+                        "    皿 Mãnh  ▶ dish, a helping, plate",
+                        "印 Ấn  ▶ stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  卩 Tiết  ▶ seal radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しへい/（お）さつ",
                 "kanji": "紙幣/（お）札",
                 "vietnamese": "tiền giấy (ngân hàng / thường ngày)",
-                "info": "n, 紙 (chỉ: giấy) 氏 (thị) 糸 (mịch) 幣 (tệ: lụa) 敝 (tệ: nát) 攵 (phộc) 㡀 ()  巾 (cân) 札 (trát: thẻ) 乚 () 木 (mộc) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "札 Trát  ▶ tag, paper money, counter for bonds, placard, bid",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "紙 Chỉ  ▶ paper",
+                        "  糸 Mịch  ▶ thread",
+                        "  氏 Thị, Chi  ▶ family name, surname, clan",
+                        "幣 Tệ  ▶ cash, bad habit, humble prefix, gift, Shinto offerings of cloth, rope, cut paper",
+                        "  敝 Tệ  ▶ be worn-out, be dilapidated, be defeated",
+                        "      小 Tiểu  ▶ little, small",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      小 Tiểu  ▶ little, small",
+                        "    攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "      𠂉",
+                        "      乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  巾 Cân  ▶ towel, hanging scroll, width, cloth radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ひゃくえんだま",
                 "kanji": "百円玉",
                 "vietnamese": "đồng xu 100 yên",
-                "info": "n, 百 (bách, bá, mạch) 白 (bạch) 一 (nhất) 円 (viên) 玉 (ngọc, túc) 王 (vương) 丶 (chủ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "玉 Ngọc, Túc  ▶ jewel, ball",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "  丶 Chủ  ▶ dot, tick or dot radical",
+                        "円 Viên  ▶ circle, yen, round",
+                        "  冂 Quynh  ▶ upside-down box radical",
+                        "百 Bách, Bá, Mạch  ▶ hundred",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  白 Bạch  ▶ white",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "こうか",
                 "kanji": "硬貨",
                 "vietnamese": "tiền xu",
-                "info": "n, 硬 (ngạnh: cứng) 石 (thạch) 更 (canh: đổi, 5) 貨 (hóa: của) 貝 (bối) 化 (hóa)  "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "貨 Hóa  ▶ freight, goods, property",
+                        "  化 Hóa  ▶ change, take the form of, influence, enchant, delude, -ization",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "硬 Ngạnh  ▶ stiff, hard",
+                        "  石 Thạch  ▶ stone",
+                        "    口 Khẩu  ▶ mouth",
+                        "  更 Canh, Cánh  ▶ grow late, night watch, sit up late, of course, renew, renovate, again, more and more, further",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "おかねをためます/ちょきんします",
                 "kanji": "お金をためる/貯金する",
                 "vietnamese": "để dành tiền (thông dụng / ngân hàng)",
-                "info": "tha, 貯 (trữ: lưu) 丁 (đinh) 宀 (miên)  貝 (bối) 金 (kim) 𠆢 () 丷 () 王 (vương) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "貯 Trữ  ▶ savings, store, lay in, keep, wear mustache",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  宁 Ninh, Nịnh, Trữ, Chữ, Giữ  ▶ calm, peaceful, serene, healthy",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      亅 Quyết  ▶ feathered stick, barb radical",
+                        "金 Kim  ▶ gold"
+                    ]
+                }
             },
             {
                 "hiragana": "よきんします/ぎんこうにおかねをあずけます",
                 "kanji": "預金する/銀行にお金を預ける",
                 "vietnamese": "gửi tiền vào tk (ngân hàng/đời thường)",
-                "info": "tha, 預 (dự: can, bị) 頁 (hiệt) 予 (dư) 金 (kim) 𠆢 () 丷 () 王 (vương) 銀 (ngân) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "預 Dự  ▶ deposit, custody, leave with, entrust to",
+                        "  予 Dư, Dữ  ▶ beforehand, previous, myself, I",
+                        "    マ",
+                        "    了 Liễu  ▶ complete, finish",
+                        "      亅 Quyết  ▶ feathered stick, barb radical",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "金 Kim  ▶ gold",
+                        "銀 Ngân  ▶ silver",
+                        "  金 Kim  ▶ gold",
+                        "  艮 Cấn  ▶ northeast (Oriental zodiac), stopping, good radical"
+                    ]
+                }
             },
             {
                 "hiragana": "(きゅうりょうを) ひきだします/おろします",
                 "kanji": "(給料を) 引き出す/下ろす",
                 "vietnamese": "rút tiền lương (trung tính / đời thường)",
-                "info": "tha, 給 (cấp: cung) 糸 (mịch) 合 (hợp) 料 (liêu, liệu) 米 (mễ) 斗 (đấu) 引 (dẫn, dấn) 弓 (cung) 丨 (cổn) 出 (xuất, xúy) 下 (hạ, há) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "引 Dẫn, Dấn  ▶ pull, tug, jerk, admit, install, quote, refer to",
+                        "  弓 Cung  ▶ bow, bow (archery, violin)",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "料 Liêu, Liệu  ▶ fee, materials",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "給 Cấp  ▶ salary, wage, gift, allow, grant, bestow on",
+                        "  糸 Mịch  ▶ thread",
+                        "  合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "      人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "つうちょうきにゅうをします／つうちょうにきにゅうします",
                 "kanji": "通帳記入をする／通帳に記入する",
                 "vietnamese": "kí sổ (ngân hàng)",
-                "info": "tha, 通 (thông) 甬 (dũng) ⻌ () 帳 (trướng) 長 (trường) 巾 (cân) 記 (kí) 言 (ngôn) 己 (kỉ) 入 (nhập) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "記 Kí  ▶ scribe, account, narrative",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  己 Kỷ  ▶ self",
+                        "帳 Trướng  ▶ notebook, account book, album, curtain, veil, net, tent",
+                        "  巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "  長 Trường, Trưởng, Trướng  ▶ long, leader, superior, senior",
+                        "入 Nhập  ▶ enter, insert",
+                        "通 Thông  ▶ traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "あんしょうばんごう",
                 "kanji": "暗証番号",
                 "vietnamese": "số pin",
-                "info": "n, 暗 (ám: tối) 日 (nhật) 音 (âm) 証 (chứng: cớ) 正 (chánh) 言 (ngôn) 番 (phiên, phan, ba, bà) 釆 (biện) 田 (điền) 号 (hào, hiệu) 丂 (khảo) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "暗 Ám  ▶ darkness, disappear, shade, informal, grow dark, be blinded",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  音 Âm  ▶ sound, noise",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "証 Chứng  ▶ evidence, proof, certificate",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  正 Chánh, Chính  ▶ correct, justice, righteous, 10**40",
+                        "    止 Chỉ  ▶ stop, halt",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "号 Hiệu  ▶ nickname, number, item, title, pseudonym, name, call",
+                        "  口 Khẩu  ▶ mouth",
+                        "    一 Nhất  ▶ one, one radical",
+                        "番 Phiên, Phan, Ba, Bà  ▶ turn, number in a series",
+                        "  釆 Biện  ▶ separate, divide, topped rice radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    米 Mễ  ▶ rice, USA, metre",
+                        "  田 Điền  ▶ rice field, rice paddy"
+                    ]
+                }
             },
             {
                 "hiragana": "ぎんこうのほんてん",
                 "kanji": "銀行の本店",
                 "vietnamese": "cơ sở chính ngân hàng",
-                "info": "n, 銀 (ngân) 艮 (cấn) 金 (kim) 行 (hành, hạnh, hàng, hạng) 彳 (xích) 一 (nhất)丁 (đinh) 本 (bổn, bản) 一 (nhất) 木 (mộc) 店 (điếm) 占 (chiêm) 广 (nghiễm) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "銀 Ngân  ▶ silver",
+                        "  金 Kim  ▶ gold",
+                        "  艮 Cấn  ▶ northeast (Oriental zodiac), stopping, good radical",
+                        "本 Bổn, Bản  ▶ book, present, main, origin, true, real, counter for long cylindrical things",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "店 Điếm  ▶ store, shop",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  占 Chiêm, Chiếm  ▶ fortune-telling, divining, forecasting, occupy, hold, have, get, take",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "ぎんこうのしてん",
                 "kanji": "銀行の支店",
                 "vietnamese": "chi nhánh ngân hàng",
-                "info": "n, 銀 (ngân) 艮 (cấn) 金 (kim) 行 (hành, hạnh, hàng, hạng) 彳 (xích) 一 (nhất) 丁 (đinh) 支 (chi) 十 (thập) 又 (hựu) 店 (điếm) 占 (chiêm) 广 (nghiễm) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "店 Điếm  ▶ store, shop",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  占 Chiêm, Chiếm  ▶ fortune-telling, divining, forecasting, occupy, hold, have, get, take",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "銀 Ngân  ▶ silver",
+                        "  金 Kim  ▶ gold",
+                        "  艮 Cấn  ▶ northeast (Oriental zodiac), stopping, good radical",
+                        "支 Chi  ▶ branch, support, sustain, branch radical",
+                        "  十 Thập  ▶ ten",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "こうざをひらきます",
                 "kanji": "口座を開く",
                 "vietnamese": "mở tài khoản",
-                "info": "tha, 口 (khẩu) 座 (tọa) 坐 (tọa) 广 (nghiễm) 開 (khai) 开 (khai) 門 (môn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "座 Tọa  ▶ squat, seat, cushion, gathering, sit",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  坐 Tọa  ▶ sit",
+                        "    从 Tòng  ▶ two people",
+                        "      人 Nhân  ▶ person",
+                        "      人 Nhân  ▶ person",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "開 Khai  ▶ open, unfold, unseal",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  开 (幵)   ▶ open, initiate, begin, start",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "      十 Thập  ▶ ten",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "      十 Thập  ▶ ten",
+                        "口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "やちんをふりこみます",
                 "kanji": "家賃を振り込む",
                 "vietnamese": "chuyển khoản thanh toán tiền thuê nhà",
-                "info": "tha, 家 (gia, cô) 豕 (thỉ) 宀 (miên) 賃 (nhẫm: thuê) 貝 (bối) 任 (nhiệm: trách) 振 (chấn: chỉnh) 辰 (thìn) 扌 (thủ) 込 () ⻌ () 入 (nhập) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "家 Gia, Cô  ▶ house, home, family, professional, expert, performer",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  豕 Thỉ  ▶ pig, hog, pig radical",
+                        "振 Chấn, Chân  ▶ shake, wave, wag, swing",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  辰 Thần, Thìn  ▶ sign of the dragon, 7-9AM, fifth sign of Chinese zodiac, shin dragon radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "賃 Nhẫm  ▶ fare, fee, hire, rent, wages, charge",
+                        "  任 Nhâm, Nhậm  ▶ responsibility, duty, term, entrust to, appoint",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    壬 Nhâm  ▶ 9th calendar sign",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "込 Liêu  ▶ crowded, mixture, in bulk, included, (kokuji)",
+                        "  入 Nhập  ▶ enter, insert",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "こうきょうりょうきんをしはらいます",
                 "kanji": "公共料金を支払う",
                 "vietnamese": "trả cước sinh hoạt",
-                "info": "tha, 公 (công) ハ () 厶 (khư) 共 (cộng, cung) 艹 (thảo) 一 (nhất) ハ () 料 (liêu, liệu) 米 (mễ) 斗 (đấu) 金 (kim) 𠆢 () 丷 () 王 (vương) 支 (chi) 十 (thập) 又 (hựu) 払 (phất: trả) 厶 (khư) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "共 Cộng, Cung  ▶ together, both, neither, all, and, alike, with",
+                        "  八 Bát  ▶ eight, eight radical",
+                        "公 Công  ▶ public, prince, official, governmental",
+                        "  八 Bát  ▶ eight, eight radical",
+                        "  厶 Khư  ▶ I, myself, katakana mu radical",
+                        "支 Chi  ▶ branch, support, sustain, branch radical",
+                        "  十 Thập  ▶ ten",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "料 Liêu, Liệu  ▶ fee, materials",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "金 Kim  ▶ gold",
+                        "払 Chàng  ▶ pay, clear out, prune, banish, dispose of",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  厶 Khư  ▶ I, myself, katakana mu radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しょうひんのだいきんをはらいます",
                 "kanji": "商品の代金を払う",
                 "vietnamese": "thanh toán tiền mua hàng",
-                "info": "tha, 商 (thương: buôn, lượng) 立 (lập) 冏 (quýnh) 品 (phẩm) 代 (đại) 弋 (dặc) 亻 (nhân) 金 (kim) 𠆢 () 丷 () 王 (vương) 払 (phất: trả) 厶 (khư) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "商 Thương  ▶ make a deal, selling, dealing in, merchant",
+                        "  立 Lập  ▶ stand up, rise, set up, erect",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "  冏 Quýnh  ▶ light, clear, bright",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "代 Đại  ▶ substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  弋 Dặc  ▶ piling, ceremony radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "金 Kim  ▶ gold",
+                        "品 Phẩm  ▶ goods, refinement, dignity, article, counter for meal courses",
+                        "  口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "払 Chàng  ▶ pay, clear out, prune, banish, dispose of",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  厶 Khư  ▶ I, myself, katakana mu radical"
+                    ]
+                }
             },
             {
                 "hiragana": "あてな",
                 "kanji": "あて名",
                 "vietnamese": "tên và địa chỉ người nhận",
-                "info": "n, 名 (danh) 夕 (tịch) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "名 Danh  ▶ name, noted, distinguished, reputation",
+                        "  夕 Tịch  ▶ evening",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "まどぐちでりょうがえをします",
                 "kanji": "窓口で両替をする",
                 "vietnamese": "đổi tiền ở quầy",
-                "info": "tha, 窓 (song: cửa sổ) 穴 (huyệt) 厶 (khư) 心 (tâm) 口 (khẩu) 両 (lưỡng, lạng) 一 (nhất) 山 (san) 冂 (quynh) 替 (thế: thay) 夫 (phu) 日 (nhật)  "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "両 Lạng  ▶ both, old Japanese coin, counter for carriages (e.g., in a train), two",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  冂 Quynh  ▶ upside-down box radical",
+                        "  山 San, Sơn  ▶ mountain",
+                        "替 Thế  ▶ exchange, spare, substitute, per-",
+                        "    夫 Phu, Phù  ▶ husband, man",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "    夫 Phu, Phù  ▶ husband, man",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "窓 Song  ▶ window, pane",
+                        "  穴 Huyệt  ▶ hole, aperture, slit, cave, den",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "さしだしにんめい",
                 "kanji": "差出人名",
                 "vietnamese": "tên người gửi",
-                "info": "n, 差 (sai) ノ () 𦍌 () 工 (công) 出 (xuất, xúy) 人 (nhân) 名 (danh) 夕 (tịch) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "差 Soa, Si, Sai, Sái  ▶ distinction, difference, variation, discrepancy, margin, balance",
+                        "  羊 Dương  ▶ sheep",
+                        "    䒑   ▶ grass, straw, herbs, weeds",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    工 Công  ▶ craft, construction, katakana e radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "名 Danh  ▶ name, noted, distinguished, reputation",
+                        "  夕 Tịch  ▶ evening",
+                        "  口 Khẩu  ▶ mouth",
+                        "人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "そうきんします",
                 "kanji": "送金する",
                 "vietnamese": "chuyển tiền",
-                "info": "tha, 送 (tống) 关 (quan) ⻌ () 金 (kim) 𠆢 () 丷 () 王 (vương) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "送 Tống  ▶ escort, send",
+                        "  关   ▶ frontier pass, close, relation",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  ⻌ (辶)",
+                        "金 Kim  ▶ gold"
+                    ]
+                }
             },
             {
                 "hiragana": "てがみをそくたつでだします",
                 "kanji": "手紙を速達で出す",
                 "vietnamese": "gửi thư chuyển phát nhanh",
-                "info": "tha, 手 (thủ) 紙 (chỉ: giấy) 氏 (thị) 糸 (mịch) 速 (tốc) 束 (thúc) ⻌ () 達 (đạt: dachi) 羊 (dương) 土 (thổ) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "手 Thủ  ▶ hand",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "速 Tốc  ▶ quick, fast",
+                        "  束 Thúc, Thú  ▶ bundle, sheaf, ream, tie in bundles, govern, manage, control",
+                        "    木 Mộc  ▶ tree, wood",
+                        "    口 Khẩu  ▶ mouth",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  ⻌ (辶)",
+                        "紙 Chỉ  ▶ paper",
+                        "  糸 Mịch  ▶ thread",
+                        "  氏 Thị, Chi  ▶ family name, surname, clan",
+                        "達 Đạt  ▶ accomplished, reach, arrive, attain",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    羊 Dương  ▶ sheep",
+                        "      䒑   ▶ grass, straw, herbs, weeds",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "しおくりします",
                 "kanji": "仕送りする",
                 "vietnamese": "gửi tiền, chu cấp",
-                "info": "tha, 仕 (sĩ: quan) 亻 (nhân) 士 (sĩ) 送 (tống: tiễn) 关 (quan) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "仕 Sĩ  ▶ attend, doing, official, serve",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "送 Tống  ▶ escort, send",
+                        "  关   ▶ frontier pass, close, relation",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "こづつみ",
                 "kanji": "小包",
                 "vietnamese": "bưu phẩm",
-                "info": "n, 小 (tiểu) 包 (bao: bọc) 勹 (bao) 己 (kỉ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "包 Bao  ▶ wrap, pack up, cover, conceal",
+                        "  勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  己 Kỷ  ▶ self",
+                        "小 Tiểu  ▶ little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "てすうりょうがかかります",
                 "kanji": "手数料がかかる",
                 "vietnamese": "tốn phí dịch vụ (môi giới)",
-                "info": "tự, 手 (thủ) 数 (sổ, số, sác, xúc) 女 (nữ) 米 (mễ) 攵 (phộc) 料 (liêu, liệu) 米 (mễ) 斗 (đấu) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "料 Liêu, Liệu  ▶ fee, materials",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "手 Thủ  ▶ hand",
+                        "数 Sác, Số, Sổ, Xúc, Sỗ, Sộ, Xọ  ▶ number, strength, fate, law, figures",
+                        "  娄 Lâu, Lu, Lũ, Làu, Lủ, Sau, Sâu  ▶ surname, constellation, to wear",
+                        "    米 Mễ  ▶ rice, USA, metre",
+                        "    女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "そうりょうがかかります",
                 "kanji": "送料がかかる",
                 "vietnamese": "tốn cước gửi",
-                "info": "tự, 送 (tống) 关 (quan) ⻌ () 料 (liêu, liệu) 米 (mễ) 斗 (đấu) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "料 Liêu, Liệu  ▶ fee, materials",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "送 Tống  ▶ escort, send",
+                        "  关   ▶ frontier pass, close, relation",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  ⻌ (辶)"
+                    ]
+                }
             }
         ]
     },
@@ -1692,85 +5384,269 @@ data_vocabulary = [
                 "hiragana": "Aさん をいやがります / がいやになります / がきらいになります",
                 "kanji": "Aさん を嫌がる / がいやになる / がきらいになる",
                 "vietnamese": "không ưa, ghét A-san",
-                "info": "tha, adj, 嫌 (hiềm) 兼 (kiêm: gồm) 女 (nữ) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "嫌 Hiềm  ▶ dislike, detest, hate",
+                        "  女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "  兼 Kiêm  ▶ concurrently, and, beforehand, in advance",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "      ⺕ (彑)",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "Aさんをふります",
                 "kanji": "Aさんを振る",
                 "vietnamese": "từ chối A-san",
-                "info": "tha, 振 (chấn: chỉnh) 辰 (thần: thìn) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "振 Chấn, Chân  ▶ shake, wave, wag, swing",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  辰 Thần, Thìn  ▶ sign of the dragon, 7-9AM, fifth sign of Chinese zodiac, shin dragon radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical"
+                    ]
+                }
             },
             {
                 "hiragana": "Aさんとこうさいします",
                 "kanji": "Aさんと交際する",
                 "vietnamese": "giao du với A-san",
-                "info": "v (suru), 交 (giao) 六 (lục) 父 (phụ) 際 (tế: thực) ⻖ () 祭 (tế: cúng) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "際 Tế  ▶ occasion, side, edge, verge, dangerous, adventurous, indecent, time, when",
+                        "  ⻖ (阜)",
+                        "  祭 Tế, Sái  ▶ ritual, offer prayers, celebrate, deify, enshrine, worship",
+                        "      月 Nguyệt  ▶ month, moon",
+                        "    示 Kì, Thị  ▶ show, indicate, point out, express, display",
+                        "交 Giao  ▶ mingle, mixing, association, coming & going",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  父 Phụ, Phủ  ▶ father"
+                    ]
+                }
             },
             {
                 "hiragana": "Aさんとつきあいます",
                 "kanji": "Aさんと付き合う",
                 "vietnamese": "kết giao với A-san",
-                "info": "v, 付 (phó) 寸 (thốn) 亻 (nhân) 合 (hợp, cáp, hiệp) 亼 () 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "付 Phó  ▶ adhere, attach, refer to, append",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "Aさんとなかなおりします",
                 "kanji": "Aさんと仲直りする",
                 "vietnamese": "làm lành với A-san",
-                "info": "v (suru), 仲 (trọng: giữa) 亻 (nhân) 中 (trung) 直 (trực: thẳng) 十 (thập) 目 (mục) 𠃊 () "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "仲 Trọng  ▶ go-between, relationship",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "    口 Khẩu  ▶ mouth",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "直 Trực  ▶ straightaway, honesty, frankness, fix, repair",
+                        "  十 Thập  ▶ ten",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "Aさんと なかがいい/となかよしです",
                 "kanji": "Aさんと 仲がいい/仲良しだ",
                 "vietnamese": "thân thiết với A-san",
-                "info": "adj, 仲 (trọng: giữa) 亻 (nhân) 中 (trung) 良 (lương) "
+                "info": "",
+                "details": {
+                    "pos": "adj",
+                    "components": [
+                        "仲 Trọng  ▶ go-between, relationship",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "    口 Khẩu  ▶ mouth",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "良 Lương  ▶ good, pleasing, skilled",
+                        "  艮 Cấn  ▶ northeast (Oriental zodiac), stopping, good radical"
+                    ]
+                }
             },
             {
                 "hiragana": "Aさんをコンサートにさそいます",
                 "kanji": "Aさんをコンサートに誘う",
                 "vietnamese": "rủ A-san đi xem hòa nhạc",
-                "info": "tha, 誘 (dụ: dỗ) 秀 (tú: tài) 乃 (nãi) 禾 (hòa)  言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "誘 Dụ  ▶ entice, lead, tempt, invite, ask, call for, seduce, allure",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  秀 Tú  ▶ excel, excellence, beauty, surpass",
+                        "    禾 Hòa  ▶ two-branch tree radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      木 Mộc  ▶ tree, wood",
+                        "    乃 Nãi, Ái  ▶ from, possessive particle, whereupon, accordingly",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "Aさん（のこと）がきになります/きがあります",
                 "kanji": "Aさん（のこと）が気になる/気がある",
                 "vietnamese": "để ý/thích A-san",
-                "info": "adj, 気 (khí) 一 (nhất) 𠂉 () ⺄ () 㐅 () "
+                "info": "",
+                "details": {
+                    "pos": "adj",
+                    "components": [
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "Aさん（のこと）がうらやましい",
                 "kanji": "Aさん（のこと）が羨ましいです",
                 "vietnamese": "ganh tỵ với A-san",
-                "info": "adj, 羨 (tiện: tham muốn) 㳄 () 次(thứ) 欠 (khiếm) 𦍌 () "
+                "info": "",
+                "details": {
+                    "pos": "adj",
+                    "components": [
+                        "羨 Tiện  ▶ envious, be jealous, covet",
+                        "  羊 Dương  ▶ sheep",
+                        "    䒑   ▶ grass, straw, herbs, weeds",
+                        "    氵 (水) Thủy  ▶ water, water radical",
+                        "    欠 Khiếm  ▶ lack, gap, fail, yawning radical"
+                    ]
+                }
             },
             {
                 "hiragana": "Aさんにあこがれる",
                 "kanji": "Aさんに憧れます",
                 "vietnamese": "ngưỡng mộ A-san",
-                "info": "tự, 憧 (sung: ngưỡng mộ) 童 (đồng: trẻ thơ) 立 (lập) 里 (lí)  忄 (tâm) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "憧 Sung, Tráng  ▶ yearn after, long for, aspire to, admire, adore",
+                        "  忄 (心) Tâm  ▶ heart, standing heart radical variant",
+                        "  童 Đồng  ▶ juvenile, child",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    里 Lý  ▶ ri, village, parent's home, league",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "Aさんにむちゅうになります",
                 "kanji": "Aさんに夢中になる",
                 "vietnamese": "mê mệt A-san",
-                "info": "adj, 夢 (mộng) 夕 (tịch) 冖 (mịch) 罒 (võng) 艹 (thảo) 中 (trung, trúng) 口 (khẩu) 丨 (cổn) "
+                "info": "",
+                "details": {
+                    "pos": "adj",
+                    "components": [
+                        "夢 Mộng, Mông  ▶ dream, vision, illusion",
+                        "    艹 (艸)   ▶ grass, radical number 140",
+                        "    罒 (网) Võng  ▶ net radical variant",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  夕 Tịch  ▶ evening",
+                        "中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "  口 Khẩu  ▶ mouth",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "（お）たがいにきにいります",
                 "kanji": "（お）互いに気に入る",
                 "vietnamese": "song phương cùng hài lòng",
-                "info": "tự, 互 (hỗ: trợ) 気 (khí) 一 (nhất) 𠂉 () ⺄ () 㐅 () 入"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "互 Hỗ  ▶ mutually, reciprocally, together",
+                        "  二 Nhị  ▶ two, two radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  彑 Kế, Kệ, Ký, Kí  ▶ pig's head radical variant",
+                        "    二 Nhị  ▶ two, two radical",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "入 Nhập  ▶ enter, insert"
+                    ]
+                }
             },
             {
                 "hiragana": "あいてのよていをききます",
                 "kanji": "相手の予定を聞く",
                 "vietnamese": "hỏi về dự định của đối phương",
-                "info": "tha, 相 (tương, tướng) 目 (mục) 木 (mộc) 手 (thủ) 予 (dư, dữ) マ () 丁 (đinh) 定 (định, đính) 疋 (sơ) 宀 (miên) 聞 (văn, vấn, vặn) 耳 (nhĩ) 門 (môn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "予 Dư, Dữ  ▶ beforehand, previous, myself, I",
+                        "  マ",
+                        "  了 Liễu  ▶ complete, finish",
+                        "    亅 Quyết  ▶ feathered stick, barb radical",
+                        "手 Thủ  ▶ hand",
+                        "相 Tương, Tướng  ▶ inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "定 Định, Đính  ▶ determine, fix, establish, decide",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "    龰",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "      人 Nhân  ▶ person",
+                        "聞 Văn, Vấn, Vặn  ▶ hear, ask, listen",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  耳 Nhĩ  ▶ ear"
+                    ]
+                }
             },
             {
                 "hiragana": "つごうをつけます/つごうがつきます",
                 "kanji": "都合をつける/都合がつく",
                 "vietnamese": "sắp xếp lịch trình cho thỏa đáng / lịch trình được sắp xếp thỏa đáng",
-                "info": "tha/tự, 都 (đô) ⻏ () 者 (giả) 合 (hợp, cáp, hiệp) 亼 () 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "tha/tự",
+                    "components": [
+                        "都 Đô  ▶ metropolis, capital, all, everything",
+                        "  者 Giả  ▶ someone, person",
+                        "    耂 (老)   ▶ variant of radical 125",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  ⻏ (邑)",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             }
         ]
     },
@@ -1781,127 +5657,447 @@ data_vocabulary = [
                 "hiragana": "ひたい",
                 "kanji": "額, ひたい",
                 "vietnamese": "trán",
-                "info": "n, 額 (ngạch: trán) 頁 (hiệt) 客 (khách) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "額 Ngạch  ▶ forehead, tablet, plaque, framed picture, sum, amount, volume",
+                        "  客 Khách  ▶ guest, visitor, customer, client",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    各 Các  ▶ each, every, either",
+                        "      夂 Tri  ▶ late, delayed, winter radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "まつげ",
                 "kanji": "睫毛,まつげ",
                 "vietnamese": "lông mi",
-                "info": "n, 睫 (tiệp: mi) 目 (mục) 疌 () 毛 (mao, mô) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "毛 Mao, Mô  ▶ fur, hair, feather, down",
+                        "睫 Tiệp  ▶ eyelashes",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  疌",
+                        "    ⺕ (彑)"
+                    ]
+                }
             },
             {
                 "hiragana": "ほお/ほほ",
                 "kanji": "頬, ほほ",
                 "vietnamese": "cái má",
-                "info": "n, 頬 (giáp: má) 夹 (giáp) 頁 (hiệt) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "頬 Giáp  ▶ cheeks, jaw",
+                        "  夾 Giáp  ▶ insert between",
+                        "    二 Nhị  ▶ two, two radical",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "    从 Tòng  ▶ two people",
+                        "      人 Nhân  ▶ person",
+                        "      人 Nhân  ▶ person",
+                        "        二 Nhị  ▶ two, two radical",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "くちびる",
                 "kanji": "唇, くちびる",
                 "vietnamese": "môi",
-                "info": "n, 唇 (thần: môi) 辰 (thần: thìn) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "唇 Thần  ▶ lips",
+                        "  辰 Thần, Thìn  ▶ sign of the dragon, 7-9AM, fifth sign of Chinese zodiac, shin dragon radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "まゆ / まゆげ",
                 "kanji": "眉 / 眉毛,まゆげ",
                 "vietnamese": "lông mày",
-                "info": "n, 眉 (mi: mày) 丨 (cổn) 尸 (thi) 目 (mục) 毛 (mao, mô) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "毛 Mao, Mô  ▶ fur, hair, feather, down",
+                        "眉 My, Mi  ▶ eyebrow",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "まぶた",
                 "kanji": "瞼, まぶた",
                 "vietnamese": "mí mắt",
-                "info": "n, 瞼 (kiểm) 吅 (huyên) 从 (tòng) 亼 ()  目 (mục) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "瞼 Kiểm, Liễm, Him, Kèm, Kẻm, Lim  ▶ eyelids",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  僉 Thiêm  ▶ all",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      口 Khẩu  ▶ mouth",
+                        "      人 Nhân  ▶ person",
+                        "      人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "あさのしたくをします",
                 "kanji": "朝の支度をする",
                 "vietnamese": "sửa soạn đi làm (học)",
-                "info": "tha, 朝 (triêu, triều) 月 (nguyệt) 𠦝 () 支 (chi) 十 (thập) 又 (hựu) 度 (độ, đạc) 广 (nghiễm) 廿 (nhập) 又 (hựu) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "朝 Triêu, Triều  ▶ morning, dynasty, regime, epoch, period, (North) Korea",
+                        "  𠦝",
+                        "    十 Thập  ▶ ten",
+                        "    早 Tảo  ▶ early, fast",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      十 Thập  ▶ ten",
+                        "  月 (肉) Nguyệt  ▶ month, moon",
+                        "度 Độ, Đạc  ▶ degrees, occurrence, time, counter for occurrences, consider, attitude",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "支 Chi  ▶ branch, support, sustain, branch radical",
+                        "  十 Thập  ▶ ten",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "はをみがきます",
                 "kanji": "歯を磨く",
                 "vietnamese": "đánh răng",
-                "info": "tha, 歯 (xỉ) 止 (chỉ) 米 (mễ) 凵 (khảm) 磨 (ma, má) 麻 (ma) 石 (thạch) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "磨 Ma, Má  ▶ grind, polish, scour, improve, brush (teeth)",
+                        "  麻 Ma  ▶ hemp, flax, numb",
+                        "    广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "      厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    林 Lâm  ▶ grove, forest",
+                        "      木 Mộc  ▶ tree, wood",
+                        "      木 Mộc  ▶ tree, wood",
+                        "  石 Thạch  ▶ stone",
+                        "    口 Khẩu  ▶ mouth",
+                        "歯 (齒) Xỉ  ▶ tooth, cog",
+                        "  止 Chỉ  ▶ stop, halt",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "    米 Mễ  ▶ rice, USA, metre",
+                        "    凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "はみがきこをつけます",
                 "kanji": "歯みがき粉をつける",
                 "vietnamese": "quẹt kem đánh răng",
-                "info": "tha, 歯 (xỉ) 止 (chỉ) 米 (mễ) 凵 (khảm) 粉 (phấn: bột gạo) 分 (phân) 米 (mễ) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "粉 Phấn  ▶ flour, powder, dust",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  分 Phân, Phận  ▶ part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    刀 Đao  ▶ sword, saber, knife",
+                        "歯 (齒) Xỉ  ▶ tooth, cog",
+                        "  止 Chỉ  ▶ stop, halt",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "    米 Mễ  ▶ rice, USA, metre",
+                        "    凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ひげをそります",
                 "kanji": "髭を剃る",
                 "vietnamese": "cạo râu",
-                "info": "tha, 髭 (tì: râu) 此 (thử) 髟 (tiêu: tóc dài) 剃 (thế: cắt tóc) 弟 (đệ) 刂 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "髭 Tì  ▶ beard, mustache",
+                        "  髟 Tiêu, Bưu  ▶ hair hanging long, mane, long hair radical",
+                        "    長 Trường, Trưởng, Trướng  ▶ long, leader, superior, senior",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    彡 Sam, Tiệm  ▶ three, hair ornament, short hair or fur radical",
+                        "  此 Thử  ▶ this, current, next, coming, last, past",
+                        "    止 Chỉ  ▶ stop, halt",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "剃 Thế  ▶ shave",
+                        "  弟 Đệ, Đễ  ▶ younger brother, faithful service to elders",
+                        "      弔 Điếu, Đích  ▶ condolences, mourning, funeral",
+                        "        弓 Cung  ▶ bow, bow (archery, violin)",
+                        "        丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ドライヤーでかみをかわかします",
                 "kanji": "ドライヤーで髪を乾かす",
                 "vietnamese": "làm khô tóc bằng máy sấy",
-                "info": "tha, 髪 (phát: tóc) 友 (hữu) 髟 (tiêu: tóc dài) 乾 (kiền)"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "乾 Kiền, Can  ▶ drought, dry, desiccate, drink up, heaven, emperor",
+                        "  𠦝",
+                        "    十 Thập  ▶ ten",
+                        "    早 Tảo  ▶ early, fast",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      十 Thập  ▶ ten",
+                        "  乞 Khất, Khí  ▶ beg, invite, ask",
+                        "    乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "髪 Phát  ▶ hair of the head",
+                        "  髟 Tiêu, Bưu  ▶ hair hanging long, mane, long hair radical",
+                        "    長 Trường, Trưởng, Trướng  ▶ long, leader, superior, senior",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    彡 Sam, Tiệm  ▶ three, hair ornament, short hair or fur radical",
+                        "  友 Hữu  ▶ friend",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "かみを ときます/とかします",
                 "kanji": "髪を 梳く / 梳かす",
                 "vietnamese": "chải tóc",
-                "info": "tha, 髪 (phát: tóc) 友 (hữu) 髟 (tiêu: tóc dài) 梳 (sơ: chải tóc) 木 (mộc) 㐬 () 流 (lưu: chảy)"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "梳 Sơ  ▶ comb (hair)",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  㐬   ▶ a cup with pendants, a pennant, wild, barren, uncultivated",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    川 (巛) Xuyên  ▶ stream, river, river or three-stroke river radical",
+                        "髪 Phát  ▶ hair of the head",
+                        "  髟 Tiêu, Bưu  ▶ hair hanging long, mane, long hair radical",
+                        "    長 Trường, Trưởng, Trướng  ▶ long, leader, superior, senior",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    彡 Sam, Tiệm  ▶ three, hair ornament, short hair or fur radical",
+                        "  友 Hữu  ▶ friend",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "（お）けしょうをします",
                 "kanji": "（お）化粧をする",
                 "vietnamese": "trang điểm",
-                "info": "tha, 化 (hóa) 亻 (nhân) 匕 (chủy) 粧 (trang: sức) 米 (mễ) 庄 (trang: nghiêm, trại) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "化 Hóa  ▶ change, take the form of, influence, enchant, delude, -ization",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "粧 Trang  ▶ cosmetics, adorn (one's person)",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  庄 Trang  ▶ level, in the country, manor, village, hamlet",
+                        "    广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "      厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey"
+                    ]
+                }
             },
             {
                 "hiragana": "くちべにを ぬります/つけます",
                 "kanji": "口紅を 塗る/つける",
                 "vietnamese": "thoa son môi",
-                "info": "tha, 口 (khẩu) 紅 (hồng) 工 (công) 糸 (mịch) 塗 (đồ: bôi) 余 (dư: ta) 氵 (thủy) 土 (thổ) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "紅 Hồng  ▶ crimson, deep red",
+                        "  糸 Mịch  ▶ thread",
+                        "  工 Công  ▶ craft, construction, katakana e radical",
+                        "塗 Đồ, Trà  ▶ paint, plaster, daub, smear, coating",
+                        "  涂 Đồ, Trà, Dơ  ▶ surname, name of certain rivers",
+                        "    氵 (水) Thủy  ▶ water, water radical",
+                        "    余 Dư  ▶ too much, myself, surplus, other, remainder",
+                        "      人 Nhân  ▶ person",
+                        "        小 Tiểu  ▶ little, small",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "ふくをきがえます",
                 "kanji": "服を着替える",
                 "vietnamese": "thay quần áo",
-                "info": "tha, 服 (phục) ⺼ () 𠬝 () 着 (trứ, trước, trữ) ノ () 𦍌 () 目 (mục) 替 (thế) 夫 (phu) 日 (nhật) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "服 Phục  ▶ clothing, admit, obey, discharge",
+                        "  月 (肉) Nguyệt  ▶ month, moon",
+                        "    卩 Tiết  ▶ seal radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "着 Khán  ▶ don, arrive, wear, counter for suits of clothing",
+                        "    羊 Dương  ▶ sheep",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "替 Thế  ▶ exchange, spare, substitute, per-",
+                        "    夫 Phu, Phù  ▶ husband, man",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "    夫 Phu, Phù  ▶ husband, man",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "おしゃれをします",
                 "kanji": "お洒落をする",
                 "vietnamese": "chưng diện, ăn mặc đẹp",
-                "info": "tự, 洒 (tẩy) 西 (tây) 氵 (thủy) 酒(tửu) 落 (lạc) 艹 (thảo) 洛 (lạc) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "落 Lạc  ▶ fall, drop, come down, village, hamlet",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  洛 Lạc  ▶ Kyoto, the capital",
+                        "    氵 (水) Thủy  ▶ water, water radical",
+                        "    各 Các  ▶ each, every, either",
+                        "      夂 Tri  ▶ late, delayed, winter radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "洒 Sái, Tẩy, Thối  ▶ wash, sprinkle",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  西 (襾) Tây, Tê  ▶ west, Spain"
+                    ]
+                }
             },
             {
                 "hiragana": "ひもをむすびます",
                 "kanji": "ひもを結ぶ",
                 "vietnamese": "cột dây",
-                "info": "tha, 結 (kết: thắt nút) 吉 (cát) 糸 (mịch) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "結 Kết  ▶ tie, bind, contract, join, organize, do up hair, fasten",
+                        "  糸 Mịch  ▶ thread",
+                        "  吉 Cát  ▶ good luck, joy, congratulations",
+                        "    士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "ひもをほどきます",
                 "kanji": "ひもを解く",
                 "vietnamese": "tháo dây",
-                "info": "tha, 解 (giải: mở ra) 角 (giác) 刀 (đao) 牛 (ngưu) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "解 Giải, Giới, Giái  ▶ unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute",
+                        "  角 Giác, Giốc  ▶ angle, corner, square, horn, antlers",
+                        "    𠂊 (勹)",
+                        "    刀 Đao  ▶ sword, saber, knife",
+                        "    牛 Ngưu  ▶ cow"
+                    ]
+                }
             },
             {
                 "hiragana": "マフラーを まきます/します",
                 "kanji": "マフラーを 巻く/する",
                 "vietnamese": "cột khăn quàng",
-                "info": "tha, 巻 (quyển: sách, cuộn) 己 (kỉ) 龹 () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "巻 Quyển  ▶ scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)",
+                        "  𠔉",
+                        "    二 Nhị  ▶ two, two radical",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "      人 Nhân  ▶ person",
+                        "  己 Kỷ  ▶ self"
+                    ]
+                }
             },
             {
                 "hiragana": "てぶくろを はめます/します",
                 "kanji": "手袋を はめる/する",
                 "vietnamese": "đeo găng tay",
-                "info": "tha, 手 (thủ) 袋 (đại: bao) 代 (đại) 衣 (y) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "手 Thủ  ▶ hand",
+                        "袋 Đại  ▶ sack, bag, pouch",
+                        "  代 Đại  ▶ substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "  衣 Y, Ý  ▶ garment, clothes, dressing",
+                        "    亠 Đầu  ▶ kettle lid radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ゆびわを はめます/します",
                 "kanji": "指輪を はめる/する",
                 "vietnamese": "đeo nhẫn",
-                "info": "tha, 指 (chỉ: ngón tay) 旨 (chỉ: dụ) 扌 (thủ) 輪 (luân: bánh xe) 侖 (lôn: côn) 車 (xa) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "指 Chỉ  ▶ finger, point to, indicate, put into, play (chess), measure (ruler)",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  旨 Chỉ  ▶ delicious, relish, show a liking for, purport, will, clever, expert",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "輪 Luân  ▶ wheel, ring, circle, link, loop, counter for wheels and flowers",
+                        "  車 Xa  ▶ car",
+                        "  侖 Lôn  ▶ think, be methodical",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      冊 Sách, Sạch  ▶ tome, counter for books, volume",
+                        "        冂 Quynh  ▶ upside-down box radical",
+                        "        廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "          十 Thập  ▶ ten",
+                        "          丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "          十 Thập  ▶ ten"
+                    ]
+                }
             }
         ]
     },
@@ -1912,152 +6108,485 @@ data_vocabulary = [
                 "hiragana": "そでなし",
                 "kanji": "袖なし",
                 "vietnamese": "Áo không tay (sát nách)",
-                "info": "n, 袖 (tụ: tay áo) 由 (do) 衤 (y) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "袖 Tụ  ▶ sleeve, wing (building), extension, give cold shoulder",
+                        "  衤 (衣) Y, Ý, I, Í  ▶ clothes, clothing radical (no. 145",
+                        "  由 Do  ▶ wherefore, a reason",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "はん/なが そで",
                 "kanji": "半/長 袖",
                 "vietnamese": "áo ngắn/dài tay",
-                "info": "n, 半 (bán) 二 (nhị) 丨 (cổn) 丷 () 長 (trường, trưởng, trướng) 袖 (tụ: tay áo) 由 (do) 衤 (y)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "半 Bán  ▶ half, middle, odd number, semi-, part-",
+                        "  丶 Chủ  ▶ dot, tick or dot radical",
+                        "  二 Nhị  ▶ two, two radical",
+                        "  十 Thập  ▶ ten",
+                        "    二 Nhị  ▶ two, two radical",
+                        "長 Trường, Trưởng, Trướng  ▶ long, leader, superior, senior",
+                        "袖 Tụ  ▶ sleeve, wing (building), extension, give cold shoulder",
+                        "  衤 (衣) Y, Ý, I, Í  ▶ clothes, clothing radical (no. 145",
+                        "  由 Do  ▶ wherefore, a reason",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "むじ",
                 "kanji": "無地",
                 "vietnamese": "áo trơn (không có họa tiết)",
-                "info": "n, 無 (vô, mô) 地 (địa) 也 (dã) 土 (thổ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "地 Địa  ▶ ground, earth",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  也 Dã  ▶ to be (classical)",
+                        "    乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "無 Vô, Mô  ▶ nothingness, none, ain't, nothing, nil, not",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical"
+                    ]
+                }
             },
             {
                 "hiragana": "がら / もよう",
                 "kanji": "柄 / 模様",
                 "vietnamese": "có hoa văn",
-                "info": "n, 柄 (bính: chuôi, quyền) 丙 (bính: đinh) 木 (mộc) 模 (mô: khuôn mẫu) 莫 (mạc) 木 (mộc) 様 (dạng) 𦍌 () 水 (thủy) 木 (mộc) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "柄 Bính  ▶ design, pattern, build, nature, character, handle, crank, grip, knob, shaft",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  丙 Bính  ▶ third class, 3rd, 3rd calendar sign",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    内 Nạp, Nội, Nói, Nòi, Nồi, Nỗi, Nụi  ▶ inside, within, between, among, house, home",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      人 Nhân  ▶ person",
+                        "様 Dạng  ▶ Esq., way, manner, situation, polite suffix",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    羊 Dương  ▶ sheep",
+                        "      䒑   ▶ grass, straw, herbs, weeds",
+                        "    氺 (水) Thủy  ▶ water radical variant",
+                        "模 Mô  ▶ imitation, copy, mock",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  莫 Mạc, Mộ, Mạch, Bá  ▶ must not, do not, be not",
+                        "    艹 (艸)   ▶ grass, radical number 140",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "しま",
                 "kanji": "縞",
                 "vietnamese": "sọc vằn",
-                "info": "n, 縞 (cảo: vằn) 高 (cao) 糸 (mịch) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "縞 Cảo  ▶ stripe",
+                        "  糸 Mịch  ▶ thread",
+                        "  高 Cao  ▶ tall, high, expensive",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "    冋 Quynh  ▶ desert, border prairie, the 1st form is radical 13",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "みずたま",
                 "kanji": "水玉",
                 "vietnamese": "hột mè, chấm bi",
-                "info": "n, 水 (thủy) 玉 (ngọc, túc) 王 (vương) 丶 (chủ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "水 Thủy  ▶ water",
+                        "玉 Ngọc, Túc  ▶ jewel, ball",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "  丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "はながら",
                 "kanji": "花柄",
                 "vietnamese": "họa tiết hoa",
-                "info": "n, 花 (hoa) 艹 (thảo) 化 (hóa) 柄 (bính: chuôi, quyền) 丙 (bính: đinh) 木 (mộc)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "柄 Bính  ▶ design, pattern, build, nature, character, handle, crank, grip, knob, shaft",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  丙 Bính  ▶ third class, 3rd, 3rd calendar sign",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    内 Nạp, Nội, Nói, Nòi, Nồi, Nỗi, Nụi  ▶ inside, within, between, among, house, home",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      人 Nhân  ▶ person",
+                        "花 Hoa  ▶ flower",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  化 Hóa  ▶ change, take the form of, influence, enchant, delude, -ization",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical"
+                    ]
+                }
             },
             {
                 "hiragana": "にあいます",
                 "kanji": "似合う",
                 "vietnamese": "hợp, vừa (phong cách)",
-                "info": "tự, 似 (tự: giống như) 亻 (nhân) 以 (dĩ) 合 (hợp, cáp, hiệp) 亼 () 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "似 Tự  ▶ becoming, resemble, counterfeit, imitate, suitable",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  以 Dĩ  ▶ by means of, because, in view of, compared with",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "    人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "このみます",
                 "kanji": "好む",
                 "vietnamese": "ưa thích",
-                "info": "tha, 好 (hảo, hiếu) 女 (nữ) 子 (tử) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "好 Hảo, Hiếu  ▶ fond, pleasing, like something",
+                        "  女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+                    ]
+                }
             },
             {
                 "hiragana": "めだついろ",
                 "kanji": "目立つ色",
                 "vietnamese": "màu nổi",
-                "info": "n, 目 (mục) 立 (lập) 色 (sắc) 巴 (ba) ⺈ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "色 Sắc  ▶ color",
+                        "  𠂊 (勹)",
+                        "  巴 Ba  ▶ comma-design",
+                        "    己 (巳) Kỷ  ▶ self",
+                        "立 Lập  ▶ stand up, rise, set up, erect",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "はで",
                 "kanji": "派手",
                 "vietnamese": "lòe loẹt, màu mè",
-                "info": "na, 派 (phái: dòng nước) 氵 (thủy) 𠂢 () 手 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "手 Thủ  ▶ hand",
+                        "派 Phái  ▶ faction, group, party, clique, sect, school",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  𠂢   ▶ to branch",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "じみ",
                 "kanji": "地味",
                 "vietnamese": "giản dị, mộc mạc",
-                "info": "na, 地 (địa) 也 (dã) 土 (thổ) 味 (vị: mùi) 未 (vị) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "地 Địa  ▶ ground, earth",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  也 Dã  ▶ to be (classical)",
+                        "    乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "味 Vị  ▶ flavor, taste",
+                        "  口 Khẩu  ▶ mouth",
+                        "  未 Vị, Mùi  ▶ un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+                        "    木 Mộc  ▶ tree, wood"
+                    ]
+                }
             },
             {
                 "hiragana": "はやる / りゅうこう",
                 "kanji": "流行る / 流行",
                 "vietnamese": "thịnh hành động/danh",
-                "info": "tự, n, 流 (lưu) 氵 (thủy) 㐬 () 行 (hành, hạnh, hàng, hạng) 彳 (xích) 一 (nhất) 丁 (đinh) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "流 Lưu  ▶ current, a sink, flow, forfeit",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  㐬   ▶ a cup with pendants, a pennant, wild, barren, uncultivated",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    川 (巛) Xuyên  ▶ stream, river, river or three-stroke river radical",
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9"
+                    ]
+                }
             },
             {
                 "hiragana": "サイズを たしかめます/かくにんします",
                 "kanji": "サイズを 確かめる/確認する",
                 "vietnamese": "xác nhận kích cỡ",
-                "info": "tha, 確 (xác) 隺 () 石 (thạch) 認 (nhận) 忍 (nhẫn) 言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "確 Xác  ▶ assurance, firm, tight, hard, solid, confirm, clear, evident",
+                        "  石 Thạch  ▶ stone",
+                        "    口 Khẩu  ▶ mouth",
+                        "  寉 (隺) Hạc  ▶ crane (bird)",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    隹 Chuy  ▶ bird, old bird radical",
+                        "      亻 (人)   ▶ radical number 9",
+                        "認 Nhận  ▶ acknowledge, witness, discern, recognize, appreciate, believe",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  忍 Nhẫn  ▶ endure, bear, put up with, conceal, secrete, spy, sneak",
+                        "    刃 Nhận  ▶ blade, sword, edge",
+                        "      刀 Đao  ▶ sword, saber, knife",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "    心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "サイズがあいます",
                 "kanji": "サイズが合う",
                 "vietnamese": "vừa kích cỡ",
-                "info": "tự, 合 (hợp, cáp, hiệp) 亼 () 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "ゆるい",
                 "kanji": "緩い",
                 "vietnamese": "đồ rộng, lỏng",
-                "info": "い, 緩 (hoãn: thong thả) 爰 (viên) 糸 (mịch) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "緩 Hoãn  ▶ slacken, loosen, relax, lessen, be moderate, ease",
+                        "  糸 Mịch  ▶ thread",
+                        "  爰 Viên  ▶ lead on to, therefore, then",
+                        "    ⺤ (爪)",
+                        "      友 Hữu  ▶ friend",
+                        "        又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "きつい",
                 "kanji": "きつい",
                 "vietnamese": "chật",
-                "info": "い"
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "バーゲン/セールで かいます",
                 "kanji": "バーゲン/セールで 買う",
                 "vietnamese": "mua đồ giảm giá",
-                "info": "tha, 買 (mãi) 罒 (võng) 貝 (bối) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "買 Mãi  ▶ buy",
+                        "  罒 (网) Võng  ▶ net radical variant",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "デパートのとくばいひん",
                 "kanji": "デパートの特売品",
                 "vietnamese": "hàng hóa khuyến mãi ở thương xá",
-                "info": "n, 特 (đặc) 牜 () 寺 (tự) 売 (mại) 士 (sĩ) 㓁 () 品 (phẩm) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "売 Mại, Xác, Xạc  ▶ sell",
+                        "  士 (土) Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "特 Đặc  ▶ special",
+                        "  牛 Ngưu  ▶ cow",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "品 Phẩm  ▶ goods, refinement, dignity, article, counter for meal courses",
+                        "  口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "３０わりびき/パーセントオフ",
                 "kanji": "３０割引/パーセントオフ",
                 "vietnamese": "giảm 30%",
-                "info": "割 (cát: cắt) 害 (hại: làm hại) 刂 (đao) 引 (dẫn, dấn) 弓 (cung) 丨 (cổn) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "引 Dẫn, Dấn  ▶ pull, tug, jerk, admit, install, quote, refer to",
+                        "  弓 Cung  ▶ bow, bow (archery, violin)",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "割 Cát  ▶ proportion, comparatively, divide, cut, separate, split",
+                        "  害 Hại, Hạt  ▶ harm, injury",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      龶",
+                        "      口 Khẩu  ▶ mouth",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical"
+                    ]
+                }
             },
             {
                 "hiragana": "うりきれます / うりきれ",
                 "kanji": "売り切れる / 売り切れ",
                 "vietnamese": "bán hết v/n",
-                "info": "tự, n, 売 (mại) 士 (sĩ) 㓁 () 切 (thiết, thế)七 (thất) 刀 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "売 Mại, Xác, Xạc  ▶ sell",
+                        "  士 (土) Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "切 Thiết, Thế  ▶ cut, cutoff, be sharp",
+                        "  七 Thất  ▶ seven",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  刀 Đao  ▶ sword, saber, knife"
+                    ]
+                }
             },
             {
                 "hiragana": "ほんもののダイヤモンド",
                 "kanji": "本物のダイヤモンド",
                 "vietnamese": "kim cương thật",
-                "info": "n, 本 (bổn, bản) 一 (nhất) 木 (mộc) 物 (vật) 勿 (vật) 牜 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "本 Bổn, Bản  ▶ book, present, main, origin, true, real, counter for long cylindrical things",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "にせもの",
                 "kanji": "偽物",
                 "vietnamese": "đồ giả",
-                "info": "n, 偽 (ngụy) 亻 (nhân) 為 (vi: làm, hành) 物 (vật) 勿 (vật) 牜 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "偽 Ngụy  ▶ falsehood, lie, deceive, pretend, counterfeit, forgery",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  為 Vi  ▶ do, change, make, benefit, welfare, be of use, reach to, try, practice, cost, serve as, good, advantage, as a result of",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical"
+                    ]
+                }
             },
             {
                 "hiragana": "とくをします",
                 "kanji": "得をする",
                 "vietnamese": "có lợi, to benefit",
-                "kanji": "得をする",
-                "info": "tự, 得 (đắc: được) 彳 (xích) 㝵 () "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "得 Đắc  ▶ gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  㝵   ▶ to get, complacent, to obstruct, to hinder, to stop progress, to injure, to offend, to concern, hindrance, restraint",
+                        "    旦 Đán  ▶ daybreak, dawn, morning",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "そんをします",
                 "kanji": "損をする",
                 "vietnamese": "bị thiệt",
-                "info": "tự, 損 (tổn: mất) 員 (viên) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "損 Tổn  ▶ damage, loss, disadvantage, hurt, injure",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  員 Viên, Vân  ▶ employee, member, number, the one in charge",
+                        "    口 Khẩu  ▶ mouth",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             }
         ]
     },
@@ -2068,139 +6597,521 @@ data_vocabulary = [
                 "hiragana": "かぞくそろって",
                 "kanji": "家族そろって",
                 "vietnamese": "cả gia đình cùng nhau",
-                "info": "adv, 家 (gia, cô) 豕 (thỉ) 宀 (miên) 族 (tộc) 𠂉 () 方 (phương) 矢 (thỉ) "
+                "info": "",
+                "details": {
+                    "pos": "adv",
+                    "components": [
+                        "家 Gia, Cô  ▶ house, home, family, professional, expert, performer",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  豕 Thỉ  ▶ pig, hog, pig radical",
+                        "族 Tộc  ▶ tribe, family",
+                        "  方 Phương  ▶ direction, person, alternative",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    𠂉",
+                        "    矢 Thỉ  ▶ dart, arrow",
+                        "      天 Thiên  ▶ heavens, sky, imperial",
+                        "        大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "こどもをつれます / こどもをつれ",
                 "kanji": "子どもを連れる / 子どもを連れ",
                 "vietnamese": "dẫn theo trẻ em",
-                "info": "tha, n, 連 (liên) 車 (xa) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "連 Liên  ▶ take along, lead, join, connect, party, gang, clique",
+                        "  車 Xa  ▶ car",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "はらがへります",
                 "kanji": "腹が減る",
                 "vietnamese": "đói bụng",
-                "info": "tự, 腹 (phúc: bụng) ⺼ () 复 (phục: lại) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "腹 Phúc  ▶ abdomen, belly, stomach",
+                        "  月 (肉) Nguyệt  ▶ month, moon",
+                        "  复   ▶ return, repeat, repeatedly",
+                        "    𠂉",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "減 Giảm  ▶ dwindle, decrease, reduce, decline, curtail, get hungry",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  咸 Hàm  ▶ all, same",
+                        "    戍 (戌) Thú  ▶ protection",
+                        "      厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "          厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    戍 (戌) Thú  ▶ protection",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "          丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "がいしょくをします",
                 "kanji": "外食をする",
                 "vietnamese": "đi ăn ngoài",
-                "info": "tự, 外 (ngoại) 夕 (tịch) 卜 (bặc) 食 (thực, tự) 良 (lương) 𠆢 () "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "食 Thực, Tự  ▶ eat, food",
+                        "外 Ngoại  ▶ outside",
+                        "  夕 Tịch  ▶ evening",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "おひるをたべます / ちゅうしょくをとります",
                 "kanji": "お昼を食べる / 昼食をとる",
                 "vietnamese": "ăn trưa",
-                "info": "tha, 昼 (trú: trưa) 尺 (xích) 旦 (đán) 食 (thực, tự) 良 (lương)"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "食 Thực, Tự  ▶ eat, food",
+                        "昼 Trú  ▶ daytime, noon",
+                        "  尺 Xích  ▶ shaku, Japanese foot, measure, scale, rule",
+                        "    尸 Thi  ▶ corpse, remains, flag radical",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  旦 Đán  ▶ daybreak, dawn, morning",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    一 Nhất  ▶ one, one radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ふんいきのいいみせ",
                 "kanji": "雰囲気のいい店",
                 "vietnamese": "tiệm có bầu không khí tốt",
-                "info": "n, 雰 (phân) ⻗ () 分 (phân) 囲 (vi: chu vi) 井 (tỉnh) 囗 (vi) 気 (khí) 一 (nhất) 𠂉 () ⺄ () 㐅 () 店 (điếm) 占 (chiêm) 广 (nghiễm) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "雰 Phân  ▶ atmosphere, fog",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "  分 Phân, Phận  ▶ part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    刀 Đao  ▶ sword, saber, knife",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "囲 Vi  ▶ surround, besiege, store, paling, enclosure, encircle, preserve, keep",
+                        "  囗 Vi  ▶ box, box or enclosure radical",
+                        "  井 Tỉnh  ▶ well, well crib, town, community",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      二 Nhị  ▶ two, two radical",
+                        "        十 Thập  ▶ ten",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten",
+                        "  囗 Vi  ▶ box, box or enclosure radical",
+                        "店 Điếm  ▶ store, shop",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  占 Chiêm, Chiếm  ▶ fortune-telling, divining, forecasting, occupy, hold, have, get, take",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "まんせき",
                 "kanji": "満席",
                 "vietnamese": "không còn chỗ trống",
-                "info": "n, 満 (mãn: nguyện) 両 (lưỡng) 艹 (thảo) 氵 (thủy) 席 (tịch) 廿 (nhập) 巾 (cân) 广 (nghiễm) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "満 Mãn  ▶ full, fullness, enough, satisfy",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "    艹   ▶ grass, radical number 140",
+                        "      十 Thập  ▶ ten",
+                        "    両 Lạng  ▶ both, old Japanese coin, counter for carriages (e.g., in a train), two",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      山 San, Sơn  ▶ mountain",
+                        "席 Tịch  ▶ seat, mat, occasion, place",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical"
+                    ]
+                }
             },
             {
                 "hiragana": "すいています",
                 "kanji": "空いている",
                 "vietnamese": "trống",
-                "info": "tự, 空 (không, khống, khổng) 工 (công) 穴 (huyệt) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "空 Không, Khống, Khổng  ▶ empty, sky, void, vacant, vacuum",
+                        "  穴 Huyệt  ▶ hole, aperture, slit, cave, den",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  工 Công  ▶ craft, construction, katakana e radical"
+                    ]
+                }
             },
             {
                 "hiragana": "れつにならびます",
                 "kanji": "列に並ぶ",
                 "vietnamese": "xếp thành hàng dọc",
-                "info": "tự, 列 (liệt) 刂 (đao) 歹 (ngạt) 並 (tịnh: gồm) 立 (lập) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "列 Liệt  ▶ file, row, rank, tier, column",
+                        "  歹 Ngạt, Đãi  ▶ bare bone, bad, wrong, death radical (n. 78)",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    夕 Tịch  ▶ evening",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "並 Tịnh  ▶ row, and, besides, as well as, line up, rank with, rival, equal",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  业"
+                    ]
+                }
             },
             {
                 "hiragana": "ぎょうれつができます",
                 "kanji": "行列ができる",
                 "vietnamese": "hàng người được hình thành",
-                "info": "tự, 行 (hành, hạnh, hàng, hạng) 彳 (xích) 一 (nhất) 丁 (đinh)  列 (liệt) 刂 (đao) 歹 (ngạt)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "列 Liệt  ▶ file, row, rank, tier, column",
+                        "  歹 Ngạt, Đãi  ▶ bare bone, bad, wrong, death radical (n. 78)",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    夕 Tịch  ▶ evening",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9"
+                    ]
+                }
             },
             {
                 "hiragana": "きんえんせき / きつえんせき",
                 "kanji": "禁煙席 / 喫煙席",
                 "vietnamese": "ghế cấm/được hút thuốc",
-                "info": "n, 禁 (cấm, câm) 示 (kì) 林 (lâm) 煙 (yên: khói) 覀 () 土 (thổ) 火 (hỏa) 席 (tịch) 廿 (nhập) 巾 (cân) 广 (nghiễm) 喫 (khiết: ăn uống) 口 (khẩu) 契 (khế: ước) 㓞 () 大 (đại)  "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "煙 Yên  ▶ smoke",
+                        "  火 Hỏa  ▶ fire",
+                        "  垔 Nhân, Yên  ▶ to restrain, to dam a stream and change its direction, mound",
+                        "    覀 (襾)   ▶ variant of radical 146",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "席 Tịch  ▶ seat, mat, occasion, place",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "喫 Khiết  ▶ consume, eat, drink, smoke, receive (a blow)",
+                        "  口 Khẩu  ▶ mouth",
+                        "  契 Khế, Tiết, Khiết, Khất  ▶ pledge, promise, vow",
+                        "      龶",
+                        "      刀 Đao  ▶ sword, saber, knife",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "禁 Cấm, Câm  ▶ prohibition, ban, forbid",
+                        "  林 Lâm  ▶ grove, forest",
+                        "    木 Mộc  ▶ tree, wood",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  示 Kì, Thị  ▶ show, indicate, point out, express, display"
+                    ]
+                }
             },
             {
                 "hiragana": "ちゅうもんがきまります",
                 "kanji": "注文が決まる",
                 "vietnamese": "quyết định gọi món",
-                "info": "tự, 注 (chú) 主 (chủ) 氵 (thủy) 文 (văn, vấn) 決 (quyết) 氵 (thủy) 夬 (quái) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "注 Chú  ▶ pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  主 Chủ  ▶ lord, chief, master, main thing, principal",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "文 Văn, Vấn  ▶ sentence, literature, style, art, decoration, figures, plan, literary radical",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "決 Quyết  ▶ decide, fix, agree upon, appoint",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  夬 Quái  ▶ decide, determine, archery glove",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "      人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "ちゅうもんします",
                 "kanji": "注文する",
                 "vietnamese": "gọi món",
-                "info": "tha, 注 (chú) 主 (chủ) 氵 (thủy) 文 (văn, vấn)"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "注 Chú  ▶ pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  主 Chủ  ▶ lord, chief, master, main thing, principal",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "文 Văn, Vấn  ▶ sentence, literature, style, art, decoration, figures, plan, literary radical",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue"
+                    ]
+                }
             },
             {
                 "hiragana": "ちゅうもんを とります/うけます",
                 "kanji": "注文を 取る/受ける",
                 "vietnamese": "nhận món",
-                "info": "tha, 注 (chú) 主 (chủ) 氵 (thủy) 文 (văn, vấn) 取 (thủ) 耳 (nhĩ) 又 (hựu) 受 (thụ) 又 (hựu) 冖 (mịch) ⺤ () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "注 Chú  ▶ pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  主 Chủ  ▶ lord, chief, master, main thing, principal",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "受 Thụ  ▶ accept, undergo, answer (phone), take, get, catch, receive",
+                        "    ⺤ (爪)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "文 Văn, Vấn  ▶ sentence, literature, style, art, decoration, figures, plan, literary radical",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "デザートをついかします",
                 "kanji": "デザートを追加する",
                 "vietnamese": "thêm món tráng miệng",
-                "info": "tha, 追 (truy: đuổi) 𠂤 () ⻌ () 加 (gia) 力 (lực) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "追 Truy, Đôi  ▶ chase, drive away, follow, pursue, meanwhile",
+                        "  𠂤   ▶ to store up, to pile up",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  ⻌ (辶)",
+                        "加 Gia  ▶ add, addition, increase, join, include, Canada",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "むりょう / ただ",
                 "kanji": "無料 / ただ",
                 "vietnamese": "miễn phí",
-                "info": "無 (vô, mô) 料 (liêu, liệu) 米 (mễ) 斗 (đấu) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "無 Vô, Mô  ▶ nothingness, none, ain't, nothing, nil, not",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical",
+                        "料 Liêu, Liệu  ▶ fee, materials",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しょっきをさげます",
                 "kanji": "食器を下げる",
                 "vietnamese": "dọn chén bát xuống",
-                "info": "tha, 食 (thực, tự) 良 (lương) 𠆢 () 器 (khí) 口 (khẩu) 大 (đại) 下 (hạ, há) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "食 Thực, Tự  ▶ eat, food",
+                        "器 Khí  ▶ utensil, vessel, receptacle, implement, instrument, ability, container, tool, set",
+                        "    口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "    口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "りょうりをのこします",
                 "kanji": "料理を残す",
                 "vietnamese": "chừa đồ ăn lại",
-                "info": "tha, 料 (liêu, liệu) 米 (mễ) 斗 (đấu) 理 (lí) 里 (lí) 王 (vương) 残 (tàn) 㦮 () 歹 (ngạt) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "料 Liêu, Liệu  ▶ fee, materials",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "残 Tàn  ▶ remainder, leftover, balance",
+                        "  歹 Ngạt, Đãi  ▶ bare bone, bad, wrong, death radical (n. 78)",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    夕 Tịch  ▶ evening",
+                        "  戋 (戔)",
+                        "    三 Tam, Tám  ▶ three",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        三 Tam, Tám  ▶ three",
+                        "          一 Nhất  ▶ one, one radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        丶 Chủ  ▶ dot, tick or dot radical",
+                        "理 Lý  ▶ logic, arrangement, reason, justice, truth",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "  里 Lý  ▶ ri, village, parent's home, league",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "もったいない",
                 "kanji": "勿体ない (もったいない)",
                 "vietnamese": "lãng phí",
-                "info": "い, 勿 (vật) 豕 (thỉ) 体 (thể) 本 (bổn) 亻 (nhân) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "体 Thể  ▶ body, substance, object, reality, counter for images",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  本 Bổn, Bản  ▶ book, present, main, origin, true, real, counter for long cylindrical things",
+                        "    木 Mộc  ▶ tree, wood",
+                        "勿 Vật  ▶ not, must not, do not, be not",
+                        "  勹 Bao  ▶ wrapping enclosure, wrapping radical"
+                    ]
+                }
             },
             {
                 "hiragana": "なんめいさまですか",
                 "kanji": "何名様ですか",
                 "vietnamese": "có mấy vị ạ",
-                "info": "exp, 何 (hà) 可 (khả) 亻 (nhân) 名 (danh) 夕 (tịch) 口 (khẩu) 様 (dạng) 𦍌 () 水 (thủy) 木 (mộc) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "何 Hà  ▶ what",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  可 Khả, Khắc  ▶ can, passable, approval",
+                        "    丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "      亅 Quyết  ▶ feathered stick, barb radical",
+                        "名 Danh  ▶ name, noted, distinguished, reputation",
+                        "  夕 Tịch  ▶ evening",
+                        "  口 Khẩu  ▶ mouth",
+                        "様 Dạng  ▶ Esq., way, manner, situation, polite suffix",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    羊 Dương  ▶ sheep",
+                        "      䒑   ▶ grass, straw, herbs, weeds",
+                        "    氺 (水) Thủy  ▶ water radical variant"
+                    ]
+                }
             },
             {
                 "hiragana": "もうしわけありません",
                 "kanji": "申し訳ありません",
                 "vietnamese": "xin lỗi",
-                "info": "exp, 申 (thân) 丨 (cổn) 日 (nhật) 訳 (dịch: phiên) 尺 (xích) 言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "訳 Dịch  ▶ translate, reason, circumstance, case",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  尺 Xích  ▶ shaku, Japanese foot, measure, scale, rule",
+                        "    尸 Thi  ▶ corpse, remains, flag radical",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "申 Thân  ▶ have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "もうしょうしょうおまちください",
                 "kanji": "もう少々お待ちください",
                 "vietnamese": "xin đợi một chút",
-                "info": "exp, 少 (thiểu, thiếu) ノ () 小 (tiểu) 待 (đãi) 彳 (xích) 寺 (tự) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "少 Thiểu, Thiếu  ▶ few, little",
+                        "  小 Tiểu  ▶ little, small",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "待 Đãi  ▶ wait, depend on",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "おまたせいたしました / おまちどおさま",
                 "kanji": "お待たせいたしました / お待ちどおさま",
                 "vietnamese": "xin lỗi đã bắt quý khách đợi",
-                "info": "exp, 待 (đãi) 彳 (xích) 寺 (tự) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "待 Đãi  ▶ wait, depend on",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             }
         ]
     },
@@ -2211,103 +7122,379 @@ data_vocabulary = [
                 "hiragana": "えんかいをひらきます",
                 "kanji": "宴会を開く",
                 "vietnamese": "mở tiệc",
-                "info": "tha, 宴 (yến: thiết) 女 (nữ) 日 (nhật) 宀 (miên) 会 (hội, cối) 𠆢 () 云 (vân) 開 (khai) 开 (khai) 門 (môn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "宴 Yến  ▶ banquet, feast, party",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "会 Cối, Hội, Hụi  ▶ meeting, meet, party, association, interview, join",
+                        "  人 Nhân  ▶ person",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "開 Khai  ▶ open, unfold, unseal",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  开 (幵)   ▶ open, initiate, begin, start",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "      十 Thập  ▶ ten",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "      十 Thập  ▶ ten"
+                    ]
+                }
             },
             {
                 "hiragana": "のみかい",
                 "kanji": "飲み会",
                 "vietnamese": "tiệc nhậu",
-                "info": "n, 飲 (ẩm, ấm) 欠 (khiếm) 飠 (thực) 会 (hội, cối) 𠆢 () 云 (vân) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "会 Cối, Hội, Hụi  ▶ meeting, meet, party, association, interview, join",
+                        "  人 Nhân  ▶ person",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "飲 Ấm, Ẩm, Hẩm, Ỡm  ▶ drink, smoke, take",
+                        "  飠 (食)   ▶ eat, food, radical number 184",
+                        "  欠 Khiếm  ▶ lack, gap, fail, yawning radical"
+                    ]
+                }
             },
             {
                 "hiragana": "そうべつかい",
                 "kanji": "送別会",
                 "vietnamese": "tiệc chia tay",
-                "info": "n, 送 (tống) 关 (quan) ⻌ () , 別 (biệt) 勹 (bao) 口 (khẩu) 刂 (đao) 会 (hội, cối) 𠆢 () 云 (vân)  "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "会 Cối, Hội, Hụi  ▶ meeting, meet, party, association, interview, join",
+                        "  人 Nhân  ▶ person",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "別 Biệt  ▶ separate, branch off, diverge, fork, another, extra, specially",
+                        "    口 Khẩu  ▶ mouth",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "送 Tống  ▶ escort, send",
+                        "  关   ▶ frontier pass, close, relation",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "かんげいかい",
                 "kanji": "歓迎会",
                 "vietnamese": "tiệc nghênh đón",
-                "info": "n, 歓 (hoan) 𠂉 () 一 (nhất) 隹 (chuy) 欠 (khiếm) 迎 (nghênh, nghịnh) 卬 (ngang: ta) ⻌ () 会 (hội, cối) 𠆢 () 云 (vân) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "会 Cối, Hội, Hụi  ▶ meeting, meet, party, association, interview, join",
+                        "  人 Nhân  ▶ person",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "迎 Nghênh, Nghịnh  ▶ welcome, meet, greet",
+                        "  卬 Ngang, Cung, Ngàng  ▶ lofty, high, raise, high-priced",
+                        "    卩 Tiết  ▶ seal radical",
+                        "  ⻌ (辶)",
+                        "歓 Hoan  ▶ delight, joy",
+                        "    𠂉",
+                        "    隹 Chuy  ▶ bird, old bird radical",
+                        "      亻 (人)   ▶ radical number 9",
+                        "  欠 Khiếm  ▶ lack, gap, fail, yawning radical"
+                    ]
+                }
             },
             {
                 "hiragana": "のみ/たべ ほうだい",
                 "kanji": "飲み/食べ 放題",
                 "vietnamese": "ăn/uống thỏa thích",
-                "info": "n, 飲 (ẩm, ấm) 欠 (khiếm) 飠 (thực) 食 (thực, tự) 良 (lương) 𠆢 () 放 (phóng: túng) 方 (phương) 攵 (phộc) 題 (đề) 頁 (hiệt) 是 (thị) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "食 Thực, Tự  ▶ eat, food",
+                        "放 Phóng, Phỏng  ▶ set free, release, fire, shoot, emit, banish, liberate",
+                        "  方 Phương  ▶ direction, person, alternative",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "飲 Ấm, Ẩm, Hẩm, Ỡm  ▶ drink, smoke, take",
+                        "  飠 (食)   ▶ eat, food, radical number 184",
+                        "  欠 Khiếm  ▶ lack, gap, fail, yawning radical",
+                        "題 Đề  ▶ topic, subject",
+                        "  是 Thị  ▶ just so, this, right, justice",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "      龰",
+                        "        卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "        人 Nhân  ▶ person",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "（お）さけをつぎます",
                 "kanji": "（お）酒を注ぐ",
                 "vietnamese": "rót rượu",
-                "info": "tha, 酒 (tửu) 氵 (thủy) 酉 (dậu) 注 (chú) 主 (chủ) 氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "注 Chú  ▶ pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  主 Chủ  ▶ lord, chief, master, main thing, principal",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "酒 Tửu  ▶ sake, alcohol",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  酉 Dậu  ▶ west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain"
+                    ]
+                }
             },
             {
                 "hiragana": "もりあがります",
                 "kanji": "盛り上がる",
                 "vietnamese": "trở nên sôi động",
-                "info": "tự, 盛 (thịnh: đầy đủ)皿 (mãnh) 成 (thành) 上 (thượng, thướng) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "盛 Thịnh, Thình  ▶ boom, prosper, copulate",
+                        "  成 Thành  ▶ turn into, become, get, grow, elapse, reach",
+                        "    𠂊 (勹)",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "    𠂊 (勹)",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        丶 Chủ  ▶ dot, tick or dot radical",
+                        "  皿 Mãnh  ▶ dish, a helping, plate"
+                    ]
+                }
             },
             {
                 "hiragana": "ビールのあわ",
                 "kanji": "ビールの泡",
                 "vietnamese": "lớp bọt bia",
-                "info": "n, 泡 (phao: bọt nước) 包 (bao) 氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "泡 Phao, Bào  ▶ bubbles, foam, suds, froth",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  包 Bao  ▶ wrap, pack up, cover, conceal",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    己 Kỷ  ▶ self"
+                    ]
+                }
             },
             {
                 "hiragana": "あふれます",
                 "kanji": "溢れる",
                 "vietnamese": "tràn/trào ra ngoài",
-                "info": "tự, 溢 (dật: tràn) 氵 (thủy) 益 (ích: thêm, lợi) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "溢 Dật  ▶ overflow, inundate, spill",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  益 Ích  ▶ benefit, gain, profit, advantage",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    皿 Mãnh  ▶ dish, a helping, plate"
+                    ]
+                }
             },
             {
                 "hiragana": "こぼします / こぼれます",
                 "kanji": "零す / 零れる",
                 "vietnamese": "làm đổ,tràn / bị đổ",
-                "info": "tha, tự, 零 (linh: rơi) 令 (lệnh) ⻗ () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "零 Linh  ▶ zero, spill, overflow, nothing, cipher",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "  令 Lệnh, Linh  ▶ orders, laws, command, decree, good",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      マ"
+                    ]
+                }
             },
             {
                 "hiragana": "ビールをいっきにのみます",
                 "kanji": "ビールを一気に飲む",
                 "vietnamese": "uống 1 hơi bia",
-                "info": "tha, 気 (khí) 一 (nhất) 𠂉 () ⺄ () 㐅 () 飲 (ẩm, ấm) 欠 (khiếm) 飠 (thực) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "一 Nhất  ▶ one, one radical",
+                        "飲 Ấm, Ẩm, Hẩm, Ỡm  ▶ drink, smoke, take",
+                        "  飠 (食)   ▶ eat, food, radical number 184",
+                        "  欠 Khiếm  ▶ lack, gap, fail, yawning radical"
+                    ]
+                }
             },
             {
                 "hiragana": "（お）さけによいます / よっぱらいます/ よっぱらい",
                 "kanji": "（お）酒に酔う / 酔っ払う / 酔っ払い",
                 "vietnamese": "say rượu (nhẹ hơn), say xỉn, người say",
-                "info": "tự, tự, n, 酒 (tửu) 氵 (thủy) 酉 (dậu) 酔 (túy: say) 卆 () 酉 (dậu) 払 (phất) 厶 (khư) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "酔 Túy  ▶ drunk, feel sick, poisoned, elated, spellbound",
+                        "  酉 Dậu  ▶ west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "  卆 Thốt, Tốt  ▶ soldier, private, die",
+                        "    九 Cửu, Cưu  ▶ nine",
+                        "      乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "    十 Thập  ▶ ten",
+                        "酒 Tửu  ▶ sake, alcohol",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  酉 Dậu  ▶ west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "払 Chàng  ▶ pay, clear out, prune, banish, dispose of",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  厶 Khư  ▶ I, myself, katakana mu radical"
+                    ]
+                }
             },
             {
                 "hiragana": "あばれます",
                 "kanji": "暴れる",
                 "vietnamese": "quậy phá, làm loạn",
-                "info": "tự, 暴 (bạo: lực) ⺢ () 共 (cộng) 日 (nhật) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "暴 Bạo, Bộc  ▶ outburst, rave, fret, force, violence, cruelty, outrage",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  㳟",
+                        "    共 Cộng, Cung  ▶ together, both, neither, all, and, alike, with",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    氺 (水) Thủy  ▶ water radical variant"
+                    ]
+                }
             },
             {
                 "hiragana": "やかましい / そうぞうしい / さわがしい",
                 "kanji": "喧しい / 騒々しい / 騒がしい",
                 "vietnamese": "ồn chói / rất ồn / ồn",
-                "info": "い, 喧 (huyên: náo) 口 (khẩu) 宣 (tuyên: bố) 騒 (tao: làm ồn) 馬 (mã) 虫 (trùng) 又 (hựu) "
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "騒 Tao  ▶ boisterous, make noise, clamor, disturb, excite",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "    虫 Trùng  ▶ insect, bug, temper",
+                        "      中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "        口 Khẩu  ▶ mouth",
+                        "        丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "喧 Huyên  ▶ noisy, boisterous",
+                        "  口 Khẩu  ▶ mouth",
+                        "  宣 Tuyên  ▶ proclaim, say, announce",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    亘 Tuyên, Hoàn  ▶ span, range, extend over",
+                        "      二 Nhị  ▶ two, two radical",
+                        "        一 Nhất  ▶ one, one radical",
+                        "      旦 Đán  ▶ daybreak, dawn, morning",
+                        "        日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "        二 Nhị  ▶ two, two radical",
+                        "          一 Nhất  ▶ one, one radical"
+                    ]
+                }
             },
             {
                 "hiragana": "さわぎます",
                 "kanji": "騒ぐ",
                 "vietnamese": "làm ồn",
-                "info": "tự, 騒 (tao: làm ồn) 馬 (mã) 虫 (trùng) 又 (hựu)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "騒 Tao  ▶ boisterous, make noise, clamor, disturb, excite",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "    虫 Trùng  ▶ insect, bug, temper",
+                        "      中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "        口 Khẩu  ▶ mouth",
+                        "        丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "たばこのけむり",
                 "kanji": "たばこの煙",
                 "vietnamese": "khói thuốc",
-                "info": "n, 煙 (yên) 覀 () 土 (thổ) 火 (hỏa) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "煙 Yên  ▶ smoke",
+                        "  火 Hỏa  ▶ fire",
+                        "  垔 Nhân, Yên  ▶ to restrain, to dam a stream and change its direction, mound",
+                        "    覀 (襾)   ▶ variant of radical 146",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey"
+                    ]
+                }
             },
             {
                 "hiragana": "けむい / けむたい",
                 "kanji": "煙い / 煙たい",
                 "vietnamese": "khói mù mịt / ngột ngạt (khói)",
-                "info": "い, 煙 (yên) 覀 () 土 (thổ) 火 (hỏa)"
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "煙 Yên  ▶ smoke",
+                        "  火 Hỏa  ▶ fire",
+                        "  垔 Nhân, Yên  ▶ to restrain, to dam a stream and change its direction, mound",
+                        "    覀 (襾)   ▶ variant of radical 146",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey"
+                    ]
+                }
             }
         ]
     },
@@ -2318,97 +7505,396 @@ data_vocabulary = [
                 "hiragana": "かんじょう",
                 "kanji": "勘定",
                 "vietnamese": "khoảng thanh toán, bill",
-                "info": "n, 勘 (khám: định) 甚 (thậm: chí) 甘 (cam) 匹 (thất)  力 (lực) 定 (định, đính) 疋 (sơ) 宀 (miên) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "定 Định, Đính  ▶ determine, fix, establish, decide",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "    龰",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "      人 Nhân  ▶ person",
+                        "勘 Khám  ▶ intuition, perception, check, compare, sixth sense",
+                        "  甚 Thậm  ▶ tremendously, very, great, exceedingly",
+                        "    甘 Cam  ▶ sweet, coax, pamper, be content, sugary",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "        十 Thập  ▶ ten",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "    匹 Thất  ▶ equal, head, counter for small animals, roll of cloth",
+                        "      匚 Phương  ▶ box-on-side enclosure radical",
+                        "      儿 Nhân  ▶ legs radical",
+                        "        八 Bát  ▶ eight, eight radical",
+                        "          丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      匚 Phương  ▶ box-on-side enclosure radical",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert"
+                    ]
+                }
             },
             {
                 "hiragana": "べつべつにはらいます",
                 "kanji": "別々に払う",
                 "vietnamese": "trả riêng (phần ai nấy trả)",
-                "info": "v, 別 (biệt) 勹 (bao) 口 (khẩu) 刂 (đao) 払 (phất) 厶 (khư) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "払 Chàng  ▶ pay, clear out, prune, banish, dispose of",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  厶 Khư  ▶ I, myself, katakana mu radical",
+                        "別 Biệt  ▶ separate, branch off, diverge, fork, another, extra, specially",
+                        "    口 Khẩu  ▶ mouth",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical"
+                    ]
+                }
             },
             {
                 "hiragana": "わりかんにします",
                 "kanji": "割り勘にする",
                 "vietnamese": "chia riêng hóa đơn",
-                "info": "v, 割 (cát: cắt) 害 (hại: hãm) 刂 (đao) 勘 (khám: định) 甚 (thậm: chí) 甘 (cam) 匹 (thất)  力 (lực)"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "勘 Khám  ▶ intuition, perception, check, compare, sixth sense",
+                        "  甚 Thậm  ▶ tremendously, very, great, exceedingly",
+                        "    甘 Cam  ▶ sweet, coax, pamper, be content, sugary",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "        十 Thập  ▶ ten",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "    匹 Thất  ▶ equal, head, counter for small animals, roll of cloth",
+                        "      匚 Phương  ▶ box-on-side enclosure radical",
+                        "      儿 Nhân  ▶ legs radical",
+                        "        八 Bát  ▶ eight, eight radical",
+                        "          丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      匚 Phương  ▶ box-on-side enclosure radical",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "割 Cát  ▶ proportion, comparatively, divide, cut, separate, split",
+                        "  害 Hại, Hạt  ▶ harm, injury",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      龶",
+                        "      口 Khẩu  ▶ mouth",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical"
+                    ]
+                }
             },
             {
                 "hiragana": "おごります / おごり",
                 "kanji": "奢る / 奢り",
                 "vietnamese": "bao, mời, đãi",
-                "info": "v, n, 奢 (xa: xỉ) 大 (đại) 者 (giả) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "奢 Xa  ▶ extravagance, luxury",
+                        "  大 Đại, Thái  ▶ large, big",
+                        "  者 Giả  ▶ someone, person",
+                        "    耂 (老)   ▶ variant of radical 125",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "カードのゆうこうきげん",
                 "kanji": "カードの有効期限",
                 "vietnamese": "thời hạn còn hiệu lực của thẻ",
-                "info": "n, 有 (hữu, dựu) 𠂇 () 月 (nguyệt) 効 (hiệu) 力 (lực) 交 (giao) 期 (kì: hạn) 其 (kì: ấy) 月 (nguyệt) 限 (hạn: giới) 艮 (cấn) ⻖ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "効 Hiệu  ▶ merit, efficacy, efficiency, benefit",
+                        "  交 Giao  ▶ mingle, mixing, association, coming & going",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    父 Phụ, Phủ  ▶ father",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "有 Hữu, Dựu  ▶ possess, have, exist, happen, occur, approx",
+                        "  月 (肉) Nguyệt  ▶ month, moon",
+                        "限 Hạn  ▶ limit, restrict, to best of ability",
+                        "  ⻖ (阜)",
+                        "  艮 Cấn  ▶ northeast (Oriental zodiac), stopping, good radical",
+                        "期 Kỳ, Ky  ▶ period, time, date, term",
+                        "  其 Kỳ, Ký, Ki  ▶ that",
+                        "    甘 Cam  ▶ sweet, coax, pamper, be content, sugary",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "        十 Thập  ▶ ten",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  月 Nguyệt  ▶ month, moon"
+                    ]
+                }
             },
             {
                 "hiragana": "（お）さつをくずします",
                 "kanji": "（お）札を崩す(くずす)",
                 "vietnamese": "đổi tiền lẻ",
-                "info": "v, 札 (trát) 乚 () 木 (mộc) 崩 (băng: lở núi) 山 (san) 朋 (bằng: bạn bè) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "崩 Băng  ▶ crumble, die, demolish, level",
+                        "  山 San, Sơn  ▶ mountain",
+                        "  朋 Bằng  ▶ companion, friend",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "札 Trát  ▶ tag, paper money, counter for bonds, placard, bid",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical"
+                    ]
+                }
             },
             {
                 "hiragana": "りょうしゅうしょ",
                 "kanji": "領収書",
                 "vietnamese": "biên lai (receipt)",
-                "info": "n, 領 (lĩnh: giáo, nhận) 頁 (hiệt) 令 (lệnh) 収 (thu: nhập) 丩 () 又 (hựu) 書 (thư) 聿 (duật) 日 (nhật) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "収 Thâu, Thu, Thua  ▶ income, obtain, reap, pay, supply, store",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "書 Thư  ▶ write",
+                        "  聿 Duật  ▶ brush, finally, self, relate, follow, here, fast, writing brush radical",
+                        "    ⺕ (彑)",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "領 Lĩnh  ▶ jurisdiction, dominion, territory, fief, reign",
+                        "  令 Lệnh, Linh  ▶ orders, laws, command, decree, good",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      卩 (マ) Tiết  ▶ seal radical",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "せいきゅうしょ",
                 "kanji": "請求書",
                 "vietnamese": "hóa đơn (invoice)",
-                "info": "n, 請 (thỉnh: cầu) 青 (thanh) 言 (ngôn) 求 (cầu: xin) 一 (nhất) 丶 (chủ) 水 (thủy) 書 (thư) 聿 (duật) 日 (nhật) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "請 Thỉnh, Tính  ▶ solicit, invite, ask",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  青 Thanh  ▶ blue, green",
+                        "    龶",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "書 Thư  ▶ write",
+                        "  聿 Duật  ▶ brush, finally, self, relate, follow, here, fast, writing brush radical",
+                        "    ⺕ (彑)",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "求 Cầu  ▶ request, want, wish for, require, demand",
+                        "  氺 (水) Thủy  ▶ water radical variant",
+                        "  丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ぜいたくをします",
                 "kanji": "贅沢をする (ぜいたく)",
                 "vietnamese": "tiêu xài xa xỉ",
-                "info": "v, 贅 (chuế: dư) 貝 (bối) 敖 (ngao) 沢 (trạch: đầm lầy) 尺 (xích) 氵 (thủy) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "贅 Chuế  ▶ luxury",
+                        "  敖 Ngao, Ngạo  ▶ play, be proud",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "      放 Phóng, Phỏng  ▶ set free, release, fire, shoot, emit, banish, liberate",
+                        "        方 Phương  ▶ direction, person, alternative",
+                        "          亠 Đầu  ▶ kettle lid radical",
+                        "    放 Phóng, Phỏng  ▶ set free, release, fire, shoot, emit, banish, liberate",
+                        "      攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "        𠂉",
+                        "        乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "          丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "沢 Trạch  ▶ swamp, marsh, brilliance, grace",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  尺 Xích  ▶ shaku, Japanese foot, measure, scale, rule",
+                        "    尸 Thi  ▶ corpse, remains, flag radical",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "むだづかいをします",
                 "kanji": "無駄遣いをする (むだづかい)",
                 "vietnamese": "sử dụng lãng phí (thời gian, tiền)",
-                "info": "v, 無 (vô, mô) 駄 (đà: thồ hàng) 太 (thái) 馬 (mã) 遣 (khiển: điều, dùng) 中 (trung) 一 (nhất) 㠯 (dĩ) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "遣 Khiển, Khán  ▶ dispatch, despatch, send, give, donate, do, undertake",
+                        "    中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "      口 Khẩu  ▶ mouth",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  ⻌ (辶)",
+                        "無 Vô, Mô  ▶ nothingness, none, ain't, nothing, nil, not",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical",
+                        "駄 Đà  ▶ burdensome, pack horse, horse load, send by horse, trivial, worthless",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "  太 Thái  ▶ plump, thick, big around",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "    丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ひようがかかります",
                 "kanji": "費用がかかる",
                 "vietnamese": "tốn phí",
-                "info": "v, 費 (phí: tổn) 貝 (bối) 弗 (phất: trừ) 用 (dụng) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "用 Dụng  ▶ utilize, business, service, use, employ",
+                        "費 Phí, Bỉ  ▶ expense, cost, spend, consume, waste",
+                        "  弗 Phất  ▶ dollar",
+                        "    弓 Cung  ▶ bow, bow (archery, violin)",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "せいかつひ / こうつうひ / しょくひ",
                 "kanji": "生活費 / 交通費 / 食費",
                 "vietnamese": "phí sinh hoạt / phí đi lại / phí ăn uống",
-                "info": "n, 生 (sanh, sinh) 活 (hoạt, quạt) 舌 (thiệt) 氵 (thủy) 費 (phí: tổn) 貝 (bối) 弗 (phất: trừ) 用 (dụng) 交 (giao) 六 (lục) 父 (phụ) 通 (thông) 甬 (dũng) ⻌ () 食 (thực, tự) 良 (lương) 𠆢 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "交 Giao  ▶ mingle, mixing, association, coming & going",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  父 Phụ, Phủ  ▶ father",
+                        "生 Sanh, Sinh  ▶ life, genuine, birth",
+                        "食 Thực, Tự  ▶ eat, food",
+                        "費 Phí, Bỉ  ▶ expense, cost, spend, consume, waste",
+                        "  弗 Phất  ▶ dollar",
+                        "    弓 Cung  ▶ bow, bow (archery, violin)",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "活 Hoạt, Quạt  ▶ lively, resuscitation, being helped, living",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  舌 Thiệt  ▶ tongue, reed, clapper",
+                        "    千 Thiên  ▶ thousand",
+                        "    口 Khẩu  ▶ mouth",
+                        "通 Thông  ▶ traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "むだをはぶきます / むだをなくします",
                 "kanji": "無駄を省く / 無駄をなくす",
                 "vietnamese": "cắt giảm lãng phí / xóa bỏ lãng phí",
-                "info": "v, 無 (vô, mô) 駄 (đà: thồ hàng) 太 (thái) 馬 (mã) 省 (tỉnh: coi xét) 少 (thiểu) 目 (mục) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "無 Vô, Mô  ▶ nothingness, none, ain't, nothing, nil, not",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical",
+                        "駄 Đà  ▶ burdensome, pack horse, horse load, send by horse, trivial, worthless",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "  太 Thái  ▶ plump, thick, big around",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "省 Tỉnh  ▶ government ministry, conserve, omit",
+                        "  少 Thiểu, Thiếu  ▶ few, little",
+                        "    小 Tiểu  ▶ little, small",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "びんぼう / まずしい",
                 "kanji": "貧乏 / 貧しい",
                 "vietnamese": "nghèo",
-                "info": "n / a-i, 貧 (bần) 分 (phân) 貝 (bối) 乏 (phạp: thiếu) ノ () 之 (chi: của no) "
+                "info": "",
+                "details": {
+                    "pos": "n / a-i",
+                    "components": [
+                        "乏 Phạp  ▶ destitution, scarce, limited",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  之 Chi  ▶ of, this",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "貧 Bần  ▶ poverty, poor",
+                        "  分 Phân, Phận  ▶ part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    刀 Đao  ▶ sword, saber, knife",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "（お）かねもち",
                 "kanji": "（お）金持ち",
                 "vietnamese": "người giàu",
-                "info": "n, 金 (kim) 𠆢 () 丷 () 王 (vương) 持 (trì) 扌 (thủ) 寺 (tự) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "持 Trì  ▶ hold, have",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "金 Kim  ▶ gold"
+                    ]
+                }
             },
             {
                 "hiragana": "しゃっきんをします",
                 "kanji": "借金をする",
                 "vietnamese": "vay tiền",
-                "info": "v, 借 (tá: mượn) 昔 (tích) 亻 (nhân) 金 (kim) 𠆢 () 丷 () 王 (vương) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "借 Tá  ▶ borrow, rent",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  昔 Tích  ▶ once upon a time, antiquity, old times",
+                        "      廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "        十 Thập  ▶ ten",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "        十 Thập  ▶ ten",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "金 Kim  ▶ gold"
+                    ]
+                }
             }
         ]
     },
@@ -2419,139 +7905,543 @@ data_vocabulary = [
                 "hiragana": "きょうか / かもく",
                 "kanji": "教科 / 科目",
                 "vietnamese": "nhóm môn học / môn",
-                "info": "n, 教 (giáo, giao) 孝 (hiếu) 攵 (phộc) 科 (khoa) 禾 (hòa) 斗 (đấu) 目 (mục) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "科 Khoa  ▶ department, course, section",
+                        "  禾 Hòa  ▶ two-branch tree radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "教 Giáo  ▶ teach, faith, doctrine",
+                        "  孝 Hiếu  ▶ filial piety, child's respect",
+                        "    耂 (老)   ▶ variant of radical 125",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "とくい",
                 "kanji": "得意",
                 "vietnamese": "giỏi",
-                "info": "na, 得 (đắc) 彳 (xích) 㝵 () 意 (ý) 音 (âm) 心 (tâm) "
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "意 Ý  ▶ idea, mind, heart, taste, thought, desire, care, liking",
+                        "  音 Âm  ▶ sound, noise",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "得 Đắc  ▶ gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  㝵   ▶ to get, complacent, to obstruct, to hinder, to stop progress, to injure, to offend, to concern, hindrance, restraint",
+                        "    旦 Đán  ▶ daybreak, dawn, morning",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "にがて",
                 "kanji": "苦手",
                 "vietnamese": "yếu kém, không giỏi (lĩnh vực)",
-                "info": "na, 苦 (khổ: đắng) 古 (cổ) 艹 (thảo) 手 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "手 Thủ  ▶ hand",
+                        "苦 Khổ  ▶ suffering, trial, worry, hardship, feel bitter, scowl",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  古 Cổ  ▶ old",
+                        "    十 Thập  ▶ ten",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "こくご",
                 "kanji": "国語",
                 "vietnamese": "quốc ngữ (môn tiếng Nhật)",
-                "info": "n, 国 (quốc) 玉 (ngọc) 囗 (vi) 語 (ngữ, ngứ) 言 (ngôn) 五 (ngũ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "語 Ngữ, Ngứ  ▶ word, speech, language",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  吾 Ngô  ▶ I, my, our, one's own",
+                        "    五 Ngũ  ▶ five",
+                        "      二 Nhị  ▶ two, two radical",
+                        "      二 Nhị  ▶ two, two radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "国 Quốc, Cuốc  ▶ country",
+                        "  囗 Vi  ▶ box, box or enclosure radical",
+                        "  玉 Ngọc, Túc  ▶ jewel, ball",
+                        "    王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "  囗 Vi  ▶ box, box or enclosure radical"
+                    ]
+                }
             },
             {
                 "hiragana": "さんすう",
                 "kanji": "算数",
                 "vietnamese": "môn số học",
-                "info": "n, 算 (toán) 廾 (củng) 目 (mục) ⺮ () 数 (sổ, số, sác, xúc) 女 (nữ) 米 (mễ) 攵 (phộc) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "算 Toán  ▶ calculate, divining, number, abacus, probability",
+                        "  竹 Trúc  ▶ bamboo",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      十 Thập  ▶ ten",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten",
+                        "数 Sác, Số, Sổ, Xúc, Sỗ, Sộ, Xọ  ▶ number, strength, fate, law, figures",
+                        "  娄 Lâu, Lu, Lũ, Làu, Lủ, Sau, Sâu  ▶ surname, constellation, to wear",
+                        "    米 Mễ  ▶ rice, USA, metre",
+                        "    女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "りか",
                 "kanji": "理科",
                 "vietnamese": "khoa học tự nhiên",
-                "info": "n, 理 (lí) 里 (lí) 王 (vương) 科 (khoa) 禾 (hòa) 斗 (đấu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "科 Khoa  ▶ department, course, section",
+                        "  禾 Hòa  ▶ two-branch tree radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "理 Lý  ▶ logic, arrangement, reason, justice, truth",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "  里 Lý  ▶ ri, village, parent's home, league",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "しゃかい",
                 "kanji": "社会",
                 "vietnamese": "môn xã hội",
-                "info": "n, 社 (xã) 礻 (thị) 土 (thổ) 会 (hội, cối) 𠆢 () 云 (vân) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "会 Cối, Hội, Hụi  ▶ meeting, meet, party, association, interview, join",
+                        "  人 Nhân  ▶ person",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "社 Xã  ▶ company, firm, office, association, shrine",
+                        "  礻 (示) Kỳ, Thị, Kì  ▶ cult, showing radical",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey"
+                    ]
+                }
             },
             {
                 "hiragana": "たいいく",
                 "kanji": "体育",
                 "vietnamese": "môn thể dục",
-                "info": "n, 体 (thể) 本 (bổn) 亻 (nhân) 育 (dục) 𠫓 (đột) 月 (nguyệt) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "育 Dục  ▶ bring up, grow up, raise, rear",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "  月 (肉) Nguyệt  ▶ month, moon",
+                        "体 Thể  ▶ body, substance, object, reality, counter for images",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  本 Bổn, Bản  ▶ book, present, main, origin, true, real, counter for long cylindrical things",
+                        "    木 Mộc  ▶ tree, wood"
+                    ]
+                }
             },
             {
                 "hiragana": "きゅうしょく",
                 "kanji": "給食",
                 "vietnamese": "suất ăn tập thể (ở trường, cơ quan)",
-                "info": "n, 給 (cấp) 糸 (mịch) 合 (hợp) 食 (thực, tự) 良 (lương) 𠆢 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "食 Thực, Tự  ▶ eat, food",
+                        "給 Cấp  ▶ salary, wage, gift, allow, grant, bestow on",
+                        "  糸 Mịch  ▶ thread",
+                        "  合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "      人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "じかんわり",
                 "kanji": "時間割",
                 "vietnamese": "thời gian biểu (làm việc, nghỉ ngơi)",
-                "info": "n, 時 (thì, thời) 日 (nhật) 寺 (tự) 間 (gian) 日 (nhật) 門 (môn) 割 (cát) 害 (hại) 刂 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "間 Gian  ▶ interval, space",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "時 Thì, Thời  ▶ time, hour",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "割 Cát  ▶ proportion, comparatively, divide, cut, separate, split",
+                        "  害 Hại, Hạt  ▶ harm, injury",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      龶",
+                        "      口 Khẩu  ▶ mouth",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical"
+                    ]
+                }
             },
             {
                 "hiragana": "けっせきします / しゅっせきします",
                 "kanji": "欠席する / 出席する",
                 "vietnamese": "vắng mặt / tham dự",
-                "info": "v, 欠 (khiếm) 人 (nhân) ⺈ () 席 (tịch) 廿 (nhập) 巾 (cân) 广 (nghiễm) 出 (xuất, xúy) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "席 Tịch  ▶ seat, mat, occasion, place",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "欠 Khiếm  ▶ lack, gap, fail, yawning radical"
+                    ]
+                }
             },
             {
                 "hiragana": "１/２/３がっき",
                 "kanji": "１/２/３学期",
                 "vietnamese": "học kỳ 1, 2, 3",
-                "info": "n, 学 (học) 子 (tử) 龸 () 期 (kì, ki) 其 (kì) 月 (nguyệt) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "期 Kỳ, Ky  ▶ period, time, date, term",
+                        "  其 Kỳ, Ký, Ki  ▶ that",
+                        "    甘 Cam  ▶ sweet, coax, pamper, be content, sugary",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "        十 Thập  ▶ ten",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  月 Nguyệt  ▶ month, moon"
+                    ]
+                }
             },
             {
                 "hiragana": "ぜんき / こんがっき / こうき",
                 "kanji": "前期 / 今学期 / 後期",
                 "vietnamese": "học kỳ trước/này/sau",
-                "info": "n, 前 (tiền) 刖 (ngoạt) 䒑 () 期 (kì, ki) 其 (kì) 月 (nguyệt) 今 (kim) 亼 () ㇇ () 後 (hậu, hấu) 幺 (yêu) 彳 (xích) 夂 (tri) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "前 Tiền  ▶ in front, before",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "    刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "今 Kim  ▶ now",
+                        "  人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "後 Hậu, Hấu  ▶ behind, back, later",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    幺 Yêu  ▶ short thread radical",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "期 Kỳ, Ky  ▶ period, time, date, term",
+                        "  其 Kỳ, Ký, Ki  ▶ that",
+                        "    甘 Cam  ▶ sweet, coax, pamper, be content, sugary",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "        十 Thập  ▶ ten",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  月 Nguyệt  ▶ month, moon"
+                    ]
+                }
             },
             {
                 "hiragana": "おなじがくねん",
                 "kanji": "同じ学年",
                 "vietnamese": "cùng khối, cùng niên khóa",
-                "info": "n, 同 (đồng) 一 (nhất) 冋 () 学 (học) 子 (tử) 龸 () 年 (niên) 𠂉 () ヰ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "年 Niên  ▶ year, counter for years",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    十 Thập  ▶ ten",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "同 Đồng  ▶ same, agree, equal",
+                        "  冂 Quynh  ▶ upside-down box radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+                    ]
+                }
             },
             {
                 "hiragana": "じしゅうします",
                 "kanji": "自習する",
                 "vietnamese": "tự học",
-                "info": "v, 自 (tự) 習 (tập) 白 (bạch) 羽 (vũ) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "自 Tự  ▶ oneself",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "習 Tập  ▶ learn",
+                        "  羽 Vũ  ▶ feathers, counter for birds, rabbits",
+                        "  白 Bạch  ▶ white",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "えんぴつをけずります",
                 "kanji": "鉛筆を削る",
                 "vietnamese": "gọt bút chì",
-                "info": "v, 鉛 (duyên, diên) 金 (kim) 㕣 () 筆 (bút) ⺮ () 聿 (duật) 削 (tước: vót) 肖 (tiếu) 刂 (đao) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "筆 Bút  ▶ writing brush, writing, painting brush, handwriting",
+                        "  竹 Trúc  ▶ bamboo",
+                        "  聿 Duật  ▶ brush, finally, self, relate, follow, here, fast, writing brush radical",
+                        "    ⺕ (彑)",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "鉛 Duyên  ▶ lead",
+                        "  金 Kim  ▶ gold",
+                        "  㕣   ▶ a marsh at the foot of the hills, name of a river",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "削 Tước  ▶ plane, sharpen, whittle, pare, shave",
+                        "  肖 Tiếu, Tiêu  ▶ resemblance",
+                        "    ⺌ (小)",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ものさし / じょうぎ",
                 "kanji": "物差し / 定規",
                 "vietnamese": "thước đo / thước (dụng cụ)",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "差 Soa, Si, Sai, Sái  ▶ distinction, difference, variation, discrepancy, margin, balance",
+                        "  羊 Dương  ▶ sheep",
+                        "    䒑   ▶ grass, straw, herbs, weeds",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    工 Công  ▶ craft, construction, katakana e radical",
+                        "定 Định, Đính  ▶ determine, fix, establish, decide",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "    龰",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "      人 Nhân  ▶ person",
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "規 Quy  ▶ standard, measure",
+                        "  夫 Phu, Phù  ▶ husband, man",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "  見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    儿 Nhân  ▶ legs radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ごうけいをだします",
                 "kanji": "合計を出す",
                 "vietnamese": "tính tổng",
-                "info": "v, 合 (hợp, cáp, hiệp) 亼 () 口 (khẩu) 計 (kế, kê) 十 (thập) 言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "計 Kế, Kê  ▶ plot, plan, scheme, measure",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  十 Thập  ▶ ten",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "けいさん",
                 "kanji": "計算",
                 "vietnamese": "tính toán",
-                "info": "n, 計 (kế, kê) 十 (thập) 言 (ngôn) 算 (toán) 廾 (củng) 目 (mục) ⺮ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "計 Kế, Kê  ▶ plot, plan, scheme, measure",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  十 Thập  ▶ ten",
+                        "算 Toán  ▶ calculate, divining, number, abacus, probability",
+                        "  竹 Trúc  ▶ bamboo",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      十 Thập  ▶ ten",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten"
+                    ]
+                }
             },
             {
                 "hiragana": "たしざん / たします",
                 "kanji": "足し算 / 足す",
                 "vietnamese": "phép cộng / cộng",
-                "info": "n, v, 足 (túc) 算 (toán) 廾 (củng) 目 (mục) ⺮ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "算 Toán  ▶ calculate, divining, number, abacus, probability",
+                        "  竹 Trúc  ▶ bamboo",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      十 Thập  ▶ ten",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten",
+                        "足 Túc  ▶ leg, foot, be sufficient, counter for pairs of footwear",
+                        "  口 Khẩu  ▶ mouth",
+                        "  龰"
+                    ]
+                }
             },
             {
                 "hiragana": "ひきざん / ひきます",
                 "kanji": "引き算 / 引く",
                 "vietnamese": "phép trừ, trừ",
-                "info": "n, v, 引 (dẫn, dấn) 弓 (cung) 丨 (cổn) 算 (toán) 廾 (củng) 目 (mục) ⺮ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "算 Toán  ▶ calculate, divining, number, abacus, probability",
+                        "  竹 Trúc  ▶ bamboo",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      十 Thập  ▶ ten",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten",
+                        "引 Dẫn, Dấn  ▶ pull, tug, jerk, admit, install, quote, refer to",
+                        "  弓 Cung  ▶ bow, bow (archery, violin)",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "かけざん / かけます",
                 "kanji": "掛け算 / 掛ける",
                 "vietnamese": "phép nhân / nhân",
-                "info": "n, v, 掛 (quải) 扌 (thủ) 卜 (bặc) 圭 (khuê) 算 (toán) 廾 (củng) 目 (mục) ⺮ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "算 Toán  ▶ calculate, divining, number, abacus, probability",
+                        "  竹 Trúc  ▶ bamboo",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      十 Thập  ▶ ten",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten",
+                        "掛 Quải  ▶ hang, suspend, depend, arrive at, tax, pour",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  卦 Quái  ▶ a divination sign",
+                        "    圭 Khuê  ▶ square jewel, corner, angle, edge",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "わりざん / わります",
                 "kanji": "割り算 / 割る",
                 "vietnamese": "phép chia / chia",
-                "info": "n, v, 割 (cát) 害 (hại) 刂 (đao) 算 (toán) 廾 (củng) 目 (mục) ⺮ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "算 Toán  ▶ calculate, divining, number, abacus, probability",
+                        "  竹 Trúc  ▶ bamboo",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      十 Thập  ▶ ten",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten",
+                        "割 Cát  ▶ proportion, comparatively, divide, cut, separate, split",
+                        "  害 Hại, Hạt  ▶ harm, injury",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      龶",
+                        "      口 Khẩu  ▶ mouth",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical"
+                    ]
+                }
             }
         ]
     },
@@ -2562,151 +8452,653 @@ data_vocabulary = [
                 "hiragana": "がくぶ",
                 "kanji": "学部",
                 "vietnamese": "khoa (đại học)",
-                "info": "n, 学 (học) 子 (tử) 龸 () 部 (bộ) 咅 () ⻏ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "部 Bộ  ▶ section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+                        "  咅 Phẫu, Phôi, Phủ, Thấu  ▶ to spit out",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻏ (邑)"
+                    ]
+                }
             },
             {
                 "hiragana": "じゅけんします",
                 "kanji": "受験する",
                 "vietnamese": "dự thi",
-                "info": "v, 受 (thụ) 又 (hựu) 冖 (mịch) ⺤ () 験 (nghiệm) 㑒 () 馬 (mã)  "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "受 Thụ  ▶ accept, undergo, answer (phone), take, get, catch, receive",
+                        "    ⺤ (爪)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "験 Nghiệm  ▶ verification, effect, testing",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "  㑒 (僉)",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "ぶんがくぶ",
                 "kanji": "文学部",
                 "vietnamese": "khoa văn",
-                "info": "n, 文 (văn, vấn) 学 (học) 子 (tử) 龸 () 部 (bộ) 咅 () ⻏ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "部 Bộ  ▶ section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+                        "  咅 Phẫu, Phôi, Phủ, Thấu  ▶ to spit out",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻏ (邑)",
+                        "文 Văn, Vấn  ▶ sentence, literature, style, art, decoration, figures, plan, literary radical",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue"
+                    ]
+                }
             },
             {
                 "hiragana": "ほうがくぶ",
                 "kanji": "法学部",
                 "vietnamese": "khoa luật",
-                "info": "n, 法 (pháp) 去 (khứ) 氵 (thủy) 学 (học) 子 (tử) 龸 () 部 (bộ) 咅 () ⻏ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "法 Pháp  ▶ method, law, rule, principle, model, system",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  去 Khứ, Khu  ▶ gone, past, quit, leave, elapse, eliminate, divorce",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "部 Bộ  ▶ section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+                        "  咅 Phẫu, Phôi, Phủ, Thấu  ▶ to spit out",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻏ (邑)",
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+                    ]
+                }
             },
             {
                 "hiragana": "りこうがくぶ",
                 "kanji": "理工学部",
                 "vietnamese": "khoa khoa học kỹ thuật",
-                "info": "n, 理 (lí) 里 (lí) 王 (vương) 工 (công) 学 (học) 子 (tử) 龸 () 部 (bộ) 咅 () ⻏ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "工 Công  ▶ craft, construction, katakana e radical",
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "部 Bộ  ▶ section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+                        "  咅 Phẫu, Phôi, Phủ, Thấu  ▶ to spit out",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻏ (邑)",
+                        "理 Lý  ▶ logic, arrangement, reason, justice, truth",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "  里 Lý  ▶ ri, village, parent's home, league",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "いがくぶ",
                 "kanji": "医学部",
                 "vietnamese": "khoa y",
-                "info": "n, 医 (y) 矢 (thỉ) 匚 (phương)学 (học) 子 (tử) 龸 ()  部 (bộ) 咅 () ⻏ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "医 Ế, Y, Ỷ, I, Ỉ  ▶ doctor, medicine",
+                        "  匸 Hệ  ▶ hiding enclosure radical",
+                        "  矢 Thỉ  ▶ dart, arrow",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  匸 Hệ  ▶ hiding enclosure radical",
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "部 Bộ  ▶ section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+                        "  咅 Phẫu, Phôi, Phủ, Thấu  ▶ to spit out",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻏ (邑)"
+                    ]
+                }
             },
             {
                 "hiragana": "がっか",
                 "kanji": "学科",
                 "vietnamese": "ngành học / chuyên ngành",
-                "info": "n, 学 (học) 子 (tử) 龸 () 科 (khoa) 禾 (hòa) 斗 (đấu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "科 Khoa  ▶ department, course, section",
+                        "  禾 Hòa  ▶ two-branch tree radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "せんこうします",
                 "kanji": "専攻する",
                 "vietnamese": "theo học chuyên ngành",
-                "info": "v, 専 (chuyên) 寸 (thốn) 一 (nhất) 由 (do) 攻 (công: kích) 工 (công) 攵 (phộc) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "専 Chuyên  ▶ specialty, exclusive, mainly, solely",
+                        "    由 Do  ▶ wherefore, a reason",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "攻 Công  ▶ aggression, attack, criticize, polish",
+                        "  工 Công  ▶ craft, construction, katakana e radical",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "けいざいがく",
                 "kanji": "経済学",
                 "vietnamese": "kinh tế học",
-                "info": "n, 経 (kinh) 糸 (mịch) 圣 (thánh) 済 (tế) 斉 (tề) 氵 (thủy) 学 (học) 子 (tử) 龸 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "済 Tế, Tề  ▶ settle (debt, etc.), relieve (burden), finish, come to an end, excusable, need not",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  斉 (齊) Tế, Tề, Tày, Tầy, Tè  ▶ adjusted, alike, equal, similar variety of",
+                        "    文 Văn, Vấn  ▶ sentence, literature, style, art, decoration, figures, plan, literary radical",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "      乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      二 Nhị  ▶ two, two radical",
+                        "経 Kinh  ▶ sutra, longitude, pass thru, expire, warp",
+                        "  糸 Mịch  ▶ thread",
+                        "  圣 Khốt, Thánh  ▶ holy, sacred",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+                    ]
+                }
             },
             {
                 "hiragana": "せいじがく",
                 "kanji": "政治学",
                 "vietnamese": "chính trị học",
-                "info": "n, 政 (chánh, chính) 正 (chánh) 攵 (phộc) 治 (trì, trị) 台 (thai) 氵 (thủy) 学 (học) 子 (tử) 龸 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "治 Trì, Trị  ▶ reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  台 Thai, Đài, Di  ▶ pedestal, a stand, counter for machines and vehicles",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "政 Chánh  ▶ politics, government",
+                        "  正 Chánh, Chính  ▶ correct, justice, righteous, 10**40",
+                        "    止 Chỉ  ▶ stop, halt",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しんりがく",
                 "kanji": "心理学",
                 "vietnamese": "tâm lý học",
-                "info": "n, 心 (tâm) 理 (lí) 里 (lí) 王 (vương) 学 (học) 子 (tử) 龸 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "理 Lý  ▶ logic, arrangement, reason, justice, truth",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "  里 Lý  ▶ ri, village, parent's home, league",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "げんごがく",
                 "kanji": "言語学",
                 "vietnamese": "ngôn ngữ học",
-                "info": "n, 言 (ngôn, ngân) 一 (nhất) 口 (khẩu) 語 (ngữ, ngứ) 言 (ngôn) 五 (ngũ) 学 (học) 子 (tử) 龸 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "語 Ngữ, Ngứ  ▶ word, speech, language",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  吾 Ngô  ▶ I, my, our, one's own",
+                        "    五 Ngũ  ▶ five",
+                        "      二 Nhị  ▶ two, two radical",
+                        "      二 Nhị  ▶ two, two radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "言 Ngôn, Ngân  ▶ say, word",
+                        "  口 Khẩu  ▶ mouth",
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+                    ]
+                }
             },
             {
                 "hiragana": "ぶつりがく",
                 "kanji": "物理学",
                 "vietnamese": "vật lý học",
-                "info": "n, 物 (vật) 勿 (vật) 牜 () 理 (lí) 里 (lí) 王 (vương) 学 (học) 子 (tử) 龸 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "理 Lý  ▶ logic, arrangement, reason, justice, truth",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "  里 Lý  ▶ ri, village, parent's home, league",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "こうぎ",
                 "kanji": "講義",
                 "vietnamese": "lecture",
-                "info": "n, 講 (giảng) 言 (ngôn) 冓 (cấu) 義 (nghĩa) 我 (ngã) 𦍌 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "講 Giảng  ▶ lecture, club, association",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  冓 Cấu  ▶ put together, inner palace",
+                        "    三 Tam, Tám  ▶ three",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      三 Tam, Tám  ▶ three",
+                        "        一 Nhất  ▶ one, one radical",
+                        "        再 Tái  ▶ again, twice, second time",
+                        "          一 Nhất  ▶ one, one radical",
+                        "    再 Tái  ▶ again, twice, second time",
+                        "      冉 Nhiễm  ▶ red, tan",
+                        "        冂 Quynh  ▶ upside-down box radical",
+                        "        土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "義 Nghĩa  ▶ righteousness, justice, morality, honor, loyalty, meaning",
+                        "  羊 Dương  ▶ sheep",
+                        "    䒑   ▶ grass, straw, herbs, weeds",
+                        "  我 Ngã  ▶ ego, I, selfish, our, oneself",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "    亅 Quyết  ▶ feathered stick, barb radical",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ほしゅう",
                 "kanji": "補習",
                 "vietnamese": "buổi học bổ túc",
-                "info": "v, 補 (bổ: sung) 甫 (phủ) 衤 (y) 習 (tập) 白 (bạch) 羽 (vũ) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "習 Tập  ▶ learn",
+                        "  羽 Vũ  ▶ feathers, counter for birds, rabbits",
+                        "  白 Bạch  ▶ white",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "補 Bổ  ▶ supplement, supply, make good, offset, compensate, assistant, learner",
+                        "  衤 (衣) Y, Ý, I, Í  ▶ clothes, clothing radical (no. 145",
+                        "  甫 Phủ  ▶ for the first time, not until",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "    丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ほこう",
                 "kanji": "補講",
                 "vietnamese": "buổi học bù",
-                "info": "v, 補 (bổ: sung) 甫 (phủ) 衤 (y) 講 (giảng) 言 (ngôn) 冓 (cấu) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "講 Giảng  ▶ lecture, club, association",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  冓 Cấu  ▶ put together, inner palace",
+                        "    三 Tam, Tám  ▶ three",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      三 Tam, Tám  ▶ three",
+                        "        一 Nhất  ▶ one, one radical",
+                        "        再 Tái  ▶ again, twice, second time",
+                        "          一 Nhất  ▶ one, one radical",
+                        "    再 Tái  ▶ again, twice, second time",
+                        "      冉 Nhiễm  ▶ red, tan",
+                        "        冂 Quynh  ▶ upside-down box radical",
+                        "        土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "補 Bổ  ▶ supplement, supply, make good, offset, compensate, assistant, learner",
+                        "  衤 (衣) Y, Ý, I, Í  ▶ clothes, clothing radical (no. 145",
+                        "  甫 Phủ  ▶ for the first time, not until",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "    丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しんがく",
                 "kanji": "進学",
                 "vietnamese": "học lên bậc cao hơn",
-                "info": "n, 進 (tiến) 隹 (chuy) ⻌ () 学 (học) 子 (tử) 龸 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "進 Tiến  ▶ advance, proceed, progress, promote",
+                        "  隹 Chuy  ▶ bird, old bird radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  ⻌ (辶)",
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+                    ]
+                }
             },
             {
                 "hiragana": "ごうかくはっぴょう",
                 "kanji": "合格発表",
                 "vietnamese": "công bố kết quả trúng tuyển",
-                "info": "n, 合 (hợp, cáp, hiệp) 亼 () 口 (khẩu) 格 (cách, các) 各 (các) 木 (mộc)  発 (phát) 癶 (bát) 二 (nhị) 儿 (nhân) 表 (biểu) 龶 () 𧘇 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "表 Biểu  ▶ surface, table, chart, diagram",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "    二 Nhị  ▶ two, two radical",
+                        "  衣 Y, Ý  ▶ garment, clothes, dressing",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "格 Cách, Các  ▶ status, rank, capacity, character, case (law, grammar)",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "発 Bát, Phát  ▶ departure, discharge, publish, emit, start from, disclose, counter for gunshots",
+                        "  癶 Bát  ▶ dotted tent radical",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ごうかくします / うかります",
                 "kanji": "合格する / 受かる",
                 "vietnamese": "thi đỗ",
-                "info": "v, 合 (hợp, cáp, hiệp) 亼 () 口 (khẩu) 格 (cách, các) 各 (các) 木 (mộc) 受 (thụ: nhận) 又 (hựu) 冖 (mịch) ⺤ () "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "受 Thụ  ▶ accept, undergo, answer (phone), take, get, catch, receive",
+                        "    ⺤ (爪)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "格 Cách, Các  ▶ status, rank, capacity, character, case (law, grammar)",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "ふごうかくになります / おちます",
                 "kanji": "不合格になる / 落ちる",
                 "vietnamese": "thi rớt",
-                "info": "v, 不 (bất, phầu, phủ, phi) 合 (hợp, cáp, hiệp) 亼 () 口 (khẩu) 格 (cách, các) 各 (các) 木 (mộc) 落 (lạc) 艹 (thảo) 洛 (lạc) "
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "不 Bất, Phầu, Phủ, Phi  ▶ negative, non-, bad, ugly, clumsy",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "落 Lạc  ▶ fall, drop, come down, village, hamlet",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  洛 Lạc  ▶ Kyoto, the capital",
+                        "    氵 (水) Thủy  ▶ water, water radical",
+                        "    各 Các  ▶ each, every, either",
+                        "      夂 Tri  ▶ late, delayed, winter radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "格 Cách, Các  ▶ status, rank, capacity, character, case (law, grammar)",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "じゅぎょうりょう / がくひ",
                 "kanji": "授業料 / 学費",
                 "vietnamese": "học phí",
-                "info": "n, 授 (thụ: truyền) 扌 (thủ) 受 (thụ) 業 (nghiệp) 业 (nghiệp) 䒑 () 未 (vị) 料 (liêu, liệu) 米 (mễ) 斗 (đấu) 学 (học) 子 (tử) 龸 () 費 (phí, bỉ) 貝 (bối) 弗 (phất) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "業 Nghiệp  ▶ business, vocation, arts, performance",
+                        "  业",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    羊 Dương  ▶ sheep",
+                        "    木 Mộc  ▶ tree, wood",
+                        "      羊 Dương  ▶ sheep",
+                        "授 Thụ  ▶ impart, instruct, grant, confer",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  受 Thụ  ▶ accept, undergo, answer (phone), take, get, catch, receive",
+                        "      ⺤ (爪)",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "料 Liêu, Liệu  ▶ fee, materials",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  斗 Đẩu  ▶ Big Dipper, ten sho (vol), sake dipper, dots and cross radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "費 Phí, Bỉ  ▶ expense, cost, spend, consume, waste",
+                        "  弗 Phất  ▶ dollar",
+                        "    弓 Cung  ▶ bow, bow (archery, violin)",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しょうがくきん",
                 "kanji": "奨学金",
                 "vietnamese": "học bổng",
-                "info": "n, 奨 (tưởng: thưởng) 大 (đại) ⺤ () 寸 (thốn) 丬 (phiến)  学 (học) 子 (tử) 龸 () 金 (kim) 𠆢 () 丷 () 王 (vương) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "奨 Tưởng  ▶ exhort, urge, encourage",
+                        "  将 Thương, Tương, Tướng  ▶ leader, commander, general, admiral, or, and again, soon, from now on, just about",
+                        "    ⺦ (爿)",
+                        "      ⺤ (爪)",
+                        "      寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "  大 Đại, Thái  ▶ large, big",
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "金 Kim  ▶ gold"
+                    ]
+                }
             },
             {
                 "hiragana": "だいがくきょうじゅ",
                 "kanji": "大学教授",
                 "vietnamese": "giáo sư đại học",
-                "info": "n, 大 (đại, thái) 一 (nhất) 人 (nhân) 学 (học) 子 (tử) 龸 () 教 (giáo, giao) 孝 (hiếu) 攵 (phộc) 授 (thụ: truyền) 扌 (thủ) 受 (thụ: nhận) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "授 Thụ  ▶ impart, instruct, grant, confer",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  受 Thụ  ▶ accept, undergo, answer (phone), take, get, catch, receive",
+                        "      ⺤ (爪)",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "教 Giáo  ▶ teach, faith, doctrine",
+                        "  孝 Hiếu  ▶ filial piety, child's respect",
+                        "    耂 (老)   ▶ variant of radical 125",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "せいせき",
                 "kanji": "成績",
                 "vietnamese": "thành tích học tập",
-                "info": "n, 成 (thành) 戈 (qua) 勹 (bao) 績 (tích) 責 (trách) 糸 (mịch)  "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "成 Thành  ▶ turn into, become, get, grow, elapse, reach",
+                        "  𠂊 (勹)",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "  𠂊 (勹)",
+                        "  戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "績 Tích  ▶ exploits, achievements, unreeling cocoons",
+                        "  糸 Mịch  ▶ thread",
+                        "  責 Trách, Trái  ▶ blame, condemn, censure",
+                        "    龶",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "たんい",
                 "kanji": "単位",
                 "vietnamese": "tín chỉ",
-                "info": "n, 単 (đơn: cô) 十 (thập) ⺍ () 田 (điền) 位 (vị) 亻 (nhân) 立 (lập) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "単 Đan, Đạn, Đơn, Thiền  ▶ simple, one, single, merely",
+                        "  ⺍ (吅)",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "  甲 Giáp  ▶ armor, high (voice), A grade, first class, former, instep, carapace",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    十 Thập  ▶ ten",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    甲 Giáp  ▶ armor, high (voice), A grade, first class, former, instep, carapace",
+                        "      十 Thập  ▶ ten",
+                        "        丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "位 Vị  ▶ rank, grade, throne, crown, about, some",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  立 Lập  ▶ stand up, rise, set up, erect",
+                        "    亠 Đầu  ▶ kettle lid radical"
+                    ]
+                }
             }
         ]
     },
@@ -2717,79 +9109,274 @@ data_vocabulary = [
                 "hiragana": "しあげます (レポートを)",
                 "kanji": "仕上げる (レポートを)",
                 "vietnamese": "hoàn thành (báo cáo)",
-                "info": "tha, 仕 (sĩ) 亻 (nhân) 士 (sĩ) 上 (thượng, thướng) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "仕 Sĩ  ▶ attend, doing, official, serve",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ていしゅつします (レポートを)",
                 "kanji": "提出する (レポートを)",
                 "vietnamese": "nộp (báo cáo)",
-                "info": "tha, 提 (đề: cử, nâng lên) 扌 (thủ) 是 (thị) 出 (xuất, xúy) 題(đề mondai) hẹp hơn, trang trong hơn 出す"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "提 Đề, Thì, Để  ▶ propose, take along, carry in hand",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  是 Thị  ▶ just so, this, right, justice",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "      龰",
+                        "        卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "        人 Nhân  ▶ person",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "たんとうのせんせい",
                 "kanji": "担当の先生",
                 "vietnamese": "giáo viên phụ trách",
-                "info": "n, 担 (đam, đảm) 旦 (đán) 扌 (thủ) 当 (đương, đang, đáng) ⺌ () ヨ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "生 Sanh, Sinh  ▶ life, genuine, birth",
+                        "担 Đam, Đảm, Đãn, Đản, Đẵm, Đán, Đắn, Đẵn, Dằng, Đét, Đởm, Dứt, Đứt, Tạ  ▶ shouldering, carry, raise, bear",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  旦 Đán  ▶ daybreak, dawn, morning",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    一 Nhất  ▶ one, one radical",
+                        "先 Tiên, Tiến  ▶ before, ahead, previous, future, precedence",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "当 Đang, Đáng, Đương  ▶ hit, right, appropriate, himself",
+                        "  ⺌ (小)",
+                        "  ⺕ (彑)"
+                    ]
+                }
             },
             {
                 "hiragana": "くりかえし",
                 "kanji": "くり返し",
                 "vietnamese": "sự lặp lại",
-                "info": "n, 返 (phản) 反 (phản) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "返 Phản  ▶ return, answer, fade, repay",
+                        "  反 Phản, Phiên  ▶ anti-",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "あんきします",
                 "kanji": "暗記する",
-                "vietnamese": "ghi nhớ; học thuộc lòng",
-                "info": "tha, 暗 (ám) 日 (nhật) 音 (âm) 記 (kí) 言 (ngôn) 己 (kỉ) "
+                "vietnamese": "ghi nhớ, học thuộc lòng",
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "暗 Ám  ▶ darkness, disappear, shade, informal, grow dark, be blinded",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  音 Âm  ▶ sound, noise",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "記 Kí  ▶ scribe, account, narrative",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  己 Kỷ  ▶ self"
+                    ]
+                }
             },
             {
                 "hiragana": "とい",
                 "kanji": "問い",
                 "vietnamese": "câu hỏi",
-                "info": "n, 問 (vấn) 口 (khẩu) 門 (môn) trang trọng hơn 問題"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "問 Vấn  ▶ question, ask, problem",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "きにゅうします (こたえを)",
                 "kanji": "記入する (答えを)",
                 "vietnamese": "điền (đáp án)",
-                "info": "tha, 記 (kí) 言 (ngôn) 己 (kỉ) 入 (nhập) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "入 Nhập  ▶ enter, insert",
+                        "答 Đáp  ▶ solution, answer",
+                        "  竹 Trúc  ▶ bamboo",
+                        "  合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "記 Kí  ▶ scribe, account, narrative",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  己 Kỷ  ▶ self"
+                    ]
+                }
             },
             {
                 "hiragana": "み/かき/きき/いい + なおします/なおし",
                 "kanji": "見/書き/聞き/言い + 直す/直し",
                 "vietnamese": "xem/viết/nghe/nói lại (đáp án) v/n",
-                "info": "tha, n,直 (trực) 十 (thập) 目 (mục) 𠃊 () 見 (kiến, hiện) 目 (mục) 儿 (nhân) 書 (thư) 聿 (duật) 日 (nhật) 聞 (văn, vấn, vặn) 耳 (nhĩ) 門 (môn) 言 (ngôn, ngân) 一 (nhất) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "書 Thư  ▶ write",
+                        "  聿 Duật  ▶ brush, finally, self, relate, follow, here, fast, writing brush radical",
+                        "    ⺕ (彑)",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "直 Trực  ▶ straightaway, honesty, frankness, fix, repair",
+                        "  十 Thập  ▶ ten",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "言 Ngôn, Ngân  ▶ say, word",
+                        "  口 Khẩu  ▶ mouth",
+                        "見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  儿 Nhân  ▶ legs radical",
+                        "聞 Văn, Vấn, Vặn  ▶ hear, ask, listen",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  耳 Nhĩ  ▶ ear"
+                    ]
+                }
             },
             {
                 "hiragana": "ききとります / ききとり",
                 "kanji": "聞き取る / 聞き取り",
                 "vietnamese": "nghe hiểu",
-                "info": "tha/n, 聞 (văn, vấn, vặn) 耳 (nhĩ) 門 (môn) 取 (thủ) 耳 (nhĩ) 又 (hựu) "
+                "info": "",
+                "details": {
+                    "pos": "tha/n",
+                    "components": [
+                        "聞 Văn, Vấn, Vặn  ▶ hear, ask, listen",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  耳 Nhĩ  ▶ ear",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "かきとります / かきとり",
                 "kanji": "書き取る / 書き取り",
                 "vietnamese": "nghe rồi chép lại",
-                "info": "tha/n, 書 (thư) 聿 (duật) 日 (nhật) 取 (thủ) 耳 (nhĩ) 又 (hựu) "
+                "info": "",
+                "details": {
+                    "pos": "tha/n",
+                    "components": [
+                        "書 Thư  ▶ write",
+                        "  聿 Duật  ▶ brush, finally, self, relate, follow, here, fast, writing brush radical",
+                        "    ⺕ (彑)",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "すみます (しけんが)",
                 "kanji": "済む (試験が)",
                 "vietnamese": "kết thúc, hoàn tất (kỳ thi)",
-                "info": "tự, 済 (tế: kinh) 斉 (tề: nhất) 氵 (thủy) 試 (thí) 言 (ngôn) 式 (thức) 験 (nghiệm) 㑒 () 馬 (mã) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "済 Tế, Tề  ▶ settle (debt, etc.), relieve (burden), finish, come to an end, excusable, need not",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  斉 (齊) Tế, Tề, Tày, Tầy, Tè  ▶ adjusted, alike, equal, similar variety of",
+                        "    文 Văn, Vấn  ▶ sentence, literature, style, art, decoration, figures, plan, literary radical",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "      乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      二 Nhị  ▶ two, two radical",
+                        "試 Thí  ▶ test, try, attempt, experiment, ordeal",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  式 Thức  ▶ style, ceremony, rite, function, method, system, form, expression",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "    工 Công  ▶ craft, construction, katakana e radical",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "験 Nghiệm  ▶ verification, effect, testing",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "  㑒 (僉)",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "レポートのしたがきをします",
                 "kanji": "レポートの下書きをする",
                 "vietnamese": "viết nháp",
-                "info": "tha, 下 (hạ, há) 書 (thư) 聿 (duật) 日 (nhật) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "書 Thư  ▶ write",
+                        "  聿 Duật  ▶ brush, finally, self, relate, follow, here, fast, writing brush radical",
+                        "    ⺕ (彑)",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "せいしょします",
                 "kanji": "清書する",
                 "vietnamese": "viết lại bản nháp sạch sẽ",
-                "info": "tha, 清 (thanh: trong) 青 (thanh: xanh) 氵 (thủy) 書 (thư) 聿 (duật) 日 (nhật) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "清 Thanh  ▶ pure, purify, cleanse, exorcise, Manchu dynasty",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  青 Thanh  ▶ blue, green",
+                        "    龶",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "書 Thư  ▶ write",
+                        "  聿 Duật  ▶ brush, finally, self, relate, follow, here, fast, writing brush radical",
+                        "    ⺕ (彑)",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             }
         ]
     },
@@ -2800,109 +9387,425 @@ data_vocabulary = [
                 "hiragana": "ほんやくします",
                 "kanji": "翻訳する",
                 "vietnamese": "biên dịch",
-                "info": "tha, 翻 (phiên) 番 (phiên) 羽 (vũ) 訳 (dịch) 尺 (xích) 言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "訳 Dịch  ▶ translate, reason, circumstance, case",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  尺 Xích  ▶ shaku, Japanese foot, measure, scale, rule",
+                        "    尸 Thi  ▶ corpse, remains, flag radical",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "翻 Phiên  ▶ flip, turn over, wave, flutter, change (mind)",
+                        "  番 Phiên, Phan, Ba, Bà  ▶ turn, number in a series",
+                        "    釆 Biện  ▶ separate, divide, topped rice radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      米 Mễ  ▶ rice, USA, metre",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "  羽 Vũ  ▶ feathers, counter for birds, rabbits"
+                    ]
+                }
             },
             {
                 "hiragana": "つうやくします",
                 "kanji": "通訳する",
                 "vietnamese": "thông dịch",
-                "info": "tha, 通 (thông) 甬 (dũng) ⻌ () 訳 (dịch) 尺 (xích) 言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "訳 Dịch  ▶ translate, reason, circumstance, case",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  尺 Xích  ▶ shaku, Japanese foot, measure, scale, rule",
+                        "    尸 Thi  ▶ corpse, remains, flag radical",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "通 Thông  ▶ traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "じむのてつだいをしています",
                 "kanji": "事務の手伝いをしている",
                 "vietnamese": "làm giúp việc văn phòng",
-                "info": "tha, 事 (sự) 務 (vụ: việc) 力 (lực) 攵 (phộc) 矛 (mâu: giáo) 手 (thủ) 伝 (truyền) 亻 (nhân) 云 (vân) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "事 Sự  ▶ matter, thing, fact, business, reason, possibly",
+                        "  口 Khẩu  ▶ mouth",
+                        "  ⺕ (彑)",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "手 Thủ  ▶ hand",
+                        "務 Vụ  ▶ task, duties",
+                        "  矛 Mâu  ▶ halberd, arms, festival float",
+                        "    予 Dư, Dữ  ▶ beforehand, previous, myself, I",
+                        "      マ",
+                        "      了 Liễu  ▶ complete, finish",
+                        "        亅 Quyết  ▶ feathered stick, barb radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "      𠂉",
+                        "      乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "伝 Vân  ▶ transmit, go along, walk along, follow, report, communicate, legend, tradition",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しごとをさがします",
                 "kanji": "仕事を探す",
                 "vietnamese": "tìm việc",
-                "info": "tha, 仕 (sĩ) 亻 (nhân) 士 (sĩ) 事 (sự) 探 (tham, thám) 扌 (thủ) 罙 () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "事 Sự  ▶ matter, thing, fact, business, reason, possibly",
+                        "  口 Khẩu  ▶ mouth",
+                        "  ⺕ (彑)",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "仕 Sĩ  ▶ attend, doing, official, serve",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "探 Tham, Thám  ▶ grope, search, look for",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "      㓁   ▶ a net, net-like, radical 122",
+                        "        冖 Mịch  ▶ wa-shaped crown radical",
+                        "        儿 (八) Nhân  ▶ legs radical",
+                        "          丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      木 Mộc  ▶ tree, wood"
+                    ]
+                }
             },
             {
                 "hiragana": "りれきしょ",
                 "kanji": "履歴書",
                 "vietnamese": "sơ yếu lý lịch",
-                "info": "tha, 履 (lí) 尸 (thi) 復 (phục: lại) 歴 (lịch: sử) 止 (chỉ) 麻 (ma) 書 (thư) 聿 (duật) 日 (nhật) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "履 Lý  ▶ perform, complete, footgear, shoes, boots, put on (the feet)",
+                        "  尸 Thi  ▶ corpse, remains, flag radical",
+                        "  復 Phục, Phúc  ▶ restore, return to, revert, resume",
+                        "    彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "      亻 (人)   ▶ radical number 9",
+                        "    复   ▶ return, repeat, repeatedly",
+                        "      𠂉",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      夂 Tri  ▶ late, delayed, winter radical",
+                        "書 Thư  ▶ write",
+                        "  聿 Duật  ▶ brush, finally, self, relate, follow, here, fast, writing brush radical",
+                        "    ⺕ (彑)",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "歴 Lịch  ▶ curriculum, continuation, passage of time",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    林 Lâm  ▶ grove, forest",
+                        "      木 Mộc  ▶ tree, wood",
+                        "      木 Mộc  ▶ tree, wood",
+                        "  止 Chỉ  ▶ stop, halt",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "じきゅう",
                 "kanji": "時給",
                 "vietnamese": "lương theo giờ",
-                "info": "n, 時 (thì, thời) 日 (nhật) 寺 (tự) 給 (cấp: cung) 糸 (mịch) 合 (hợp) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "給 Cấp  ▶ salary, wage, gift, allow, grant, bestow on",
+                        "  糸 Mịch  ▶ thread",
+                        "  合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "      人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "時 Thì, Thời  ▶ time, hour",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "めんせつをします",
                 "kanji": "面接をする",
                 "vietnamese": "tham gia phỏng vấn",
-                "info": "tha, 面 (diện, miến) 百 (bách) 口 (khẩu) 接 (tiếp: liền) 扌 (thủ) 妾 (thiếp) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "接 Tiếp  ▶ touch, contact, adjoin, piece together",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  妾 Thiếp  ▶ concubine",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "面 Diện  ▶ mask, face, features, surface"
+                    ]
+                }
             },
             {
                 "hiragana": "じゅうぎょういん",
                 "kanji": "従業員",
                 "vietnamese": "nhân viên (chính thức, hợp đồng...)",
-                "info": "n, 従 (tùng: phục) 丷 () 疋 (sơ) 彳 (xích) 業 (nghiệp) 业 (nghiệp) 䒑 () 未 (vị) 員 (viên, vân) 貝 (bối) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "員 Viên, Vân  ▶ employee, member, number, the one in charge",
+                        "  口 Khẩu  ▶ mouth",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "従 Tòng, Tùng, Tuồng  ▶ accompany, obey, submit to, comply, follow, secondary, incidental, subordinate",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "      龰",
+                        "        卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "        人 Nhân  ▶ person",
+                        "業 Nghiệp  ▶ business, vocation, arts, performance",
+                        "  业",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    羊 Dương  ▶ sheep",
+                        "    木 Mộc  ▶ tree, wood",
+                        "      羊 Dương  ▶ sheep"
+                    ]
+                }
             },
             {
                 "hiragana": "しごとなかま",
                 "kanji": "仕事仲間",
                 "vietnamese": "đồng nghiệp",
-                "info": "n, 仕 (sĩ) 亻 (nhân) 士 (sĩ)事 (sự) 仲 (trọng: giữa) 亻 (nhân) 中 (trung) 間 (gian) 日 (nhật) 門 (môn) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "事 Sự  ▶ matter, thing, fact, business, reason, possibly",
+                        "  口 Khẩu  ▶ mouth",
+                        "  ⺕ (彑)",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "仕 Sĩ  ▶ attend, doing, official, serve",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "仲 Trọng  ▶ go-between, relationship",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "    口 Khẩu  ▶ mouth",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "間 Gian  ▶ interval, space",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "きんむじかん",
                 "kanji": "勤務時間",
                 "vietnamese": "thời gian làm việc",
-                "info": "n, 勤 (cần: siêng) 菫 (cận) 力 (lực) 務 (vụ, vũ) 力 (lực) 攵 (phộc) 矛 (mâu) 時 (thì, thời) 日 (nhật) 寺 (tự) 間 (gian) 日 (nhật) 門 (môn) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "間 Gian  ▶ interval, space",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "務 Vụ  ▶ task, duties",
+                        "  矛 Mâu  ▶ halberd, arms, festival float",
+                        "    予 Dư, Dữ  ▶ beforehand, previous, myself, I",
+                        "      マ",
+                        "      了 Liễu  ▶ complete, finish",
+                        "        亅 Quyết  ▶ feathered stick, barb radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "      𠂉",
+                        "      乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "時 Thì, Thời  ▶ time, hour",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "勤 Cần  ▶ diligence, become employed, serve",
+                        "  菫 Cận  ▶ the violet",
+                        "    艹 (艸)   ▶ grass, radical number 140",
+                        "      三 Tam, Tám  ▶ three",
+                        "        一 Nhất  ▶ one, one radical",
+                        "          一 Nhất  ▶ one, one radical",
+                        "          一 Nhất  ▶ one, one radical",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert"
+                    ]
+                }
             },
             {
                 "hiragana": "やといます / やとわれます",
                 "kanji": "雇う / 雇われる",
                 "vietnamese": "thuê, mướn / được thuê",
-                "info": "tha, tự, 雇 (cố: thuê) 隹 (chuy) 戸 (hộ) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "雇 Cố  ▶ employ, hire",
+                        "  戸 Hộ, Họ  ▶ door, counter for houses, door radical",
+                        "  隹 Chuy  ▶ bird, old bird radical",
+                        "    亻 (人)   ▶ radical number 9"
+                    ]
+                }
             },
             {
                 "hiragana": "きついしごと",
                 "kanji": "きつい仕事",
                 "vietnamese": "công việc khắc nghiệt",
-                "info": "n, きつい(chật, nặng, căng), 仕 (sĩ) 亻 (nhân) 士 (sĩ) 事 (sự) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "事 Sự  ▶ matter, thing, fact, business, reason, possibly",
+                        "  口 Khẩu  ▶ mouth",
+                        "  ⺕ (彑)",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "仕 Sĩ  ▶ attend, doing, official, serve",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical"
+                    ]
+                }
             },
             {
                 "hiragana": "つらいしごと",
                 "kanji": "つらい仕事",
                 "vietnamese": "công việc mệt mỏi tinh thần",
-                "info": "n, つらい (khổ đau, khó chịu), 仕 (sĩ) 亻 (nhân) 士 (sĩ) 事 (sự) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "事 Sự  ▶ matter, thing, fact, business, reason, possibly",
+                        "  口 Khẩu  ▶ mouth",
+                        "  ⺕ (彑)",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "仕 Sĩ  ▶ attend, doing, official, serve",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical"
+                    ]
+                }
             },
             {
                 "hiragana": "おかねをかせぎます",
                 "kanji": "お金を稼ぐ",
                 "vietnamese": "kiếm tiền (từ công việc)",
-                "info": "tha, 金 (kim) 𠆢 () 丷 () 王 (vương) 稼 (giá: cấy lúa) 禾 (hòa) 家 (gia) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "稼 Giá  ▶ earnings, work, earn money",
+                        "  禾 Hòa  ▶ two-branch tree radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  家 Gia, Cô  ▶ house, home, family, professional, expert, performer",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    豕 Thỉ  ▶ pig, hog, pig radical",
+                        "金 Kim  ▶ gold"
+                    ]
+                }
             },
             {
                 "hiragana": "おかねをもうけます / おかねがもうかります",
                 "kanji": "お金を儲ける / お金が儲かる",
                 "vietnamese": "kiếm lời, có lợi nhuận",
-                "info": "tha, 金 (kim) 𠆢 () 丷 () 王 (vương) 儲 (trữ: tích) 亻 (nhân) 諸 (chư) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "儲 Trừ, Trữ, Trừu  ▶ be profitable, yield profit",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  諸 Chư  ▶ various, many, several, together",
+                        "    言 Ngôn, Ngân  ▶ say, word",
+                        "      口 Khẩu  ▶ mouth",
+                        "    者 Giả  ▶ someone, person",
+                        "      耂 (老)   ▶ variant of radical 125",
+                        "        土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "金 Kim  ▶ gold"
+                    ]
+                }
             },
             {
                 "hiragana": "なまけもの",
                 "kanji": "怠け者",
                 "vietnamese": "người lười biếng",
-                "info": "n, 怠 (đãi: lười) 心 (tâm) 台 (đài) 者 (giả) 日 (nhật) 耂 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "者 Giả  ▶ someone, person",
+                        "  耂 (老)   ▶ variant of radical 125",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "怠 Đãi  ▶ neglect, laziness",
+                        "  台 Thai, Đài, Di  ▶ pedestal, a stand, counter for machines and vehicles",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "はたらきもの",
                 "kanji": "働き者",
                 "vietnamese": "người siêng năng",
-                "info": "n, 働 (động: lao) 亻 (nhân) 動 (động: vận) 者 (giả) 日 (nhật) 耂 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "者 Giả  ▶ someone, person",
+                        "  耂 (老)   ▶ variant of radical 125",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "働 Động  ▶ work, (kokuji)",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  動 Động  ▶ move, motion, change, confusion, shift, shake",
+                        "    重 Trọng, Trùng  ▶ heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold",
+                        "      千 Thiên  ▶ thousand",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "        十 Thập  ▶ ten",
+                        "      里 Lý  ▶ ri, village, parent's home, league",
+                        "        千 Thiên  ▶ thousand",
+                        "          十 Thập  ▶ ten",
+                        "    力 Lực  ▶ power, strength, strong, strain, bear up, exert"
+                    ]
+                }
             },
             {
                 "hiragana": "くびになります / やめさせられます",
                 "kanji": "首になる / やめさせられる",
                 "vietnamese": "bị sa thải / ép thôi việc",
-                "info": "tự, 首 (thủ: cổ, đầu) 自 (tự) 䒑 () "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "首 Thủ, Thú  ▶ neck, counter for songs and poems",
+                        "  自 Tự  ▶ oneself",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             }
         ]
     },
@@ -2913,49 +9816,189 @@ data_vocabulary = [
                 "hiragana": "しょしんしゃ",
                 "kanji": "初心者",
                 "vietnamese": "người mới bắt đầu",
-                "info": "n, 初 (sơ) 衤 (y) 刀 (đao) 心 (tâm) 者 (giả) 日 (nhật) 耂 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "者 Giả  ▶ someone, person",
+                        "  耂 (老)   ▶ variant of radical 125",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "初 Sơ  ▶ first time, beginning",
+                        "  衤 (衣) Y, Ý, I, Í  ▶ clothes, clothing radical (no. 145",
+                        "  刀 Đao  ▶ sword, saber, knife",
+                        "心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "にゅうもんこうざ",
                 "kanji": "入門講座",
                 "vietnamese": "lớp học nhập môn",
-                "info": "n, 入 (nhập) 門 (môn) 講 (giảng) 言 (ngôn) 冓 (cấu) 座 (tọa) 坐 (tọa) 广 (nghiễm) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "門 Môn  ▶ gate, counter for cannons",
+                        "入 Nhập  ▶ enter, insert",
+                        "座 Tọa  ▶ squat, seat, cushion, gathering, sit",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  坐 Tọa  ▶ sit",
+                        "    从 Tòng  ▶ two people",
+                        "      人 Nhân  ▶ person",
+                        "      人 Nhân  ▶ person",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "講 Giảng  ▶ lecture, club, association",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  冓 Cấu  ▶ put together, inner palace",
+                        "    三 Tam, Tám  ▶ three",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      三 Tam, Tám  ▶ three",
+                        "        一 Nhất  ▶ one, one radical",
+                        "        再 Tái  ▶ again, twice, second time",
+                        "          一 Nhất  ▶ one, one radical",
+                        "    再 Tái  ▶ again, twice, second time",
+                        "      冉 Nhiễm  ▶ red, tan",
+                        "        冂 Quynh  ▶ upside-down box radical",
+                        "        土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey"
+                    ]
+                }
             },
             {
                 "hiragana": "ちゅうこ",
                 "kanji": "中古",
                 "vietnamese": "hàng second-hand",
-                "info": "n, 中 (trung, trúng) 口 (khẩu) 丨 (cổn) 古 (cổ) 十 (thập) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "古 Cổ  ▶ old",
+                        "  十 Thập  ▶ ten",
+                        "  口 Khẩu  ▶ mouth",
+                        "中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "  口 Khẩu  ▶ mouth",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "がめん",
                 "kanji": "画面",
                 "vietnamese": "màn hình",
-                "info": "n, 画 (họa, hoạch) 一 (nhất) 由 (do) 凵 (khảm) 面 (diện, miến) 百 (bách) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "面 Diện  ▶ mask, face, features, surface",
+                        "画 Hoạch  ▶ brush-stroke, picture",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  由 Do  ▶ wherefore, a reason",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ねんがじょう",
                 "kanji": "年賀状",
                 "vietnamese": "thiệp chúc tết",
-                "info": "n, 年 (niên) 𠂉 () ヰ () 賀 (hạ: chúc tụng) 加 (gia) 貝 (bối) 状 (trạng: hình) 犬 (khuyển) 丬 (phiến) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "年 Niên  ▶ year, counter for years",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    十 Thập  ▶ ten",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "状 Trạng  ▶ status quo, conditions, circumstances, form, appearance",
+                        "  ⺦ (爿)",
+                        "  犬 Khuyển  ▶ dog",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "賀 Hạ  ▶ congratulations, joy",
+                        "  加 Gia  ▶ add, addition, increase, join, include, Canada",
+                        "    力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "    口 Khẩu  ▶ mouth",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ネットにつなぎます",
                 "kanji": "ネットに繋ぐ (つなぎます)",
                 "vietnamese": "kết nối internet",
-                "info": "tha, 繋 (hệ: kết nối) 車 (xa) 殳 (thù) 糸 (mịch) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "繋 Hệ  ▶ tie, fasten, chain, tether, connect",
+                        "    車 Xa  ▶ car",
+                        "    殳 Thù  ▶ pike, windy-again radical",
+                        "      几 Kỷ  ▶ table, table enclosure, table or windy radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "  糸 Mịch  ▶ thread"
+                    ]
+                }
             },
             {
                 "hiragana": "じょうほうをえます",
                 "kanji": "情報を得る",
                 "vietnamese": "thu nhận thông tin",
-                "info": "tha, 情 (tình) 忄 (tâm) 青 (thanh) 報 (báo) 幸 (hạnh) 𠬝 ()  得 (đắc) 彳 (xích) 㝵 () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "報 Báo  ▶ report, news, reward, retribution",
+                        "  幸 Hạnh  ▶ happiness, blessing, fortune",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    𢆉",
+                        "      䒑   ▶ grass, straw, herbs, weeds",
+                        "      干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "        䒑   ▶ grass, straw, herbs, weeds",
+                        "        十 Thập  ▶ ten",
+                        "    卩 Tiết  ▶ seal radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "得 Đắc  ▶ gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  㝵   ▶ to get, complacent, to obstruct, to hinder, to stop progress, to injure, to offend, to concern, hindrance, restraint",
+                        "    旦 Đán  ▶ daybreak, dawn, morning",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "情 Tình  ▶ feelings, emotion, passion, sympathy, circumstances, facts",
+                        "  忄 (心) Tâm  ▶ heart, standing heart radical variant",
+                        "  青 Thanh  ▶ blue, green",
+                        "    龶",
+                        "    月 Nguyệt  ▶ month, moon"
+                    ]
+                }
             },
             {
                 "hiragana": "しゅっぴんします",
                 "kanji": "出品する",
                 "vietnamese": "đăng bán hàng",
-                "info": "tha, 出 (xuất, xúy) 品 (phẩm) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "品 Phẩm  ▶ goods, refinement, dignity, article, counter for meal courses",
+                        "  口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             }
         ]
     },
@@ -2966,115 +10009,430 @@ data_vocabulary = [
                 "hiragana": "メールを じゅしんします",
                 "kanji": "メールを受信する",
                 "vietnamese": "nhận mail",
-                "info": "tha, 受 (thụ) 又 (hựu) 冖 (mịch) ⺤ () 信 (tín) 亻 (nhân) 言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "受 Thụ  ▶ accept, undergo, answer (phone), take, get, catch, receive",
+                        "    ⺤ (爪)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "信 Tín  ▶ faith, truth, fidelity, trust",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "メールを そうしんします",
                 "kanji": "メールを送信する",
                 "vietnamese": "gửi mail",
-                "info": "tha, 送 (tống) 关 (quan) ⻌ () 信 (tín) 亻 (nhân) 言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "信 Tín  ▶ faith, truth, fidelity, trust",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "送 Tống  ▶ escort, send",
+                        "  关   ▶ frontier pass, close, relation",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "メールに へんしんします",
                 "kanji": "メールに返信する",
                 "vietnamese": "hồi âm mail",
-                "info": "tha, 返 (phản) 反 (phản) ⻌ () 信 (tín) 亻 (nhân) 言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "信 Tín  ▶ faith, truth, fidelity, trust",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "返 Phản  ▶ return, answer, fade, repay",
+                        "  反 Phản, Phiên  ▶ anti-",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "メールを てんそうします",
                 "kanji": "メールを転送する",
                 "vietnamese": "chuyển tiếp mail",
-                "info": "tha, 転 (chuyển) 云 (vân) 車 (xa) 送 (tống) 关 (quan) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "転 Chuyển  ▶ revolve, turn around, change",
+                        "  車 Xa  ▶ car",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "送 Tống  ▶ escort, send",
+                        "  关   ▶ frontier pass, close, relation",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "メールを しんき さくせいします",
                 "kanji": "メールを新規作成する",
                 "vietnamese": "tạo mail mới",
-                "info": "tha, 新 (tân) 亲 (thân) 斤 (cân) 規 (quy: tắc) 見 (kiến) 夫 (phu) 作 (tác) 乍 (sạ) 亻 (nhân) 成 (thành: công) 戈 (qua) 勹 (bao) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "規 Quy  ▶ standard, measure",
+                        "  夫 Phu, Phù  ▶ husband, man",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "  見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    儿 Nhân  ▶ legs radical",
+                        "作 Tác  ▶ make, production, prepare, build",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  乍 Sạ  ▶ though, notwithstanding, while, during, both, all",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "成 Thành  ▶ turn into, become, get, grow, elapse, reach",
+                        "  𠂊 (勹)",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "  𠂊 (勹)",
+                        "  戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "新 Tân  ▶ new",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical"
+                    ]
+                }
             },
             {
                 "hiragana": "メールをまとめておくります",
                 "kanji": "メールをまとめて送る",
                 "vietnamese": "gửi hàng loạt mail",
-                "info": "tha, 送 (tống) 关 (quan) ⻌ () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "送 Tống  ▶ escort, send",
+                        "  关   ▶ frontier pass, close, relation",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "メールをせいりします",
                 "kanji": "メールを整理する",
                 "vietnamese": "sắp xếp, dọn dẹp mail",
-                "info": "tha, 整 (chỉnh) 敕 (sắc: lệnh) 攵 (phộc) 束 (thúc: bó yakusoko)  正 (chánh) 理 (lí) 里 (lí) 王 (vương) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "整 Chỉnh  ▶ organize, arranging, tune, tone, meter, key (music)",
+                        "  敕 Sắc  ▶ an imperial order or decree",
+                        "    束 Thúc, Thú  ▶ bundle, sheaf, ream, tie in bundles, govern, manage, control",
+                        "      木 Mộc  ▶ tree, wood",
+                        "      口 Khẩu  ▶ mouth",
+                        "      木 Mộc  ▶ tree, wood",
+                        "    攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "      𠂉",
+                        "      乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  正 Chánh, Chính  ▶ correct, justice, righteous, 10**40",
+                        "    止 Chỉ  ▶ stop, halt",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "理 Lý  ▶ logic, arrangement, reason, justice, truth",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "  里 Lý  ▶ ri, village, parent's home, league",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "もじをにゅうりょくします",
                 "kanji": "文字を入力する",
                 "vietnamese": "nhập chữ",
-                "info": "tha, 文 (văn, vấn) 字 (tự) 子 (tử) 宀 (miên) 入 (nhập) 力 (lực) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "字 Tự  ▶ character, letter, word, section of village",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "入 Nhập  ▶ enter, insert",
+                        "力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "文 Văn, Vấn  ▶ sentence, literature, style, art, decoration, figures, plan, literary radical",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue"
+                    ]
+                }
             },
             {
                 "hiragana": "もじを かんじに へんかんします",
                 "kanji": "文字を漢字に変換する",
                 "vietnamese": "chuyển chữ sang Kanji",
-                "info": "tha, 文 (văn, vấn) 字 (tự) 子 (tử) 漢 (hán) 𦰩 () 氵 (thủy) 字 (tự) 子 (tử) 宀 (miên) 変 (biến) 夂 (tri) 亦 (diệc) 換 (hoán: đổi) 奐 (hoán) 扌 (thủ) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "文 Văn, Vấn  ▶ sentence, literature, style, art, decoration, figures, plan, literary radical",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "字 Tự  ▶ character, letter, word, section of village",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "換 Hoán  ▶ interchange, period, change, convert, replace, renew",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  奐 Hoán  ▶ clear, bright",
+                        "      𠂊 (勹)",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      儿 (八) Nhân  ▶ legs radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "変 Biến, Bén, Biếng  ▶ unusual, change, strange",
+                        "  亦 Diệc  ▶ also, again",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      亅 Quyết  ▶ feathered stick, barb radical",
+                        "  夂 Tri  ▶ late, delayed, winter radical",
+                        "漢 Hán  ▶ Sino-, China",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "    艹 (艸)   ▶ grass, radical number 140",
+                        "      口 Khẩu  ▶ mouth",
+                        "      夫 Phu, Phù  ▶ husband, man",
+                        "        大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "もじを そうにゅうします",
                 "kanji": "文字を挿入する",
                 "vietnamese": "chèn chữ vào",
-                "info": "tha, 文 (văn, vấn) 字 (tự) 子 (tử) 挿 (sáp: cho vào) 扌 (thủ) 申 (thân) 千 (thiên) 入 (nhập) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "字 Tự  ▶ character, letter, word, section of village",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "入 Nhập  ▶ enter, insert",
+                        "挿 Sáp, Tháp, Khắp, Sấp, Tráp, Xếp  ▶ insert, put in, graft, wear (sword)",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "    千 Thiên  ▶ thousand",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    千 Thiên  ▶ thousand",
+                        "      十 Thập  ▶ ten",
+                        "文 Văn, Vấn  ▶ sentence, literature, style, art, decoration, figures, plan, literary radical",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue"
+                    ]
+                }
             },
             {
                 "hiragana": "もじを さくじょします",
                 "kanji": "文字を削除する",
                 "vietnamese": "xóa chữ",
-                "info": "tha, 文 (văn, vấn) 字 (tự) 子 (tử) 削 (tước: vót, chức) 肖 (tiếu) 刂 (đao) 除 (trừ) 余 (dư) ⻖ () "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "字 Tự  ▶ character, letter, word, section of village",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "文 Văn, Vấn  ▶ sentence, literature, style, art, decoration, figures, plan, literary radical",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "除 Trừ  ▶ exclude, division (x/3), remove, abolish, cancel, except",
+                        "  ⻖ (阜)",
+                        "  余 Dư  ▶ too much, myself, surplus, other, remainder",
+                        "    人 Nhân  ▶ person",
+                        "      小 Tiểu  ▶ little, small",
+                        "削 Tước  ▶ plane, sharpen, whittle, pare, shave",
+                        "  肖 Tiếu, Tiêu  ▶ resemblance",
+                        "    ⺌ (小)",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical"
+                    ]
+                }
             },
             {
                 "hiragana": "あてさき",
                 "kanji": "宛先",
                 "vietnamese": "người nhận (địa chỉ người nhận)",
-                "info": "n, 宛 (uyển: dùng trong địa chỉ nhật) 宀 (miên) 夗 () 先 (tiên, tiến) ⺧ () 儿 (nhân) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "先 Tiên, Tiến  ▶ before, ahead, previous, future, precedence",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "宛 Uyển, Uyên  ▶ address, just like, fortunately",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  夗",
+                        "    夕 Tịch  ▶ evening",
+                        "    卩 Tiết  ▶ seal radical"
+                    ]
+                }
             },
             {
                 "hiragana": "さしだしにん",
                 "kanji": "差出人",
                 "vietnamese": "người gửi",
-                "info": "n, 差 (soa, si, sai, sái) ノ () 𦍌 () 工 (công) 出 (xuất, xúy) 人 (nhân) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "差 Soa, Si, Sai, Sái  ▶ distinction, difference, variation, discrepancy, margin, balance",
+                        "  羊 Dương  ▶ sheep",
+                        "    䒑   ▶ grass, straw, herbs, weeds",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    工 Công  ▶ craft, construction, katakana e radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "けんめい",
                 "kanji": "件名",
                 "vietnamese": "tiêu đề",
-                "info": "n, 件 (kiện: bưu) 亻 (nhân) 牛 (ngưu) 名 (danh) 夕 (tịch) 口 (khẩu) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "名 Danh  ▶ name, noted, distinguished, reputation",
+                        "  夕 Tịch  ▶ evening",
+                        "  口 Khẩu  ▶ mouth",
+                        "件 Kiện  ▶ affair, case, matter, item",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  牛 Ngưu  ▶ cow"
+                    ]
+                }
             },
             {
                 "hiragana": "メールのやりとりをします",
                 "kanji": "メールのやり取りをする",
                 "vietnamese": "trao đổi mail",
-                "info": "tha, 取 (thủ) 耳 (nhĩ) 又 (hựu) (やりとり: trao đổi)"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "しゃしんをてんぷします",
                 "kanji": "写真を添付する",
                 "vietnamese": "đính kèm ảnh",
-                "info": "tha, 写 (tả) 与 (dữ) 冖 (mịch) 真 (chân) 十 (thập) 目 (mục) 丌 (kì) 添 (thiêm: thêm, đính) 夭 (yêu) ⺗ ()  氵 (thủy) 付 (phó) 寸 (thốn) 亻 (nhân) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "添 Thiêm  ▶ annexed, accompany, marry, suit, meet, satisfy, attach, append, garnish, imitate",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  忝 Thiểm  ▶ grateful, indebted",
+                        "    夭 Yêu, Yểu  ▶ early death, calamity",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "    ⺗ (心)",
+                        "付 Phó  ▶ adhere, attach, refer to, append",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "真 Chân  ▶ true, reality, Buddhist sect",
+                        "  十 Thập  ▶ ten",
+                        "  具 Cụ  ▶ tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "写 Tả  ▶ copy, be photographed, describe",
+                        "  冖 Mịch  ▶ wa-shaped crown radical",
+                        "  与 Dữ  ▶ bestow, participate in, give, award, impart, provide, cause, gift, godsend",
+                        "    一 Nhất  ▶ one, one radical"
+                    ]
+                }
             },
             {
                 "hiragana": "かいぎょうします",
                 "kanji": "改行する",
                 "vietnamese": "xuống dòng",
-                "info": "tự, 改 (cải: đổi) 攵 (phộc) 己 (kỉ) 行 (hành, hạnh, hàng, hạng) 彳 (xích) 一 (nhất) 丁 (đinh) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "改 Cải  ▶ reformation, change, modify, mend, renew, examine, inspect, search",
+                        "  己 Kỷ  ▶ self",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9"
+                    ]
+                }
             },
             {
                 "hiragana": "アドレスちょう",
                 "kanji": "アドレス帳",
                 "vietnamese": "danh bạ",
-                "info": "n, 帳 (trướng: màn, sổ) 長 (trường) 巾 (cân) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "帳 Trướng  ▶ notebook, account book, album, curtain, veil, net, tent",
+                        "  巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "  長 Trường, Trưởng, Trướng  ▶ long, leader, superior, senior"
+                    ]
+                }
             },
             {
                 "hiragana": "かんりょうします",
                 "kanji": "完了する",
                 "vietnamese": "hoàn tất",
-                "info": "tự, 完 (hoàn) 元 (nguyên) 宀 (miên) 了 (liễu) 子 (tử) "
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "完 Hoàn  ▶ perfect, completion, end",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  元 Nguyên  ▶ beginning, former time, origin",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "了 Liễu  ▶ complete, finish",
+                        "  亅 Quyết  ▶ feathered stick, barb radical"
+                    ]
+                }
             }
         ]
     },
@@ -3085,254 +10443,308 @@ data_vocabulary = [
                 "hiragana": "ちょうなん / ちょうじょ",
                 "kanji": "長男 / 長女",
                 "vietnamese": "trưởng nam/ nữ",
-                "info": "n, 長 (trường, trưởng, trướng) 男 (nam) 力 (lực) 田 (điền) 女 (nữ, nứ, nhữ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "長 Trường, Trưởng, Trướng  ▶ long, leader, superior, senior",
+                        "男 Nam  ▶ male",
+                        "  田 Điền  ▶ rice field, rice paddy",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "女 Nữ, Nứ, Nhữ  ▶ woman, female"
+                    ]
+                }
             },
             {
                 "hiragana": "じなん / じじょ",
                 "kanji": "次男 / 次女",
                 "vietnamese": "thứ nam/nữ",
-                "info": "n, 次 (thứ) 欠 (khiếm) 冫 (băng) 男 (nam) 力 (lực) 田 (điền) 女 (nữ, nứ, nhữ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "次 Thứ  ▶ next, order, sequence",
+                        "  冫 (二) Băng  ▶ two-stroke water radical or ice radical",
+                        "  欠 Khiếm  ▶ lack, gap, fail, yawning radical",
+                        "男 Nam  ▶ male",
+                        "  田 Điền  ▶ rice field, rice paddy",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "女 Nữ, Nứ, Nhữ  ▶ woman, female"
+                    ]
+                }
             },
             {
                 "hiragana": "さんなん / さんじょ",
                 "kanji": "三男 / 三女",
                 "vietnamese": "con trai/gái thứ 3",
-                "info": "n, 三 (tam, tám) 男 (nam) 力 (lực) 田 (điền) 女 (nữ, nứ, nhữ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "男 Nam  ▶ male",
+                        "  田 Điền  ▶ rice field, rice paddy",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "三 Tam, Tám  ▶ three",
+                        "  一 Nhất  ▶ one, one radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "女 Nữ, Nứ, Nhữ  ▶ woman, female"
+                    ]
+                }
             },
             {
                 "hiragana": "すえっこ",
                 "kanji": "末っ子",
                 "vietnamese": "con út",
-                "info": "n, 末 (mạt) 子 (tử, tí) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "末 Mạt  ▶ end, close, tip, powder, posterity",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しんせき / しんるい",
                 "kanji": "親せき / 親類",
                 "vietnamese": "họ hàng (trang trọng)",
-                "info": "n, 親 (thân, thấn) 亲 (thân) 見 (kiến) 類 (loại) 頁 (hiệt) 大 (đại) 米 (mễ) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "親 Thân, Thấn  ▶ parent, intimacy, relative, familiarity, dealer (cards)",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    儿 Nhân  ▶ legs radical",
+                        "類 Loại  ▶ sort, kind, variety, class, genus",
+                        "    米 Mễ  ▶ rice, USA, metre",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "まご",
                 "kanji": "孫",
                 "vietnamese": "cháu (kêu mình bằng ông bà)",
-                "info": "n, 孫 (tôn, tốn) 系 (hệ: thế) 孑 (kiết) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "孫 Tôn, Tốn  ▶ grandchild, descendants",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "  系 Hệ  ▶ lineage, system",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    糸 Mịch  ▶ thread"
+                    ]
+                }
             },
             {
                 "hiragana": "おい",
                 "kanji": "甥",
                 "vietnamese": "cháu trai (con anh chị em)",
-                "info": "n, 甥 (sanh) 生 (sanh) 男 (nam) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "甥 Sanh  ▶ nephew",
+                        "  生 Sanh, Sinh  ▶ life, genuine, birth",
+                        "  男 Nam  ▶ male",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "    力 Lực  ▶ power, strength, strong, strain, bear up, exert"
+                    ]
+                }
             },
             {
                 "hiragana": "めい",
                 "kanji": "姪",
                 "vietnamese": "cháu gái (con anh chị em)",
-                "info": "n, 姪 (điệt) 女 (nữ) 至 (chí) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "姪 Điệt  ▶ niece",
+                        "  女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "  至 Chí  ▶ climax, arrive, proceed, reach, attain, result in",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey"
+                    ]
+                }
             },
             {
                 "hiragana": "いとこ",
                 "kanji": "従兄弟",
                 "vietnamese": "anh em họ",
-                "info": "n, 従 (tùng: phục) 丷 () 疋 (sơ) 彳 (xích) 兄 (huynh) 口 (khẩu) 儿 (nhân) 弟 (đệ, đễ) ノ () 弔 (điếu: viếng) 丷 () "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "兄 Huynh  ▶ elder brother, big brother",
+                        "  口 Khẩu  ▶ mouth",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "従 Tòng, Tùng, Tuồng  ▶ accompany, obey, submit to, comply, follow, secondary, incidental, subordinate",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "      龰",
+                        "        卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "        人 Nhân  ▶ person",
+                        "弟 Đệ, Đễ  ▶ younger brother, faithful service to elders",
+                        "  八 Bát  ▶ eight, eight radical",
+                        "    弔 Điếu, Đích  ▶ condolences, mourning, funeral",
+                        "      弓 Cung  ▶ bow, bow (archery, violin)",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "どうりょう / どうぎょう",
                 "kanji": "同僚 / 同業",
                 "vietnamese": "đồng nghiệp cty/nghề",
-                "info": "n, 同 (đồng) 一 (nhất) 冋 () 僚 (liêu: người bằng vai) 尞 () 亻 (nhân) 業 (nghiệp) 业 (nghiệp) 䒑 () 未 (vị) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "同 Đồng  ▶ same, agree, equal",
+                        "  冂 Quynh  ▶ upside-down box radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "僚 Liêu  ▶ colleague, official, companion",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  尞 Liêu, Lèo, Lẽo, Treo  ▶ fuel used for sacrifices",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    小 Tiểu  ▶ little, small",
+                        "業 Nghiệp  ▶ business, vocation, arts, performance",
+                        "  业",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    羊 Dương  ▶ sheep",
+                        "    木 Mộc  ▶ tree, wood",
+                        "      羊 Dương  ▶ sheep"
+                    ]
+                }
             },
             {
                 "hiragana": "じょうし",
                 "kanji": "上司",
                 "vietnamese": "sếp",
-                "info": "n, 上 (thượng, thướng) 司 (ti, tư: cục) 可 (khả) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "司 Ti, Tư  ▶ director, official, govt office, rule, administer",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "ぶか",
                 "kanji": "部下",
                 "vietnamese": "cấp dưới",
-                "info": "n, 部 (bộ) 咅 () ⻏ () 下 (hạ, há) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "部 Bộ  ▶ section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+                        "  咅 Phẫu, Phôi, Phủ, Thấu  ▶ to spit out",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻏ (邑)",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "せんぱい / こうはい",
                 "kanji": "先輩 / 後輩",
                 "vietnamese": "đàn anh / em",
-                "info": "n, 先 (tiên, tiến) ⺧ () 儿 (nhân) 後 (hậu, hấu) 幺 (yêu) 彳 (xích) 夂 (tri) 輩 (bối) 非 (phi) 車 (xa) "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "輩 Bối  ▶ comrade, fellow, people, companions",
+                        "  非 Phi  ▶ un-, mistake, negative, injustice, non-",
+                        "  車 Xa  ▶ car",
+                        "先 Tiên, Tiến  ▶ before, ahead, previous, future, precedence",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "後 Hậu, Hấu  ▶ behind, back, later",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    幺 Yêu  ▶ short thread radical",
+                        "    夂 Tri  ▶ late, delayed, winter radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しゅふ",
                 "kanji": "主婦",
                 "vietnamese": "người nội trợ",
-                "info": "n, 主 (chủ, chúa) 王 (vương) 丶 (chủ) 婦 (phụ: phu) 女 (nữ) 帚 (trửu, chửu: chổi) ⺕ () 冖 (mịch) 巾 (cân)  "
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "婦 Phụ  ▶ lady, woman, wife, bride",
+                        "  女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "  帚 Trửu  ▶ broom",
+                        "    ⺕ (彑)",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "主 Chủ  ▶ lord, chief, master, main thing, principal",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "    亠 Đầu  ▶ kettle lid radical"
+                    ]
+                }
             },
             {
                 "hiragana": "きょうし",
                 "kanji": "教師",
-                "vietnamese": "giáo viên; giảng viên",
-                "info": "n, 教 (giáo, giao) 孝 (hiếu) 攵 (phộc) 師 (sư) 𠂤 () 帀 (táp) "
+                "vietnamese": "giáo viên, giảng viên",
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "師 Sư  ▶ expert, teacher, master, model, exemplar, army (incl. counter), war",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "教 Giáo  ▶ teach, faith, doctrine",
+                        "  孝 Hiếu  ▶ filial piety, child's respect",
+                        "    耂 (老)   ▶ variant of radical 125",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             }
         ]
     },
     {
         "lesson": "sou w5 d2",
-        "vocabulary": [
-            // {
-            //     "hiragana": "A「おくにはどちらですか。」",
-            //     "kanji": "A「お国はどちらですか。」",
-            //     "vietnamese": "bạn đến từ đâu?",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "B「イギリスしゅっしんです。」",
-            //     "kanji": "B「イギリス出身です。」",
-            //     "vietnamese": "tôi đến từ Anh",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "A「おうまれはどちらですか。」",
-            //     "kanji": "A「お生まれはどちらですか。」",
-            //     "vietnamese": "bạn đến từ đâu?",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "B「イギリスしゅっしんです。」",
-            //     "kanji": "B「イギリス出身です。」",
-            //     "vietnamese": "tôi đến từ Anh",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "A「どちらのごしゅっしんですか。」",
-            //     "kanji": "A「どちらのご出身ですか。」",
-            //     "vietnamese": "bạn đến từ đâu?",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "B「イギリスしゅっしんです。」",
-            //     "kanji": "B「イギリス出身です。」",
-            //     "vietnamese": "tôi đến từ Anh",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "A「おすまいはどちらですか。」",
-            //     "kanji": "A「お住まいはどちらですか。」",
-            //     "vietnamese": "bạn đang sống ở đâu?",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "B「このちかくです。」",
-            //     "kanji": "B「この近くです。」",
-            //     "vietnamese": "tôi sống gần đây nè",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "A「せんじつは、ありがとうございました。」",
-            //     "kanji": "A「先日は、ありがとうございました。」",
-            //     "vietnamese": "hôm trước ảm ơn anh đã giúp đỡ",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "B「とんでもないです。こちらこそ。」",
-            //     "kanji": "B「とんでもないです。こちらこそ。」",
-            //     "vietnamese": "không có gì đâu, chính tôi mới phải",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "A「どうぞおあがりください。」",
-            //     "kanji": "A「どうぞお上がりください。」",
-            //     "vietnamese": "xin mời vào",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "B「おじゃまします。」",
-            //     "kanji": "B「おじゃまします。」",
-            //     "vietnamese": "xin lỗi làm phiền",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "A「こちらでおかけになっておまちください。」",
-            //     "kanji": "A「こちらでおかけになってお待ちください。」",
-            //     "vietnamese": "vui long ngồi đây đợi nhé",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "A「おちゃをおもちします。」",
-            //     "kanji": "A「お茶をちします。」",
-            //     "vietnamese": "tôi đi lấy trà",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "B「どうぞおかまいなく」",
-            //     "kanji": "B「どうぞおかまいなく」",
-            //     "vietnamese": "à không cần đâu ạ",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "A「どうぞおめしあがりください。」",
-            //     "kanji": "A「どうぞお召し上がりください。」",
-            //     "vietnamese": "mời bạn dùng bữa",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "B「では、えんりょなくいただきます。」",
-            //     "kanji": "B「では、遠慮なくいただきます。」",
-            //     "vietnamese": "vậy thì, tôi không khách khí",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "A「ごぶさたしています。おげんきでいらっしゃいますか。」",
-            //     "kanji": "A「ご無沙汰しています。お元気でいらっしゃいますか。」",
-            //     "vietnamese": "lâu rồi không liên lạc, bạn khỏe chứ",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "B「ええ、おかげさまで。」",
-            //     "kanji": "B「ええ、おかげさまで。」",
-            //     "vietnamese": "vâng, cũng nhờ ơn trời",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "A「たなさんのごしゅじん、なくなったそうですよ。」",
-            //     "kanji": "A「田中さんのご主人、亡くなったそうですよ。」",
-            //     "vietnamese": "nghe nói chồng chị Tanaka đã mất",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "B「そうですか。おきのどくに。」",
-            //     "kanji": "B「そうですか。お気の毒に。」",
-            //     "vietnamese": "vậy hả, rất tiếc khi nghe tin này",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "おめにかかるのをたしみにしています。",
-            //     "kanji": "お目にかかるのをにしています。",
-            //     "vietnamese": "tôi trông chờ ngày gặp bạn",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "しゃいん「おさきに失礼します。」",
-            //     "kanji": "社員「お先に失礼します。」",
-            //     "vietnamese": "xin phép tôi về trước",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "ぶちょう「ごくろうさま。/おつかれさま。」",
-            //     "kanji": "部長「ご苦労さま。/お疲れさま。」",
-            //     "vietnamese": "cảm ơn đã vất vả",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "ぶちょう「おさきに。」",
-            //     "kanji": "部長「お先に。」",
-            //     "vietnamese": "tôi về trước",
-            //     "info": ""
-            // },
-            // {
-            //     "hiragana": "しゃいん「おつれさまでした。」",
-            //     "kanji": "社員「お疲れ様でした。」",
-            //     "vietnamese": "ngài đã vất vả rồi ạ",
-            //     "info": ""
-            // }
-        ]
+        "vocabulary": []
     },
     {
         "lesson": "sou w5 d3",
@@ -3341,133 +10753,426 @@ data_vocabulary = [
                 "hiragana": "かしこい",
                 "kanji": "賢い",
                 "vietnamese": "khôn ngoan",
-                "info": "i, 賢 (hiền: đức hạnh) 臣 (thần) 又 (hựu) 貝 (bối)"
+                "info": "",
+                "details": {
+                    "pos": "i",
+                    "components": [
+                        "賢 Hiền  ▶ intelligent, wise, wisdom, cleverness",
+                        "    臣 Thần  ▶ retainer, subject",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "れいぎただしい",
                 "kanji": "礼儀正しい",
-                "vietnamese": "lễ phép; lễ độ; lịch sự",
-                "info": "i, 礼 (lễ) 礻 (thị) 乚, 儀 (nghi: uy) 亻 (nhân) 義 (nghĩa), 正 (chánh, chính) 止 (chỉ) 一 (nhất)"
+                "vietnamese": "lễ phép, lễ độ, lịch sự",
+                "info": "",
+                "details": {
+                    "pos": "i",
+                    "components": [
+                        "礼 Lễ  ▶ salute, bow, ceremony, thanks, remuneration",
+                        "  礻 (示) Kỳ, Thị, Kì  ▶ cult, showing radical",
+                        "  乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "正 Chánh, Chính  ▶ correct, justice, righteous, 10**40",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  止 Chỉ  ▶ stop, halt",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "儀 Nghi  ▶ ceremony, rule, affair, case, a matter",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  義 Nghĩa  ▶ righteousness, justice, morality, honor, loyalty, meaning",
+                        "    羊 Dương  ▶ sheep",
+                        "      䒑   ▶ grass, straw, herbs, weeds",
+                        "    我 Ngã  ▶ ego, I, selfish, our, oneself",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "      亅 Quyết  ▶ feathered stick, barb radical",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "          丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しょうじき",
                 "kanji": "正直",
-                "vietnamese": "chính trực; thành thực",
-                "info": "na, 正 (chánh, chính) 止 (chỉ) 一 (nhất) 直 (trực) 十 (thập) 目 (mục) 𠃊"
+                "vietnamese": "chính trực, thành thực",
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "正 Chánh, Chính  ▶ correct, justice, righteous, 10**40",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  止 Chỉ  ▶ stop, halt",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "直 Trực  ▶ straightaway, honesty, frankness, fix, repair",
+                        "  十 Thập  ▶ ten",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "すなお",
                 "kanji": "素直",
-                "vietnamese": "dễ bảo; ngoan ngoãn",
-                "info": "na, 素 (tố: trắng, tố tâm, nguyên tố) 龶 糸 (mịch), 直 (trực) 十 (thập) 目 (mục) 𠃊"
+                "vietnamese": "dễ bảo, ngoan ngoãn",
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "素 Tố  ▶ elementary, principle, naked, uncovered",
+                        "  龶",
+                        "    三 Tam, Tám  ▶ three",
+                        "    三 Tam, Tám  ▶ three",
+                        "  糸 Mịch  ▶ thread",
+                        "直 Trực  ▶ straightaway, honesty, frankness, fix, repair",
+                        "  十 Thập  ▶ ten",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "じゅんすい",
                 "kanji": "純粋",
                 "vietnamese": "thuần khiết, trong sáng",
-                "info": "na, 純 (thuần: túy) 糸 (mịch) 屯 (truân: gian) 粋 (túy: tinh) 卆 米 (mễ)"
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "粋 Túy  ▶ chic, style, purity, essence, pith, cream, elite, choice",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  卆 Thốt, Tốt  ▶ soldier, private, die",
+                        "    九 Cửu, Cưu  ▶ nine",
+                        "      乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "    十 Thập  ▶ ten",
+                        "純 Thuần, Chuẩn, Đồn, Truy  ▶ genuine, purity, innocence, net (profit)",
+                        "  糸 Mịch  ▶ thread",
+                        "  屯 Truân, Đồn  ▶ barracks, police station, camp, ton",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    屮 Triệt  ▶ left hand, old grass radical",
+                        "      凵 Khảm  ▶ open box enclosure, open box radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ゆうき",
                 "kanji": "勇気",
                 "vietnamese": "dũng khí",
-                "info": "n, 勇 (dũng: sĩ) 男 (nam) マ 気 (khí) 一 (nhất) 𠂉 ⺄ 㐅"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "勇 Dũng  ▶ courage, cheer up, be in high spirits, bravery, heroism",
+                        "  マ",
+                        "  男 Nam  ▶ male",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "    力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ユーモア",
                 "kanji": "ユーモア",
                 "vietnamese": "hài hước",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": []
+                }
             },
             {
                 "hiragana": "せっきょくてき",
                 "kanji": "積極的",
                 "vietnamese": "tích cực",
-                "info": "na, 積 (tích: trữ) 禾 (hòa) 責 (trách: nhiệm) 極 (cực: bắc, cùng) 木 (mộc) 丂 (khảo) 一 (nhất) 口 (khẩu) 又 (hựu) 的 (đích, để) 白 (bạch) 勺 (chước)"
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "積 Tích, Tí  ▶ volume, product (x*y), acreage, contents, pile up, stack, load, amass",
+                        "  禾 Hòa  ▶ two-branch tree radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  責 Trách, Trái  ▶ blame, condemn, censure",
+                        "    龶",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "的 Đích, Để  ▶ bull's eye, mark, target, object, adjective ending",
+                        "  白 Bạch  ▶ white",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  勺 Chước, Thược  ▶ ladle, one tenth of a go, dip",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "極 Cực  ▶ extreme, pole, extremely, very, highly, most, end, settlement, conclusion, highest rank",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  亟 Cức, Khí  ▶ fast, quick, sudden",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "    二 Nhị  ▶ two, two radical",
+                        "      一 Nhất  ▶ one, one radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しょうきょくてき",
                 "kanji": "消極的",
                 "vietnamese": "tiêu cực",
-                "info": "na, 消 (tiêu) 肖 (tiếu) 氵 (thủy) 極 (cực) 木 (mộc) 木 (mộc) 丂 (khảo) 一 (nhất) 口 (khẩu) 又 (hựu) 的 (đích, để) 白 (bạch) 勺 (chước)"
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "的 Đích, Để  ▶ bull's eye, mark, target, object, adjective ending",
+                        "  白 Bạch  ▶ white",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  勺 Chước, Thược  ▶ ladle, one tenth of a go, dip",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "消 Tiêu  ▶ extinguish, blow out, turn off, neutralize, cancel",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  肖 Tiếu, Tiêu  ▶ resemblance",
+                        "    ⺌ (小)",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "極 Cực  ▶ extreme, pole, extremely, very, highly, most, end, settlement, conclusion, highest rank",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  亟 Cức, Khí  ▶ fast, quick, sudden",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "    二 Nhị  ▶ two, two radical",
+                        "      一 Nhất  ▶ one, one radical"
+                    ]
+                }
             },
             {
                 "hiragana": "おちついている",
                 "kanji": "落ち着いている",
                 "vietnamese": "bình tâm, bình tĩnh",
-                "info": "tự, 落 (lạc: rơi) 艹 (thảo) 氵 (thủy) 各 (các) 着 (trứ, trước, trữ) ノ 𦍌 目 (mục)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "落 Lạc  ▶ fall, drop, come down, village, hamlet",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  洛 Lạc  ▶ Kyoto, the capital",
+                        "    氵 (水) Thủy  ▶ water, water radical",
+                        "    各 Các  ▶ each, every, either",
+                        "      夂 Tri  ▶ late, delayed, winter radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "着 Khán  ▶ don, arrive, wear, counter for suits of clothing",
+                        "    羊 Dương  ▶ sheep",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "おとなしい",
                 "kanji": "大人しい",
-                "vietnamese": "dịu dàng; hiền lành",
-                "info": "i, 大 (đại, thái) 一 (nhất) 人 (nhân) 人 (nhân)"
+                "vietnamese": "dịu dàng, hiền lành",
+                "info": "",
+                "details": {
+                    "pos": "i",
+                    "components": [
+                        "人 Nhân  ▶ person",
+                        "大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "まじめ",
                 "kanji": "真面目",
                 "vietnamese": "chăm chỉ, nghiêm túc",
-                "info": "na, 真 (chân) 十 (thập) 目 (mục) 丌 (kì) 面 (diện, miến) 百 (bách) 口 (khẩu) 目 (mục)"
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "真 Chân  ▶ true, reality, Buddhist sect",
+                        "  十 Thập  ▶ ten",
+                        "  具 Cụ  ▶ tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "面 Diện  ▶ mask, face, features, surface",
+                        "目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "のんき",
                 "kanji": "呑気",
                 "vietnamese": "vô tư, lạc quan",
-                "info": "na, 呑 (thôn: nuốt, tính) 夭 (yêu) 口 (khẩu) 気 (khí) 一 (nhất) 𠂉 ⺄ 㐅"
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "呑 Thôn  ▶ drink",
+                        "  夭 Yêu, Yểu  ▶ early death, calamity",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "      一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "いじわる",
                 "kanji": "意地悪",
-                "vietnamese": "tâm địa xấu; xấu bụng",
-                "info": "na, 意 (ý) 音 (âm) 心 (tâm) 地 (địa) 也 (dã) 土 (thổ) 悪 (ác) 心 (tâm) 亜 (á)"
+                "vietnamese": "tâm địa xấu, xấu bụng",
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "地 Địa  ▶ ground, earth",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  也 Dã  ▶ to be (classical)",
+                        "    乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "悪 Ác, Ố, Óc  ▶ bad, vice, rascal, false, evil, wrong",
+                        "  亜 A, Á  ▶ Asia, rank next, come after, -ous",
+                        "    二 Nhị  ▶ two, two radical",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    二 Nhị  ▶ two, two radical",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "意 Ý  ▶ idea, mind, heart, taste, thought, desire, care, liking",
+                        "  音 Âm  ▶ sound, noise",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "うそをつく / うそつき",
                 "kanji": "うそをつく / うそつき",
                 "vietnamese": "nói xạo / người nói xạo",
-                "info": "tha"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ずるい",
                 "kanji": "ずるい",
-                "vietnamese": "ranh mãnh; quỷ quyệt; láu cá",
-                "info": "i"
+                "vietnamese": "ranh mãnh, quỷ quyệt, láu cá",
+                "info": "",
+                "details": {
+                    "pos": "i",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ずうずうしい",
                 "kanji": "ずうずうしい",
-                "vietnamese": "vô liêm sỉ; trơ tráo",
-                "info": "i"
+                "vietnamese": "vô liêm sỉ, trơ tráo",
+                "info": "",
+                "details": {
+                    "pos": "i",
+                    "components": []
+                }
             },
             {
                 "hiragana": "しつこい",
                 "kanji": "しつこい",
                 "vietnamese": "dai dẳng, lì lợm, lằng nhằng",
-                "info": "i"
+                "info": "",
+                "details": {
+                    "pos": "i",
+                    "components": []
+                }
             },
             {
                 "hiragana": "だらしない",
                 "kanji": "だらしない",
-                "vietnamese": "bừa bãi; lôi thôi",
-                "info": "i"
+                "vietnamese": "bừa bãi, lôi thôi",
+                "info": "",
+                "details": {
+                    "pos": "i",
+                    "components": []
+                }
             },
             {
                 "hiragana": "けち",
                 "kanji": "けち",
                 "vietnamese": "keo kiệt",
-                "info": "na"
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": []
+                }
             },
             {
                 "hiragana": "いいかげん",
                 "kanji": "いい加減",
                 "vietnamese": "qua loa, cẩu thả",
-                "info": "na, 加 (gia) 力 (lực) 口 (khẩu) 減 (giảm) 咸 (hàm: bao) 戊 (mậu) 一 (nhất) 口 (khẩu) 氵 (thủy)"
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "加 Gia  ▶ add, addition, increase, join, include, Canada",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "  口 Khẩu  ▶ mouth",
+                        "減 Giảm  ▶ dwindle, decrease, reduce, decline, curtail, get hungry",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  咸 Hàm  ▶ all, same",
+                        "    戍 (戌) Thú  ▶ protection",
+                        "      厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "          厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    戍 (戌) Thú  ▶ protection",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "          丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "むせきにん",
                 "kanji": "無責任",
                 "vietnamese": "thiếu trách nhiệm",
-                "info": "na, 無 (vô, mô) 責 (trách, trái) 貝 (bối) 龶 任 (nhâm, nhậm, nhiệm) 亻 (nhân) 壬 (nhâm)"
+                "info": "",
+                "details": {
+                    "pos": "na",
+                    "components": [
+                        "無 Vô, Mô  ▶ nothingness, none, ain't, nothing, nil, not",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical",
+                        "任 Nhâm, Nhậm  ▶ responsibility, duty, term, entrust to, appoint",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  壬 Nhâm  ▶ 9th calendar sign",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "責 Trách, Trái  ▶ blame, condemn, censure",
+                        "  龶",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             }
         ]
     },
@@ -3478,115 +11183,392 @@ data_vocabulary = [
                 "hiragana": "ちょうし/ぐあい",
                 "kanji": "調子/具合",
                 "vietnamese": "tình trạng (tổng thể/chi tiết, triệu chứng)",
-                "info": "n, 調 (điều, điệu) 周 (chu) 言 (ngôn) 子 (tử, tí) 具 (cụ: dụng) 目 (mục) 丌 (kì) 合 (hợp, cáp, hiệp) 亼 口 (khẩu)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "具 Cụ  ▶ tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "調 Điều, Điệu  ▶ tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  周 Chu  ▶ circumference, circuit, lap",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    吉 Cát  ▶ good luck, joy, congratulations",
+                        "      士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "      口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "めまいがします",
                 "kanji": "目眩がする",
                 "vietnamese": "chóng mặt",
-                "info": "tự, 目 (mục) 眩 (huyễn: hoặc, hoa mắt) 玄 (huyền: đen) 目 (mục)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "眩 Huyễn  ▶ faint, dizzy",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  玄 Huyền  ▶ mysterious, occultness, black, deep, profound",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    幺 Yêu  ▶ short thread radical",
+                        "目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "とうつうがします",
                 "kanji": "頭痛がする",
                 "vietnamese": "đau đầu",
-                "info": "tự, 頭 (đầu) 頁 (hiệt) 豆 (đậu) 痛 (thống) 疒 (nạch) 用 (dụng) マ"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "痛 Thống  ▶ pain, hurt, damage, bruise",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "頭 Đầu  ▶ head, counter for large animals",
+                        "  豆 Đậu, Dấu  ▶ beans, pea, midget",
+                        "      口 Khẩu  ▶ mouth",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "こし",
                 "kanji": "腰",
                 "vietnamese": "lưng",
-                "info": "n, 腰 (yêu: lưng) ⺼ 要 (yếu: thiết)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "腰 Yêu  ▶ loins, hips, waist, low wainscoting",
+                        "  月 (肉) Nguyệt  ▶ month, moon",
+                        "  要 Yếu, Yêu  ▶ need, main point, essence, pivot, key to",
+                        "    覀 (襾)   ▶ variant of radical 146",
+                        "    女 Nữ, Nứ, Nhữ  ▶ woman, female"
+                    ]
+                }
             },
             {
                 "hiragana": "いきがくるしい",
                 "kanji": "息が苦しい",
                 "vietnamese": "khó thở",
-                "info": "i, 息 (tức: khí, hơi thở, con trai) 自 (tự) 心 (tâm) 苦 (khổ: đắng) 古 (cổ) 艹 (thảo)"
+                "info": "",
+                "details": {
+                    "pos": "i",
+                    "components": [
+                        "息 Tức  ▶ breath, respiration, son, interest (on money), rest, coming to an end",
+                        "  自 Tự  ▶ oneself",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "苦 Khổ  ▶ suffering, trial, worry, hardship, feel bitter, scowl",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  古 Cổ  ▶ old",
+                        "    十 Thập  ▶ ten",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "くるしみます",
                 "kanji": "苦しむ",
-                "vietnamese": "đau đớn; đau khổ",
-                "info": "tự, 苦 (khổ: đắng) 古 (cổ) 艹 (thảo)"
+                "vietnamese": "đau đớn, đau khổ",
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "苦 Khổ  ▶ suffering, trial, worry, hardship, feel bitter, scowl",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  古 Cổ  ▶ old",
+                        "    十 Thập  ▶ ten",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "はながつまります",
                 "kanji": "鼻が詰まる",
                 "vietnamese": "nghẹt mũi",
-                "info": "tự, 鼻 (tị: mũi) 自 (tự) 廾 (củng) 田 (điền) 詰 (cật) 吉(cát)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "詰 Cật  ▶ packed, close, pressed, reprove, rebuke, blame",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  吉 Cát  ▶ good luck, joy, congratulations",
+                        "    士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "鼻 Tị  ▶ nose, snout",
+                        "  自 Tự  ▶ oneself",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  畀 Ti, Tí, Ty, Tý, Tỷ  ▶ to give",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      十 Thập  ▶ ten",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten"
+                    ]
+                }
             },
             {
                 "hiragana": "はなをかみます",
                 "kanji": "鼻をかむ",
                 "vietnamese": "hỉ mũi",
-                "info": "tha, 鼻 (tị: mũi) 自 (tự) 廾 (củng) 田 (điền) 言 (ngôn) "
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "鼻 Tị  ▶ nose, snout",
+                        "  自 Tự  ▶ oneself",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  畀 Ti, Tí, Ty, Tý, Tỷ  ▶ to give",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      十 Thập  ▶ ten",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten"
+                    ]
+                }
             },
             {
                 "hiragana": "はきけ がします / はきます",
                 "kanji": "吐き気 がする / 吐く",
                 "vietnamese": "buồn nôn, nôn",
-                "info": "tha, 吐 (thổ: huyết) 土 (thổ) 口 (khẩu) 気 (khí) 一 (nhất) 𠂉 ⺄ 㐅"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "吐 Thổ  ▶ spit, vomit, belch, confess, tell (lies)",
+                        "  口 Khẩu  ▶ mouth",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "めがかゆい",
                 "kanji": "目が痒い",
                 "vietnamese": "ngứa, nhức mắt",
-                "info": "i, 目 (mục) 痒 (dương: ngứa) 疒 (nạch) 羊 (dương)"
+                "info": "",
+                "details": {
+                    "pos": "i",
+                    "components": [
+                        "痒 Dương  ▶ itchy",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  羊 Dương  ▶ sheep",
+                        "    䒑   ▶ grass, straw, herbs, weeds",
+                        "目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "めをこすります",
                 "kanji": "目をこする (擦る)",
                 "vietnamese": "dụi mắt",
-                "info": "tha, 目 (mục) 擦 (sát, xát) 祭 (tế) 宀 miên"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "擦 Sát  ▶ grate, rub, scratch, scrape, chafe, scour",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  察 Sát  ▶ guess, presume, surmise, judge, understand",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    祭 Tế, Sái  ▶ ritual, offer prayers, celebrate, deify, enshrine, worship",
+                        "        月 Nguyệt  ▶ month, moon",
+                        "      示 Kì, Thị  ▶ show, indicate, point out, express, display",
+                        "目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "めをかきます",
                 "kanji": "目をかく (掻く)",
                 "vietnamese": "gãi mắt",
-                "info": "tha, 目 (mục) 掻 (tao: gãi, cào) 騒(tao: ồn) 虫 (trùng) 又 (hựu)"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "掻 Tao  ▶ scratch, rake, comb, paddle, behead",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "    虫 Trùng  ▶ insect, bug, temper",
+                        "      中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "        口 Khẩu  ▶ mouth",
+                        "        丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "かふんしょう になります",
                 "kanji": "花粉症 になる",
                 "vietnamese": "dị ứng với phấn hoa",
-                "info": "tự, 花 (hoa) 艹 (thảo) 化 (hóa) 粉 (phấn) 分 (phân) 米 (mễ) 症 (chứng: bệnh) 正 (chánh) 疒 (nạch)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "粉 Phấn  ▶ flour, powder, dust",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "  分 Phân, Phận  ▶ part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    刀 Đao  ▶ sword, saber, knife",
+                        "花 Hoa  ▶ flower",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  化 Hóa  ▶ change, take the form of, influence, enchant, delude, -ization",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "症 Chứng  ▶ symptoms, illness",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  正 Chánh, Chính  ▶ correct, justice, righteous, 10**40",
+                        "    止 Chỉ  ▶ stop, halt",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "うがいをします",
                 "kanji": "うがいをする",
                 "vietnamese": "súc miệng",
-                "info": "tha"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": []
+                }
             },
             {
                 "hiragana": "てのきず",
                 "kanji": "手の傷",
                 "vietnamese": "vết thuong ở tay",
-                "info": "n, 手 (thủ) 傷 (thương) 亻 (nhân) 昜 (dương) 𠂉"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "手 Thủ  ▶ hand",
+                        "傷 Thương  ▶ wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  𬀷",
+                        "    𠂉",
+                        "    昜 Dương  ▶ open, sun",
+                        "      旦 Đán  ▶ daybreak, dawn, morning",
+                        "        日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "        一 Nhất  ▶ one, one radical",
+                        "      勿 Vật  ▶ not, must not, do not, be not",
+                        "        勹 Bao  ▶ wrapping enclosure, wrapping radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しょうじょう (びょうきの)",
                 "kanji": "症状 (病気の)",
                 "vietnamese": "triệu chứng (bệnh)",
-                "info": "n, 症 (chứng) 正 (chánh) 疒 (nạch) 状 (trạng) 犬 (khuyển) 丬 (phiến)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "状 Trạng  ▶ status quo, conditions, circumstances, form, appearance",
+                        "  ⺦ (爿)",
+                        "  犬 Khuyển  ▶ dog",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "病 Bệnh  ▶ ill, sick",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  丙 Bính  ▶ third class, 3rd, 3rd calendar sign",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    内 Nạp, Nội, Nói, Nòi, Nồi, Nỗi, Nụi  ▶ inside, within, between, among, house, home",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      人 Nhân  ▶ person",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "症 Chứng  ▶ symptoms, illness",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  正 Chánh, Chính  ▶ correct, justice, righteous, 10**40",
+                        "    止 Chỉ  ▶ stop, halt",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "やけどをします",
                 "kanji": "火傷をする",
                 "vietnamese": "bị bỏng",
-                "info": "tha, 火 (hỏa) 丷 人 (nhân) 傷 (thương) 亻 (nhân) 昜 (dương) 𠂉"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "火 Hỏa  ▶ fire",
+                        "傷 Thương  ▶ wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  𬀷",
+                        "    𠂉",
+                        "    昜 Dương  ▶ open, sun",
+                        "      旦 Đán  ▶ daybreak, dawn, morning",
+                        "        日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "        一 Nhất  ▶ one, one radical",
+                        "      勿 Vật  ▶ not, must not, do not, be not",
+                        "        勹 Bao  ▶ wrapping enclosure, wrapping radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ちゅうしゃ",
                 "kanji": "注射",
                 "vietnamese": "sự tiêm chủng",
-                "info": "n, 注 (chú) 主 (chủ) 氵 (thủy) 射 (xạ: bắn) 寸 (thốn) 身 (thân)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "射 Xạ, Dạ, Dịch  ▶ shoot, shine into, onto, archery",
+                        "  身 Thân, Quyên  ▶ somebody, person, one's station in life",
+                        "  寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "注 Chú  ▶ pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  主 Chủ  ▶ lord, chief, master, main thing, principal",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    王 (玉) Vương, Vượng  ▶ king, rule, magnate"
+                    ]
+                }
             },
             {
                 "hiragana": "しゅじゅつ",
                 "kanji": "手術",
                 "vietnamese": "phẫu thuật",
-                "info": "n, 手 (thủ) 術 (thuật) 朮 (truật) 行 (hành)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "手 Thủ  ▶ hand",
+                        "術 Thuật  ▶ art, technique, skill, means, trick, resources, magic",
+                        "  行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "    彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "      亻 (人)   ▶ radical number 9",
+                        "  朮 Truật  ▶ a type of millet, a type of herb",
+                        "    木 Mộc  ▶ tree, wood",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank"
+                    ]
+                }
             }
         ]
     },
@@ -3597,133 +11579,495 @@ data_vocabulary = [
                 "hiragana": "はな（みず）がでます",
                 "kanji": "鼻（水）が出る",
                 "vietnamese": "sổ mũi",
-                "info": "tự, 鼻 (tị: mũi) 自 (tự) 廾 (củng) 田 (điền)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "水 Thủy  ▶ water",
+                        "鼻 Tị  ▶ nose, snout",
+                        "  自 Tự  ▶ oneself",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  畀 Ti, Tí, Ty, Tý, Tỷ  ▶ to give",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      十 Thập  ▶ ten",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten"
+                    ]
+                }
             },
             {
                 "hiragana": "ためいきがでます / ためいきをつきます",
                 "kanji": "ため息が出る / ため息をつく",
                 "vietnamese": "thở dài (tự/tha)",
-                "info": "tự/tha, 息 (tức: tử, khí) 自 (tự) 心 (tâm)"
+                "info": "",
+                "details": {
+                    "pos": "tự/tha",
+                    "components": [
+                        "息 Tức  ▶ breath, respiration, son, interest (on money), rest, coming to an end",
+                        "  自 Tự  ▶ oneself",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "なみだがでます/なみだをながします",
                 "kanji": "涙が出る / 涙を流す",
                 "vietnamese": "rơi nước mắt / khóc",
-                "info": "tự/tha, 涙 (lệ) 氵 (thủy) 戻 (lệ: quay lại) 流 (lưu: hải) 氵 (thủy) 㐬"
+                "info": "",
+                "details": {
+                    "pos": "tự/tha",
+                    "components": [
+                        "流 Lưu  ▶ current, a sink, flow, forfeit",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  㐬   ▶ a cup with pendants, a pennant, wild, barren, uncultivated",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    川 (巛) Xuyên  ▶ stream, river, river or three-stroke river radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "涙 Lệ  ▶ tears, sympathy",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  戻 Lệ  ▶ re-, return, revert, resume, restore, go backwards",
+                        "    戸 Hộ, Họ  ▶ door, counter for houses, door radical",
+                        "    大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "あせがでます / あせをかきます / あせくさい",
                 "kanji": "汗が出る / 汗をかく / 汗臭い",
                 "vietnamese": "ra mồ hôi (xuất hiện/đổ/có mùi)",
-                "info": "tự/tha/i, 汗 (hãn: mồ hôi) 氵 (thủy) 干 (kiền: khô) 臭 (xú, khứu) 自 (tự) 大 (đại)"
+                "info": "",
+                "details": {
+                    "pos": "tự/tha/i",
+                    "components": [
+                        "汗 Hãn, Hàn  ▶ sweat, perspire",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    十 Thập  ▶ ten",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "臭 Xú, Khứu  ▶ stinking, ill-smelling, suspicious looking, odor, savor, fragrance, be fragrant, stink, glow, be bright",
+                        "  自 Tự  ▶ oneself",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "よだれ",
                 "kanji": "(よだれ) 涎",
                 "vietnamese": "nước dãi",
-                "info": "n, 涎 (tiên, diện, duyên) ノ 止 (chỉ) 廴 (dẫn) 氵 (thủy)"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "涎 Tiên, Diện, Duyên  ▶ saliva, slobber",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  延 Duyên  ▶ prolong, stretching",
+                        "    正 Chánh, Chính  ▶ correct, justice, righteous, 10**40",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      止 Chỉ  ▶ stop, halt",
+                        "        卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "    廴 Dẫn  ▶ long stride or stretching radical"
+                    ]
+                }
             },
             {
                 "hiragana": "せきがでます / せきをします",
                 "kanji": "(せき) 咳が出る / 咳をする",
                 "vietnamese": "ho (tự/tha)",
-                "info": "tự/tha, 咳 (khái: ho) 亥 (hợi) 口 (khẩu) 刻 (khắc)"
+                "info": "",
+                "details": {
+                    "pos": "tự/tha",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "咳 Khái  ▶ cough, clear throat",
+                        "  口 Khẩu  ▶ mouth",
+                        "  亥 Hợi  ▶ sign of the hog, 9-11PM, twelfth sign of the Chinese zodiac",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "しゃっくりがでます / しゃっくりをします",
                 "kanji": "(しゃっくり) 吃逆が出る / 吃逆をする",
                 "vietnamese": "nấc cụt (tự/tha)",
-                "info": "tự/tha, 吃 (cật: nói lắp) 乞 (khất: xin, thực) 口 (khẩu) 逆 (nghịch: ngược) 屰 ⻌"
+                "info": "",
+                "details": {
+                    "pos": "tự/tha",
+                    "components": [
+                        "逆 Nghịch, Nghịnh  ▶ inverted, reverse, opposite, wicked",
+                        "  屰 Kích, Nghịch  ▶ disobedient",
+                        "    屮 Triệt  ▶ left hand, old grass radical",
+                        "      凵 Khảm  ▶ open box enclosure, open box radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  ⻌ (辶)",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "吃 Cật  ▶ stammer",
+                        "  口 Khẩu  ▶ mouth",
+                        "  乞 Khất, Khí  ▶ beg, invite, ask",
+                        "    乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical"
+                    ]
+                }
             },
             {
                 "hiragana": "くしゃみがでます/くしゃみをします",
                 "kanji": "(くしゃみ) 嚏が出る/嚏をする ",
                 "vietnamese": "hắt xì hơi (tự/tha)",
-                "info": "tự/tha, 嚏 (đế, sí: hắt hơi)"
+                "info": "",
+                "details": {
+                    "pos": "tự/tha",
+                    "components": [
+                        "嚏 Đế, Sí  ▶ sneeze",
+                        "  口 Khẩu  ▶ mouth",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "    疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "      人 Nhân  ▶ person",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "あくびがでます / あくびをします",
                 "kanji": "(あくび) 欠伸が出る / 欠伸をする",
                 "vietnamese": "ngáp (tự/tha)",
-                "info": "tự, 欠 (khiếm) 人 (nhân) ⺈ 伸 (thân: duỗi) 亻 (nhân) 申 (thân: khỉ)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "伸 Thân  ▶ expand, stretch, extend, lengthen, increase",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  申 Thân  ▶ have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "欠 Khiếm  ▶ lack, gap, fail, yawning radical"
+                    ]
+                }
             },
             {
                 "hiragana": "たいじゅうがふえます / たいじゅうをふやします",
                 "kanji": "体重が増える / 体重を増やす",
                 "vietnamese": "lên cân / làm tăng cân",
-                "info": "tự/tha, 体 (thể) 本 (bổn) 亻 (nhân) 重 (trọng, trùng) 増 (tăng) 丷 田 (điền) 日 (nhật) 土 (thổ)"
+                "info": "",
+                "details": {
+                    "pos": "tự/tha",
+                    "components": [
+                        "重 Trọng, Trùng  ▶ heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold",
+                        "  千 Thiên  ▶ thousand",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten",
+                        "  里 Lý  ▶ ri, village, parent's home, league",
+                        "    千 Thiên  ▶ thousand",
+                        "      十 Thập  ▶ ten",
+                        "増 Tăng  ▶ increase, add, augment, gain, promote",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  曽 Tằng, Từng  ▶ formerly, once, before, ever, never, ex-",
+                        "      田 Điền  ▶ rice field, rice paddy",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "体 Thể  ▶ body, substance, object, reality, counter for images",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  本 Bổn, Bản  ▶ book, present, main, origin, true, real, counter for long cylindrical things",
+                        "    木 Mộc  ▶ tree, wood"
+                    ]
+                }
             },
             {
                 "hiragana": "たいじゅうがへります / たいじゅうをへらします",
                 "kanji": "体重が減る / 体重を減らす",
                 "vietnamese": "giảm cân / làm giảm cân",
-                "info": "tự/tha, 体 (thể) 本 (bổn) 亻 (nhân) 重 (trọng, trùng) 減 (giảm) 咸 (hàm: chứa) 戊 (mậu: kỉ) 一 (nhất) 口 (khẩu) 氵 (thủy)"
+                "info": "",
+                "details": {
+                    "pos": "tự/tha",
+                    "components": [
+                        "重 Trọng, Trùng  ▶ heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold",
+                        "  千 Thiên  ▶ thousand",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten",
+                        "  里 Lý  ▶ ri, village, parent's home, league",
+                        "    千 Thiên  ▶ thousand",
+                        "      十 Thập  ▶ ten",
+                        "体 Thể  ▶ body, substance, object, reality, counter for images",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  本 Bổn, Bản  ▶ book, present, main, origin, true, real, counter for long cylindrical things",
+                        "    木 Mộc  ▶ tree, wood",
+                        "減 Giảm  ▶ dwindle, decrease, reduce, decline, curtail, get hungry",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  咸 Hàm  ▶ all, same",
+                        "    戍 (戌) Thú  ▶ protection",
+                        "      厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "          厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    戍 (戌) Thú  ▶ protection",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "          丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "いびきをかきます",
                 "kanji": "(いびき) 鼾をかく",
                 "vietnamese": "ngáy",
-                "info": "tha, 鼾 (hãn: ngáy) 干 (kiền) 鼻 (tị: mũi)"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "鼾 Hãn, Han  ▶ snoring",
+                        "  鼻 Tị  ▶ nose, snout",
+                        "    自 Tự  ▶ oneself",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    畀 Ti, Tí, Ty, Tý, Tỷ  ▶ to give",
+                        "      田 Điền  ▶ rice field, rice paddy",
+                        "      廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    十 Thập  ▶ ten"
+                    ]
+                }
             },
             {
                 "hiragana": "あしがしびれます",
                 "kanji": "足が痺れる (しびれる)",
                 "vietnamese": "tê chân",
-                "info": "tự, 足 (túc) 痺 (tý: tê) 卑 (ti: hèn, tiện) ノ 十 (thập) 甶 疒 (nạch)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "痺 Tý  ▶ palsy, become numb, paralysed",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  卑 Ti  ▶ lowly, base, vile, vulgar, despise",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    十 Thập  ▶ ten",
+                        "足 Túc  ▶ leg, foot, be sufficient, counter for pairs of footwear",
+                        "  口 Khẩu  ▶ mouth",
+                        "  龰"
+                    ]
+                }
             },
             {
                 "hiragana": "からだがふるえます",
                 "kanji": "体が震える",
                 "vietnamese": "run rẩy",
-                "info": "tự, 体 (thể) 本 (bổn) 亻 (nhân) 震 (chấn: động) ⻗ 辰 (thần: thìn)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "震 Chấn  ▶ quake, shake, tremble, quiver, shiver",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "  辰 Thần, Thìn  ▶ sign of the dragon, 7-9AM, fifth sign of Chinese zodiac, shin dragon radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "体 Thể  ▶ body, substance, object, reality, counter for images",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  本 Bổn, Bản  ▶ book, present, main, origin, true, real, counter for long cylindrical things",
+                        "    木 Mộc  ▶ tree, wood"
+                    ]
+                }
             },
             {
                 "hiragana": "かたがこります",
                 "kanji": "肩が凝る (こる)",
                 "vietnamese": "vai cứng đơ",
-                "info": "tự, 肩 (kiên: vai) ⺼ 戸 (hộ) 凝 (ngưng: đọng) 疑 (nghi: ngờ) 匕 (chủy) 矢 (thỉ: mũi tên) マ 疋 (sơ) 冫 (băng)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "凝 Ngưng  ▶ congeal, freeze, stiff, be absorbed in",
+                        "  冫 (氷) Băng  ▶ two-stroke water radical or ice radical",
+                        "  疑 Nghi  ▶ doubt, distrust, be suspicious, question",
+                        "      匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "      矢 Thỉ  ▶ dart, arrow",
+                        "        天 Thiên  ▶ heavens, sky, imperial",
+                        "          大 Đại, Thái  ▶ large, big",
+                        "      マ",
+                        "      疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "        卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "        人 Nhân  ▶ person",
+                        "肩 Kiên  ▶ shoulder",
+                        "  戸 Hộ, Họ  ▶ door, counter for houses, door radical",
+                        "  月 (肉) Nguyệt  ▶ month, moon"
+                    ]
+                }
             },
             {
                 "hiragana": "くせがつきます / くせになります",
                 "kanji": "癖がつく / 癖になる",
                 "vietnamese": "thành thói quen, nghiện (tích cực/tiêu cực)",
-                "info": "tự, 癖 (phích, tích) 口 (khẩu) 尸 (thi) 辛 (tân) 疒 (nạch)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "癖 Phích, Tích  ▶ mannerism, habit, vice, trait, fault, kink",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  辟 Tích, Tịch, Phích, Bễ, Thí  ▶ false, punish, crime, law",
+                        "      𡰪",
+                        "        尸 Thi  ▶ corpse, remains, flag radical",
+                        "        口 Khẩu  ▶ mouth",
+                        "    辛 Tân  ▶ spicy, bitter, hot, acrid",
+                        "      立 Lập  ▶ stand up, rise, set up, erect",
+                        "        亠 Đầu  ▶ kettle lid radical",
+                        "      十 Thập  ▶ ten"
+                    ]
+                }
             },
             {
                 "hiragana": "ストレスがたまります",
                 "kanji": "ストレスが溜まる (たまる)",
-                "vietnamese": "căng thẳng; bị áp lực",
-                "info": "tự, 溜 (lựu: thu góp) 留 (lưu: lại) 卯 (mão: mèo) 田 (điền) 氵 (thủy)"
+                "vietnamese": "căng thẳng, bị áp lực",
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "溜 Lựu, Lưu, Rượu  ▶ collect, gather, be in arrears",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  留 Lưu  ▶ detain, fasten, halt, stop",
+                        "    卯 Mão  ▶ sign of the hare or rabbit, fourth sign of Chinese zodiac, 5-7AM, east",
+                        "      卩 (刀) Tiết  ▶ seal radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    田 Điền  ▶ rice field, rice paddy"
+                    ]
+                }
             },
             {
                 "hiragana": "つめがのびます",
                 "kanji": "爪が伸びる (のびる)",
                 "vietnamese": "móng tay dài ra",
-                "info": "tự, 爪 (trảo) 伸 (thân: duỗi) 亻 (nhân) 申 (thân)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "爪 Trảo  ▶ claw, nail, talon",
+                        "  丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "伸 Thân  ▶ expand, stretch, extend, lengthen, increase",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  申 Thân  ▶ have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ひげ/は がはえます",
                 "kanji": "髭/歯 が生える",
                 "vietnamese": "mọc râu/răng",
-                "info": "tự, 髭 (tì: râu) 止 (chỉ) 匕 (chủy) 镸 彡 (sam) 歯 (xỉ: răng) 止 (chỉ) 米 (mễ) 凵 (khảm) 生 (sanh, sinh)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "髭 Tì  ▶ beard, mustache",
+                        "  髟 Tiêu, Bưu  ▶ hair hanging long, mane, long hair radical",
+                        "    長 Trường, Trưởng, Trướng  ▶ long, leader, superior, senior",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    彡 Sam, Tiệm  ▶ three, hair ornament, short hair or fur radical",
+                        "  此 Thử  ▶ this, current, next, coming, last, past",
+                        "    止 Chỉ  ▶ stop, halt",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "生 Sanh, Sinh  ▶ life, genuine, birth",
+                        "歯 (齒) Xỉ  ▶ tooth, cog",
+                        "  止 Chỉ  ▶ stop, halt",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "    米 Mễ  ▶ rice, USA, metre",
+                        "    凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "かみのけがぬけます",
                 "kanji": "髪の毛が抜ける (ぬける)",
                 "vietnamese": "rụng tóc",
-                "info": "tự, 髪 (phát: tóc) 友 (hữu) 镸 彡 (sam) 毛 (mao, mô) 抜 (bạt: rớt ra) 扌 (thủ) 友 (hữu)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "毛 Mao, Mô  ▶ fur, hair, feather, down",
+                        "抜 Bạt  ▶ slip out, extract, pull out, pilfer, quote, remove, omit",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  友 Hữu  ▶ friend",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "髪 Phát  ▶ hair of the head",
+                        "  髟 Tiêu, Bưu  ▶ hair hanging long, mane, long hair radical",
+                        "    長 Trường, Trưởng, Trướng  ▶ long, leader, superior, senior",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    彡 Sam, Tiệm  ▶ three, hair ornament, short hair or fur radical",
+                        "  友 Hữu  ▶ friend",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "はげます",
                 "kanji": "剥げる (はげる)",
                 "vietnamese": "bị hói",
-                "info": "tự, 剥 (bác: bóc, gọt) 录 (lục) 刂 (đao)"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "剥 Bác, Phốc, Bóc  ▶ come off, peel, fade, discolor",
+                        "    ⺕ (彑)",
+                        "    氺 (水) Thủy  ▶ water radical variant",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical"
+                    ]
+                }
             },
             {
                 "hiragana": "かみをそめます",
                 "kanji": "髪を染める (そめる)",
                 "vietnamese": "nhuộm tóc",
-                "info": "tha, 髪 (phát: tóc) 友 (hữu) 镸 彡 (sam) 染 (nhiễm: độc) 九 (cửu) 氵 (thủy) 木 (mộc)"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "染 Nhiễm  ▶ dye, color, paint, stain, print",
+                        "    氵 (水) Thủy  ▶ water, water radical",
+                        "    九 Cửu, Cưu  ▶ nine",
+                        "      乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "  木 Mộc  ▶ tree, wood",
+                        "髪 Phát  ▶ hair of the head",
+                        "  髟 Tiêu, Bưu  ▶ hair hanging long, mane, long hair radical",
+                        "    長 Trường, Trưởng, Trướng  ▶ long, leader, superior, senior",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    彡 Sam, Tiệm  ▶ three, hair ornament, short hair or fur radical",
+                        "  友 Hữu  ▶ friend",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             }
         ]
     },
@@ -3734,199 +12078,635 @@ data_vocabulary = [
                 "hiragana": "はながさきます",
                 "kanji": "花が咲く",
                 "vietnamese": "hoa nở",
-                "info": "tự"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "花 Hoa  ▶ flower",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  化 Hóa  ▶ change, take the form of, influence, enchant, delude, -ization",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "咲 Tiếu  ▶ blossom, bloom",
+                        "  口 Khẩu  ▶ mouth",
+                        "  关   ▶ frontier pass, close, relation",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "はながちります",
                 "kanji": "花が散る",
                 "vietnamese": "hoa rụng",
-                "info": "tự"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "花 Hoa  ▶ flower",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  化 Hóa  ▶ change, take the form of, influence, enchant, delude, -ization",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "散 Tán, Tản  ▶ scatter, disperse, spend, squander",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "きがかれます",
                 "kanji": "木が枯れる",
                 "vietnamese": "cây héo úa",
-                "info": "tự"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "枯 Khô  ▶ wither, die, dry up, be seasoned",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  古 Cổ  ▶ old",
+                        "    十 Thập  ▶ ten",
+                        "    口 Khẩu  ▶ mouth",
+                        "木 Mộc  ▶ tree, wood"
+                    ]
+                }
             },
             {
                 "hiragana": "やまがくずれます",
                 "kanji": "山がくずれる",
                 "vietnamese": "lở núi",
-                "info": "tự"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "山 San, Sơn  ▶ mountain"
+                    ]
+                }
             },
             {
                 "hiragana": "けわしいやま",
                 "kanji": "険しい山",
                 "vietnamese": "núi dốc",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "山 San, Sơn  ▶ mountain",
+                        "険 Hiểm  ▶ precipitous, inaccessible place, impregnable position, steep place, sharp eyes",
+                        "  ⻖ (阜)",
+                        "  㑒 (僉)",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "なだらかなさか",
                 "kanji": "なだらかな坂",
                 "vietnamese": "dốc thoai thoải",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "坂 Phản  ▶ slope, incline, hill",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  反 Phản, Phiên  ▶ anti-",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "はこがつぶれます",
                 "kanji": "箱がつぶれる",
                 "vietnamese": "cái hộp bị bẹp",
-                "info": "tự"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "箱 Tương, Sương  ▶ box, chest, case, bin, railway car",
+                        "  竹 Trúc  ▶ bamboo",
+                        "  相 Tương, Tướng  ▶ inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy",
+                        "    木 Mộc  ▶ tree, wood",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor"
+                    ]
+                }
             },
             {
                 "hiragana": "つぶします",
                 "kanji": "つぶす",
-                "vietnamese": "nghiền; làm bẹp",
-                "info": "tha"
+                "vietnamese": "nghiền, làm bẹp",
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": []
+                }
             },
             {
                 "hiragana": "うきます",
                 "kanji": "浮く",
-                "vietnamese": "nổi; lơ lửng",
-                "info": "tự"
+                "vietnamese": "nổi, lơ lửng",
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "浮 Phù  ▶ floating, float, rise to surface",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  孚 Phu  ▶ sincere, nourish, encase",
+                        "    ⺤ (爪)",
+                        "    子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+                    ]
+                }
             },
             {
                 "hiragana": "しずみます",
                 "kanji": "沈む",
-                "vietnamese": "chìm; đắm",
-                "info": "tự"
+                "vietnamese": "chìm, đắm",
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "沈 Trầm, Thẩm, Trấm  ▶ sink, be submerged, subside, be depressed, aloes",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  冘 Dâm, Thẩm, Đam, Đâm, Đăm, Đem, Đơm, Nhũng  ▶ to move on, doubtful",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "むしあつい",
                 "kanji": "蒸し暑い",
-                "vietnamese": "nóng nực; oi bức",
-                "info": "a-i"
+                "vietnamese": "nóng nực, oi bức",
+                "info": "",
+                "details": {
+                    "pos": "a-i",
+                    "components": [
+                        "蒸 Chưng  ▶ steam, heat, sultry, foment, get musty",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  烝 Chưng, Chứng  ▶ many, offer, dedicate, to steam",
+                        "      丞 Thừa, Chưng  ▶ help",
+                        "        了 Liễu  ▶ complete, finish",
+                        "          亅 Quyết  ▶ feathered stick, barb radical",
+                        "        水 Thủy  ▶ water",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "暑 Thử  ▶ sultry, hot, summer heat",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  者 Giả  ▶ someone, person",
+                        "    耂 (老)   ▶ variant of radical 125",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "くさります",
                 "kanji": "くさる",
-                "vietnamese": "mục nát; thối rữa",
-                "info": "tự"
+                "vietnamese": "mục nát, thối rữa",
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": []
+                }
             },
             {
                 "hiragana": "かびがはえます",
                 "kanji": "かびが生える",
                 "vietnamese": "nấm mốc",
-                "info": "tự"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "生 Sanh, Sinh  ▶ life, genuine, birth"
+                    ]
+                }
             },
             {
                 "hiragana": "へんなにおいがします",
                 "kanji": "変なにおいがする",
                 "vietnamese": "có mùi lạ",
-                "info": "tự"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": [
+                        "変 Biến, Bén, Biếng  ▶ unusual, change, strange",
+                        "  亦 Diệc  ▶ also, again",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      亅 Quyết  ▶ feathered stick, barb radical",
+                        "  夂 Tri  ▶ late, delayed, winter radical"
+                    ]
+                }
             },
             {
                 "hiragana": "においます",
                 "kanji": "におう",
-                "vietnamese": "có mùi; bốc mùi",
-                "info": "tự"
+                "vietnamese": "có mùi, bốc mùi",
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": []
+                }
             },
             {
                 "hiragana": "きみがわるいいきもの",
                 "kanji": "気味が悪い物",
                 "vietnamese": "sinh vật thấy sởn gai ốc",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "味 Vị  ▶ flavor, taste",
+                        "  口 Khẩu  ▶ mouth",
+                        "  未 Vị, Mùi  ▶ un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+                        "    木 Mộc  ▶ tree, wood",
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "悪 Ác, Ố, Óc  ▶ bad, vice, rascal, false, evil, wrong",
+                        "  亜 A, Á  ▶ Asia, rank next, come after, -ous",
+                        "    二 Nhị  ▶ two, two radical",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    二 Nhị  ▶ two, two radical",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "きもち（が）わるいいきもの",
                 "kanji": "気持ち（が）悪い物",
                 "vietnamese": "sinh vật thấy sởn gai ốc",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "持 Trì  ▶ hold, have",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "悪 Ác, Ố, Óc  ▶ bad, vice, rascal, false, evil, wrong",
+                        "  亜 A, Á  ▶ Asia, rank next, come after, -ous",
+                        "    二 Nhị  ▶ two, two radical",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    二 Nhị  ▶ two, two radical",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "したしいゆうじん",
                 "kanji": "親しい友人",
                 "vietnamese": "bạn thân",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "親 Thân, Thấn  ▶ parent, intimacy, relative, familiarity, dealer (cards)",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    儿 Nhân  ▶ legs radical",
+                        "人 Nhân  ▶ person",
+                        "友 Hữu  ▶ friend",
+                        "  𠂇",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "しんゆう",
                 "kanji": "親友",
                 "vietnamese": "bạn thân",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "親 Thân, Thấn  ▶ parent, intimacy, relative, familiarity, dealer (cards)",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    儿 Nhân  ▶ legs radical",
+                        "友 Hữu  ▶ friend",
+                        "  𠂇",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "あやしいおとこ",
                 "kanji": "あやしい男",
                 "vietnamese": "kẻ đáng ngờ",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "男 Nam  ▶ male",
+                        "  田 Điền  ▶ rice field, rice paddy",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert"
+                    ]
+                }
             },
             {
                 "hiragana": "おそろしいじけん",
                 "kanji": "恐ろしい事件",
                 "vietnamese": "vụ việc kinh khủng",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "事 Sự  ▶ matter, thing, fact, business, reason, possibly",
+                        "  口 Khẩu  ▶ mouth",
+                        "  ⺕ (彑)",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "恐 Khủng, Khúng  ▶ fear, dread, awe",
+                        "    工 Công  ▶ craft, construction, katakana e radical",
+                        "    凡 Phàm  ▶ commonplace, ordinary, mediocre",
+                        "      几 Kỷ  ▶ table, table enclosure, table or windy radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "件 Kiện  ▶ affair, case, matter, item",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  牛 Ngưu  ▶ cow"
+                    ]
+                }
             },
             {
                 "hiragana": "さびたほうちょう",
                 "kanji": "さびた包丁",
                 "vietnamese": "con dao bị gỉ",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "包 Bao  ▶ wrap, pack up, cover, conceal",
+                        "  勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  己 Kỷ  ▶ self"
+                    ]
+                }
             },
             {
                 "hiragana": "さびます",
                 "kanji": "さびる",
                 "vietnamese": "bị gỉ",
-                "info": "tự"
+                "info": "",
+                "details": {
+                    "pos": "tự",
+                    "components": []
+                }
             },
             {
                 "hiragana": "するどい",
                 "kanji": "鋭い",
                 "vietnamese": "sắc bén",
-                "info": "a-i"
+                "info": "",
+                "details": {
+                    "pos": "a-i",
+                    "components": [
+                        "鋭 Duệ, Nhuệ  ▶ pointed, sharpness, edge, weapon, sharp, violent",
+                        "  金 Kim  ▶ gold",
+                        "  兌 Đoái  ▶ exchange",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    兄 Huynh  ▶ elder brother, big brother",
+                        "      口 Khẩu  ▶ mouth",
+                        "      儿 (八) Nhân  ▶ legs radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "にぶい",
                 "kanji": "鈍い",
                 "vietnamese": "cùn",
-                "info": "a-i"
+                "info": "",
+                "details": {
+                    "pos": "a-i",
+                    "components": [
+                        "鈍 Độn  ▶ dull, slow, foolish, blunt",
+                        "  金 Kim  ▶ gold",
+                        "  屯 Truân, Đồn  ▶ barracks, police station, camp, ton",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    屮 Triệt  ▶ left hand, old grass radical",
+                        "      凵 Khảm  ▶ open box enclosure, open box radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "のろいくるま",
                 "kanji": "のろい車",
                 "vietnamese": "xe chậm chạp",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "車 Xa  ▶ car"
+                    ]
+                }
             },
             {
                 "hiragana": "あんぜんなばしょ",
                 "kanji": "安全な場所",
                 "vietnamese": "chỗ an toàn",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "所 Sở  ▶ place, extent",
+                        "  戸 Hộ, Họ  ▶ door, counter for houses, door radical",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical",
+                        "場 Tràng, Trường  ▶ location, place",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  昜 Dương  ▶ open, sun",
+                        "    旦 Đán  ▶ daybreak, dawn, morning",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    勿 Vật  ▶ not, must not, do not, be not",
+                        "      勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "全 Toàn  ▶ whole, entire, all, complete, fulfill",
+                        "  人 Nhân  ▶ person",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "安 An  ▶ relax, cheap, low, quiet, rested, contented, peaceful",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  女 Nữ, Nứ, Nhữ  ▶ woman, female"
+                    ]
+                }
             },
             {
                 "hiragana": "うすぐらいへや",
                 "kanji": "薄暗い部屋",
                 "vietnamese": "phòng âm u",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "暗 Ám  ▶ darkness, disappear, shade, informal, grow dark, be blinded",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  音 Âm  ▶ sound, noise",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "部 Bộ  ▶ section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+                        "  咅 Phẫu, Phôi, Phủ, Thấu  ▶ to spit out",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻏ (邑)",
+                        "屋 Ốc  ▶ roof, house, shop, dealer, seller",
+                        "  尸 Thi  ▶ corpse, remains, flag radical",
+                        "  至 Chí  ▶ climax, arrive, proceed, reach, attain, result in",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "薄 Bạc, Bác  ▶ dilute, thin, weak (tea), pampas grass",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  溥 Phổ  ▶ far and wide",
+                        "    氵 (水) Thủy  ▶ water, water radical",
+                        "    尃   ▶ to state to, to announce",
+                        "      甫 Phủ  ▶ for the first time, not until",
+                        "        専 Chuyên  ▶ specialty, exclusive, mainly, solely",
+                        "          用 Dụng  ▶ utilize, business, service, use, employ",
+                        "        丶 Chủ  ▶ dot, tick or dot radical",
+                        "      専 Chuyên  ▶ specialty, exclusive, mainly, solely",
+                        "        寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "まぶしいあかり",
                 "kanji": "まぶしい明かり",
                 "vietnamese": "ánh sáng rực rỡ",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "明 Minh  ▶ bright, light",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  月 Nguyệt  ▶ month, moon"
+                    ]
+                }
             },
             {
                 "hiragana": "くわしいせつめいしょ",
                 "kanji": "くわしい説明書",
                 "vietnamese": "cuốn hướng dẫn cụ thể",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "説 Duyệt, Thoát, Thuế, Thuyết, Thót, Thốt  ▶ opinion, theory, explanation, rumor",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  兌 Đoái  ▶ exchange",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    兄 Huynh  ▶ elder brother, big brother",
+                        "      口 Khẩu  ▶ mouth",
+                        "      儿 (八) Nhân  ▶ legs radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "書 Thư  ▶ write",
+                        "  聿 Duật  ▶ brush, finally, self, relate, follow, here, fast, writing brush radical",
+                        "    ⺕ (彑)",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "明 Minh  ▶ bright, light",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  月 Nguyệt  ▶ month, moon"
+                    ]
+                }
             },
             {
                 "hiragana": "くわしくせつめいします",
                 "kanji": "くわしく説明する",
                 "vietnamese": "giải thích tường tận",
-                "info": "tha"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "説 Duyệt, Thoát, Thuế, Thuyết, Thót, Thốt  ▶ opinion, theory, explanation, rumor",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  兌 Đoái  ▶ exchange",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    兄 Huynh  ▶ elder brother, big brother",
+                        "      口 Khẩu  ▶ mouth",
+                        "      儿 (八) Nhân  ▶ legs radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "明 Minh  ▶ bright, light",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  月 Nguyệt  ▶ month, moon"
+                    ]
+                }
             },
             {
                 "hiragana": "くだらないしょうせつ",
                 "kanji": "くだらない小説",
                 "vietnamese": "tiểu thuyết tầm phào",
-                "info": "n"
+                "info": "",
+                "details": {
+                    "pos": "n",
+                    "components": [
+                        "説 Duyệt, Thoát, Thuế, Thuyết, Thót, Thốt  ▶ opinion, theory, explanation, rumor",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  兌 Đoái  ▶ exchange",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    兄 Huynh  ▶ elder brother, big brother",
+                        "      口 Khẩu  ▶ mouth",
+                        "      儿 (八) Nhân  ▶ legs radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "小 Tiểu  ▶ little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "でたらめにこたえます",
                 "kanji": "でたらめに答える",
                 "vietnamese": "trả lời linh tinh",
-                "info": "tha"
+                "info": "",
+                "details": {
+                    "pos": "tha",
+                    "components": [
+                        "答 Đáp  ▶ solution, answer",
+                        "  竹 Trúc  ▶ bamboo",
+                        "  合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             }
         ]
     },
@@ -3936,320 +12716,921 @@ data_vocabulary = [
             {
                 "hiragana": "とつぜん",
                 "kanji": "突然",
-                "vietnamese": "đột nhiên; đột ngột",
-                "info": ""
+                "vietnamese": "đột nhiên, đột ngột",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "然 Nhiên  ▶ sort of thing, so, if so, in that case, well",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "    犬 Khuyển  ▶ dog",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical",
+                        "突 Đột  ▶ stab, protruding, thrust, pierce, prick, collision, sudden",
+                        "  穴 Huyệt  ▶ hole, aperture, slit, cave, den",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "とつぜんでんわがなった",
                 "kanji": "突然電話が鳴った",
                 "vietnamese": "đột nhiên điện thoại reo",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "然 Nhiên  ▶ sort of thing, so, if so, in that case, well",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "    犬 Khuyển  ▶ dog",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical",
+                        "鳴 Minh  ▶ chirp, cry, bark, sound, ring, echo, honk",
+                        "  口 Khẩu  ▶ mouth",
+                        "  鳥 Điểu  ▶ bird, chicken",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "電 Điện  ▶ electricity",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "突 Đột  ▶ stab, protruding, thrust, pierce, prick, collision, sudden",
+                        "  穴 Huyệt  ▶ hole, aperture, slit, cave, den",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  大 Đại, Thái  ▶ large, big",
+                        "話 Thoại  ▶ tale, talk",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  舌 Thiệt  ▶ tongue, reed, clapper",
+                        "    千 Thiên  ▶ thousand",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "いきなり",
                 "kanji": "いきなり",
-                "vietnamese": "bất ngờ; đột ngột",
-                "info": ""
+                "vietnamese": "bất ngờ, đột ngột",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "いきなりなきだす",
                 "kanji": "いきなり泣き出す",
                 "vietnamese": "đột nhiên bật khóc",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "泣 Khấp  ▶ cry, weep, moan",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  立 Lập  ▶ stand up, rise, set up, erect",
+                        "    亠 Đầu  ▶ kettle lid radical"
+                    ]
+                }
             },
             {
                 "hiragana": "とたんに",
                 "kanji": "とたんに",
                 "vietnamese": "đột nhiên",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "とたんになきだす",
                 "kanji": "とたんに泣き出す",
                 "vietnamese": "đột nhiên òa khóc",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "泣 Khấp  ▶ cry, weep, moan",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  立 Lập  ▶ stand up, rise, set up, erect",
+                        "    亠 Đầu  ▶ kettle lid radical"
+                    ]
+                }
             },
             {
                 "hiragana": "やっと",
                 "kanji": "やっと",
                 "vietnamese": "cuối cùng thì",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "やっとけががなおった",
                 "kanji": "やっとけがが治った",
                 "vietnamese": "cuối cùng thì vết thương cũng lành",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "治 Trì, Trị  ▶ reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  台 Thai, Đài, Di  ▶ pedestal, a stand, counter for machines and vehicles",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "とうとう",
                 "kanji": "とうとう",
-                "vietnamese": "cuối cùng; sau cùng",
-                "info": ""
+                "vietnamese": "cuối cùng, sau cùng",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "うちのねこがとうとうしんでしまった",
                 "kanji": "うちの猫がとうとう死んでしまった",
                 "vietnamese": "cuối cùng con mèo ở nhà đã chết mất",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "死 Tử  ▶ death, die",
+                        "  歹 Ngạt, Đãi  ▶ bare bone, bad, wrong, death radical (n. 78)",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    夕 Tịch  ▶ evening",
+                        "  匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "猫 Miêu  ▶ cat",
+                        "  ⺨ (犬)",
+                        "  苗 Miêu, Meo, Miều  ▶ seedling, sapling, shoot",
+                        "    艹 (艸)   ▶ grass, radical number 140",
+                        "    田 Điền  ▶ rice field, rice paddy"
+                    ]
+                }
             },
             {
                 "hiragana": "けっきょく",
                 "kanji": "結局",
-                "vietnamese": "kết cục; rốt cuộc",
-                "info": ""
+                "vietnamese": "kết cục, rốt cuộc",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "局 Cục  ▶ bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment",
+                        "  尸 Thi  ▶ corpse, remains, flag radical",
+                        "  句 Cú, Câu, Cấu  ▶ phrase, clause, sentence, passage, paragraph, counter for haiku",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "      尸 Thi  ▶ corpse, remains, flag radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "結 Kết  ▶ tie, bind, contract, join, organize, do up hair, fasten",
+                        "  糸 Mịch  ▶ thread",
+                        "  吉 Cát  ▶ good luck, joy, congratulations",
+                        "    士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "どりょくしたが、けっこうむだだった",
                 "kanji": "努力したが、結局むだだった",
                 "vietnamese": "nỗ lực nhưng rốt cuộc vô ích",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "努 Nỗ  ▶ toil, diligent, as much as possible",
+                        "  奴 Nô  ▶ guy, slave, manservant, fellow",
+                        "    女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "局 Cục  ▶ bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment",
+                        "  尸 Thi  ▶ corpse, remains, flag radical",
+                        "  句 Cú, Câu, Cấu  ▶ phrase, clause, sentence, passage, paragraph, counter for haiku",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "      尸 Thi  ▶ corpse, remains, flag radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "結 Kết  ▶ tie, bind, contract, join, organize, do up hair, fasten",
+                        "  糸 Mịch  ▶ thread",
+                        "  吉 Cát  ▶ good luck, joy, congratulations",
+                        "    士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "ついに",
                 "kanji": "ついに",
                 "vietnamese": "cuối cùng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ついにえがかんせいした",
                 "kanji": "ついに絵が完成した",
                 "vietnamese": "cuối cùng cũng vẽ xong bức tranh",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "絵 Hội, Gói, Gối  ▶ picture, drawing, painting, sketch",
+                        "  糸 Mịch  ▶ thread",
+                        "  会 Cối, Hội, Hụi  ▶ meeting, meet, party, association, interview, join",
+                        "    人 Nhân  ▶ person",
+                        "    云 Vân  ▶ say",
+                        "      二 Nhị  ▶ two, two radical",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "完 Hoàn  ▶ perfect, completion, end",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  元 Nguyên  ▶ beginning, former time, origin",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "成 Thành  ▶ turn into, become, get, grow, elapse, reach",
+                        "  𠂊 (勹)",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "  𠂊 (勹)",
+                        "  戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "      丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "よく",
                 "kanji": "よく",
                 "vietnamese": "thường xuyên, hết sức, rất",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "よくこのレストランにきます",
                 "kanji": "よくこのレストランに来ます",
                 "vietnamese": "thường đến nhà hàng này",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "来 Lai, Lãi, Lay, Lơi, Ray, Rơi  ▶ come, due, next, cause, become",
+                        "  米 Mễ  ▶ rice, USA, metre",
+                        "    木 Mộc  ▶ tree, wood",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "きのうは、よくねました",
                 "kanji": "昨日は、よく寝ました",
                 "vietnamese": "hôm qua ngủ ngon giấc",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "寝 Tẩm  ▶ lie down, sleep, rest, bed, remain unsold",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    ⺦ (爿)",
+                        "      ⺕ (彑)",
+                        "        冖 Mịch  ▶ wa-shaped crown radical",
+                        "        又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "昨 Tạc  ▶ yesterday, previous",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  乍 Sạ  ▶ though, notwithstanding, while, during, both, all",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "「よくやった！」",
                 "kanji": "「よくやった！」",
                 "vietnamese": "làm tốt lắm",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "たいてい",
                 "kanji": "たいてい",
                 "vietnamese": "thường",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "たいていがいしょくします",
                 "kanji": "たいてい外食します",
                 "vietnamese": "thường ăn ngoài",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "食 Thực, Tự  ▶ eat, food",
+                        "外 Ngoại  ▶ outside",
+                        "  夕 Tịch  ▶ evening",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ふだん（は）",
                 "kanji": "ふだん（は）",
-                "vietnamese": "thông thường; thường thường",
-                "info": ""
+                "vietnamese": "thông thường, thường thường",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ふだんは（お）さけをのみません。",
                 "kanji": "ふだんは（お）酒を飲みません。",
                 "vietnamese": "thường thì không uống rượu",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "酒 Tửu  ▶ sake, alcohol",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  酉 Dậu  ▶ west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "飲 Ấm, Ẩm, Hẩm, Ỡm  ▶ drink, smoke, take",
+                        "  飠 (食)   ▶ eat, food, radical number 184",
+                        "  欠 Khiếm  ▶ lack, gap, fail, yawning radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ふつう（は）",
                 "kanji": "ふつう（は）",
                 "vietnamese": "thường",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "つゆのじき、ふつう（は）あめがおおい",
                 "kanji": "梅雨の時期、ふつう（は）雨が多い。",
                 "vietnamese": "mùa mưa thường mưa hoài",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "多 Đa  ▶ many, frequent, much",
+                        "  夕 Tịch  ▶ evening",
+                        "  夕 Tịch  ▶ evening",
+                        "雨 Vũ, Vú  ▶ rain",
+                        "梅 Mai  ▶ plum",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  毎 Mỗi  ▶ every",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    毋 (母) Vô, Mưu  ▶ do not, must not, be not, mother radical",
+                        "期 Kỳ, Ky  ▶ period, time, date, term",
+                        "  其 Kỳ, Ký, Ki  ▶ that",
+                        "    甘 Cam  ▶ sweet, coax, pamper, be content, sugary",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "        十 Thập  ▶ ten",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  月 Nguyệt  ▶ month, moon",
+                        "時 Thì, Thời  ▶ time, hour",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "たまに",
                 "kanji": "たまに",
-                "vietnamese": "thi thoảng; đôi khi",
-                "info": ""
+                "vietnamese": "thi thoảng, đôi khi",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "たまに映画に行きます",
                 "kanji": "たまに映画に行きます",
                 "vietnamese": "thỉnh thoảng đi xem phim",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "画 Hoạch  ▶ brush-stroke, picture",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  由 Do  ▶ wherefore, a reason",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "映 Ánh  ▶ reflect, reflection, projection",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  央 Ương  ▶ center, middle",
+                        "    大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "かなり",
                 "kanji": "かなり",
                 "vietnamese": "kha khá",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "かなりおおきいいえ",
                 "kanji": "かなり大きい家",
                 "vietnamese": "nhà khá lớn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "家 Gia, Cô  ▶ house, home, family, professional, expert, performer",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  豕 Thỉ  ▶ pig, hog, pig radical",
+                        "大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "ひとがかなりいる",
                 "kanji": "人がかなりいる",
                 "vietnamese": "khá nhiều người",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "けっこう",
                 "kanji": "けっこう",
-                "vietnamese": "tạm được; tương đối",
-                "info": ""
+                "vietnamese": "tạm được, tương đối",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "いまのいえは、けっこうきにいっている",
                 "kanji": "今の家は、けっこう気に入っている",
                 "vietnamese": "khá thích căn nhà hiện giờ",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "家 Gia, Cô  ▶ house, home, family, professional, expert, performer",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  豕 Thỉ  ▶ pig, hog, pig radical",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "入 Nhập  ▶ enter, insert",
+                        "今 Kim  ▶ now",
+                        "  人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ものすごく",
                 "kanji": "ものすごく",
                 "vietnamese": "cực kì",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "あしがものすごくいたい",
                 "kanji": "足がものすごく痛い",
                 "vietnamese": "chân đau quá",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "痛 Thống  ▶ pain, hurt, damage, bruise",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "足 Túc  ▶ leg, foot, be sufficient, counter for pairs of footwear",
+                        "  口 Khẩu  ▶ mouth",
+                        "  龰"
+                    ]
+                }
             },
             {
                 "hiragana": "めちゃくちゃ",
                 "kanji": "めちゃくちゃ",
                 "vietnamese": "quá mức",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "むちゃくちゃ",
                 "kanji": "むちゃくちゃ",
                 "vietnamese": "lộn xộn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "めちゃくちゃやすい",
                 "kanji": "めちゃくちゃ安い",
                 "vietnamese": "quá rẻ",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "安 An  ▶ relax, cheap, low, quiet, rested, contented, peaceful",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  女 Nữ, Nứ, Nhữ  ▶ woman, female"
+                    ]
+                }
             },
             {
                 "hiragana": "じゅんばんがむちゃむちゃだ",
                 "kanji": "順番がむちゃくちゃだ",
                 "vietnamese": "thứ tự lộn xộn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "順 Thuận  ▶ obey, order, turn, right, docility, occasion",
+                        "  川 (巛) Xuyên  ▶ stream, river, river or three-stroke river radical",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "番 Phiên, Phan, Ba, Bà  ▶ turn, number in a series",
+                        "  釆 Biện  ▶ separate, divide, topped rice radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    米 Mễ  ▶ rice, USA, metre",
+                        "  田 Điền  ▶ rice field, rice paddy"
+                    ]
+                }
             },
             {
                 "hiragana": "じこでくるまがめちゃくちゃにこわれた",
                 "kanji": "事故で車がめちゃくちゃに壊れた",
                 "vietnamese": "bị tai nạn xe hư hỏng nặng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "事 Sự  ▶ matter, thing, fact, business, reason, possibly",
+                        "  口 Khẩu  ▶ mouth",
+                        "  ⺕ (彑)",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "故 Cố  ▶ happenstance, especially, intentionally, reason, cause, circumstances, the late, therefore, consequently",
+                        "  古 Cổ  ▶ old",
+                        "    十 Thập  ▶ ten",
+                        "    口 Khẩu  ▶ mouth",
+                        "  攵 (攴) Phốc, Phộc, Truy  ▶ strike, hit, folding chair radical variant",
+                        "    𠂉",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "車 Xa  ▶ car",
+                        "壊 Hoại  ▶ demolition, break, destroy",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    十 Thập  ▶ ten",
+                        "    罒 (网) Võng  ▶ net radical variant",
+                        "    衣 Y, Ý  ▶ garment, clothes, dressing",
+                        "      亠 Đầu  ▶ kettle lid radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ぜひ",
                 "kanji": "ぜひ",
                 "vietnamese": "nhất định",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ぜひとも",
                 "kanji": "ぜひとも",
                 "vietnamese": "nhất định",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ぜひともおこしください",
                 "kanji": "ぜひお越しください",
                 "vietnamese": "nhất định ghé chơi đấy",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "越 Việt, Hoạt  ▶ surpass, cross over, move to, exceed, Vietnam",
+                        "  走 Tẩu  ▶ run",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    龰",
+                        "  戉 Mậu, Việt  ▶ warrior, arms, savage, Ainu",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "どうか",
                 "kanji": "どうか",
                 "vietnamese": "bằng cách này hay cách khác",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "どうかおねがいします",
                 "kanji": "どうかお願いします",
                 "vietnamese": "bằng cách nào đó xin giúp cho ạ",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "願 Nguyện  ▶ petition, request, vow, wish, hope",
+                        "  原 Nguyên  ▶ meadow, original, primitive, field, plain, prairie, tundra, wilderness",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    CDP-8BC4",
+                        "      白 Bạch  ▶ white",
+                        "        日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      小 Tiểu  ▶ little, small",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "まず",
                 "kanji": "まず",
-                "vietnamese": "trước hết; trước tiên",
-                "info": ""
+                "vietnamese": "trước hết, trước tiên",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "かえったら、まずおふろにはいる",
                 "kanji": "帰ったら、まずお風呂に",
                 "vietnamese": "về đến nhà trước tiên vào tắm",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "帰 Quy  ▶ homecoming, arrive at, lead to, result in",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "  帚 Trửu  ▶ broom",
+                        "    ⺕ (彑)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "呂 Lữ, Lã  ▶ spine, backbone",
+                        "  口 Khẩu  ▶ mouth",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "風 Phong  ▶ wind, air, style, manner",
+                        "  几 Kỷ  ▶ table, table enclosure, table or windy radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    虫 Trùng  ▶ insect, bug, temper",
+                        "      中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "        口 Khẩu  ▶ mouth",
+                        "        丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "とにかく",
                 "kanji": "とにかく",
                 "vietnamese": "dù gì chăng nữa",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ともかく",
                 "kanji": "ともかく",
                 "vietnamese": "dù gì chăng nữa",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "いいわけなどしないで、とにかくべんきょうしなさい",
                 "kanji": "言い訳などしないで、とにかく勉強しなさい",
                 "vietnamese": "đừng ngụy biện nữa, dù gì cũng học đi",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "勉 Miễn  ▶ exertion, endeavour, encourage, strive, make effort, diligent",
+                        "  免 Miễn, Vấn  ▶ excuse, dismissal",
+                        "      𠂊 (勹)",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "言 Ngôn, Ngân  ▶ say, word",
+                        "  口 Khẩu  ▶ mouth",
+                        "訳 Dịch  ▶ translate, reason, circumstance, case",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  尺 Xích  ▶ shaku, Japanese foot, measure, scale, rule",
+                        "    尸 Thi  ▶ corpse, remains, flag radical",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "強 Cường, Cưỡng, Càng, Cướng, Cượng, Gàn, Gàng, Gắng, Gương, Gượng, Ngượng  ▶ strong",
+                        "  弓 Cung  ▶ bow, bow (archery, violin)",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    虫 Trùng  ▶ insect, bug, temper",
+                        "      中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "        口 Khẩu  ▶ mouth",
+                        "        丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "一度に",
                 "kanji": "一度に",
                 "vietnamese": "cùng một lúc",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "度 Độ, Đạc  ▶ degrees, occurrence, time, counter for occurrences, consider, attitude",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "一 Nhất  ▶ one, one radical"
+                    ]
+                }
             },
             {
                 "hiragana": "いちどにはながさく",
                 "kanji": "一度に花が",
                 "vietnamese": "hoa nở đồng loạt",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "度 Độ, Đạc  ▶ degrees, occurrence, time, counter for occurrences, consider, attitude",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "花 Hoa  ▶ flower",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  化 Hóa  ▶ change, take the form of, influence, enchant, delude, -ization",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "一 Nhất  ▶ one, one radical"
+                    ]
+                }
             },
             {
                 "hiragana": "いっぺんに",
                 "kanji": "いっぺんに",
                 "vietnamese": "ngay lập tức",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "たまったしゅくだいをいっぺんにかたづける",
                 "kanji": "たまった宿題をいっぺんに片付ける",
                 "vietnamese": "lập tức giải quyết đống bài tập còn tồn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "付 Phó  ▶ adhere, attach, refer to, append",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "宿 Túc, Tú  ▶ inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  佰 Bách  ▶ hundred, leader of 100 men, east-west path between paddies",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    百 Bách, Bá, Mạch  ▶ hundred",
+                        "      白 Bạch  ▶ white",
+                        "        日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "片 Phiến  ▶ one-sided, leaf, sheet, right-side kata radical",
+                        "題 Đề  ▶ topic, subject",
+                        "  是 Thị  ▶ just so, this, right, justice",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "      龰",
+                        "        卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "        人 Nhân  ▶ person",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "いっぺんにつかれがでた",
                 "kanji": "いっぺんに疲れが出た",
                 "vietnamese": "mệt bất thình lình",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "疲 Bì  ▶ exhausted, tire, weary",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  皮 Bì  ▶ pelt, skin, hide, leather, skin radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             }
         ]
     },
@@ -4259,308 +13640,757 @@ data_vocabulary = [
             {
                 "hiragana": "うっかり",
                 "kanji": "うっかり",
-                "vietnamese": "lơ đễnh; vô tâm",
-                "info": ""
+                "vietnamese": "lơ đễnh, vô tâm",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "しゅくだいをうっかりわすれる",
                 "kanji": "宿題をうっかり忘れる",
                 "vietnamese": "lỡ quên không làm bài tập",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "忘 Vong  ▶ forget",
+                        "  亡 Vong, Vô  ▶ deceased, the late, dying, perish",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "      匸 (匚) Hệ  ▶ hiding enclosure radical",
+                        "    匸 (匚) Hệ  ▶ hiding enclosure radical",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "宿 Túc, Tú  ▶ inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  佰 Bách  ▶ hundred, leader of 100 men, east-west path between paddies",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    百 Bách, Bá, Mạch  ▶ hundred",
+                        "      白 Bạch  ▶ white",
+                        "        日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "題 Đề  ▶ topic, subject",
+                        "  是 Thị  ▶ just so, this, right, justice",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "      龰",
+                        "        卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "        人 Nhân  ▶ person",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "うっかりする",
                 "kanji": "うっかりする",
-                "vietnamese": "lơ đễnh; vô tâm",
-                "info": ""
+                "vietnamese": "lơ đễnh, vô tâm",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "すっかり",
                 "kanji": "すっかり",
-                "vietnamese": "hoàn toàn; toàn bộ",
-                "info": ""
+                "vietnamese": "hoàn toàn, toàn bộ",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "すっかりわすれた",
                 "kanji": "すっかり忘れた",
                 "vietnamese": "quên sạch",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "忘 Vong  ▶ forget",
+                        "  亡 Vong, Vô  ▶ deceased, the late, dying, perish",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "      匸 (匚) Hệ  ▶ hiding enclosure radical",
+                        "    匸 (匚) Hệ  ▶ hiding enclosure radical",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "がっかり（する）",
                 "kanji": "がっかり（する）",
-                "vietnamese": "thất vọng; chán nản",
-                "info": ""
+                "vietnamese": "thất vọng, chán nản",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "しけんにおちてがっかりする",
                 "kanji": "試験に落ちてがっかりする",
                 "vietnamese": "thất vọng thì thi trượt",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "落 Lạc  ▶ fall, drop, come down, village, hamlet",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  洛 Lạc  ▶ Kyoto, the capital",
+                        "    氵 (水) Thủy  ▶ water, water radical",
+                        "    各 Các  ▶ each, every, either",
+                        "      夂 Tri  ▶ late, delayed, winter radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "試 Thí  ▶ test, try, attempt, experiment, ordeal",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  式 Thức  ▶ style, ceremony, rite, function, method, system, form, expression",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "    工 Công  ▶ craft, construction, katakana e radical",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "験 Nghiệm  ▶ verification, effect, testing",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "  㑒 (僉)",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "やっぱり",
                 "kanji": "やっぱり",
                 "vietnamese": "quả là, vẫn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "やはり",
                 "kanji": "やはり",
                 "vietnamese": "quả là, vẫn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "やっぱりおもったとおりだ",
                 "kanji": "やっぱり思ったとおりだ",
                 "vietnamese": "quả là đúng như tôi đã nghĩ",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "思 Tư, Tứ, Tai  ▶ think",
+                        "  田 Điền  ▶ rice field, rice paddy",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "１８さいといってもやはりまだこどもだ",
                 "kanji": "１８歳といってもやはりまだ子どもだ",
                 "vietnamese": "nói 18 tuổi đấy chứ vẫn còn trẻ con",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "歳 Tuế, Tuổi  ▶ year-end, age, occasion, opportunity",
+                        "  止 Chỉ  ▶ stop, halt",
+                        "    卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  戌 (戍) Tuất  ▶ sign of the dog, 7-9PM, eleventh sign of Chinese zodiac",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  小 Tiểu  ▶ little, small",
+                        "  戌 (戍) Tuất  ▶ sign of the dog, 7-9PM, eleventh sign of Chinese zodiac",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しっかり（する）",
                 "kanji": "しっかり（する）",
-                "vietnamese": "chắc chắn; ổn định",
-                "info": ""
+                "vietnamese": "chắc chắn, ổn định",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "しっかりしたこども",
                 "kanji": "しっかりした子ども",
                 "vietnamese": "đứa trẻ chín chắn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+                    ]
+                }
             },
             {
                 "hiragana": "しっかりしろ",
                 "kanji": "しっかりしろ",
                 "vietnamese": "vững vàng lên",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "すっきり（する）",
                 "kanji": "すっきり（する）",
-                "vietnamese": "sảng khoái; gọn gàng",
-                "info": ""
+                "vietnamese": "sảng khoái, gọn gàng",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "へやがすっきりする",
                 "kanji": "部屋がすっきりする",
                 "vietnamese": "phòng sạch sẽ gọn gàng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "部 Bộ  ▶ section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+                        "  咅 Phẫu, Phôi, Phủ, Thấu  ▶ to spit out",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻏ (邑)",
+                        "屋 Ốc  ▶ roof, house, shop, dealer, seller",
+                        "  尸 Thi  ▶ corpse, remains, flag radical",
+                        "  至 Chí  ▶ climax, arrive, proceed, reach, attain, result in",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey"
+                    ]
+                }
             },
             {
                 "hiragana": "きぶんがすっきりする",
                 "kanji": "気分がすっきりする",
                 "vietnamese": "tinh thần sảng khoái",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "分 Phân, Phận  ▶ part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100",
+                        "  八 Bát  ▶ eight, eight radical",
+                        "  刀 Đao  ▶ sword, saber, knife",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "さっぱり（する）",
                 "kanji": "さっぱり（する）",
-                "vietnamese": "thoải mái; toàn bộ",
-                "info": ""
+                "vietnamese": "thoải mái, toàn bộ",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ふろにはいってさっぱりする",
                 "kanji": "風呂に入ってさっぱりする",
                 "vietnamese": "tắm xong thấy thoải mái",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "呂 Lữ, Lã  ▶ spine, backbone",
+                        "  口 Khẩu  ▶ mouth",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "風 Phong  ▶ wind, air, style, manner",
+                        "  几 Kỷ  ▶ table, table enclosure, table or windy radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    虫 Trùng  ▶ insect, bug, temper",
+                        "      中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "        口 Khẩu  ▶ mouth",
+                        "        丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "入 Nhập  ▶ enter, insert"
+                    ]
+                }
             },
             {
                 "hiragana": "このもんだいはさっぱりわからない",
                 "kanji": "この問題はさっぱりわからない",
                 "vietnamese": "vấn đề này hoàn toàn không hiểu",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "題 Đề  ▶ topic, subject",
+                        "  是 Thị  ▶ just so, this, right, justice",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "      龰",
+                        "        卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "        人 Nhân  ▶ person",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "問 Vấn  ▶ question, ask, problem",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "ぐっすり",
                 "kanji": "ぐっすり",
-                "vietnamese": "trạng thái ngủ say; ngủ ngon",
-                "info": ""
+                "vietnamese": "trạng thái ngủ say, ngủ ngon",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ぐっすりねむる",
                 "kanji": "ぐっすり眠る",
                 "vietnamese": "ngủ say",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "眠 Miên  ▶ sleep, die, sleepy",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  民 Dân  ▶ people, nation, subjects",
+                        "    氏 Thị, Chi  ▶ family name, surname, clan"
+                    ]
+                }
             },
             {
                 "hiragana": "にっこり（する）",
                 "kanji": "にっこり（する）",
                 "vietnamese": "mỉm cười",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "にっこりわらう",
                 "kanji": "にっこり笑う",
                 "vietnamese": "cười mỉm",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "笑 Tiếu  ▶ laugh",
+                        "  竹 Trúc  ▶ bamboo",
+                        "  夭 Yêu, Yểu  ▶ early death, calamity",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "にこにこ（する）",
                 "kanji": "にこにこ（する）",
                 "vietnamese": "mỉm cười",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "にこにこわらう",
                 "kanji": "にこにこ笑う",
                 "vietnamese": "cười mỉm",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "笑 Tiếu  ▶ laugh",
+                        "  竹 Trúc  ▶ bamboo",
+                        "  夭 Yêu, Yểu  ▶ early death, calamity",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "そっくり",
                 "kanji": "そっくり",
                 "vietnamese": "giống nhau như đúc",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "あのおやこはそっくりだ",
                 "kanji": "あの親子はそっくりだ",
                 "vietnamese": "mẹ con giống nhau như đúc",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "親 Thân, Thấn  ▶ parent, intimacy, relative, familiarity, dealer (cards)",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    儿 Nhân  ▶ legs radical",
+                        "子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+                    ]
+                }
             },
             {
                 "hiragana": "はっきり（する）",
                 "kanji": "はっきり（する）",
-                "vietnamese": "rõ ràng; rành rọt",
-                "info": ""
+                "vietnamese": "rõ ràng, rành rọt",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "やまがはっきりみえる",
                 "kanji": "山がはっきり見える",
                 "vietnamese": "nhìn thấy rõ núi",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  儿 Nhân  ▶ legs radical",
+                        "山 San, Sơn  ▶ mountain"
+                    ]
+                }
             },
             {
                 "hiragana": "ぼんやり",
                 "kanji": "ぼんやり",
-                "vietnamese": "thong thả; thong dong",
-                "info": ""
+                "vietnamese": "thong thả, thong dong",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "のんびり",
                 "kanji": "のんびり",
-                "vietnamese": "thong thả; thong dong",
-                "info": ""
+                "vietnamese": "thong thả, thong dong",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "のんびりすごす",
                 "kanji": "のんびり過ごす",
                 "vietnamese": "ăn không ngồi rồi",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "過 Quá, Qua  ▶ overdo, exceed, go beyond, error",
+                        "  咼 Oa, Oai, Qua, Quai, Òa, Ua, Ùa, Ủa, Ụa  ▶ crooked mouth, evil, dishonest",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "のんびりする",
                 "kanji": "のんびりする",
                 "vietnamese": "thư giãn, thong thả",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "きちんと（する）",
                 "kanji": "きちんと（する）",
-                "vietnamese": "chỉn chu; cẩn thận",
-                "info": ""
+                "vietnamese": "chỉn chu, cẩn thận",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ちゃんと（する）",
                 "kanji": "ちゃんと（する）",
-                "vietnamese": "cẩn thận; kỹ càng",
-                "info": ""
+                "vietnamese": "cẩn thận, kỹ càng",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ようふくをきちんと/ちゃんとたたむ",
                 "kanji": "洋服をきちんと/ちゃんとたたむ",
                 "vietnamese": "xếp quần áo chỉn chu",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "服 Phục  ▶ clothing, admit, obey, discharge",
+                        "  月 (肉) Nguyệt  ▶ month, moon",
+                        "    卩 Tiết  ▶ seal radical",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "洋 Dương  ▶ ocean, sea, foreign, Western style",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  羊 Dương  ▶ sheep",
+                        "    䒑   ▶ grass, straw, herbs, weeds"
+                    ]
+                }
             },
             {
                 "hiragana": "たいどをきちんとする/ちゃんとする",
                 "kanji": "態度をきちんとする/ちゃんとする",
                 "vietnamese": "thái độ đàng hoàng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "度 Độ, Đạc  ▶ degrees, occurrence, time, counter for occurrences, consider, attitude",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "態 Thái  ▶ attitude, condition, figure, appearance, voice (of verbs)",
+                        "  能 Năng, Nai, Nại  ▶ ability, talent, skill, capacity",
+                        "    䏍",
+                        "      厶 Khư  ▶ I, myself, katakana mu radical",
+                        "      月 Nguyệt  ▶ month, moon",
+                        "      匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "      匕 Chủy  ▶ spoon, spoon or katakana hi radical",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ふと",
                 "kanji": "ふと",
                 "vietnamese": "đột nhiên",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ふとおもいだす",
                 "kanji": "ふと思い出す",
                 "vietnamese": "đột nhiên nhớ về",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "思 Tư, Tứ, Tai  ▶ think",
+                        "  田 Điền  ▶ rice field, rice paddy",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "わざと",
                 "kanji": "わざと",
-                "vietnamese": "cố ý; cố tình",
-                "info": ""
+                "vietnamese": "cố ý, cố tình",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "わざとまける",
                 "kanji": "わざと負ける",
                 "vietnamese": "cố tình thua",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "負 Phụ  ▶ defeat, negative, -, minus, bear, owe, assume a responsibility",
+                        "  𠂊 (勹)",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ほっと（する）",
                 "kanji": "ほっと（する）",
                 "vietnamese": "yên tâm",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ははのびょうきがなおってほっとした",
                 "kanji": "母の病気が治ってほっとした",
                 "vietnamese": "mẹ hết bệnh nên nhẹ cả người",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "病 Bệnh  ▶ ill, sick",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  丙 Bính  ▶ third class, 3rd, 3rd calendar sign",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    内 Nạp, Nội, Nói, Nòi, Nồi, Nỗi, Nụi  ▶ inside, within, between, among, house, home",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      人 Nhân  ▶ person",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "母 Mẫu  ▶ mother",
+                        "  毋 Vô, Mưu  ▶ do not, must not, be not, mother radical",
+                        "  毋 Vô, Mưu  ▶ do not, must not, be not, mother radical",
+                        "治 Trì, Trị  ▶ reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  台 Thai, Đài, Di  ▶ pedestal, a stand, counter for machines and vehicles",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "じっと（する）",
                 "kanji": "じっと（する）",
                 "vietnamese": "cắn răng chịu đựng, chăm chú",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "じっとがまんする",
                 "kanji": "じっとがまんする",
                 "vietnamese": "cắn răng chịu đựng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "じっとみる",
                 "kanji": "じっと見る",
                 "vietnamese": "nhìm chằm chằm",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  儿 Nhân  ▶ legs radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ざっと",
                 "kanji": "ざっと",
-                "vietnamese": "qua loa; đại khái",
-                "info": ""
+                "vietnamese": "qua loa, đại khái",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ざっとそうじする",
                 "kanji": "ざっと掃除する",
                 "vietnamese": "dọn dẹp qua loa",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "掃 Tảo  ▶ sweep, brush",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  帚 Trửu  ▶ broom",
+                        "    ⺕ (彑)",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "除 Trừ  ▶ exclude, division (x/3), remove, abolish, cancel, except",
+                        "  ⻖ (阜)",
+                        "  余 Dư  ▶ too much, myself, surplus, other, remainder",
+                        "    人 Nhân  ▶ person",
+                        "      小 Tiểu  ▶ little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "そっと（する）",
                 "kanji": "そっと（する）",
-                "vietnamese": "len lén; vụng trộm",
-                "info": ""
+                "vietnamese": "len lén, vụng trộm",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "そっとちかづく",
                 "kanji": "そっと近づく",
                 "vietnamese": "len lén tới gần",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "近 Cận, Cấn, Ký  ▶ near, early, akin, tantamount",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical",
+                        "  ⻌ (辶)"
+                    ]
+                }
             }
         ]
     },
@@ -4570,278 +14400,845 @@ data_vocabulary = [
             {
                 "hiragana": "どきどき（する）",
                 "kanji": "どきどき（する）",
-                "vietnamese": "hồi hộp; tim đập thình thịch",
-                "info": ""
+                "vietnamese": "hồi hộp, tim đập thình thịch",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "むねがどきどきする",
                 "kanji": "胸がどきどきする",
-                "vietnamese": "hồi hộp; tim đập thình thịch",
-                "info": ""
+                "vietnamese": "hồi hộp, tim đập thình thịch",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "胸 Hung  ▶ bosom, breast, chest, heart, feelings",
+                        "  月 (肉) Nguyệt  ▶ month, moon",
+                        "  匈 Hung  ▶ turmoil, Hungary",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    凶 Hung  ▶ villain, evil, bad luck, disaster",
+                        "      乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "めんせつでどきどきする",
                 "kanji": "面接でどきどきする",
                 "vietnamese": "hồi hộp trong cuộc phỏng vấn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "接 Tiếp  ▶ touch, contact, adjoin, piece together",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  妾 Thiếp  ▶ concubine",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "面 Diện  ▶ mask, face, features, surface"
+                    ]
+                }
             },
             {
                 "hiragana": "いらいら（する）",
                 "kanji": "いらいら（する）",
-                "vietnamese": "sốt ruột; nóng ruột",
-                "info": ""
+                "vietnamese": "sốt ruột, nóng ruột",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "じゅうたいでいらいらする",
                 "kanji": "渋滞でいらいらする",
                 "vietnamese": "nóng ruột do kẹt xe",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "渋 Sáp  ▶ astringent, hesitate, reluctant, have diarrhea",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "    止 Chỉ  ▶ stop, halt",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "      冫 Băng  ▶ two-stroke water radical or ice radical",
+                        "滞 Trệ  ▶ stagnate, be delayed, overdue, arrears",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  帯 Đái, Đới, Đai  ▶ sash, belt, obi, zone, region",
+                        "    丗 Tạp, Thế, Thay  ▶ thirty",
+                        "      卅 Tạp  ▶ thirty",
+                        "        廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "          廿 Nhập, Chấp  ▶ twenty",
+                        "            十 Thập  ▶ ten",
+                        "          川 (巛) Xuyên  ▶ stream, river, river or three-stroke river radical",
+                        "            丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "              廿 Nhập, Chấp  ▶ twenty",
+                        "            十 Thập  ▶ ten",
+                        "              廿 Nhập, Chấp  ▶ twenty",
+                        "        川 (巛) Xuyên  ▶ stream, river, river or three-stroke river radical",
+                        "      廿 Nhập, Chấp  ▶ twenty",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "      巾 Cân  ▶ towel, hanging scroll, width, cloth radical"
+                    ]
+                }
             },
             {
                 "hiragana": "はきはき（する）",
                 "kanji": "はきはき（する）",
-                "vietnamese": "rõ ràng; sáng suốt",
-                "info": ""
+                "vietnamese": "rõ ràng, sáng suốt",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "はきはきとこたえる",
                 "kanji": "はきはき（と）答える",
                 "vietnamese": "trả lời rõ ràng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "答 Đáp  ▶ solution, answer",
+                        "  竹 Trúc  ▶ bamboo",
+                        "  合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "かのじょははきはきしてかんじがいい",
                 "kanji": "彼女ははきはきして感じがいい",
                 "vietnamese": "cô ấy lanh lợi dễ thương (tính tình)",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "感 Cảm  ▶ emotion, feeling, sensation",
+                        "  咸 Hàm  ▶ all, same",
+                        "    戍 (戌) Thú  ▶ protection",
+                        "      厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "          厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    戍 (戌) Thú  ▶ protection",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "          丶 Chủ  ▶ dot, tick or dot radical",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "彼 Bỉ  ▶ he, that, the",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  皮 Bì  ▶ pelt, skin, hide, leather, skin radical",
+                        "女 Nữ, Nứ, Nhữ  ▶ woman, female"
+                    ]
+                }
             },
             {
                 "hiragana": "ぶつぶつ",
                 "kanji": "ぶつぶつ",
-                "vietnamese": "làu bàu; lầm bầm",
-                "info": ""
+                "vietnamese": "làu bàu, lầm bầm",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ぶつぶつもんくをいう",
                 "kanji": "ぶつぶつ文句を言う",
                 "vietnamese": "lầm bầm than phiền",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "句 Cú, Câu, Cấu  ▶ phrase, clause, sentence, passage, paragraph, counter for haiku",
+                        "  勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "言 Ngôn, Ngân  ▶ say, word",
+                        "  口 Khẩu  ▶ mouth",
+                        "文 Văn, Vấn  ▶ sentence, literature, style, art, decoration, figures, plan, literary radical",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue"
+                    ]
+                }
             },
             {
                 "hiragana": "かれはなにかぶつぶついっている",
                 "kanji": "彼は何かぶつぶつ言っている",
                 "vietnamese": "anh ta đang lầm bầm cái gì ấy",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "言 Ngôn, Ngân  ▶ say, word",
+                        "  口 Khẩu  ▶ mouth",
+                        "何 Hà  ▶ what",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  可 Khả, Khắc  ▶ can, passable, approval",
+                        "    丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "    丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "      亅 Quyết  ▶ feathered stick, barb radical",
+                        "彼 Bỉ  ▶ he, that, the",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  皮 Bì  ▶ pelt, skin, hide, leather, skin radical"
+                    ]
+                }
             },
             {
                 "hiragana": "うろうろ（する）",
                 "kanji": "うろうろ（する）",
-                "vietnamese": "quanh quẩn; đi tha thẩn",
-                "info": ""
+                "vietnamese": "quanh quẩn, đi tha thẩn",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "へんなおとこがうろうろしている",
                 "kanji": "変な男がうろうろしている",
                 "vietnamese": "kẻ khả nghi đi quanh quẩn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "男 Nam  ▶ male",
+                        "  田 Điền  ▶ rice field, rice paddy",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "変 Biến, Bén, Biếng  ▶ unusual, change, strange",
+                        "  亦 Diệc  ▶ also, again",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      亅 Quyết  ▶ feathered stick, barb radical",
+                        "  夂 Tri  ▶ late, delayed, winter radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ぶらぶら（する）",
                 "kanji": "ぶらぶら（する）",
                 "vietnamese": "quanh quẩn không làm gì",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "まちをぶらぶらする",
                 "kanji": "街をぶらぶらする",
                 "vietnamese": "đi quanh quẩn thành phố",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "街 Nhai  ▶ boulevard, street, town",
+                        "  行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "    彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "      亻 (人)   ▶ radical number 9",
+                        "  圭 Khuê  ▶ square jewel, corner, angle, edge",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank"
+                    ]
+                }
             },
             {
                 "hiragana": "（ものが）ぶらぶらゆれる",
                 "kanji": "（物が）ぶらぶらゆれる",
                 "vietnamese": "long thong, đu đưa (vật)",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ぎりぎり",
                 "kanji": "ぎりぎり",
                 "vietnamese": "sát nút, xem xém",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ぎりぎりでさいしゅうでんしゃにまにあった",
                 "kanji": "ぎりぎりで最終電車に間に合った",
                 "vietnamese": "vừa kịp chuyến tàu cuối",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "間 Gian  ▶ interval, space",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "終 Chung  ▶ end, finish",
+                        "  糸 Mịch  ▶ thread",
+                        "  冬 Đông  ▶ winter",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    冫 (氷) Băng  ▶ two-stroke water radical or ice radical",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "最 Tối  ▶ utmost, most, extreme",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "  取 Thủ  ▶ take, fetch, take up",
+                        "    耳 Nhĩ  ▶ ear",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "車 Xa  ▶ car",
+                        "電 Điện  ▶ electricity",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "しめきりぎりぎりにがんしょをだした",
                 "kanji": "締め切りぎりぎりに願書をた",
                 "vietnamese": "nộp đơn sát ngày cuối",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "願 Nguyện  ▶ petition, request, vow, wish, hope",
+                        "  原 Nguyên  ▶ meadow, original, primitive, field, plain, prairie, tundra, wilderness",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    CDP-8BC4",
+                        "      白 Bạch  ▶ white",
+                        "        日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "      小 Tiểu  ▶ little, small",
+                        "  頁 Hiệt  ▶ page, leaf",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "締 Đề  ▶ tighten, tie, shut, lock, fasten",
+                        "  糸 Mịch  ▶ thread",
+                        "  帝 Đế  ▶ sovereign, the emperor, god, creator",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "書 Thư  ▶ write",
+                        "  聿 Duật  ▶ brush, finally, self, relate, follow, here, fast, writing brush radical",
+                        "    ⺕ (彑)",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "切 Thiết, Thế  ▶ cut, cutoff, be sharp",
+                        "  七 Thất  ▶ seven",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  刀 Đao  ▶ sword, saber, knife"
+                    ]
+                }
             },
             {
                 "hiragana": "ぴかぴか",
                 "kanji": "ぴかぴか",
-                "vietnamese": "lấp lánh; nhấp nháy; sáng loáng",
-                "info": ""
+                "vietnamese": "lấp lánh, nhấp nháy, sáng loáng",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "くつをぴかぴかにみがく",
                 "kanji": "靴をぴかぴかにみがく",
                 "vietnamese": "đánh giày bóng loáng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "靴 Ngoa  ▶ shoes",
+                        "  革 Cách, Cức  ▶ leather, skin, reform, become serious",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "  化 Hóa  ▶ change, take the form of, influence, enchant, delude, -ization",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical"
+                    ]
+                }
             },
             {
                 "hiragana": "のろのろ",
                 "kanji": "のろのろ",
-                "vietnamese": "chầm chậm; chậm chạp",
-                "info": ""
+                "vietnamese": "chầm chậm, chậm chạp",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "でんしゃがのろのろはしっている",
                 "kanji": "電車がのろのろ走っている",
                 "vietnamese": "tàu chạy chầm chậm",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "走 Tẩu  ▶ run",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  龰",
+                        "車 Xa  ▶ car",
+                        "電 Điện  ▶ electricity",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "ぺらぺら",
                 "kanji": "ぺらぺら",
-                "vietnamese": "lưu loát; liền tù tì; trôi chả",
-                "info": ""
+                "vietnamese": "lưu loát, liền tù tì, trôi chả",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ひみつをぺらぺらしゃべる",
                 "kanji": "秘密をぺらぺらしゃべる",
                 "vietnamese": "nói sạch hết bí mật",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "秘 Bí  ▶ secret, conceal",
+                        "  禾 Hòa  ▶ two-branch tree radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  必 Tất  ▶ invariably, certain, inevitable",
+                        "    心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "密 Mật  ▶ secrecy, density (pop), minuteness, carefulness",
+                        "  宓 Mật, Phục  ▶ quiet, silent, in good health",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    必 Tất  ▶ invariably, certain, inevitable",
+                        "      心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "  山 San, Sơn  ▶ mountain"
+                    ]
+                }
             },
             {
                 "hiragana": "たなかさんはえいごがぺらぺら",
                 "kanji": "田中さんは英語がぺらぺらだ",
                 "vietnamese": "anh Tanaka nói tiếng Anh lưu loát",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "語 Ngữ, Ngứ  ▶ word, speech, language",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  吾 Ngô  ▶ I, my, our, one's own",
+                        "    五 Ngũ  ▶ five",
+                        "      二 Nhị  ▶ two, two radical",
+                        "      二 Nhị  ▶ two, two radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "  口 Khẩu  ▶ mouth",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "英 Anh  ▶ England, English, hero, outstanding, calyx",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  央 Ương  ▶ center, middle",
+                        "    大 Đại, Thái  ▶ large, big",
+                        "田 Điền  ▶ rice field, rice paddy"
+                    ]
+                }
             },
             {
                 "hiragana": "ぺらぺらのかみ",
                 "kanji": "ぺらぺらの紙",
                 "vietnamese": "tờ giấy mỏng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "紙 Chỉ  ▶ paper",
+                        "  糸 Mịch  ▶ thread",
+                        "  氏 Thị, Chi  ▶ family name, surname, clan"
+                    ]
+                }
             },
             {
                 "hiragana": "ぺこぺこ",
                 "kanji": "ぺこぺこ",
                 "vietnamese": "trạng thái đói meo mốc",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "おなかがぺこぺこだ",
                 "kanji": "おなかがぺこぺこだ",
                 "vietnamese": "đói meo mốc",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ますます（する）",
                 "kanji": "ますます（する）",
                 "vietnamese": "ngày càng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "ぶっかはますますあがるだろう",
                 "kanji": "物価はますます上がるだろう",
                 "vietnamese": "hình như giá ngày càng tăng thì phải",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "価 Giá, Giới  ▶ value, price",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  覀 (襾)   ▶ variant of radical 146"
+                    ]
+                }
             },
             {
                 "hiragana": "だんだん",
                 "kanji": "だんだん",
                 "vietnamese": "dần dần",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "だんだんさむくなりますね",
                 "kanji": "だんだん寒くなりますね",
                 "vietnamese": "trời dần trở lạnh nhỉ",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "寒 Hàn  ▶ cold",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    三 Tam, Tám  ▶ three",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    三 Tam, Tám  ▶ three",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      一 Nhất  ▶ one, one radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    冫 (氷) Băng  ▶ two-stroke water radical or ice radical"
+                    ]
+                }
             },
             {
                 "hiragana": "どんどん",
                 "kanji": "どんどん",
-                "vietnamese": "nhanh chóng; mau lẹ",
-                "info": ""
+                "vietnamese": "nhanh chóng, mau lẹ",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "かれのにほんごはどんどんじょうたつしている",
                 "kanji": "彼の日本語はどんどん上達している",
                 "vietnamese": "tiếng Nhật của anh ấy tiến bộ nhanh chóng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "彼 Bỉ  ▶ he, that, the",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  皮 Bì  ▶ pelt, skin, hide, leather, skin radical",
+                        "本 Bổn, Bản  ▶ book, present, main, origin, true, real, counter for long cylindrical things",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "語 Ngữ, Ngứ  ▶ word, speech, language",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  吾 Ngô  ▶ I, my, our, one's own",
+                        "    五 Ngũ  ▶ five",
+                        "      二 Nhị  ▶ two, two radical",
+                        "      二 Nhị  ▶ two, two radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "達 Đạt  ▶ accomplished, reach, arrive, attain",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    羊 Dương  ▶ sheep",
+                        "      䒑   ▶ grass, straw, herbs, weeds",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "そろそろ",
                 "kanji": "そろそろ",
                 "vietnamese": "sắp sửa",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "そろそろはじめましょう",
                 "kanji": "そろそろ始めましょう",
                 "vietnamese": "nào bắt đầu thôi",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "始 Thủy, Thí  ▶ commence, begin",
+                        "  女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "  台 Thai, Đài, Di  ▶ pedestal, a stand, counter for machines and vehicles",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "もともと",
                 "kanji": "もともと",
-                "vietnamese": "vốn dĩ; nguyên là; vốn là",
-                "info": ""
+                "vietnamese": "vốn dĩ, nguyên là, vốn là",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "かれはもともときのよわいひとだった",
                 "kanji": "彼はもともと気の弱い人だった",
                 "vietnamese": "anh ta vốn dĩ là người nhút nhát",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "人 Nhân  ▶ person",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "彼 Bỉ  ▶ he, that, the",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  皮 Bì  ▶ pelt, skin, hide, leather, skin radical",
+                        "弱 Nhược  ▶ weak, frail",
+                        "  弓 Cung  ▶ bow, bow (archery, violin)",
+                        "    冫 Băng  ▶ two-stroke water radical or ice radical",
+                        "    弓 Cung  ▶ bow, bow (archery, violin)",
+                        "    冫 Băng  ▶ two-stroke water radical or ice radical"
+                    ]
+                }
             },
             {
                 "hiragana": "このとけいはもともとやすかったから、こわれてもしかたがない",
                 "kanji": "この時計はもともと安かったから、こわれても仕方がない",
                 "vietnamese": "đồng hồ này vốn dĩ rẻ hư cũng là lẽ thường",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "方 Phương  ▶ direction, person, alternative",
+                        "  亠 Đầu  ▶ kettle lid radical",
+                        "安 An  ▶ relax, cheap, low, quiet, rested, contented, peaceful",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "計 Kế, Kê  ▶ plot, plan, scheme, measure",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  十 Thập  ▶ ten",
+                        "仕 Sĩ  ▶ attend, doing, official, serve",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "時 Thì, Thời  ▶ time, hour",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "たまたま",
                 "kanji": "たまたま",
-                "vietnamese": "thi thoảng; đôi khi",
-                "info": ""
+                "vietnamese": "thi thoảng, đôi khi",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "たまたまこうこうじだいのゆうじんにあった",
                 "kanji": "たまたま高校時代の友人に会った",
                 "vietnamese": "thi thoảng có gặp bạn cấp ba",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "代 Đại  ▶ substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  弋 Dặc  ▶ piling, ceremony radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "友 Hữu  ▶ friend",
+                        "  𠂇",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "校 Giáo, Hiệu, Hào  ▶ exam, school, printing, proof, correction",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  交 Giao  ▶ mingle, mixing, association, coming & going",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    父 Phụ, Phủ  ▶ father",
+                        "会 Cối, Hội, Hụi  ▶ meeting, meet, party, association, interview, join",
+                        "  人 Nhân  ▶ person",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "人 Nhân  ▶ person",
+                        "高 Cao  ▶ tall, high, expensive",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  冋 Quynh  ▶ desert, border prairie, the 1st form is radical 13",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "時 Thì, Thời  ▶ time, hour",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "まあまあ",
                 "kanji": "まあまあ",
-                "vietnamese": "tàm tạm; cũng được",
-                "info": ""
+                "vietnamese": "tàm tạm, cũng được",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "しけんのけっかはまあまあだった",
                 "kanji": "試験の結果はまあまあだった",
                 "vietnamese": "kết quả thi cũng tạm",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "試 Thí  ▶ test, try, attempt, experiment, ordeal",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  式 Thức  ▶ style, ceremony, rite, function, method, system, form, expression",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "    工 Công  ▶ craft, construction, katakana e radical",
+                        "    弋 Dặc  ▶ piling, ceremony radical",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "果 Quả  ▶ fruit, reward, carry out, achieve, complete, end, finish, succeed",
+                        "  田 Điền  ▶ rice field, rice paddy",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "験 Nghiệm  ▶ verification, effect, testing",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "  㑒 (僉)",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      人 Nhân  ▶ person",
+                        "結 Kết  ▶ tie, bind, contract, join, organize, do up hair, fasten",
+                        "  糸 Mịch  ▶ thread",
+                        "  吉 Cát  ▶ good luck, joy, congratulations",
+                        "    士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "さまざま",
                 "kanji": "さまざま",
-                "vietnamese": "nhiều loại; đa dạng",
-                "info": ""
+                "vietnamese": "nhiều loại, đa dạng",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "さまざまなしょうひん",
                 "kanji": "さまざまな商品",
                 "vietnamese": "nhiều loại sản phẩm",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "商 Thương  ▶ make a deal, selling, dealing in, merchant",
+                        "  立 Lập  ▶ stand up, rise, set up, erect",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "  冏 Quýnh  ▶ light, clear, bright",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "品 Phẩm  ▶ goods, refinement, dignity, article, counter for meal courses",
+                        "  口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             }
         ]
     },
@@ -4852,211 +15249,780 @@ data_vocabulary = [
                 "hiragana": "りそうのひとにであう",
                 "kanji": "理想の人に出会う",
                 "vietnamese": "tình cờ gặp người lý tưởng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "想 Tưởng  ▶ idea, thought, conception, think",
+                        "  相 Tương, Tướng  ▶ inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy",
+                        "    木 Mộc  ▶ tree, wood",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "会 Cối, Hội, Hụi  ▶ meeting, meet, party, association, interview, join",
+                        "  人 Nhân  ▶ person",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "理 Lý  ▶ logic, arrangement, reason, justice, truth",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "  里 Lý  ▶ ri, village, parent's home, league",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "人 Nhân  ▶ person"
+                    ]
+                }
             },
             {
                 "hiragana": "であい",
                 "kanji": "出会い",
                 "vietnamese": "tình cờ gặp",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "会 Cối, Hội, Hụi  ▶ meeting, meet, party, association, interview, join",
+                        "  人 Nhân  ▶ person",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical"
+                    ]
+                }
             },
             {
                 "hiragana": "きゃくをでむかえる",
                 "kanji": "客を出迎える",
                 "vietnamese": "đón tiếp khách",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "迎 Nghênh, Nghịnh  ▶ welcome, meet, greet",
+                        "  卬 Ngang, Cung, Ngàng  ▶ lofty, high, raise, high-priced",
+                        "    卩 Tiết  ▶ seal radical",
+                        "  ⻌ (辶)",
+                        "客 Khách  ▶ guest, visitor, customer, client",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "でむかえ",
                 "kanji": "出迎え",
                 "vietnamese": "đi đón",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "迎 Nghênh, Nghịnh  ▶ welcome, meet, greet",
+                        "  卬 Ngang, Cung, Ngàng  ▶ lofty, high, raise, high-priced",
+                        "    卩 Tiết  ▶ seal radical",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "みおくる",
                 "kanji": "見送る",
                 "vietnamese": "đưa tiễn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  儿 Nhân  ▶ legs radical",
+                        "送 Tống  ▶ escort, send",
+                        "  关   ▶ frontier pass, close, relation",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "みおくり",
                 "kanji": "見送り",
                 "vietnamese": "đưa tiễn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  儿 Nhân  ▶ legs radical",
+                        "送 Tống  ▶ escort, send",
+                        "  关   ▶ frontier pass, close, relation",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "そらをみあげる",
                 "kanji": "空を見上げる",
                 "vietnamese": "ngước nhìn bầu trời",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  儿 Nhân  ▶ legs radical",
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "空 Không, Khống, Khổng  ▶ empty, sky, void, vacant, vacuum",
+                        "  穴 Huyệt  ▶ hole, aperture, slit, cave, den",
+                        "    宀 Miên  ▶ shaped crown, katakana u radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  工 Công  ▶ craft, construction, katakana e radical"
+                    ]
+                }
             },
             {
                 "hiragana": "とおりをみおろす",
                 "kanji": "通りを",
                 "vietnamese": "nhìn xuống đường",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "通 Thông  ▶ traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "きゅうにたちどまる",
                 "kanji": "急に止まる",
                 "vietnamese": "đột ngột dừng lại",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "急 Cấp  ▶ hurry, emergency, sudden, steep",
+                        "    𠂊 (勹)",
+                        "    ⺕ (彑)",
+                        "  心 Tâm  ▶ heart, mind, spirit, heart radical",
+                        "止 Chỉ  ▶ stop, halt",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ソファーからたちあがる",
                 "kanji": "ソファーから立ち上がる",
                 "vietnamese": "đứng lên khỏi ghế sopha",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "立 Lập  ▶ stand up, rise, set up, erect",
+                        "  亠 Đầu  ▶ kettle lid radical"
+                    ]
+                }
             },
             {
                 "hiragana": "てらのまえをとおりかかる",
                 "kanji": "寺の前を",
                 "vietnamese": "đi qua chùa",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "前 Tiền  ▶ in front, before",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "    刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "寺 Tự  ▶ Buddhist temple",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "ゆうびんきょくをとおりすぎる",
                 "kanji": "郵便局を通り過ぎる",
                 "vietnamese": "đi ngang qua bưu điện",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "便 Tiện  ▶ convenience, facility, excrement, feces, letter, chance",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  更 Canh, Cánh  ▶ grow late, night watch, sit up late, of course, renew, renovate, again, more and more, further",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "過 Quá, Qua  ▶ overdo, exceed, go beyond, error",
+                        "  咼 Oa, Oai, Qua, Quai, Òa, Ua, Ùa, Ủa, Ụa  ▶ crooked mouth, evil, dishonest",
+                        "    冂 Quynh  ▶ upside-down box radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "  ⻌ (辶)",
+                        "局 Cục  ▶ bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment",
+                        "  尸 Thi  ▶ corpse, remains, flag radical",
+                        "  句 Cú, Câu, Cấu  ▶ phrase, clause, sentence, passage, paragraph, counter for haiku",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "      尸 Thi  ▶ corpse, remains, flag radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "郵 Bưu  ▶ mail, stagecoach stop",
+                        "  垂 Thùy  ▶ droop, suspend, hang, slouch",
+                        "    千 Thiên  ▶ thousand",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "      千 Thiên  ▶ thousand",
+                        "        十 Thập  ▶ ten",
+                        "  ⻏ (邑)",
+                        "通 Thông  ▶ traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "となりのひとにはなしかける",
                 "kanji": "隣の人に話しかける",
                 "vietnamese": "bắt chuyện với người bên cạnh",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "人 Nhân  ▶ person",
+                        "隣 Lân, Lăn  ▶ neighboring",
+                        "  ⻖ (阜)",
+                        "  粦 Lân, Lấn, Lần, Rền  ▶ phosphorus",
+                        "    米 Mễ  ▶ rice, USA, metre",
+                        "    舛 Suyễn  ▶ dancing radical",
+                        "      夕 Tịch  ▶ evening",
+                        "      㐄",
+                        "話 Thoại  ▶ tale, talk",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  舌 Thiệt  ▶ tongue, reed, clapper",
+                        "    千 Thiên  ▶ thousand",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "たなかさんとはなしあう",
                 "kanji": "田中さんと話し合う",
                 "vietnamese": "bàn bạc với anh Tanaka",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "  口 Khẩu  ▶ mouth",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "話 Thoại  ▶ tale, talk",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  舌 Thiệt  ▶ tongue, reed, clapper",
+                        "    千 Thiên  ▶ thousand",
+                        "    口 Khẩu  ▶ mouth",
+                        "田 Điền  ▶ rice field, rice paddy"
+                    ]
+                }
             },
             {
                 "hiragana": "はなしあい",
                 "kanji": "話し合い",
                 "vietnamese": "bàn bạc",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "話 Thoại  ▶ tale, talk",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  舌 Thiệt  ▶ tongue, reed, clapper",
+                        "    千 Thiên  ▶ thousand",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "なかむらさんとしりあう",
                 "kanji": "中村さんと知り合う",
                 "vietnamese": "biết anh Nakamura",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "知 Tri  ▶ know, wisdom",
+                        "  矢 Thỉ  ▶ dart, arrow",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  口 Khẩu  ▶ mouth",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "村 Thôn  ▶ village, town",
+                        "  木 Mộc  ▶ tree, wood",
+                        "  寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "  口 Khẩu  ▶ mouth",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しりあい",
                 "kanji": "知り合い",
                 "vietnamese": "người quen",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "知 Tri  ▶ know, wisdom",
+                        "  矢 Thỉ  ▶ dart, arrow",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "えきでまちあわせる",
                 "kanji": "駅で待ち合わせる",
                 "vietnamese": "hẹn gặp ở ga",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "待 Đãi  ▶ wait, depend on",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "駅 Dịch  ▶ station",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "  尺 Xích  ▶ shaku, Japanese foot, measure, scale, rule",
+                        "    尸 Thi  ▶ corpse, remains, flag radical",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "まちあわせ",
                 "kanji": "待ち合わせ",
                 "vietnamese": "hẹn gặp",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "待 Đãi  ▶ wait, depend on",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "でんわでといあわせる",
                 "kanji": "電話で問い合わせる",
                 "vietnamese": "hỏi thăm qua điện thoại",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "問 Vấn  ▶ question, ask, problem",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  口 Khẩu  ▶ mouth",
+                        "話 Thoại  ▶ tale, talk",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  舌 Thiệt  ▶ tongue, reed, clapper",
+                        "    千 Thiên  ▶ thousand",
+                        "    口 Khẩu  ▶ mouth",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "電 Điện  ▶ electricity",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "といあわせ",
                 "kanji": "問い合わせ",
                 "vietnamese": "thẩm vấn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth",
+                        "問 Vấn  ▶ question, ask, problem",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "りょこうがいしゃにもうしこむ",
                 "kanji": "旅行会社に申し込む",
                 "vietnamese": "đặt chỗ du lịch cả công ty",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "行 Hành, Hạnh, Hàng, Hạng  ▶ going, journey, carry out, conduct, act, line, row, bank",
+                        "  彳 Sách  ▶ stop, linger, loiter, going man radical",
+                        "    亻 (人)   ▶ radical number 9",
+                        "申 Thân  ▶ have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "旅 Lữ  ▶ trip, travel",
+                        "  方 Phương  ▶ direction, person, alternative",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    𠂉",
+                        "    亻 (人)   ▶ radical number 9",
+                        "会 Cối, Hội, Hụi  ▶ meeting, meet, party, association, interview, join",
+                        "  人 Nhân  ▶ person",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "込 Liêu  ▶ crowded, mixture, in bulk, included, (kokuji)",
+                        "  入 Nhập  ▶ enter, insert",
+                        "  ⻌ (辶)",
+                        "社 Xã  ▶ company, firm, office, association, shrine",
+                        "  礻 (示) Kỳ, Thị, Kì  ▶ cult, showing radical",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey"
+                    ]
+                }
             },
             {
                 "hiragana": "もうしこみ",
                 "kanji": "申し込み",
                 "vietnamese": "đơn xin",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "申 Thân  ▶ have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "込 Liêu  ▶ crowded, mixture, in bulk, included, (kokuji)",
+                        "  入 Nhập  ▶ enter, insert",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "もうしこみをしめきる",
                 "kanji": "申し込みを",
                 "vietnamese": "hết hạn đăng ký",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "申 Thân  ▶ have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "込 Liêu  ▶ crowded, mixture, in bulk, included, (kokuji)",
+                        "  入 Nhập  ▶ enter, insert",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "しめきり",
                 "kanji": "締め切り",
                 "vietnamese": "hạn cuối",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "締 Đề  ▶ tighten, tie, shut, lock, fasten",
+                        "  糸 Mịch  ▶ thread",
+                        "  帝 Đế  ▶ sovereign, the emperor, god, creator",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "      冖 Mịch  ▶ wa-shaped crown radical",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "切 Thiết, Thế  ▶ cut, cutoff, be sharp",
+                        "  七 Thất  ▶ seven",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  刀 Đao  ▶ sword, saber, knife"
+                    ]
+                }
             },
             {
                 "hiragana": "もうしこみをうけつける",
                 "kanji": "申し込みを",
                 "vietnamese": "chấp nhận đơn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "申 Thân  ▶ have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "込 Liêu  ▶ crowded, mixture, in bulk, included, (kokuji)",
+                        "  入 Nhập  ▶ enter, insert",
+                        "  ⻌ (辶)"
+                    ]
+                }
             },
             {
                 "hiragana": "うけつけ",
                 "kanji": "受付",
                 "vietnamese": "quầy lễ tân",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "受 Thụ  ▶ accept, undergo, answer (phone), take, get, catch, receive",
+                        "    ⺤ (爪)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "付 Phó  ▶ adhere, attach, refer to, append",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "にもつをうけとる",
                 "kanji": "荷物を受け取る",
                 "vietnamese": "nhận lấy hành lý",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "受 Thụ  ▶ accept, undergo, answer (phone), take, get, catch, receive",
+                        "    ⺤ (爪)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "荷 Hà  ▶ baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  何 Hà  ▶ what",
+                        "    亻 (人)   ▶ radical number 9",
+                        "    可 Khả, Khắc  ▶ can, passable, approval",
+                        "      丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "        一 Nhất  ▶ one, one radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "      丁 Đinh, Chênh  ▶ street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",
+                        "        亅 Quyết  ▶ feathered stick, barb radical"
+                    ]
+                }
             },
             {
                 "hiragana": "うけとり",
                 "kanji": "受け取り",
-                "vietnamese": "biên nhận; biên lai",
-                "info": ""
+                "vietnamese": "biên nhận, biên lai",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "受 Thụ  ▶ accept, undergo, answer (phone), take, get, catch, receive",
+                        "    ⺤ (爪)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "でんちをとりかえる",
                 "kanji": "電池を取り替える",
                 "vietnamese": "thay pin",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "池 Trì  ▶ pond, cistern, pool, reservoir",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  也 Dã  ▶ to be (classical)",
+                        "    乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "替 Thế  ▶ exchange, spare, substitute, per-",
+                        "    夫 Phu, Phù  ▶ husband, man",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "    夫 Phu, Phù  ▶ husband, man",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "電 Điện  ▶ electricity",
+                        "  雨 Vũ, Vú  ▶ rain",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "よやくをとりけす",
                 "kanji": "予約を取り消す",
                 "vietnamese": "hủy cuộc hẹn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "予 Dư, Dữ  ▶ beforehand, previous, myself, I",
+                        "  マ",
+                        "  了 Liễu  ▶ complete, finish",
+                        "    亅 Quyết  ▶ feathered stick, barb radical",
+                        "約 Ước  ▶ promise, approximately, shrink",
+                        "  糸 Mịch  ▶ thread",
+                        "  勺 Chước, Thược  ▶ ladle, one tenth of a go, dip",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "消 Tiêu  ▶ extinguish, blow out, turn off, neutralize, cancel",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  肖 Tiếu, Tiêu  ▶ resemblance",
+                        "    ⺌ (小)",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "とりけし",
                 "kanji": "取り消し",
                 "vietnamese": "loại bỏ",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "消 Tiêu  ▶ extinguish, blow out, turn off, neutralize, cancel",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  肖 Tiếu, Tiêu  ▶ resemblance",
+                        "    ⺌ (小)",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "CDをとりだす",
                 "kanji": "CDを取り出す",
                 "vietnamese": "rút CD ra",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "こどもがとびだす",
                 "kanji": "子どもが出す",
-                "vietnamese": "trẻ con chạy ra; nhảy ra",
-                "info": ""
+                "vietnamese": "trẻ con chạy ra, nhảy ra",
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "プールにとびこむ",
                 "kanji": "プールに飛び込む",
                 "vietnamese": "nhảy vào hồ bơi",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "飛 Phi  ▶ fly, skip (pages), scatter",
+                        "  升 Thăng  ▶ measuring box, 1.8 liter",
+                        "    十 Thập  ▶ ten",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "      十 Thập  ▶ ten",
+                        "込 Liêu  ▶ crowded, mixture, in bulk, included, (kokuji)",
+                        "  入 Nhập  ▶ enter, insert",
+                        "  ⻌ (辶)"
+                    ]
+                }
             }
         ]
     },
@@ -5067,325 +16033,1119 @@ data_vocabulary = [
                 "hiragana": "だいがくをでる",
                 "kanji": "大学を出る",
                 "vietnamese": "tốt nghiệp đại học",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "学 Học  ▶ study, learning, science",
+                        "    ⺍ (つ)",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "大 Đại, Thái  ▶ large, big"
+                    ]
+                }
             },
             {
                 "hiragana": "そつぎょうする",
                 "kanji": "卒業する",
                 "vietnamese": "tốt nghiệp",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "卒 Tốt, Tuất, Thốt  ▶ graduate, soldier, private, die",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    从 Tòng  ▶ two people",
+                        "      人 Nhân  ▶ person",
+                        "      人 Nhân  ▶ person",
+                        "  十 Thập  ▶ ten",
+                        "業 Nghiệp  ▶ business, vocation, arts, performance",
+                        "  业",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "    羊 Dương  ▶ sheep",
+                        "    木 Mộc  ▶ tree, wood",
+                        "      羊 Dương  ▶ sheep"
+                    ]
+                }
             },
             {
                 "hiragana": "かいぎにでる",
                 "kanji": "会議に出る",
                 "vietnamese": "tham gia họp",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "議 Nghị  ▶ deliberation, consultation, debate, consideration",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  義 Nghĩa  ▶ righteousness, justice, morality, honor, loyalty, meaning",
+                        "    羊 Dương  ▶ sheep",
+                        "      䒑   ▶ grass, straw, herbs, weeds",
+                        "    我 Ngã  ▶ ego, I, selfish, our, oneself",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "      亅 Quyết  ▶ feathered stick, barb radical",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "          丶 Chủ  ▶ dot, tick or dot radical",
+                        "会 Cối, Hội, Hụi  ▶ meeting, meet, party, association, interview, join",
+                        "  人 Nhân  ▶ person",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しゅっせきする",
                 "kanji": "出席する",
                 "vietnamese": "tham dự",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "席 Tịch  ▶ seat, mat, occasion, place",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しょくじがでる",
                 "kanji": "食事が出る",
                 "vietnamese": "đồ ăn được dọn ra",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "事 Sự  ▶ matter, thing, fact, business, reason, possibly",
+                        "  口 Khẩu  ▶ mouth",
+                        "  ⺕ (彑)",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "食 Thực, Tự  ▶ eat, food",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しょくじをだす",
                 "kanji": "食事を出す",
                 "vietnamese": "dọn đồ ăn ra",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "事 Sự  ▶ matter, thing, fact, business, reason, possibly",
+                        "  口 Khẩu  ▶ mouth",
+                        "  ⺕ (彑)",
+                        "  亅 Quyết  ▶ feathered stick, barb radical",
+                        "食 Thực, Tự  ▶ eat, food",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "けつろんがでる",
                 "kanji": "結論が出る",
                 "vietnamese": "kết luận được đưa ra",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "論 Luận, Luân  ▶ argument, discourse",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  侖 Lôn  ▶ think, be methodical",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      冊 Sách, Sạch  ▶ tome, counter for books, volume",
+                        "        冂 Quynh  ▶ upside-down box radical",
+                        "        廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "          十 Thập  ▶ ten",
+                        "          丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "          十 Thập  ▶ ten",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "結 Kết  ▶ tie, bind, contract, join, organize, do up hair, fasten",
+                        "  糸 Mịch  ▶ thread",
+                        "  吉 Cát  ▶ good luck, joy, congratulations",
+                        "    士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "けつろんをだす",
                 "kanji": "結論を出す",
                 "vietnamese": "đưa ra kết luận",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "論 Luận, Luân  ▶ argument, discourse",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  侖 Lôn  ▶ think, be methodical",
+                        "    人 Nhân  ▶ person",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      冊 Sách, Sạch  ▶ tome, counter for books, volume",
+                        "        冂 Quynh  ▶ upside-down box radical",
+                        "        廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "          十 Thập  ▶ ten",
+                        "          丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "          十 Thập  ▶ ten",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "結 Kết  ▶ tie, bind, contract, join, organize, do up hair, fasten",
+                        "  糸 Mịch  ▶ thread",
+                        "  吉 Cát  ▶ good luck, joy, congratulations",
+                        "    士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "げんきがでる",
                 "kanji": "元気が出る",
                 "vietnamese": "cảm thấy khỏe khoắn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "元 Nguyên  ▶ beginning, former time, origin",
+                        "  二 Nhị  ▶ two, two radical",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "げんきをだす",
                 "kanji": "元気を出す",
                 "vietnamese": "làm cho khỏe lên",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "元 Nguyên  ▶ beginning, former time, origin",
+                        "  二 Nhị  ▶ two, two radical",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しんせいひんがでる",
                 "kanji": "新製品が出る",
                 "vietnamese": "sản phẩm mới ra thị trường",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "品 Phẩm  ▶ goods, refinement, dignity, article, counter for meal courses",
+                        "  口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "製 Chế  ▶ made in..., manufacture",
+                        "  制 Chế  ▶ system, law, rule",
+                        "      牛 Ngưu  ▶ cow",
+                        "      巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "        牛 Ngưu  ▶ cow",
+                        "    刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "  衣 Y, Ý  ▶ garment, clothes, dressing",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "新 Tân  ▶ new",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical"
+                    ]
+                }
             },
             {
                 "hiragana": "はつばいする",
                 "kanji": "発売する",
                 "vietnamese": "bán ra",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "売 Mại, Xác, Xạc  ▶ sell",
+                        "  士 (土) Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "発 Bát, Phát  ▶ departure, discharge, publish, emit, start from, disclose, counter for gunshots",
+                        "  癶 Bát  ▶ dotted tent radical",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    儿 (八) Nhân  ▶ legs radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しんせいひんをだす",
                 "kanji": "新製品を出す",
                 "vietnamese": "đưa ra sản phẩm mới",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "品 Phẩm  ▶ goods, refinement, dignity, article, counter for meal courses",
+                        "  口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "    口 Khẩu  ▶ mouth",
+                        "製 Chế  ▶ made in..., manufacture",
+                        "  制 Chế  ▶ system, law, rule",
+                        "      牛 Ngưu  ▶ cow",
+                        "      巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "        牛 Ngưu  ▶ cow",
+                        "    刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "  衣 Y, Ý  ▶ garment, clothes, dressing",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "新 Tân  ▶ new",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical"
+                    ]
+                }
             },
             {
                 "hiragana": "めがでる",
                 "kanji": "芽が出る",
                 "vietnamese": "nảy mầm",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "芽 Nha  ▶ bud, sprout, spear, germ",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  牙 Nha  ▶ tusk, fang, tusk radical",
+                        "    亅 Quyết  ▶ feathered stick, barb radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "めをだす",
                 "kanji": "芽を出す",
                 "vietnamese": "gieo mầm",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "芽 Nha  ▶ bud, sprout, spear, germ",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  牙 Nha  ▶ tusk, fang, tusk radical",
+                        "    亅 Quyết  ▶ feathered stick, barb radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ボーナスがでる",
                 "kanji": "ボーナスが出る",
                 "vietnamese": "được thưởng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ボーナスをだす",
                 "kanji": "ボーナスを出す",
                 "vietnamese": "lấy thưởng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ゴキブリがでる",
                 "kanji": "ゴキブリが出る",
                 "vietnamese": "gián xuất hiện",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "あらわれる",
                 "kanji": "現れる",
                 "vietnamese": "xuất hiện",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "現 Hiện  ▶ present, existing, actual",
+                        "  王 (玉) Vương, Vượng  ▶ king, rule, magnate",
+                        "  見 Kiến, Hiện  ▶ see, hopes, chances, idea, opinion, look at, visible",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    儿 Nhân  ▶ legs radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しんぶんになまえがでる",
                 "kanji": "新聞に名前が出る",
                 "vietnamese": "tên xuất hiện trên báo",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "前 Tiền  ▶ in front, before",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    月 Nguyệt  ▶ month, moon",
+                        "    刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "新 Tân  ▶ new",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical",
+                        "名 Danh  ▶ name, noted, distinguished, reputation",
+                        "  夕 Tịch  ▶ evening",
+                        "  口 Khẩu  ▶ mouth",
+                        "聞 Văn, Vấn, Vặn  ▶ hear, ask, listen",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  耳 Nhĩ  ▶ ear"
+                    ]
+                }
             },
             {
                 "hiragana": "のる",
                 "kanji": "載る",
                 "vietnamese": "lên báo",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "載 Tái, Tại, Tải  ▶ ride, board, get on, place, spread, 10**44, record, publish",
+                        "  𢦏   ▶ to cut, wound, hurt",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "      十 Thập  ▶ ten",
+                        "      戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "        弋 Dặc  ▶ piling, ceremony radical",
+                        "  車 Xa  ▶ car",
+                        "  𢦏   ▶ to cut, wound, hurt",
+                        "    戈 Qua  ▶ halberd, arms, festival car, float, tasselled spear radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      弋 Dặc  ▶ piling, ceremony radical",
+                        "        丶 Chủ  ▶ dot, tick or dot radical"
+                    ]
+                }
             },
             {
                 "hiragana": "かどをまがるとえきにでる",
                 "kanji": "角を曲がると駅に",
                 "vietnamese": "rẽ ở góc đường sẽ tới nhà ga",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "角 Giác, Giốc  ▶ angle, corner, square, horn, antlers",
+                        "  𠂊 (勹)",
+                        "曲 Khúc  ▶ bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "  廾 Củng  ▶ twenty, twenty or letter H radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "    日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "  日 (曰) Nhật  ▶ day, sun, Japan, counter for days",
+                        "駅 Dịch  ▶ station",
+                        "  馬 Mã  ▶ horse",
+                        "    灬 (火) Hỏa  ▶ fire, fire radical",
+                        "  尺 Xích  ▶ shaku, Japanese foot, measure, scale, rule",
+                        "    尸 Thi  ▶ corpse, remains, flag radical",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "さいふをとる",
                 "kanji": "財布を取る",
                 "vietnamese": "móc ví, lấy ví",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "財 Tài  ▶ property, money, wealth, assets",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  才 Tài  ▶ genius, years old, cubic shaku",
+                        "    扌 (手) Thủ  ▶ hand, hand radical",
+                        "      亅 Quyết  ▶ feathered stick, barb radical",
+                        "布 Bố  ▶ linen, cloth, spread, distribute",
+                        "  巾 Cân  ▶ towel, hanging scroll, width, cloth radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ぬすむ",
                 "kanji": "盗む",
                 "vietnamese": "trộm cắp",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "盗 Bàn, Đạo  ▶ steal, rob, pilfer",
+                        "  次 Thứ  ▶ next, order, sequence",
+                        "    冫 (二) Băng  ▶ two-stroke water radical or ice radical",
+                        "    欠 Khiếm  ▶ lack, gap, fail, yawning radical",
+                        "  皿 Mãnh  ▶ dish, a helping, plate"
+                    ]
+                }
             },
             {
                 "hiragana": "さいふをとりにもどる",
                 "kanji": "財布を取りに",
                 "vietnamese": "quay lại lấy ví",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "財 Tài  ▶ property, money, wealth, assets",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "  才 Tài  ▶ genius, years old, cubic shaku",
+                        "    扌 (手) Thủ  ▶ hand, hand radical",
+                        "      亅 Quyết  ▶ feathered stick, barb radical",
+                        "布 Bố  ▶ linen, cloth, spread, distribute",
+                        "  巾 Cân  ▶ towel, hanging scroll, width, cloth radical"
+                    ]
+                }
             },
             {
                 "hiragana": "うんてんめんきょをとる",
                 "kanji": "運転免許を取る",
                 "vietnamese": "lấy bằng lái xe",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "許 Hứa, Hử, Hổ  ▶ permit, approve",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  午 Ngọ  ▶ noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac",
+                        "      干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "      十 Thập  ▶ ten",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "転 Chuyển  ▶ revolve, turn around, change",
+                        "  車 Xa  ▶ car",
+                        "  云 Vân  ▶ say",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    厶 Khư  ▶ I, myself, katakana mu radical",
+                        "運 Vận  ▶ carry, luck, destiny, fate, lot, transport, progress, advance",
+                        "  軍 Quân  ▶ army, force, troops, war, battle",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "    車 Xa  ▶ car",
+                        "  ⻌ (辶)",
+                        "免 Miễn, Vấn  ▶ excuse, dismissal",
+                        "    𠂊 (勹)",
+                        "  儿 (八) Nhân  ▶ legs radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "コピーをとる",
                 "kanji": "コピーを取る",
                 "vietnamese": "photo",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "コピーする",
                 "kanji": "コピーする",
                 "vietnamese": "photo",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "しんぶんをとる",
                 "kanji": "新聞を取る",
                 "vietnamese": "đặt mua báo",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "聞 Văn, Vấn, Vặn  ▶ hear, ask, listen",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  耳 Nhĩ  ▶ ear",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "新 Tân  ▶ new",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical"
+                    ]
+                }
             },
             {
                 "hiragana": "すいみんをとる",
                 "kanji": "睡眠を取る",
                 "vietnamese": "ngủ",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "睡 Thụy  ▶ drowsy, sleep, die",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  垂 Thùy  ▶ droop, suspend, hang, slouch",
+                        "    千 Thiên  ▶ thousand",
+                        "      丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      十 Thập  ▶ ten",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "      千 Thiên  ▶ thousand",
+                        "        十 Thập  ▶ ten",
+                        "眠 Miên  ▶ sleep, die, sleepy",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  民 Dân  ▶ people, nation, subjects",
+                        "    氏 Thị, Chi  ▶ family name, surname, clan",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "ねむる",
                 "kanji": "眠る",
                 "vietnamese": "ngủ",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "眠 Miên  ▶ sleep, die, sleepy",
+                        "  目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "  民 Dân  ▶ people, nation, subjects",
+                        "    氏 Thị, Chi  ▶ family name, surname, clan"
+                    ]
+                }
             },
             {
                 "hiragana": "しゅっせきをとる",
                 "kanji": "出席を取る",
                 "vietnamese": "tham dự",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "席 Tịch  ▶ seat, mat, occasion, place",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "れんらくをとる",
                 "kanji": "連絡を取る",
                 "vietnamese": "liên lạc",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "連 Liên  ▶ take along, lead, join, connect, party, gang, clique",
+                        "  車 Xa  ▶ car",
+                        "  ⻌ (辶)",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "絡 Lạc  ▶ entwine, coil around, get caught in",
+                        "  糸 Mịch  ▶ thread",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "れんらくする",
                 "kanji": "連絡する",
                 "vietnamese": "liên lạc",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "連 Liên  ▶ take along, lead, join, connect, party, gang, clique",
+                        "  車 Xa  ▶ car",
+                        "  ⻌ (辶)",
+                        "絡 Lạc  ▶ entwine, coil around, get caught in",
+                        "  糸 Mịch  ▶ thread",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "れんらくがとれる",
                 "kanji": "連絡が取れる",
                 "vietnamese": "có liên lạc",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "連 Liên  ▶ take along, lead, join, connect, party, gang, clique",
+                        "  車 Xa  ▶ car",
+                        "  ⻌ (辶)",
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "絡 Lạc  ▶ entwine, coil around, get caught in",
+                        "  糸 Mịch  ▶ thread",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "いたみをとる",
                 "kanji": "痛みを",
                 "vietnamese": "loại bỏ đau đớn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "痛 Thống  ▶ pain, hurt, damage, bruise",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ"
+                    ]
+                }
             },
             {
                 "hiragana": "いたみがとれる",
                 "kanji": "痛みが",
                 "vietnamese": "hết đau",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "痛 Thống  ▶ pain, hurt, damage, bruise",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  甬 Dũng  ▶ road with walls on both sides",
+                        "    マ",
+                        "    用 Dụng  ▶ utilize, business, service, use, employ"
+                    ]
+                }
             },
             {
                 "hiragana": "ボタンがとれる",
                 "kanji": "ボタンが取れる",
                 "vietnamese": "đứt nút",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "取 Thủ  ▶ take, fetch, take up",
+                        "  耳 Nhĩ  ▶ ear",
+                        "  又 Hựu  ▶ or again, furthermore, on the other hand"
+                    ]
+                }
             },
             {
                 "hiragana": "しんにゅうしゃいんをとる",
                 "kanji": "新入社員を採る",
                 "vietnamese": "tuyển nhân viên mới",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "員 Viên, Vân  ▶ employee, member, number, the one in charge",
+                        "  口 Khẩu  ▶ mouth",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "新 Tân  ▶ new",
+                        "    立 Lập  ▶ stand up, rise, set up, erect",
+                        "      亠 Đầu  ▶ kettle lid radical",
+                        "    木 Mộc  ▶ tree, wood",
+                        "  斤 Cân, Cấn  ▶ axe, 1.32 lb, catty, counter for loaves of bread, axe radical",
+                        "入 Nhập  ▶ enter, insert",
+                        "採 Thải, Thái  ▶ pick, take, fetch, take up",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  采 Thải, Thái  ▶ dice, form, appearance, take, gather, coloring",
+                        "    ⺤ (爪)",
+                        "    木 Mộc  ▶ tree, wood",
+                        "社 Xã  ▶ company, firm, office, association, shrine",
+                        "  礻 (示) Kỳ, Thị, Kì  ▶ cult, showing radical",
+                        "  土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey"
+                    ]
+                }
             },
             {
                 "hiragana": "さいようする",
                 "kanji": "採用する",
                 "vietnamese": "tuyển dụng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "採 Thải, Thái  ▶ pick, take, fetch, take up",
+                        "  扌 (手) Thủ  ▶ hand, hand radical",
+                        "  采 Thải, Thái  ▶ dice, form, appearance, take, gather, coloring",
+                        "    ⺤ (爪)",
+                        "    木 Mộc  ▶ tree, wood",
+                        "用 Dụng  ▶ utilize, business, service, use, employ"
+                    ]
+                }
             },
             {
                 "hiragana": "かぎがかかっている",
                 "kanji": "鍵がかかっている",
                 "vietnamese": "cửa đang khóa",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "鍵 Kiện  ▶ key",
+                        "  金 Kim  ▶ gold",
+                        "  建 Kiến, Kiển  ▶ build",
+                        "    聿 Duật  ▶ brush, finally, self, relate, follow, here, fast, writing brush radical",
+                        "      ⺕ (彑)",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "    廴 Dẫn  ▶ long stride or stretching radical"
+                    ]
+                }
             },
             {
                 "hiragana": "かぎをかける",
                 "kanji": "鍵をかける",
                 "vietnamese": "khóa cửa",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "鍵 Kiện  ▶ key",
+                        "  金 Kim  ▶ gold",
+                        "  建 Kiến, Kiển  ▶ build",
+                        "    聿 Duật  ▶ brush, finally, self, relate, follow, here, fast, writing brush radical",
+                        "      ⺕ (彑)",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "    廴 Dẫn  ▶ long stride or stretching radical"
+                    ]
+                }
             },
             {
                 "hiragana": "びょうきにかかる",
                 "kanji": "病気にかかる",
                 "vietnamese": "bị bệnh",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "病 Bệnh  ▶ ill, sick",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  丙 Bính  ▶ third class, 3rd, 3rd calendar sign",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    内 Nạp, Nội, Nói, Nòi, Nồi, Nỗi, Nụi  ▶ inside, within, between, among, house, home",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      人 Nhân  ▶ person",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "びょうきになる",
                 "kanji": "病気になる",
                 "vietnamese": "bị bệnh",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "病 Bệnh  ▶ ill, sick",
+                        "  疒 Nạch  ▶ trailing sickness, sick radical",
+                        "  丙 Bính  ▶ third class, 3rd, 3rd calendar sign",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    内 Nạp, Nội, Nói, Nòi, Nồi, Nỗi, Nụi  ▶ inside, within, between, among, house, home",
+                        "      冂 Quynh  ▶ upside-down box radical",
+                        "      人 Nhân  ▶ person",
+                        "気 Khí  ▶ spirit, mind, air, atmosphere, mood",
+                        "  气 Khí, Khất  ▶ spirit, steam radical",
+                        "    𠂉",
+                        "  乂 Nghệ  ▶ mow, cut grass, subdue",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical"
+                    ]
+                }
             },
             {
                 "hiragana": "いしゃにかかる",
                 "kanji": "医者にかかる",
                 "vietnamese": "gặp bác sĩ",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "医 Ế, Y, Ỷ, I, Ỉ  ▶ doctor, medicine",
+                        "  匸 Hệ  ▶ hiding enclosure radical",
+                        "  矢 Thỉ  ▶ dart, arrow",
+                        "    天 Thiên  ▶ heavens, sky, imperial",
+                        "      大 Đại, Thái  ▶ large, big",
+                        "  匸 Hệ  ▶ hiding enclosure radical",
+                        "者 Giả  ▶ someone, person",
+                        "  耂 (老)   ▶ variant of radical 125",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days"
+                    ]
+                }
             },
             {
                 "hiragana": "しんさつしてもらう",
                 "kanji": "診察してもらう",
                 "vietnamese": "được khám bệnh",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "診 Chẩn  ▶ checkup, seeing, diagnose, examine",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "    人 Nhân  ▶ person",
+                        "    彡 Sam, Tiệm  ▶ three, hair ornament, short hair or fur radical",
+                        "察 Sát  ▶ guess, presume, surmise, judge, understand",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  祭 Tế, Sái  ▶ ritual, offer prayers, celebrate, deify, enshrine, worship",
+                        "      月 Nguyệt  ▶ month, moon",
+                        "    示 Kì, Thị  ▶ show, indicate, point out, express, display"
+                    ]
+                }
             },
             {
                 "hiragana": "ボタンをかける",
                 "kanji": "ボタンをかける",
                 "vietnamese": "kết nút",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "はずす",
                 "kanji": "外す",
                 "vietnamese": "rớt ra",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "外 Ngoại  ▶ outside",
+                        "  夕 Tịch  ▶ evening",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "CDをかける",
                 "kanji": "CDをかける",
                 "vietnamese": "chạy CD",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": []
+                }
             },
             {
                 "hiragana": "もうふをかける",
                 "kanji": "毛布をかける",
                 "vietnamese": "đắp chăn",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "毛 Mao, Mô  ▶ fur, hair, feather, down",
+                        "布 Bố  ▶ linen, cloth, spread, distribute",
+                        "  巾 Cân  ▶ towel, hanging scroll, width, cloth radical"
+                    ]
+                }
             },
             {
                 "hiragana": "こえをかける",
                 "kanji": "声をかける",
                 "vietnamese": "gọi",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "声 Thanh  ▶ voice",
+                        "  士 (土) Sĩ  ▶ gentleman, scholar, samurai, samurai radical"
+                    ]
+                }
             },
             {
                 "hiragana": "こえがかかる",
                 "kanji": "声がかかる",
                 "vietnamese": "bị gọi",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "声 Thanh  ▶ voice",
+                        "  士 (土) Sĩ  ▶ gentleman, scholar, samurai, samurai radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しんぱいをかける",
                 "kanji": "心配をかける",
                 "vietnamese": "làm ai đó lo lắng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "配 Phối  ▶ distribute, spouse, exile, rationing",
+                        "  酉 Dậu  ▶ west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "  己 Kỷ  ▶ self",
+                        "心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             },
             {
                 "hiragana": "しんぱいさせる",
                 "kanji": "心配させる",
                 "vietnamese": "làm ai đó lo lắng",
-                "info": ""
+                "info": "",
+                "details": {
+                    "pos": "",
+                    "components": [
+                        "配 Phối  ▶ distribute, spouse, exile, rationing",
+                        "  酉 Dậu  ▶ west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "    一 Nhất  ▶ one, one radical",
+                        "    西 (襾) Tây, Tê  ▶ west, Spain",
+                        "  己 Kỷ  ▶ self",
+                        "心 Tâm  ▶ heart, mind, spirit, heart radical"
+                    ]
+                }
             }
         ]
     },
@@ -5396,265 +17156,857 @@ data_vocabulary = [
                 "hiragana": "せきをたつ",
                 "kanji": "席を立つ",
                 "vietnamese": "rời khỏi ghế",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "席 Tịch  ▶ seat, mat, occasion, place",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "    廿 Nhập, Chấp  ▶ twenty",
+                        "      十 Thập  ▶ ten",
+                        "    巾 Cân  ▶ towel, hanging scroll, width, cloth radical",
+                        "立 Lập  ▶ stand up, rise, set up, erect",
+                        "  亠 Đầu  ▶ kettle lid radical"
+                    ]
+                }
             },
             {
                 "hiragana": "すわる",
                 "kanji": "座る",
                 "vietnamese": "ngồi",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "座 Tọa  ▶ squat, seat, cushion, gathering, sit",
+                        "  广 Nghiễm, Yểm  ▶ dotted cliff radical",
+                        "    厂 Hán  ▶ wild goose, trailing cliff radical",
+                        "  坐 Tọa  ▶ sit",
+                        "    从 Tòng  ▶ two people",
+                        "      人 Nhân  ▶ person",
+                        "      人 Nhân  ▶ person",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey"
+                    ]
+                }
             },
             {
                 "hiragana": "じかんがたつ",
                 "kanji": "時間がたつ",
                 "vietnamese": "thời gian trôi qua",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "間 Gian  ▶ interval, space",
+                        "  門 Môn  ▶ gate, counter for cannons",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "時 Thì, Thời  ▶ time, hour",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  寺 Tự  ▶ Buddhist temple",
+                        "    土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    寸 Thốn  ▶ measurement, tenth of a shaku, a little, small"
+                    ]
+                }
             },
             {
                 "hiragana": "うわさがたつ",
                 "kanji": "うわさが立つ",
                 "vietnamese": "lan truyền tin đồn",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "立 Lập  ▶ stand up, rise, set up, erect",
+                        "  亠 Đầu  ▶ kettle lid radical"
+                    ]
+                }
             },
             {
                 "hiragana": "よていをたてる",
                 "kanji": "予定を立てる",
                 "vietnamese": "lập kế hoạch",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "予 Dư, Dữ  ▶ beforehand, previous, myself, I",
+                        "  マ",
+                        "  了 Liễu  ▶ complete, finish",
+                        "    亅 Quyết  ▶ feathered stick, barb radical",
+                        "定 Định, Đính  ▶ determine, fix, establish, decide",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  疋 Sơ, Nhã, Thất  ▶ head, counter for animals",
+                        "    龰",
+                        "      卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "      人 Nhân  ▶ person",
+                        "立 Lập  ▶ stand up, rise, set up, erect",
+                        "  亠 Đầu  ▶ kettle lid radical"
+                    ]
+                }
             },
             {
                 "hiragana": "けいかくする",
                 "kanji": "計画する",
                 "vietnamese": "lập kế hoạch",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "計 Kế, Kê  ▶ plot, plan, scheme, measure",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  十 Thập  ▶ ten",
+                        "画 Hoạch  ▶ brush-stroke, picture",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  由 Do  ▶ wherefore, a reason",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "おとをたてる",
                 "kanji": "音を立てる",
                 "vietnamese": "làm ồn",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "音 Âm  ▶ sound, noise",
+                        "  立 Lập  ▶ stand up, rise, set up, erect",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "立 Lập  ▶ stand up, rise, set up, erect",
+                        "  亠 Đầu  ▶ kettle lid radical"
+                    ]
+                }
             },
             {
                 "hiragana": "おとをだす",
                 "kanji": "音を出す",
                 "vietnamese": "làm ồn",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "音 Âm  ▶ sound, noise",
+                        "  立 Lập  ▶ stand up, rise, set up, erect",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "あめがあがる",
                 "kanji": "雨が上がる",
                 "vietnamese": "tạnh mưa",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "雨 Vũ, Vú  ▶ rain"
+                    ]
+                }
             },
             {
                 "hiragana": "あめがやむ",
                 "kanji": "雨がやむ",
                 "vietnamese": "tạnh mưa",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "雨 Vũ, Vú  ▶ rain"
+                    ]
+                }
             },
             {
                 "hiragana": "どうぞおあがりください",
                 "kanji": "どうぞお上がりください",
                 "vietnamese": "xin mời vào",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ふろからあがる",
                 "kanji": "風呂から上がる",
                 "vietnamese": "bước ra khỏi bồn tắm",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "呂 Lữ, Lã  ▶ spine, backbone",
+                        "  口 Khẩu  ▶ mouth",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "風 Phong  ▶ wind, air, style, manner",
+                        "  几 Kỷ  ▶ table, table enclosure, table or windy radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    虫 Trùng  ▶ insect, bug, temper",
+                        "      中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "        口 Khẩu  ▶ mouth",
+                        "        丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ふろからでる",
                 "kanji": "風呂から出る",
                 "vietnamese": "bước ra khỏi bồn tắm",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "呂 Lữ, Lã  ▶ spine, backbone",
+                        "  口 Khẩu  ▶ mouth",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    口 Khẩu  ▶ mouth",
+                        "風 Phong  ▶ wind, air, style, manner",
+                        "  几 Kỷ  ▶ table, table enclosure, table or windy radical",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    虫 Trùng  ▶ insect, bug, temper",
+                        "      中 Trung, Trúng  ▶ in, inside, middle, mean, center",
+                        "        口 Khẩu  ▶ mouth",
+                        "        丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "出 Xuất, Xúy  ▶ exit, leave, go out, come out, put out, protrude",
+                        "  山 San, Sơn  ▶ mountain",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  凵 Khảm  ▶ open box enclosure, open box radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ぶっかがあがる",
                 "kanji": "物価が上がる",
                 "vietnamese": "giá tăng",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "価 Giá, Giới  ▶ value, price",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  覀 (襾)   ▶ variant of radical 146"
+                    ]
+                }
             },
             {
                 "hiragana": "こうかがあがる",
                 "kanji": "効果が上がる",
                 "vietnamese": "hiệu quả tăng",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "効 Hiệu  ▶ merit, efficacy, efficiency, benefit",
+                        "  交 Giao  ▶ mingle, mixing, association, coming & going",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    父 Phụ, Phủ  ▶ father",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "果 Quả  ▶ fruit, reward, carry out, achieve, complete, end, finish, succeed",
+                        "  田 Điền  ▶ rice field, rice paddy",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "こうかをあげる",
                 "kanji": "効果を上げる",
                 "vietnamese": "tăng hiệu quả",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "効 Hiệu  ▶ merit, efficacy, efficiency, benefit",
+                        "  交 Giao  ▶ mingle, mixing, association, coming & going",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "    父 Phụ, Phủ  ▶ father",
+                        "  力 Lực  ▶ power, strength, strong, strain, bear up, exert",
+                        "上 Thượng, Thướng  ▶ above, up",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical",
+                        "  一 Nhất  ▶ one, one radical",
+                        "果 Quả  ▶ fruit, reward, carry out, achieve, complete, end, finish, succeed",
+                        "  田 Điền  ▶ rice field, rice paddy",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  木 Mộc  ▶ tree, wood",
+                        "    田 Điền  ▶ rice field, rice paddy",
+                        "      丨 Cổn, Thụ  ▶ number one, line, rod radical"
+                    ]
+                }
             },
             {
                 "hiragana": "はじめてのスピーチであがる",
                 "kanji": "初めてのスピーチであがる",
                 "vietnamese": "lo lắng vì phát biểu lần đầu",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "初 Sơ  ▶ first time, beginning",
+                        "  衤 (衣) Y, Ý, I, Í  ▶ clothes, clothing radical (no. 145",
+                        "  刀 Đao  ▶ sword, saber, knife"
+                    ]
+                }
             },
             {
                 "hiragana": "きんちょうする",
                 "kanji": "緊張する",
                 "vietnamese": "căng thẳng",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "緊 Khẩn  ▶ tense, solid, hard, reliable, tight",
+                        "    臣 Thần  ▶ retainer, subject",
+                        "    又 Hựu  ▶ or again, furthermore, on the other hand",
+                        "  糸 Mịch  ▶ thread",
+                        "張 Trương, Trướng  ▶ counter for bows & stringed instruments, stretch, spread, put up (tent)",
+                        "  弓 Cung  ▶ bow, bow (archery, violin)",
+                        "  長 Trường, Trưởng, Trướng  ▶ long, leader, superior, senior"
+                    ]
+                }
             },
             {
                 "hiragana": "れいをあげる",
                 "kanji": "例をあげる",
                 "vietnamese": "cho ví dụ",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "例 Lệ  ▶ example, custom, usage, precedent",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  列 Liệt  ▶ file, row, rank, tier, column",
+                        "    歹 Ngạt, Đãi  ▶ bare bone, bad, wrong, death radical (n. 78)",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      夕 Tịch  ▶ evening",
+                        "    刂 (刀) Đao  ▶ knife, standing sword radical"
+                    ]
+                }
             },
             {
                 "hiragana": "れいをならべる",
                 "kanji": "例を並べる",
                 "vietnamese": "cho ví dụ",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "例 Lệ  ▶ example, custom, usage, precedent",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  列 Liệt  ▶ file, row, rank, tier, column",
+                        "    歹 Ngạt, Đãi  ▶ bare bone, bad, wrong, death radical (n. 78)",
+                        "      一 Nhất  ▶ one, one radical",
+                        "      夕 Tịch  ▶ evening",
+                        "    刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "並 Tịnh  ▶ row, and, besides, as well as, line up, rank with, rival, equal",
+                        "    八 Bát  ▶ eight, eight radical",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  业"
+                    ]
+                }
             },
             {
                 "hiragana": "けっこんしきをあげる",
                 "kanji": "結婚式をあげる",
                 "vietnamese": "tổ chức hôn lễ",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "式 Thức  ▶ style, ceremony, rite, function, method, system, form, expression",
+                        "  弋 Dặc  ▶ piling, ceremony radical",
+                        "  工 Công  ▶ craft, construction, katakana e radical",
+                        "  弋 Dặc  ▶ piling, ceremony radical",
+                        "    丶 Chủ  ▶ dot, tick or dot radical",
+                        "婚 Hôn  ▶ marriage",
+                        "  女 Nữ, Nứ, Nhữ  ▶ woman, female",
+                        "  昏 Hôn  ▶ dark, evening, dusk",
+                        "    氏 Thị, Chi  ▶ family name, surname, clan",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "結 Kết  ▶ tie, bind, contract, join, organize, do up hair, fasten",
+                        "  糸 Mịch  ▶ thread",
+                        "  吉 Cát  ▶ good luck, joy, congratulations",
+                        "    士 Sĩ  ▶ gentleman, scholar, samurai, samurai radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "ねつがさがる",
                 "kanji": "熱が下がる",
                 "vietnamese": "hạ sốt",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "熱 Nhiệt  ▶ heat, temperature, fever, mania, passion",
+                        "  埶 Nghệ, Thế, Đệm  ▶ art",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "      儿 (八) Nhân  ▶ legs radical",
+                        "        丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    丸 Hoàn  ▶ round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away",
+                        "      九 Cửu, Cưu  ▶ nine",
+                        "        乙 Ất  ▶ the latter, duplicate, strange, witty, fishhook radical",
+                        "      丶 Chủ  ▶ dot, tick or dot radical",
+                        "  灬 (火) Hỏa  ▶ fire, fire radical",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "きいろいせんのうちがわまでさがる",
                 "kanji": "黄色い線の内側まで",
                 "vietnamese": "lùi vào bên trong đường màu vàng",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "色 Sắc  ▶ color",
+                        "  𠂊 (勹)",
+                        "  巴 Ba  ▶ comma-design",
+                        "    己 (巳) Kỷ  ▶ self",
+                        "内 Nạp, Nội, Nói, Nòi, Nồi, Nỗi, Nụi  ▶ inside, within, between, among, house, home",
+                        "  冂 Quynh  ▶ upside-down box radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  人 Nhân  ▶ person",
+                        "側 Trắc  ▶ side, lean, oppose, regret",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  則 Tắc  ▶ rule, law, follow, based on, model after",
+                        "    貝 Bối  ▶ shellfish",
+                        "      目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "      八 Bát  ▶ eight, eight radical",
+                        "    刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "線 Tuyến  ▶ line, track",
+                        "  糸 Mịch  ▶ thread",
+                        "  泉 Tuyền, Toàn  ▶ spring, fountain",
+                        "    白 Bạch  ▶ white",
+                        "      日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "    水 Thủy  ▶ water",
+                        "黄 Hoàng  ▶ yellow",
+                        "  龷",
+                        "  由 Do  ▶ wherefore, a reason",
+                        "  八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ひょうばんがさがる",
                 "kanji": "評判が下がる",
                 "vietnamese": "bị đánh giá kém",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "判 Phán  ▶ judgement, judgment, signature, stamp, seal",
+                        "  半 Bán  ▶ half, middle, odd number, semi-, part-",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    十 Thập  ▶ ten",
+                        "      二 Nhị  ▶ two, two radical",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "評 Bình  ▶ evaluate, criticism, comment",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  平 Bình, Biền  ▶ even, flat, peace",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "      十 Thập  ▶ ten",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "ひょうばんがおちる",
                 "kanji": "評判が落ちる",
                 "vietnamese": "bị đánh giá kém",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "判 Phán  ▶ judgement, judgment, signature, stamp, seal",
+                        "  半 Bán  ▶ half, middle, odd number, semi-, part-",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    十 Thập  ▶ ten",
+                        "      二 Nhị  ▶ two, two radical",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "落 Lạc  ▶ fall, drop, come down, village, hamlet",
+                        "  艹 (艸)   ▶ grass, radical number 140",
+                        "  洛 Lạc  ▶ Kyoto, the capital",
+                        "    氵 (水) Thủy  ▶ water, water radical",
+                        "    各 Các  ▶ each, every, either",
+                        "      夂 Tri  ▶ late, delayed, winter radical",
+                        "      口 Khẩu  ▶ mouth",
+                        "評 Bình  ▶ evaluate, criticism, comment",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  平 Bình, Biền  ▶ even, flat, peace",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "      十 Thập  ▶ ten"
+                    ]
+                }
             },
             {
                 "hiragana": "ひょうばんをさげる",
                 "kanji": "評判を下げる",
                 "vietnamese": "làm mất uy tín (đánh giá)",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "判 Phán  ▶ judgement, judgment, signature, stamp, seal",
+                        "  半 Bán  ▶ half, middle, odd number, semi-, part-",
+                        "    二 Nhị  ▶ two, two radical",
+                        "    十 Thập  ▶ ten",
+                        "      二 Nhị  ▶ two, two radical",
+                        "  刂 (刀) Đao  ▶ knife, standing sword radical",
+                        "評 Bình  ▶ evaluate, criticism, comment",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  平 Bình, Biền  ▶ even, flat, peace",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "    干 Can  ▶ dry, parch, ebb, recede, interfere, intercede",
+                        "      十 Thập  ▶ ten",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "カーテンがさがる",
                 "kanji": "カーテンが下がる",
                 "vietnamese": "màn được treo",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "カーテンをさげる",
                 "kanji": "カーテンを下げる",
                 "vietnamese": "treo màn",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "かいものかごをさげる",
                 "kanji": "買い物かごを",
                 "vietnamese": "mang giỏ đi mua sắm (siêu thị)",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "物 Vật  ▶ thing, object, matter",
+                        "  牛 Ngưu  ▶ cow",
+                        "  勿 Vật  ▶ not, must not, do not, be not",
+                        "    勹 Bao  ▶ wrapping enclosure, wrapping radical",
+                        "買 Mãi  ▶ buy",
+                        "  罒 (网) Võng  ▶ net radical variant",
+                        "  貝 Bối  ▶ shellfish",
+                        "    目 Mục  ▶ eye, class, look, insight, experience, care, favor",
+                        "    八 Bát  ▶ eight, eight radical"
+                    ]
+                }
             },
             {
                 "hiragana": "いちじさげてかく",
                 "kanji": "一字下げて",
                 "vietnamese": "viết cách một kí tự",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "字 Tự  ▶ character, letter, word, section of village",
+                        "  宀 Miên  ▶ shaped crown, katakana u radical",
+                        "    冖 Mịch  ▶ wa-shaped crown radical",
+                        "  子 Tử, Tý  ▶ child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                        "一 Nhất  ▶ one, one radical",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "テレビのおとをさげる",
                 "kanji": "テレビの音を下げる",
                 "vietnamese": "vặn nhỏ tiếng tivi",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "音 Âm  ▶ sound, noise",
+                        "  立 Lập  ▶ stand up, rise, set up, erect",
+                        "    亠 Đầu  ▶ kettle lid radical",
+                        "  日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "下 Hạ, Há  ▶ below, down, descend, give, low, inferior",
+                        "  一 Nhất  ▶ one, one radical",
+                        "  卜 Bốc  ▶ divining, fortune-telling, divination or katakana to radical"
+                    ]
+                }
             },
             {
                 "hiragana": "どろがつく",
                 "kanji": "泥がつく",
                 "vietnamese": "dính bùn",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "泥 Nê, Nệ, Nễ  ▶ mud, mire, adhere to, be attached to",
+                        "  氵 (水) Thủy  ▶ water, water radical",
+                        "  尼 Ni, Nệ, Nặc, Nật  ▶ nun",
+                        "    尸 Thi  ▶ corpse, remains, flag radical",
+                        "    匕 Chủy  ▶ spoon, spoon or katakana hi radical"
+                    ]
+                }
             },
             {
                 "hiragana": "きずがつく",
                 "kanji": "傷がつく",
                 "vietnamese": "bị tổn thương",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "傷 Thương  ▶ wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  𬀷",
+                        "    𠂉",
+                        "    昜 Dương  ▶ open, sun",
+                        "      旦 Đán  ▶ daybreak, dawn, morning",
+                        "        日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "        一 Nhất  ▶ one, one radical",
+                        "      勿 Vật  ▶ not, must not, do not, be not",
+                        "        勹 Bao  ▶ wrapping enclosure, wrapping radical"
+                    ]
+                }
             },
             {
                 "hiragana": "きずをつける",
                 "kanji": "傷をつける",
                 "vietnamese": "gây tổn thương",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "傷 Thương  ▶ wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point",
+                        "  亻 (人)   ▶ radical number 9",
+                        "  𬀷",
+                        "    𠂉",
+                        "    昜 Dương  ▶ open, sun",
+                        "      旦 Đán  ▶ daybreak, dawn, morning",
+                        "        日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "        一 Nhất  ▶ one, one radical",
+                        "      勿 Vật  ▶ not, must not, do not, be not",
+                        "        勹 Bao  ▶ wrapping enclosure, wrapping radical"
+                    ]
+                }
             },
             {
                 "hiragana": "れんらくがつく",
                 "kanji": "連絡がつく",
                 "vietnamese": "liên lạc",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "連 Liên  ▶ take along, lead, join, connect, party, gang, clique",
+                        "  車 Xa  ▶ car",
+                        "  ⻌ (辶)",
+                        "絡 Lạc  ▶ entwine, coil around, get caught in",
+                        "  糸 Mịch  ▶ thread",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "れんらくをつける",
                 "kanji": "連絡をつける",
                 "vietnamese": "giữ liên lạc",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "連 Liên  ▶ take along, lead, join, connect, party, gang, clique",
+                        "  車 Xa  ▶ car",
+                        "  ⻌ (辶)",
+                        "絡 Lạc  ▶ entwine, coil around, get caught in",
+                        "  糸 Mịch  ▶ thread",
+                        "  各 Các  ▶ each, every, either",
+                        "    夂 Tri  ▶ late, delayed, winter radical",
+                        "    口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "つごうがつく",
                 "kanji": "都合がつく",
                 "vietnamese": "sắp xếp cuộc hẹn",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "都 Đô  ▶ metropolis, capital, all, everything",
+                        "  者 Giả  ▶ someone, person",
+                        "    耂 (老)   ▶ variant of radical 125",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  ⻏ (邑)",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "つごうをつける",
                 "kanji": "都合をつける",
                 "vietnamese": "sắp xếp cuộc hẹn",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "都 Đô  ▶ metropolis, capital, all, everything",
+                        "  者 Giả  ▶ someone, person",
+                        "    耂 (老)   ▶ variant of radical 125",
+                        "      土 Thổ, Độ, Đỗ  ▶ soil, earth, ground, Turkey",
+                        "    日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "  ⻏ (邑)",
+                        "合 Hợp, Cáp  ▶ fit, suit, join, 0.1",
+                        "    人 Nhân  ▶ person",
+                        "    一 Nhất  ▶ one, one radical",
+                        "  口 Khẩu  ▶ mouth"
+                    ]
+                }
             },
             {
                 "hiragana": "おまけがつく",
                 "kanji": "おまけがつく",
                 "vietnamese": "được tặng thêm",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": []
+                }
             },
             {
                 "hiragana": "おまけをつける",
                 "kanji": "おまけをつける",
                 "vietnamese": "tặng thêm hàng khuyến mãi",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": []
+                }
             },
             {
                 "hiragana": "しるしをつける",
                 "kanji": "印をつける",
                 "vietnamese": "đánh dấu",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "印 Ấn  ▶ stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+                        "    丿 Phiệt, Triệt  ▶ katakana no radical",
+                        "    丨 Cổn, Thụ  ▶ number one, line, rod radical",
+                        "  卩 Tiết  ▶ seal radical"
+                    ]
+                }
             },
             {
                 "hiragana": "たばこにひをつける",
                 "kanji": "たばこに火をつける",
                 "vietnamese": "châm thuốc",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "火 Hỏa  ▶ fire"
+                    ]
+                }
             },
             {
                 "hiragana": "ひがつく",
                 "kanji": "火がつく",
                 "vietnamese": "bắt lửa",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "火 Hỏa  ▶ fire"
+                    ]
+                }
             },
             {
                 "hiragana": "にっきをつける",
                 "kanji": "日記をつける",
                 "vietnamese": "viết nhật ký",
-                "info": "v"
+                "info": "",
+                "details": {
+                    "pos": "v",
+                    "components": [
+                        "日 Nhật  ▶ day, sun, Japan, counter for days",
+                        "記 Kí  ▶ scribe, account, narrative",
+                        "  言 Ngôn, Ngân  ▶ say, word",
+                        "    口 Khẩu  ▶ mouth",
+                        "  己 Kỷ  ▶ self"
+                    ]
+                }
             }
         ]
     }
